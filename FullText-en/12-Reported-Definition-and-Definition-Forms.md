@@ -1,4 +1,4 @@
-## CHAPTER 12 Reported Definition and Definition Forms
+# CHAPTER 12 Reported Definition and Definition Forms
 
 In the jury room, the phrase *proven beyond a reasonable doubt* caused great difficulty. In trying to decide whether Arlene was justified in using the force she used, we were concerned with whether Al had hit her and threatened to kill her, as she had claimed. She had been examined the night of the killing and no bruises were found on her. Other evidence was presented to show that she had not been beaten. Furthermore Arlene's little brother reported that he only heard Al say, "Arlene, I want to talk to you." The prosecutor held that she was not justified in using the force she used. But had the state *proven this beyond a reasonable doubt*? Might Al actually have hit her and threatened to kill her?
 
@@ -15,7 +15,7 @@ This chapter and the next are concerned with definition. The C of FRISCO will th
 
 We shall begin with a look at one very common kind of thing people try to do under the label *definition*: Report meanings that are in accord with usage. It is what I was trying to do with *proven beyond a reasonable doubt*.
 
-### Reported Definition
+## Reported Definition
 
 A *reported definition* is an attempt to give the meaning of a word as the word was or is used. Usually (as in dictionaries), the attempt is to give standard usage of a term or phrase. That is, the attempt is to give the meaning of the word as the word is conventionally used. I tried to do this with the phrase *proven beyond a reasonable doubt*. A reported definition is then a factual statement. It can be correct, incorrect, or "roughly speaking" correct, etc. My reported definition of *proven beyond a reasonable doubt* was, roughly speaking, correct; it was sufficiently correct to get the discussion moving again without confusing anybody in that context.
 
@@ -27,7 +27,7 @@ Sometimes a reported definition is not of standard usage, but only a report of h
 
 Roughly speaking, a reported definition is satisfactory to the extent that it reflects the usage it is intended to reflect, given the situation, assuming that it is put in a way that the audience can understand it. My definitions of *proven beyond a reasonable doubt* and *hearsay* were satisfactory to the extent that they reflected standard legal usage for those phrases and were put in a way that the jurors understood. The juror's definition of *moderate stroke* was adequate if it adequately reflected the pathologist's usage of the term *moderate stroke* and was understandable.
 
-#### Testing a Reported Definition
+### Testing a Reported Definition
 
 To test a reported definition that is intended to reflect standard usage, it is often a good idea to try to think of various examples that come under the term being defined. Then see whether they come under the other part of the definition, and vice versa. For example, consider this reported definition of *pencil*:
 
@@ -57,7 +57,7 @@ Although Example 12:3 is easier to understand (and thus might be better to use f
 
 The figure in Diagram 12:1 is not a triangle, although according to Example 12:3, it would be a triangle. Therefore, this figure is a counterexample to Example 12:3. Example 12:2, although more difficult to understand, is less vulnerable to counterexamples. It is a more accurate report of the standard usage of the word *triangle*.
 
-#### Using Circles to Exhibit Defects and Success in a Definition
+### Using Circles to Exhibit Defects and Success in a Definition
 
 Sometimes it helps to draw circles to exhibit the relationship between the two parts of a reported definition. In Example 12:3, the word *triangle* is the term being defined; the phrase *three-sided figure* is the defining part. Note that I have omitted the word *is*, which works like an equals sign (=) in an ideal definition.
 
@@ -128,13 +128,13 @@ Diagram 12:7 represents the ideal in reported definitions of terms in their stan
 
 [^1]: A definition in Black's Law Dictionary, 6th Edition (Minneapolis: West Publications, 1991), goes roughly as follows: To prove something bevond a reasonable doubt means to establish it by virtue of the pro bative force of the facts. It has never been fully clear to me why the judge did not offer us this or some similar definition, but possibly he felt that the words probative force would mystify us. In content, I feel that my definition, as amended, amounts to about the same as that in this dictionary. What do you think?
 
-#### Reported Definitions as Best-Explanation Hypotheses
+### Reported Definitions as Best-Explanation Hypotheses
 
 As I indicated earlier, one of the jurors appeared to use *proof beyond a reasonable doubt* in its deductive sense. My belief to this effect was a best-explanation hypothesis, as are most reported definitions. The definition best explains the things that people (or in this case, the person) say and do. In this case, some of the things explained were the juror's answers to several questions I asked him about whether certain things are proven beyond a reasonable doubt. For example, I asked him whether the prosecutor had proven beyond a reasonable doubt that Arlene had killed Al, and whether it had been proven beyond a reasonable doubt that the moon causes tides. He responded negatively to both questions. He justified his response by noting that it was logically possible for the reasons to be true, but the conclusion false. My hypothesis that he was using the term in the deductive sense explained why he answered in the way that he did. There was more evidence, but that should be enough for you to see the reasoning pattern here. Formulating reported definitions is a creative/critical activity that employs the criteria for best-explanation hypotheses.
 
 It was important in this situation for us to realize that this juror was using a different definition of proof from the one that we and the court (even though the judge refused to state the definition) were presuming. Then we were able to point this out to him and say that in using his definition, he was not responding to the murder criteria as they were intended.
 
-## Defining Terms Any Way We Please
+### Defining Terms Any Way We Please
 
 There is a common view that you may define a term any way that you please, as long as you let your audience know the meaning. An extreme form of this view is expressed by Humpty Dumpty in Lewis Carroll's *Through the Looking Glass*:
 
@@ -144,7 +144,7 @@ There is a germ of truth in this slogan: Every word could actually have meant so
 
 This freedom-of-definition view is much more appropriate for a type of definitional act that we shall be considering in the next chapter: arbitrarily stipulating a meaning for a term.
 
-## Summary
+### Summary
 
 A reported definition is the most common type of definition. Most of the time, when we are puzzled about a word, we merely need to know how it is used. Reported definitions are supposed to provide us with this sort of information. For reports of standard usage, this is something that is often imprecise. We usually cannot expect perfection. But for purposes of communication, knowing roughly how a word is used in our society at this time is very important. Otherwise there is no basis for expecting to understand each other. Furthermore, for purposes of communication and understanding, knowing how a particular person is using a word and how a word is used in some other societies or groups are both very helpful. We use reported definitions to convey this information.
 
@@ -153,7 +153,7 @@ Because reported definitions are information, it is false that you can define a 
 Circles can be helpful in exhibiting defects (or success) in reported definitions that attempt to reflect standard usage.
 
 
-#### Check-Up 12A
+## Check-Up 12A
 
 **True or False?**
 
@@ -203,7 +203,7 @@ i. Testing the conclusion with further experiments
 
 **12:13** Formulate a reported definition that is intended to reflect the standard usage of a term you use in your everyday life. Try to do it in such a way that there are no counterexamples. Be prepared to offer it to others for their scrutiny.
 
-### The Classification Definition Form
+## The Classification Definition Form
 
 So far, you have been considering one type of activity that goes under the label *definition*: reported definition. Next, you will examine one form in which definitions, including reported definitions, can be formulated: the classification definition form. Reported definition and classification definition are not mutually exclusive categories. Rather, they exemplify two different dimensions of definition: type of activity and form.
 
@@ -238,7 +238,7 @@ In these examples, the words *implement, figure, vehicle, proof,* and *testimony
 
 The rest of the defining part of a classification definition is supposed to distinguish what is being defined from the other members of the class. In Example 12:1, the words *writing* and *containing graphite* distinguish pencils from other implements. The word *writing* excludes various other kinds of implements, such as farm implements and tools; the words *containing graphite* distinguish pencils from other writing implements, such as pens. The word *is* roughly means the same as *equals* (=) and asserts that the term being defined is equal to the defining part (which in turn consists of the general class term and the terms for the distinguishing features).
 
-#### Rules for Classification Definition
+### Rules for Classification Definition
 
 Thus, two basic rules for classification definition are these:
 
@@ -251,7 +251,7 @@ If the general class term and distinguishing features are well-chosen, then the 
 
 Rule 3 is the one we were testing with circles earlier in this chapter. If Rule 3 is satisfied, then a circle diagram consists of coextensive circles (the same circle for both the term being defined and the defining part).
 
-##### Negatives
+#### Negatives
 
 Although sometimes unavoidable, it is usually a mistake to include a negative in a definition. The reason is that negatives usually do not exclude enough. For example, suppose I define pencil as follows:
 
@@ -264,7 +264,7 @@ The negative phrase *not a pen* fails to rule out some writing implements that a
 4. Definitions usually should not include negatives.
    The reason for the *usually* is that some terms express negative ideas and need a negative of some sort in the definition. An example is the term *bachelor*. A crucial feature of being a bachelor is not being married. The definition of *bachelor* needs a negative (such as *not*) in it. Can you think of any other negative concept?
 
-##### Circularity
+#### Circularity
 
 A *circular definition* is one that makes no progress, generally because it uses the term being defined (or something like it) to do the defining. A fifth rule is the noncircularity rule:
 
@@ -278,12 +278,12 @@ The rule is probably violated in Example 12:8:
 
 If *Marxist* is then defined as a person whose ideology is Marxism, Example 12:8 seems circular and in violation of Rule 5. If, instead, we know what Marxists believe, but are not sure whether their doctrine is called Marxism, then the definition is not circular. Furthermore, the word *ideology* adds something to the definition in some situations. To many people, an ideology is a doctrine that is held unthinkingly to some extent. If the point of the definition is make this claim about Marxists, then the definition is not circular. (It would then not be a reported definition, but rather a positional definition, a type to be discussed in the next chapter.) Many Marxists object to having their views labeled *ideology*, although they often claim that the views of their opponents are ideology. So, to include Marxism in the general class *ideology* is in some situations to say something about the crucial issue. The situation and assumptions are therefore important in making a decision about whether a definition is circular. Circularity is relative to the situation and assumptions (coming under the *S* and *I* of *FRISCO*).
 
-#### Summary
+### Summary
 
 The classification form of definition is the most popular form of definition. It is brief, precise, and usually convenient. A classification definition is a definition consisting of a general class and distinguishing features (Rules 1 and 2). The term being defined and the defining part are supposed to be equivalent, neither one broader nor narrower than the other (Rule 3). Generally, negatives should be avoided in classification definitions (Rule 4). The use of the term being defined (or terms like it) should be avoided, unless the repetition does not interfere with the purpose of the definition in the situation (*S*) in which it occurs (Rule 5).
 
 
-##### Check-Up 12B
+## Check-Up 12B
 
 **True or False?**
 
@@ -325,13 +325,13 @@ Make reported classification definitions of each of the terms suggested in Items
 12:34 Choose your own term and situation. Describe the situation for which you think your classification definition is appropriate, and identify the term clearly.
 12:35 Define *validity* for a close friend. Describe the features of your friend's background that make your definition at an appropriate level of sophistication for your friend.
 
-### Some Alternatives to Classification Definition
+## Some Alternatives to Classification Definition
 
 You might have had some difficulty defining *validity* in Check-Up 12:35 because it is not easy to find a general class term that includes validity. Problems also arise for other sorts of terms. Classification definition cannot directly be used for adjectives and other parts of speech that are not nouns. Furthermore, classification definition gives an appearance of precision that is sometimes unwarranted. That is, some terms are more vague than a classification definition would make them appear.
 
 Consider how you might define the following terms: *proof*, *parallel*, *if*, and *scientific method*. None is readily amenable to classification definition.
 
-#### Equivalent-Expression Definition
+### Equivalent-Expression Definition
 
 The difficulty I experience in trying to define the words *proof* and *validity* is in finding a general class. When you have difficulty finding a general class, one useful strategy is to develop an equivalent-expression definition. My original and amended definitions of *proven beyond a reasonable doubt* are of this type. The amended one goes as follows:
 
@@ -417,7 +417,7 @@ The approach to choose depends on the individual term to be defined and the situ
 
 Strictly speaking, the standard equivalent-expression form has the limitation of defining a term only as it appears in the given expression. But this form is still very useful for many situations. I often use it when I need a definition quickly, and also use it to avoid awkwardness and other problems.
 
-#### Range Definition
+### Range Definition
 
 For some terms, the precision of a classification definition is inappropriate. Check-Up 12:11 presents a precise classification definition of *scientific method*, but the precision is misplaced because the concept has vague boundaries. As a reminder, here is the definition that was presented:
 
@@ -471,11 +471,11 @@ In this definition, the key words indicating imprecise boundaries are *character
 
 Example 12:22 does more justice to my concept of democracy than Example 12:21, partly because Example 12:22 is in the range form. My concept of democracy is somewhat vague in boundaries. For example, I do not insist in all cases that all lawmakers be selected by the governed, but by and large expect this. In this case, the level of sophistication of the discussion is a crucial part of the situation. Thus, the situation (S) again plays a role in deciding what sort of definition to use.
 
-#### Other Forms of Definition
+### Other Forms of Definition
 
 The equivalent-expression definitions, range forms of definition, and combinations thereof are the most useful ways to convey at least most of the meaning of a term for most situations. Some other ways of conveying meaning are giving a synonym, using a term in a situation, giving examples and negative examples, and operationally defining a term. Because operational definition is seldom useful for most people, I shall neglect it here. If you are interested, I refer you to an article I wrote on operational definition.[^3]
 
-##### Synonyms
+#### Synonyms
 
 Giving a synonym is very common, as in Example 12:23.
 
@@ -485,7 +485,7 @@ Giving a synonym is very common, as in Example 12:23.
 
 Although usually not absolutely identical in meaning, synonyms can be very helpful because they are so quick and convenient.
 
-##### Examples and Negative Examples
+#### Examples and Negative Examples
 
 In many circumstances, giving an example and a negative example is a very useful way to convey the meaning of a term. (A *negative example* is a case that is not an example.) Often it helps to give examples and negative examples in conjunction with classification, equivalent-expression, or range definition, but sometimes an example or a negative example by itself will do the job.
 
@@ -505,11 +505,11 @@ Hamlet's use of the phrase *slings and arrows* in his comment about the *slings 
 
 When someone uses a word or a definition you do not understand, sometimes all you need is an example. Asking for examples is a good habit to have. Asking for negative examples is also a good habit, though one that is much less common. A negative example helps tell you where the person is drawing the line.
 
-##### Using a Word in a Situation
+#### Using a Word in a Situation
 
 Although using a word in a situation is sometimes useful for teaching someone, it is often not useful because you usually want to tell someone what you mean by a word you are using or have used in the situation. Using it was not enough. In the beginning of this book, it would not have been enough for me to have let you figure out what I meant by *argument*. It was much better for me to tell you. Using it in the situation was not enough.
 
-#### Summary
+### Summary
 
 Although the classification form of definition is understandably the most common form of definition, other forms are better for certain circumstances. The equivalent-expression definition is one of my favorites because it is so easy to formulate and understand. It does not require a search for a sometimes awkward-appearing general class term, it gives the meaning in a context, and it is readily usable with words that are not nouns.
 
@@ -519,7 +519,7 @@ Examples and nonexamples help bring abstract concepts down to earth and to mark 
 
 Any attempt to formulate a definition requires close attention to the situation.
 
-### Using Definitions in Your Writing
+## Using Definitions in Your Writing
 
 It generally helps others to grasp your meaning in a position paper if you define your terms. Often, the classification form is the one to use, but do not neglect the other forms, especially for abstract terms and terms that are not nouns. The range form is helpful when the term's boundaries in the context are not precise and you want to avoid needless quibbling about a term. However, challenges to a definition are often not just quibbling, especially when the definitions embody a point of view (making them positional definitions, not simple reported definitions). Positional definitions are discussed in the next chapter.
 
@@ -527,7 +527,7 @@ In any case, you now have a set of forms from which to draw in explaining to oth
 
 In the next chapter, you will see some of the roles definitions can play in controversial aspects of your writing and discussion. In the current chapter, the emphasis is on effective communication.
 
-#### Check-Up 12C
+## Check-Up 12C
 
 **True or False?**
 
@@ -596,7 +596,7 @@ B. Were you unable to make a definition using any of the forms? If so, try to ex
 
 C. Which of the resulting definitions best suits your circumstances? Why?
 
-##### Suggested Answers for Chapter 12
+## Suggested Answers for Chapter 12
 
 **Check-Up 12A**
 
@@ -663,7 +663,7 @@ C. Which of the resulting definitions best suits your circumstances? Why?
 
 12:35 *Validity* is the quality of having the conclusion follow from the evidence. This is a stilted definition, I admit, but my friend is quite literate and good with language.
 
-#### Check-Up 12C（需要修改：应是6级标题或正文加粗）
+### Check-Up 12C
 
 12:36 F 12:37 T 12:38 F 12:39 T 12:40 T
 

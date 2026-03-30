@@ -1,4 +1,4 @@
-## Preface
+# Preface
 
 Critical thinking is a process, the goal of which is to make reasonable decisions about what to believe and what to do. Because we all are continually making such decisions, critical thinking is important to us in personal and vocational, as well as civic, aspects of our lives. Some of these decisions are about whether to believe someone else, or to act in accord with that person's recommendations. For example, an editorial in a newspaper urges that a particular candidate is the best choice for the presidency, and that we should vote for that candidate. We have a decision to make. A friend informs us that taking vitamin E and potassium is an effective way to prevent muscle cramps in the legs. Is the friend right? An author alleges that the Soviet Union was seeking world domination in the period 1945–1990. Is this author correct?
 
@@ -20,27 +20,27 @@ After an introductory chapter, which sets the scene, this book deals with argume
 The sections dealing with *either-or* reasoning, types of assumptions, causation, relativism, and equivocation (the latter parts of Chapters 6, 7, 9, 11, and 13) are somewhat more difficult than the other materials. They are marked with a plus sign (+). If time is short, these parts might be omitted, although depth of treatment of critical thinking abilities and principles will consequently be reduced.
 At the end of the book, there is a glossary of key terms in critical thinking. Many of these terms are used in different and often technical senses in other fields, and some terms, such as *argument* are used in a limited sense in the field of critical thinking. If in doubt, check the glossary and the part of the text in which the term is discussed. The extensive index provides leads for investigating a concept.
 
-## **Using This Book**
+## Using This Book
 
-## **Practice**
+### Practice
 
 It is important to apply what you learn in a variety of situations, and to do it often. Real situations are often preferable to hypothetical ones because real situations seem more important to people and because they introduce the complexities that hypothetical situations tend to hide. However, practice in hypothetical situations is also helpful because it can give insight into particular aspects of critical thinking and allow you to focus on one thing to facilitate understanding and competence. In any case, much practice is required.
 Both kinds of practice (with real and hypothetical examples) can be found in doing the Check-Up items throughout the book. Do a large number of these items, the more the better, because the application to particular cases does not, for most people, flow automatically from the reading. You improve with practice.
 
-## **Another Project, Writing a Position Paper**
+### Another Project, Writing a Position Paper
 
 I strongly recommend that you also try to apply the principles and insights in this book to another project, as you are reading and coming to understand this book. This other project could be any significant activity in your daily life in which you have to decide what to do or believe, and need to set forth reasons for your decision. One good activity when this book is used as a text for a course in critical thinking is to write a position paper on an issue of interest to you. (A *position paper* is one in which you take a position and defend it.) After writing a draft, you should revise it, revise it again, and revise it some more—in the light of comments from a friend or associate, and from your instructor.
 This paper should include a statement of your thesis, reasons in support of your thesis, the definitions of key terms where needed, subheadings, and a summary. It should pay due attention to the credibility of sources, reliability of observations, the strength of your inferences, counterarguments to your thesis, and word meanings. It should be documented where appropriate, and should be based on as good a grasp of the relevant facts, principles, and insights as you can muster. More details follow in Chapter 1 and periodically throughout the book.
 
-## **Order of Study**
+### Order of Study
 
 Those of you whose learning style calls first for a broad look at critical thinking (combined with application to examples) might well profit from starting out by reading the last chapter (Chapter 14). For this procedure to do the most good, you should, with a friend, practice using the variety of questions of clarification and challenge and the variety of responses and strategies suggested in that chapter. On the other hand, if you learn best by a step-by-step approach to a subject, and are confused by encountering a wide array of concepts with which you are not familiar, you might find it best to start with Chapter 1, proceeding in order.
 
-## **Significant Features of This Book**
+## Significant Features of This Book
 
 Another way for you to see what this book is about is to consider some of the significant features that I shall discuss next. You have already encountered some.
 
-## **Flexibility**
+### Flexibility
 
 The book can be used in a variety of ways. You can omit the more difficult parts, as indicated earlier, for an easier-to-grasp approach to critical thinking. You can include an emphasis on writing, as I think most people should. You can do a number of the more difficult items in the Check-Ups that periodically appear, if you are so inclined. You can select and emphasize areas of special interest. Possibilities include verbal questioning and probing, definition and conceptual clarity, the application of general principles of critical thinking in your special field, the nature of causality and causal relations, the accommodation of deductive logic to natural language, and the dilemmas provided by overemphasizing the relativistic insight that there are often many different, equally good ways to do something. More will occur to you as you proceed.
 
@@ -48,35 +48,35 @@ There is also flexibility in the ordering of your reading and engaging these mat
 
 One area in which there is no flexibility is the need for practice in the application to examples. You must do this.
 
-## ***FRISCO: A General Guide to Critical Thinking***
+### FRISCO: A General Guide to Critical Thinking
 
 In order to provide a reminder of the big ideas, I have developed an acronym, *FRISCO*, which stands for *Focus, Reasons, Inference, Situation, Clarity,* and *Overview*. The ideas represented by these letters provide a useful checklist, whether you are judging an already stated idea, or trying to develop a new one. If you thoughtfully consider all the ideas represented by FRISCO, you will have considered most of the major concerns in making a decision in that situation. Although it is impractical to methodically and consciously consider all of these ideas for every decision, it is often useful to do so. Furthermore, practice in doing so will sensitize you so that you will automatically notice problems and strengths without the explicit consideration of all of the FRISCO ideas.
 
-## ***Writing, Discussing, and Presenting***
+### Writing, Discussing, and Presenting
 
 Because much of the critical thinking that we do is in the context of interacting with others in writing, discussing, or presenting, I have emphasized these three activities. Writing has been especially emphasized because much of the writing we need to do calls for critical thinking. A memo suggesting and defending a solution to a problem, for example, calls for critical thinking, as does a note to a friend suggesting and defending an interpretation of the friend's reaction to some event.
 
-## **Credibility of Sources**
+### Credibility of Sources
 
 Much of what we believe comes from other people and books. Some of these are not reliable sources for the topic (for example, the football player who endorses a breakfast cereal). Therefore, it is well to raise the question of the credibility of a source. This concern has been increasingly recognized recently among those interested in critical thinking, and is included in this book.
 
-## **A Large Number of Examples**
+### A Large Number of Examples
 
 Because the improvement of one’s critical thinking requires considerable practice, this book provides a large number of examples on which to practice. Some are simplified in order to introduce and provide focus; some are rich in the complexities of real life. But practice with examples is needed. Many opportunities are provided here.
 
-## **Feedback**
+### Feedback
 
 I have provided suggested responses to most of the Check-Up items. These suggested responses enable you to get immediate feedback, and give you some responsibility in evaluating your own work, because you must decide about the significance of the difference, if any, between your work and the suggested resources. Furthermore, they enable your instructor to assign more of the open-ended kinds of tasks than would be possible if your instructor were doing all the evaluating of your work. You are thus able to receive a greater amount of supervised practice on challenging tasks.
 
-## **Challenge**
+### Challenge
 
 Not all items have a suggested response. You are on your own on some. But be sure that someone else gets a chance to react to what you do.
 
-## **Independent Study**
+### Independent Study
 
 This book can be used for independent study in which you are the instructor—a self-instructor. Several features make this possible: It contains extended discussions—with examples—of the critical thinking topics considered. There are many examples for practice. And there are suggested answers to most of the review items provided in the Check-Ups. Do these items, and check the suggested answers until the items in a particular section are busywork. Then go on to another section. Be sure to have a practical project, such as a position paper, to which you can apply your critical thinking insights, abilities, and dispositions.
 
-## **Basis: A Coherent Overall Conception of Critical Thinking**
+### Basis: A Coherent Overall Conception of Critical Thinking
 
 The content of this book is based on a conception of critical thinking that I have developed over the years. It has been subjected to criticism by others, and has been improved as a result. The most recent published version of this overall conception of critical thinking appeared in *Teaching Philosophy*, if you care to examine it.[^1]
 

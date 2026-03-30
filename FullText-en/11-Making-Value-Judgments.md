@@ -1,4 +1,4 @@
-## CHAPTER 11 Making Value Judgments
+# CHAPTER 11 Making Value Judgments
 
 When we, the members of the jury, decided that Arlene was not justified in using the force she used, we made a value judgment. In effect, we were saying that, given the circumstances, she was wrong in using that much force.
 
@@ -6,7 +6,7 @@ The making of value judgments is a controversial topic. Almost everything one ca
 
 Even the distinction between value statements and factual statements is in dispute, but for our purposes, a distinction is needed and can be made. However, because the distinction is so basic, it is difficult to find other words that clarify it.
 
-### The Distinction Between Value Statements and Factual Statements
+## The Distinction Between Value Statements and Factual Statements
 
 Roughly speaking, a *factual statement* attempts to describe, whereas a *value statement* places a value (positive or negative) on the way things are (or were, or could be). Here are some examples of statements that in the context were value statements:
 
@@ -54,7 +54,7 @@ This chapter deals with how to decide about value statements, with some attentio
 
 Arriving at and judging value statements comes directly under the *I* in FRISCO, although the situation (*S*) is always important, as is clarity (*C*). Let us start by looking at one kind of inference to value statements, loose derivation.
 
-### Loose Derivation from Principles and Factual Statements
+## Loose Derivation from Principles and Factual Statements
 
 In deciding that Arlene was not justified in using the force she used, we relied on some value principles and the factual situation. The key element in the factual situation was that Arlene had the readily available alternative of fleeing into her parents' room, if Al had, as she claimed, threatened to kill her. (We believed that she would have been safe in her parents' room.) One value principle that we assumed was that it is wrong to stab another person if the person is not threatening you. Another value principle we assumed was that it is wrong to stab a person who is threatening you if there is a peaceful alternative readily available.
 
@@ -95,7 +95,7 @@ Just to make the point more firm, let us consider the value principle "One shoul
 
 A second source of looseness in the reasoning results from a degree of vagueness in the terms used. The terms *peaceful alternative*, *threaten*, and *readily available* are vague. Would making a verbal threat against an assailant be a peaceful alternative? Is it threatening for someone to say, "I'm going to frighten you?" Is jumping out the window of a one-story house a readily available alternative? A two-story house? The words in our talk about values are often vague, making application to cases difficult. The neatness of ideal deduction eludes us in the area of values, even though the strategies of deduction are often useful.
 
-### Summary
+## Summary
 
 A statement of the worth (positive or negative) of some thing or action is a *value statement*. Value statements differ from factual statements. *Factual statements* (which can be specific, general, and even theoretical) attempt to describe, but not evaluate, the worth of a thing or action. The distinction is not a precise one, although it is useful.
 
@@ -103,7 +103,7 @@ Both kinds of statement can be the conclusions of a process similar to deduction
 
 Value statements cannot serve as hypotheses to be evaluated by best-explanation procedures and are not merely reports of direct observation. Value questions cannot be settled by scientific research only, although scientific research can contribute. These facts, and the apparent difference in the kinds of things asserted by the two kinds of statements, are good reasons to make the distinction between factual and value statements.
 
-### Check-Up 11A
+## Check-Up 11A
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -120,7 +120,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 11:4 Factual statements are all true.
 11:5 Factual statements attempt to describe, sometimes simply, sometimes theoretically.
 
-## Short Answer
+### Short Answer
 Decide whether each of the following statements is a factual or a value statement. Assume that the context is a normal one.
 
 11:6 The United States should have stayed out of World War I.
@@ -132,7 +132,7 @@ Decide whether each of the following statements is a factual or a value statemen
 11:12 The basic human dignity of every person should be respected.
 11:13 All is fair in love and war.
 
-## More Short Answer
+### More Short Answer
 For each of the following arguments, (a) identify and state the conclusion. Then (b) tell whether the conclusion follows from the reasons (assuming for each case that it is not an exception to the value principle). In each case, defend your decision by using Euler circle diagrams, propositional logic principles, or both.
 
 11:14 The United States should have stayed out of wars that did not strongly affect its basic interests. World War I did not affect the basic interests of the United States. Therefore, the United States should have stayed out of World War I.
@@ -147,23 +147,23 @@ For each of the following arguments, (a) identify and state the conclusion. Then
 
 11:18 Michael's intercepting and destroying Bill's love letter to Juanita was not unethical. All's fair in love and war, and Michael is in love with Juanita.
 
-### Facts About the Past; Future Consequences
+## Facts About the Past; Future Consequences
 
 It is surprising how often value reasoning goes wrong because the facts are ignored or because the alleged facts are not really facts. In our reasoning to the conclusion that Arlene was not justified in using the force she used, many facts were important, and two predominantly factual matters were crucial: Did Al threaten to kill Arlene (more specifically, did he say, "Arlene, I'm going to kill you," as she claimed), and was there a peaceful alternative for her to pursue?
 
-#### Factual Claims
+### Factual Claims
 
 If he had so threatened, then on grounds of self-defense, she might have been justified in using the force she did (neglecting the peaceful alternative question for the time being). If he did not threaten her, then, assuming that she had no other justifying circumstances, she was not justified in using the force she used. Because the defense attorney had offered no other justifying circumstances, because it was his job to do whatever he could on her behalf, and because he seemed very competent, we had a right to assume that there were no other justifying circumstances. Therefore, the question of whether he threatened her was an important one.
 
 Unfortunately, this factual question could not be settled to our satisfaction because the only eyewitness source of information (Arlene) had a strong conflict of interest. Because of this conflict of interest, her testimony on the matter could not settle it for us. But he might have threatened her, and of course he might not have done so. This important factual matter could not be resolved satisfactorily.
 
-#### Unstated Facts
+### Unstated Facts
 
 For a long time, although the fact that she had a peaceful alternative was staring us in the face, we jurors ignored it. Facts do not advertise themselves as relevant, and they often remain not only ignored, but unstated. Nobody had stated for us the fact that she had a peaceful alternative. The prosecuting attorney might have done so, but he did not. For a long time, none of the jurors realized that this was a fact and that it was relevant. When one of the jurors realized and stated this fact, the rest of us immediately recognized it as a fact, a fact that was quite important. We then used this fact to reason to the conclusion that she was not justified in using the force she used.
 
 Because of the importance of facts in making value judgments, it is crucial to make sure that we have the facts. Misinformation can do much harm. It is important to be familiar enough with the situation to be sensitive to facts that have not even been formulated. Unformulated facts, like the fact that she had a peaceful alternative, are often ignored.
 
-#### Consequences
+### Consequences
 
 It is often helpful to force ourselves to think about the probable or possible future consequences of accepting a value judgment. Claims about what the future consequences will be are factual claims, so here we have another way in which facts can be important. But it is generally more difficult to be sure about factual claims about the future than factual claims about the past, so one must be especially careful here. Think of the times that you have confidently predicted what would result if a particular course of action were followed—and been wrong. Have you ever decided it would be good to offer a loan to a friend, predicting that the friendship would then be even firmer, and had it turn out otherwise? Have you ever decided that you should not tell a friend the whole truth about your feelings, thinking that your relationship would otherwise be damaged, and discovered otherwise? It can happen.
 
@@ -184,7 +184,7 @@ Furthermore, even when acceptable value principles or higher-level principles ar
 
 
 
-#### Consequences of the Jurors' Judgments
+### Consequences of the Jurors' Judgments
 
 This jury was not expected to apply the method of looking at the consequences (for the defendant) of the particular judgment I have been discussing. That is, one consequence of the judgment that Arlene was not justified in using the force she used was, if the other conditions were satisfied, that she would serve a term in prison. Our society has assigned to the legislature and the judicial system the job of deciding whether this consequence is appropriate. For us to take this consequence into account in deciding whether she was justified would have been to take over the work that is assigned to the legislature and the judges. We were told not to take it into account in making our decision.
 
@@ -192,11 +192,11 @@ However, we could have considered the consequences of the value principle we ass
 
 Some associates[^2] have, as I noted earlier, challenged us for not having made the assumption explicit and for accepting it without question. What do you think?
 
-### Weighing Reasons
+## Weighing Reasons
 
 When we have evaluated each of the consequences and have applied principles directly, we will probably find that we have some reasons in support of a conclusion (pro reasons) and some against (con reasons)—and some in between. How do we decide?
 
-#### Decision Theory
+### Decision Theory
 
 Elaborate methods have been worked out to try to give guidance in answering such questions, often going under the name *decision theory*. These methods ask us to assign numbers, often amounts of money, to each consequence, viewed as a value or disvalue (a negative value). Thus, for example, we would have to assign a numerical value in terms of money (or some other unit) to the good health of dogs and to human fear. This sort of thing I feel we cannot do, but if you feel that we can, then you might well consult a text about decision theory, which should include calculating and comparing expected values of alternative courses of action. There is a vast literature on the topic, but I do not go into it here because I have never felt able to assign numbers to things that some people value very highly (such as clean air, friendship, love, and self-respect) and to value principles themselves, such as "Lying is wrong."
 
@@ -206,7 +206,7 @@ But beware: It is tempting to neglect factors to which we cannot assign a numeri
 [^2]: Including Professor Anita Silvers of San Francisco State University, who was the first to point out this assumption to me. 
 
 
-#### The Ben Franklin System
+### The Ben Franklin System
 
 For most cases that you actually do face, I recommend instead a simple method suggested by Ben Franklin. It does not generate a decision, but can be an aid to your considering and weighing the pro and con reasons.
 
@@ -228,7 +228,7 @@ In any case, that leaves Pro-5 without compensating counterreasons. This uncompe
 
 
 
-## TABLE 11.1 Conclusion Under Consideration: Unleashed Dogs Should Not Be Allowed in Pulaski Park
+#### TABLE 11.1 Conclusion Under Consideration: Unleashed Dogs Should Not Be Allowed in Pulaski Park
 
 | Pro |  | Con |
 |-----|-----|-----|
@@ -269,10 +269,10 @@ As far as I can tell, there are no crucial ambiguities or misleading ways of put
 
 O: I have reviewed the decision arrived at under FRISCO's *I*. It still seems right to me. You might have come to a different conclusion.
 
-### Writing a Value Argument
+## Writing a Value Argument
 Much of the argumentative writing we do is aimed at supporting value conclusions — conclusions that hold that either something is good (or bad) or something should be done (or not be done). By *argumentative*, I remind you that I am not talking about hostile or aggressive writing, although it might be that; rather, I am talking about writing that has a conclusion and offers reasons in support of the conclusion.
 
-#### Strategies
+### Strategies
 Naturally, it is important that you have an audience in mind, and that you write to that audience. It is also important that your audience realize what your conclusion and reasons are. The most obvious way for the audience to know your conclusion is for you to say what it is at the beginning. When you or your audience is in a hurry, or under stress, that is generally the best way. But there are other ways, such as drawing your conclusion at the end, leaving it up to the audience to figure out your conclusion, even to appear to be drawing a conclusion that is just the opposite of your real conclusion.
 
 The trouble with these indirect strategies is that they often do not work. Often, the audience does not realize what your conclusion is. It takes greater writing skill, an audience with more reading skill, a point and a topic that are fairly simple, and usually more time devoted by both you and the audience, in order to use the indirect strategies effectively. But they are possible.
@@ -294,7 +294,7 @@ In Chapter 1, you were provided with a position-paper checklist (starting with "
 ### Analogical Argument
 One type of argument that has not yet been discussed in this book is the *analogical argument*. In this type of argument (which can be used to support factual as well as value conclusions), the arguer offers another case on which it is assumed there is agreement about the conclusion. The arguer also urges that the other case and the present one are similar enough for the other conclusion to be transferred to this case. Here are some examples:
 
-#### Example 11:2
+### Example 11:2
 a. Cockfights are like dog fights. You know that dog fights are ugly and should be stopped and avoided. Similarly, cockfights should be banned.
 
 
@@ -320,7 +320,7 @@ If you use analogical arguments in your value-judgment writing, be aware of simi
 
 
 
-#### Summary
+### Summary
 
 Neglect of the facts, failure to notice the facts, and failure to collect facts are often the source of disagreement and problems in making value judgments. So a first step is to make sure that the supposed facts actually are facts. In particular, it is usually important to consider the prospective factual consequences of accepting a value judgment. These consequences are judged by acceptable value principles, most of which have accrued over time and are part of the cultural tradition. But sometimes consequences occur that are not covered by acceptable value principles, or that are possible exceptions to acceptable value principles. Then it is important to examine them in detail, formulating original value principles on the basis of a perceptive, sensitive, and reflective examination of these consequences.
 
@@ -334,7 +334,7 @@ Much of our argumentative writing leads to value conclusions. Various strategies
 
 Analogical arguments are commonly used to support value conclusions, and always depend on whether the relevant similarities are strong enough to outweigh the dissimilarities. Assimilating analogical argument to loose derivation and to depiction in detail of the consequences is helpful here.
 
-### Check-Up 11B
+## Check-Up 11B
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -350,7 +350,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 11:21 The Benjamin Franklin approach that calls for us to list and cross off reasons is more precise than most decision-theory approaches.
 11:22 The consequences of accepting a value judgment should usually be considered before accepting the judgment.
 
-## Medium Answer
+### Medium Answer
 11:23 Pick a local value issue with which you are familiar, or a personal decision issue that you face. Use the Ben Franklin strategy for making a decision and keep the FRISCO advice in the back of your mind. Your report of your effort should include a list of the pro and con reasons, should show how you balance them against each other, and should state your conclusion with some indication of how strongly you stand by it.
 11:24 Now use your results from 11:23 as the content for a two- or three-page position paper on the issue. Make sure that you have an audience in mind. Pay heed to the Chapter 1 position-paper criteria.
 11:25 In a page or two, appraise my handling of the proposed leash rule for Pulaski Park. Assume that Pulaski Park is near to where you live or, if you live in the country, is in the city nearest to you. Apply the FRISCO approach in your thinking. Assume that you are writing this to go in a letter to me. Again, pay heed to the Chapter 1 position-paper criteria.
@@ -366,11 +366,11 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 
 
-### &#43; Relativism
+## &#43; Relativism
 
 Although a variety of differing doctrines are called *relativism*, two relativistic value judgment doctrines appear repeatedly and are significant enough to deserve discussion. These two doctrines are called *cultural relativism* and *personal relativism*. Roughly speaking, these doctrines respectively hold that what is right (or good) depends exclusively on what a culture approves (cultural relativism) or a person approves (personal relativism). In this sense of *culture*, the culture of a large group of people consists of all of their joint beliefs, attitudes, and ways of living.
 
-#### Cultural Relativism
+### Cultural Relativism
 
 Three general types of cultural relativism can be identified, which I shall call *basic cultural relativism*, *factual cultural relativism*, and *sophisticated cultural relativism*.
 
@@ -393,12 +393,12 @@ This difficulty could perhaps be avoided by holding (as an exception to the gene
 
 Each of these points could be explored more fully, and the arguments can get very complex. Instead of pursuing them here, I invite you to engage in these explorations of basic cultural relativism with your associates, so that I can turn to two other types of cultural relativism, which are more plausible.
 
-### Factual Cultural Relativism
+#### Factual Cultural Relativism
 The fundamental principle of factual cultural relativism, the second type of cultural relativism, is that the value statements supported by different groups are often different and conflicting in a very fundamental way. This difference is a factual matter, exemplified by the difference in evaluation of eating the meat of cattle.
 
 Different cultures often do disagree about many value statements, so factual relativism seems to be a correct view. But the fact that two cultures do disagree does not show that both are right, or that neither is right, or that neither can be established as right, although we might be led to think so, if we are careless about distinctions among different kinds of relativism. That is, we might be led to think so if, from the establishment of factual relativism, we infer that some other type of relativism is true. Because they say different things, establishment of one does not establish another.
 
-### Sophisticated Relativism
+#### Sophisticated Relativism
 Sophisticated relativism is the view that there is not any way of establishing one value principle as correct. Sophisticated relativism takes a sophisticated value position, and is difficult to prove wrong or right without already assuming that it is wrong or right. Sophisticated relativism gets its appeal in part from the difficulty of showing that some value principle or position is correct without assuming some other, more basic value position, which can then be challenged by the sophisticated relativist. Ultimately, there is no further position to appeal to when the most basic position is questioned. If you keep asking "Why?" you eventually run out of even-more-basic principles to use in giving an answer. Try it on any value position you hold.
 
 In discussing sophisticated relativism, I shall not try to appeal to an authority because (among other things) any authority I select would be suspected by a large segment of my readers. So I would like to pursue the more precarious course. The basic strategy is to show that people who express this position do not actually believe it, as evidenced by their own strongly held views about various contemporary issues that affect them. There are such issues for all those I have heard express the position. Self-respect, employment, war, military service, education, taxation, honesty, medical treatment, delinquency, imperialism, equality, capital punishment, genocide, birth control, and euthanasia are likely issues on which people expressing sophisticated relativism do have a stand that they are willing to defend by giving reasons. That a person is willing to take a stand and give reasons implies that the person thinks there is at least some justification for the position and that the position is better than the alternatives.
@@ -409,7 +409,7 @@ Alternatively, a sophisticated relativist could take a position on one of those 
 
 The previous discussion of sophisticated relativism was abstract. Let me try to offer a sample dialogue so that you can check out your understanding and can apply some of these ideas to your own deeply held value positions. In the following dialogue, let *SR* mean *sophisticated relativist* and let *F* mean the relativist's *friend*:
 
-#### Example 11:3
+### Example 11:3
 **SR:** Although it would be nice to be able to defend our value statements, ultimately there is no way to show that one is any better than another.
 **F:** Does that include all of *your* value statements?
 **SR:** Of course.
@@ -434,7 +434,7 @@ Note what has happened here. SR, although denying that there is any way to show 
 
 I offer this story as typical and invite you to check any self-proclaimed sophisticated relativists you know and see whether they do the same thing when dealing with things that really matter to them. Let me know if you find anyone who really sticks by his or her sophisticated relativism.
 
-#### Personal Relativism
+### Personal Relativism
 Similar in some ways to basic cultural relativism, *personal relativism* locates its ultimate justification in the approval of the person making the value statement. Instead of "Whatever is approved by the culture is right," the doctrine is "Whatever is approved by me is right." There is an initial plausibility to this view as well, for it would be very odd for a person to say (without qualification), "I approve of something that is wrong." Try saying to yourself about some particular action: "I approve of that action even though it is really wrong (not just judged wrong in our culture)."
 
 A problem arises when we consider a situation in which one person claims that a particular act or thing is good and another claims that it is bad. The nature of this problem depends on the way in which we interpret personal relativism, as a definition of *right* or as a doctrine setting forth a nondefinitional sufficient condition for something's being right.[^4]
@@ -447,7 +447,7 @@ Given the nondefinitional, sufficient-condition interpretation of personal relat
 
 
 
-#### Absolutism Versus Relativism
+### Absolutism Versus Relativism
 One common form of argument offered in favor of relativism is exemplified by the following passage:
 
 **Example 11:4**
@@ -490,7 +490,7 @@ Although this presentation is simplified and the points and counterpoints can ge
 
 In sum, the argument is defective, no matter which of these three senses of *absolutism*, is chosen. Is there another?
 
-#### Summary
+### Summary
 
 There are two broad types of value-judgment relativism, cultural and personal. Cultural relativism in turn has three primary types: basic cultural relativism, factual relativism, and sophisticated relativism. I could also have broken personal relativism down into three comparable types, but to save time and space, only considered the kind of personal relativism that is comparable to basic cultural relativism.
 
@@ -513,7 +513,7 @@ In this section on relativism, as well as in the entire value judgment chapter, 
 
 You have probably noticed that this section on relativism consisted mostly of argument. In Chapter 13 in a section on argument strategy and tactics, I shall use some of these arguments as examples.
 
-### Check-Up 11C
+## Check-Up 11C
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
@@ -524,7 +524,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 - 11:36 One accusation that cannot fairly be made against basic cultural relativism is that it leads to inconsistent judgments.
 - 11:37 If what the speaker approves is by definition what is right, then (if they are sincere) both sides in an argument about a value judgment are right in this sense of the word *right*, but that is a contradiction.
 
-## Medium Answer
+### Medium Answer
 For each of the following, write a one-page essay starting with your conclusion, and then giving reasons for your conclusion. Pay attention to the criteria for a position paper given in Chapter 1. Use examples in giving your reasons.
 
 - 11:38 Argue in support of the conclusion that value judgments endorsed by different cultures do in fact differ sometimes.
@@ -534,9 +534,9 @@ For each of the following, write a one-page essay starting with your conclusion,
 
 11:42 Do the survey you planned in 11:41 and write a report for an audience you specify, or orally present a report to this class.
 
-### Suggested Answers for Chapter 11
+## Suggested Answers for Chapter 11
 
-#### Check-Up 11A
+### Check-Up 11A
 11:1 T 11:2 F 11:3 F 11:4 F 11:5 T  
 11:2 Change *a value statement* to *some factual statements*.  
 11:3 Typically, even the best value principles have exceptions.  
@@ -563,13 +563,13 @@ b. It follows, assuming that whatever is fair is not unethical, as shown by the 
 
 [Diagram 11:14]
 
-#### Check-Up 11B
+### Check-Up 11B
 11:19 F 11:20 T 11:21 F 11:22 T
 11:19 Change *inapplicable* to *applicable*.
 11:21 Change *is more precise* to *is often more practical or is less precise*.
 11:23–11:31 These are up to you. Have you reviewed and revised?
 
-#### Check-Up 11C
+### Check-Up 11C
 11:32 T 11:33 F 11:34 T 11:35 T 11:36 F
 11:37 F
 11:33 Factual relativism is the view that the value judgments supported by different groups are often different and conflicting.

@@ -1,5 +1,5 @@
 
-## CHAPTER 4 Observation
+# CHAPTER 4 Observation
 
 Have you ever been sure that you saw or heard something, and then learned that someone else saw or heard something different? This happens to me. For example, when I am playing tennis with one particular person, I sometimes see the ball land on the line and he says it landed outside of the line.
 
@@ -7,11 +7,11 @@ There are criteria that are useful in such situations. You can apply them to you
 
 The discussion of observation in this chapter is applicable to your papers in which you defend a position (and to narrative papers in which you simply try to report an occurrence). Some of your reasons in position papers will be observations made by you or by others. These reasons will be justified roughly to the extent that they satisfy the criteria of observation statements presented here. In particular, (to give a summary in advance) they will be justified as observations roughly to the extent that they come from a credible source, are really observations (as opposed to being conclusions), are based on the use of appropriate technology, were made by a competent, careful, unbiased observer under good conditions, are directly reported by the observer, and are based on or corroborated by records of the observation.
 
-### Credibility Criteria
+## Credibility Criteria
 
 Whether the report of the observation is made by you or by someone else, the eight criteria for credibility apply. You are already familiar with these criteria (and should realize that both my opponent and I in the tennis match have a conflict of interest). But these eight criteria are not enough. There is also a set of criteria that apply especially to observation, whether you or someone else is doing it. Again, the criteria are only approximate guides. They cannot be applied automatically. One must use good judgment and pay close attention to the situation (the S in FRISCO).
 
-### Conclusions Versus Observations
+## Conclusions Versus Observations
 
 An acquaintance reported that he saw a stranger stealing a friend's bicycle. Actually, all that the acquaintance observed was that a person he did not know took the bicycle out of the rack and rode off with it. Because the friend had given the person permission, it was not a case of stealing. My acquaintance concluded that the bike had been stolen, but only observed its removal. The observation that the bike was removed was more dependable than the conclusion that the bike had been stolen. In general, observations are more dependable than the conclusions based on them.
 
@@ -21,7 +21,7 @@ Although the preference of observations over conclusions is usually a good idea,
 
 This prohibition of conclusions by witnesses in the courtroom does not extend to experts drawing conclusions in their own specialties. The pathologist was permitted to state her conclusion about the strength of the knife stroke. The assumption is that experts are better able to draw conclusions in their own fields than are jurors.
 
-#### Why Distinguish Observations from Conclusions?
+### Why Distinguish Observations from Conclusions?
 
 Despite my discomfort with the rigid courtroom prohibition of inferring by (non-expert) witnesses, there are good reasons for the rule. Furthermore, it is well for us all to be sensitive to the problem out of court. When someone witnesses something, we should be alert for any conclusions in the report of the event, as in the report of the alleged bicycle theft.
 
@@ -33,7 +33,7 @@ We should generally be more ready to accept the observation than the conclusion 
 
 This is an area to exhibit the critical thinking dispositions "try to be well-informed" and "withhold judgment when the evidence and reasons are insufficient." In other words, be careful, though not overly skeptical.
 
-#### Making the Distinction Between Observations and Conclusions
+### Making the Distinction Between Observations and Conclusions
 
 Beware. In discussions of observations and conclusions, it is easy to fall into the trap of thinking that there really are no observations, only conclusions. Some challenger might claim, for example, that Jim's apparent observation statement, "I saw Karl at the Blue Cloud last night," was really only a conclusion. The challenger might hold that Jim saw someone who looked, talked, and danced like Karl, but who might not really have been Karl. So, the challenger might claim that the statement "I saw Karl at the Blue Cloud last night" was inferred from the fact that the person looked, talked, and danced like Karl, and so could only be a conclusion. The challenger could go on: "Jim was only inferring that it was The Blue Cloud, because all he really could observe was that it had the appearance and atmosphere of the Blue Cloud and a sign outside saying 'Blue Cloud.'" Once a challenger gets going this way, there is no place to stop, if the challenger wants to carry on and neglects the practical features of the situation.
 
@@ -43,13 +43,13 @@ However, the way the distinction between observations and conclusions is actuall
 
 Sometimes just a challenge can make a conclusion out of what seemed to be an observation statement. Suppose that my companion, while looking routinely at the speedometer in a car, says, "We are going 55 miles per hour." This could justifiably pass as an observation. Suppose that I challenge the statement. If he defends it by saying that the speedometer was recently checked, that the tires are new, and that he is compensating for being off to the side, then a repeat of his statement would be a conclusion because it is now being supported. So the observation-conclusion distinction depends on what is known and acceptable without defense in the situation (the S in FRISCO). There is not a sharp line separating observations from conclusions.
 
-#### Summary
+### Summary
 
 On the face of it, there is an obvious distinction between observation statements and conclusions. Observation statements report what is observed. Conclusions state what is inferred from what is observed and other things. Generally, there is more room for error in inferring conclusions than in securing the observations on which they are based. That is why it is often good practice, when someone offers a conclusion, to ask for the observations and other evidence on which it is based. That is, ask, "Just what exactly did you see?" or "What exactly did you hear?" Be careful, though not overly skeptical.
 
 Under special situations, a statement that looks like an observation report might actually be a low-level conclusion. Then it must be judged as a conclusion. The reasons and inferences supporting it must be judged for their adequacy, or its actual observational source must be judged for credibility and satisfaction of reasonable criteria for an observation (some criteria will be provided later in this chapter). The distinction between observations and conclusions is not precise, and often depends on the situation (the S in FRISCO).
 
-### Check-Up 4A
+## Check-Up 4A
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -81,21 +81,21 @@ Classify each of the italicized statements as an observation report (O) or a con
 
 4:12 My companion, while still looking at the speedometer, said, "I observe that you are exceeding the speed limit."
 
-### The Process of Observing
+## The Process of Observing
 
 So far, we have considered the distinction between conclusions and observations and the importance of minimal concluding in an observation report. Let us turn now to the actual process of observing, and some criteria for making judgments about observations. As with the credibility criteria you considered in the previous chapter, these criteria do not apply themselves automatically. Good judgment and sensitivity are required in applying them.
 
-#### Appropriate Technology
+### Appropriate Technology
 
 Some observations, like the observation of Saturn's rings from a space ship, require elaborate technology. Others, like Jim's seeing Martine and Karl at the Blue Cloud, require only Jim's eyes (which, though not high technology, were the appropriate technology for that situation). Space ship or television technology was not only unnecessary for the observation of Martine and Karl, but it would have interfered with the actions of the subject of the observation. Martine and Karl might well have gone somewhere else if they knew there was a television camera at the Blue Cloud.
 
 The general rule here is vague: The technology of the observation should be appropriate for the subject being observed and for the information required. In order to apply this criterion, you must know something about the subject and the available technology. Otherwise, you must place your faith in someone else's judgment about these. Then you must depend on your application to the other person of the criteria of credibility. This is because in effect you would be taking someone's word that the technology was appropriate.
 
-#### Observation Conditions
+### Observation Conditions
 
 If the Blue Cloud had been very smoky, it would have been much more difficult for Jim to identify Martine. Identification of the North Star can be made difficult or impossible by clouds, haze, moonlight, and sunlight. The conditions must be conducive to observation.
 
-#### Observer's Ability
+### Observer's Ability
 
 Observer's ability is generally crucial to the making of a reliable observation. This holds for such diverse activities as recognizing people, tracking animals, reading barometers, and determining the composition of the sun by using a spectroscope.
 
@@ -105,7 +105,7 @@ Lastly, observer ability includes having the senses needed by the observer (that
 
 Because the important features of observer ability vary from situation to situation, the most that can be required for all cases is this: The observer's ability must be adequate for the observation. However, things such as parallax misreading, failure to check and recheck, and defective senses are often important enough to rate special mention as dangers.
 
-#### Observer Attention, Lack of Bias, Care
+### Observer Attention, Lack of Bias, Care
 
 Inattentive, biased, and careless observers are a significant source of error, as we all well know from our own errors when inattentive, biased, or careless. Fatigue, drugs, alcohol, and distractions often cause inattention. However, when under such influences, observers often do not realize their reduced dependability, even when we ourselves are the observers.
 
@@ -113,15 +113,15 @@ Often observers tend to "see" what they want to see or expect to see, even if it
 
 In some situations, even double-blind procedures are appropriate. For example, in the testing of medicines, it is often best for the person dispensing the medicines (as well as the patients) not to know whether the material they are dispensing is the thing being tested or a placebo. This is because the dispensers of the medicine might communicate the nature of the dose to the patient, often inadvertently. The term double-blind is used to indicate that neither the subjects nor the persons dealing with the subjects know what is being dispensed.
 
-#### Summary
+### Summary
 
 The process of observation should use appropriate technology, be conducted under good conditions, and be done by an observer who is skilled enough for the type of observation being made and who is attentive, unbiased, and careful. If the actual observation is not done well, any inferences we draw from the observations are suspect.
 
-### Observation Reports
+## Observation Reports
 
 In general, the closer the observation report to the observation, the better. This closeness is not only closeness in time but also closeness of the reporter to the observation. Rejection of hearsay evidence and emphasis on records are attempts to maintain this closeness.
 
-#### Hearsay
+### Hearsay
 
 The prohibition of hearsay is another fairly rigid rule in the courts. Roughly speaking, hearsay is testimony that reports what someone else said with the intention of persuading the listener of the truth of what was said. Rumors are standard examples of hearsay. Babette reported to Sarah, who has an interest in Jon, "Manuel told me that he saw Jon out with Martine at the Blue Cloud." That is hearsay, and Sarah should be careful in accepting such a report.
 
@@ -151,7 +151,7 @@ Although there are legitimate exceptions, hearsay is often still dangerous. Gene
 
 An interesting way to show the unreliability of second-hand, third-hand, and even more remote observation reports is to play a game called "Telephone." Have a friend write down in two sentences a description of something the friend has seen, allowing no one else to see the writing at that time. Then the friend, unheard by the rest of the group, tells a second friend what is written. The second friend, unheard by the rest, tells a third, then on to a fourth. This should be enough, but more can be added. The last in the line gives aloud the report as he or she believes it to be. Discrepancies from the original are usually interesting.
 
-#### Records
+### Records
 
 We are all familiar with the phenomenon of bad memories. Mine is particularly bad. The longer the time since an event, the more likely it is that I have forgotten the details—often the entire event. For most people, reports of long-ago events are less dependable than recent reports.
 
@@ -184,13 +184,13 @@ The pathologist's written record merely said "clean." So, under questioning, she
 
 The point is that different situations call for different emphases on the guidelines. You must use your own good judgment in applying them and in developing special ones to fit particular situations. But even though there is variation in the degree of emphasis on the guidelines, the guidelines as a whole make a good basis for a judgment.
 
-#### Summary
+### Summary
 
 A report of an observation is generally more dependable if made by the observer. Furthermore, if the observer makes the report in person, then the observer can be questioned and unclear points clarified—an advantage.
 
 It is generally desirable to base observation reports on records made at the time of observation. Records are usually better than memories, and are generally less susceptible to deliberate deception. But records can be altered and mistakes can creep in, making corroboration desirable.
 
-### Check-Up 4B
+## Check-Up 4B
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -229,7 +229,7 @@ E. None of these.
 **Medium Answer**
 4:24 In a newspaper or magazine, find one observation statement. Copy or present enough of the selection in which it appears for your instructor to understand what is going on. Underline the statement. Classify the observation statement as you have just done with the previous ones (one or more of A-D or E) and tell whether you believe it and why.
 
-### Making an Overall Appraisal of an Observation Statement
+## Making an Overall Appraisal of an Observation Statement
 
 For convenience in summarizing your reactions to an observation statement, you can make a chart like the credibility chart and include the credibility criteria. You can make it detailed with a line for each concern, or make fewer lines by grouping the criteria. My rough attempts to do this for the statement as uttered by Arlene, "The knife was in plain sight on the cabinet," and for the pathologist's statement, "The wound was about 2.5 inches deep," are in Table 4.1.
 
@@ -283,7 +283,7 @@ I suggest that you examine each value I have assigned and try to see why I did w
 
 The fact that your judgments inevitably depend on your appraisal of a situation does not mean that just any judgment is acceptable. Clearly, Arlene's observation statement was not as dependable as the pathologist's statement.
 
-### Chapter Summary
+## Chapter Summary
 
 In this chapter, you have considered a number of criteria for observations. When you are considering observation statements, the criteria for credibility also apply. Application of each criterion requires good judgment, as does weighting them and making an overall judgment. These criteria should be used not only for discussion and grounding of inferences in your personal, vocational, and civic situations, but for vocational or civic position papers that depend on observations for one or more reasons in support of your views.
 
@@ -291,7 +291,7 @@ Although loose and vague to an extent, the criteria are useful. Some statements 
 
 Observation comes under the R in FRISCO and depends on the S. It is used in judging the acceptability of reasons (including evidence).
 
-### Check-Up 4C
+## Check-Up 4C
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows you understand.
@@ -311,11 +311,11 @@ If false, change it to make it true. Try to do so in a way that shows you unders
 
 4:31 Is the full set of observation criteria too elaborate for your purposes? Why? If it is too elaborate, develop an alternative and apply it in a situation you describe. Comment on the usefulness of your system for the situation you have described.
 
-### Suggested Answers for Chapter 4
+## Suggested Answers for Chapter 4
 
 Reminder: In some cases different answers are as good as the ones given. If one of your answers is different from the one suggested, then either try to satisfy yourself that yours really is all right or else try to figure out why it is not.
 
-#### Check-Up 4A
+### Check-Up 4A
 4:1 T
 4:2 T
 4:3 O
@@ -329,7 +329,7 @@ Reminder: In some cases different answers are as good as the ones given. If one 
 4:11 O
 4:12 C
 
-#### Check-Up 4B
+### Check-Up 4B
 4:13 F. Roughly speaking, hearsay is testimony in which a witness reports something that he or she heard someone else say (and the testimony is intended to support the claim that what was said was true).
 4:14 F. Hearsay testimony is usually improper in a court of law.
 4:15 T
@@ -343,7 +343,7 @@ Reminder: In some cases different answers are as good as the ones given. If one 
 4:23 A & C
 4:24 This is up to you. I will be asking you about this one again.
 
-#### Check-Up 4C
+### Check-Up 4C
 4:25 F. Skill in observing is often required even when technology is not involved.
 4:26 F. Many reliable observations do not require special technology.
 4:27 F. There are no precise score cutoff points for reliability of observation statements.

@@ -1,4 +1,4 @@
-## CHAPTER 3 The Credibility of Sources
+# CHAPTER 3 The Credibility of Sources
 
 Suppose that you hear the basketball coach of the University of Illinois say on television that the Chevrolet is a good car. Should you take his word? Suppose that you are on the jury when the pathologist says that the knife stroke was not a powerful one. Should you take her word? I am not asking whether what they said is true, although we are interested in that too. Instead I am asking whether their saying those things in those circumstances was sufficient reason to believe what they said. Another way of putting that question is, "Were those people credible on that topic in those circumstances?"
 
@@ -14,9 +14,9 @@ How can you tell whether to take another person's word? This is often a difficul
 
 Credibility comes under the R part of the FRISCO approach to critical thinking because judging the credibility of sources is relevant to determining the acceptability of reasons. The I part of FRISCO, the degree to which the reasons support the conclusion, is a topic we shall not start to consider in a careful organized manner until Chapter 5. However, you should be thinking about it now, because in actual acts of critical thinking, in judging yours and others' arguments and decisions, all of these aspects of FRISCO are interdependent.
 
-### Four Basic Criteria for Credibility
+## Four Basic Criteria for Credibility
 
-#### 1. Background Experience and Knowledge
+### 1. Background Experience and Knowledge
 
 Perhaps most important of all is whether the person has sufficient experience and knowledge to know what he or she is talking about. Often, but not always, this requires formal training. I did not take the Illinois coach's word on automobiles because I had no reason to think that he was an expert on automobiles. I defer to him in basketball, but not automobiles. One trap in deciding about someone's credibility is transferring our respect for someone's expertise in one area to another area. To invite you to fall into this trap is to commit the fallacy called *transfer*.
 
@@ -26,7 +26,7 @@ Having background experience and knowledge does not guarantee that a person will
 
 Be aware that this criterion applies not only to statements requiring expertise. It also applies to gossip and other information you receive from your friends and acquaintances. My friend Jim told me that he saw Martine out with Karl at The Blue Cloud. If I am to take his word, then Jim's background (training and experience) should have enabled him to recognize Martine and Karl. It should also enable him to recognize a case of their being out together. In particular he should know what kind of place it is and he should know the difference between a chance encounter and a case of their being out together. Suppose that The Blue Cloud were a coffee shop where people regularly drift in and out alone and join anyone with whom they are acquainted, rather than a formal restaurant where people sit only with people with whom they came. He should know which type of place it is and be able to apply to this case the distinction between a chance encounter and their being out together. This background experience and knowledge, although it is not expertise, is necessary if he is to be credible on this matter.
 
-#### 2. Lack of Apparent Conflict of Interest
+### 2. Lack of Apparent Conflict of Interest
 
 Probably the basketball coach had a conflict of interest. That is, he presumably stood to gain (in this case, probably financially) from saying what he said about Chevrolets. It is standard practice for sports figures to be paid for endorsing products. So the basketball coach presumably did not satisfy the criterion of lack of apparent conflict of interest when he made his statements about Chevrolets.
 
@@ -40,7 +40,7 @@ Conflict of interest need not be merely financial. Sometimes people get deeply i
 
 Other sorts of interests that might result in a conflict of interest include receiving an award or a prize, making the team, being popular, avoiding punishment, getting an "A," being elected president, and securing power. Can you think of any others?
 
-#### 3. Agreement with Others Equally Qualified
+### 3. Agreement with Others Equally Qualified
 
 If two people satisfy equally the other criteria for credibility but disagree with each other, then which one is more credible? Putting the question this way suggests the answer: We generally should take the word of neither. One of them might well be right, but given that they are otherwise equal, the disagreement calls for us to take the word of neither. We would have to find other ways to decide which statement to believe, if any.
 
@@ -52,7 +52,7 @@ Because these two already come out poorly on the other criteria, it does not mak
 
 This criterion can be stated as follows: The person should be in agreement with other people who satisfy the other criteria as well or better.
 
-#### 4. Reputation
+### 4. Reputation
 
 A fourth basic criterion for judging the credibility of a person is the person's reputation. Ordinarily, a person who has a reputation for lying or being wrong is less credible than a person with a reputation for being right and for telling the truth. One's general reputation is important, but one's reputation in the specific area of the statement is also important. Some people I know are notoriously and commonly mistaken in some areas and are very dependable in other areas, where they have good reputations. For example, a friend of mine has a poor reputation for information about good places to shop, but a good reputation for her judgments about academic talent. This is so even though she has studied both areas.
 
@@ -60,7 +60,7 @@ The Illinois basketball coach had a good reputation (at the time) in the area of
 
 This criterion, then, is as follows: The person should have a good reputation for being right and telling the truth in general, and especially in the area of concern.
 
-### Tabulating the Results
+## Tabulating the Results
 
 One way to organize your results in applying the four basic criteria to a statement is to assign a rating on each criterion. Then tentatively summarize your judgments. In Table 3.1, I report the results of my having done this for the statements of the basketball coach and the pathologist. As you can see, making a tentative overall judgment requires balancing the importance of each of the subjudgments. There is no mechanical way to do this. Even so, it helps to consider these credibility criteria. Often that is the best we can do in a situation in which we have incomplete knowledge.
 
@@ -74,7 +74,7 @@ One way to organize your results in applying the four basic criteria to a statem
 | 4. Reputation | Satisfactory | Strong |
 | Tentative overall judgment | Probably not credible on this statement | Probably credible on this statement |
 
-### Check-Up 3A
+## Check-Up 3A
 
 **True or False?**
 
@@ -95,11 +95,11 @@ Do the same thing for an assertion you find in a magazine.
 **3:6**
 Do the same thing for a serious assertion made by a friend. Write it down and describe the situation before you report your results.
 
-### Further Criteria
+## Further Criteria
 
 In addition to the four basic criteria for credibility, certain other less basic ones should be taken into consideration, if possible. They too are important, though often not so important as the first four. Like the first four, these criteria require good judgment in application. Judgment is required in deciding whether each criterion is satisfied and in deciding the importance of each criterion in a given situation.
 
-#### 5. Established Procedures
+### 5. Established Procedures
 
 Although established procedures sometimes give incorrect results, it usually is best to follow them, if such procedures exist. In the trial, one of the expert witnesses testified that the type of blood found on the knife was type A, the same as Al Hamilton's blood type. Among other things, the expert testified that she had used the established procedures for determining blood type. If she has used anything but the established procedures, her testimony would have been less credible.
 
@@ -107,7 +107,7 @@ On the other hand, we all know cases in which the established procedures have pr
 
 Because of such exceptions, the word *ordinarily* is included in the statement of the criterion: Ordinarily the person should have used established procedures, if any exist.
 
-#### 6. Known Risk to Reputation
+### 6. Known Risk to Reputation
 
 Experts are well aware that they must guard their reputations so that they can continue to play the role of experts. This is an extra reason for them to try to be accurate about what they say. Experts I know are usually more careful about what they say when they know that their reputations can be hurt if they are discovered to be wrong. If you think about it, I believe that you will agree that most people tend to be more careful in situations in which their errors would be discovered.
 
@@ -121,13 +121,13 @@ Sometimes a reputation is not at risk because the statement is too vague. For ex
 
 The astrologer's reputation was not at risk. Presumably, the astrologer knew this, so the astrologer does not satisfy the sixth criterion: The person should know that his or her reputation can be helped or hurt by the statement's being discovered to be correct or incorrect.
 
-#### 7. Ability to Give Reasons
+### 7. Ability to Give Reasons
 
 If we are to take someone's word, that person should have good reasons for what he or she says. Otherwise, we should be suspicious.
 
 Depending on the content, the reason might simply be that the person saw something directly.
 
-#### 8. Careful Habits
+### 8. Careful Habits
 
 People do not always show the same amount of care from one activity to the next. But carelessness of one sort is often an indication of carelessness of a similar sort. A statement made by a person known to be careless in one area is suspect if the area is similar to that of the statement.
 
@@ -135,7 +135,7 @@ If Jim were known to be careless in identifying people at The Cha Cha Restaurant
 
 Here is the criterion: The statement maker should have careful habits in areas similar to the area of the statement.
 
-### Summary
+## Summary
 
 In summary, these four additional criteria are concerned with established procedures, known risk to reputation, ability to give reasons, and habits of care in similar areas. I realize that these criteria are somewhat vague and difficult to apply. You might think of them as suggestions for questions to ask yourself about someone making a statement. Again, in making an overall judgment you must decide how important each is in a given situation. This is what I had to do in Table 3.2 when applying these four additional criteria to the coach's and pathologist's statements.
 
@@ -163,7 +163,7 @@ These eight credibility criteria must be applied with good judgment, both in dec
 
 Be alert for alternatives and be well-informed. In other words, although there are no mechanical rules for good judgment, your judgment is improved by the critical thinking dispositions presented in Chapter 1.
 
-### Check-Up 3B
+## Check-Up 3B
 
 **True or False?**
 
@@ -182,21 +182,21 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 - 3:14 Do the same for the statement you found in the magazine (3:5).
 - 3:15 Do the same for the statement by your friend (3:6).
 
-### Fallacy Labels
+## Fallacy Labels
 
 A fallacy is an error in thinking or reasoning. Transfer, appeal to authority, testimonial, and personal attack are labels used for fallacies in the area of credibility of sources. But is it always wrong to do the things so labeled? Let us consider them one at a time.
 
-#### Transfer
+### Transfer
 
 Earlier in this unit, I suggested that it is generally a mistake to take an authority's word in some other area than that in which the person is an authority. That is, it is often a mistake to transfer the assumption of expertise from one area to another. Although this is generally true, it depends on how similar the areas are. If the basketball coach told me that a particular person is a good football player, I would be inclined to believe him because the areas are similar enough and because there is much personal contact between experts in the two fields. On the other hand, I am not ready to transfer the coach's expertise to automobiles, as I said before. So even though transfer is generally a fallacy, it is not always so.
 
-#### Appeal to Authority
+### Appeal to Authority
 
 Because much of our knowledge comes from other people and is based on the statements of someone else, it would be foolish to condemn all appeals to authority. The defense attorney did a reasonable thing in appealing to the authority of the pathologist about the strength of the knife stroke. The pathologist was an expert and an appropriate source of knowledge about what happened. There were a number of other statements in that trial that were justified by appeal to authority, including statements about fingerprints, blood type, the cause of death, and the position of the body. Without appeals to authority, our court system would collapse. We are often justified in taking someone else's word, including the word of experts—not always, as we all know, but often.
 
 Appeal to authority is not necessarily wrong, but it is not necessarily right either. Each appeal to authority must be judged on its own merits. You are already familiar with this process of judging sources for their credibility.
 
-#### Testimonial
+### Testimonial
 
 The coach's claim that the Chevrolet is a good car would be called a *testimonial* for Chevrolet. In this case, primarily because of probable conflict of interest and presumed lack of expertise, one should probably not take his word on the matter. But there are many cases of testimonial that we do accept and that should be believed. Eyewitness testimony should of course generally be believed if it satisfies credibility criteria. But eyewitness testimony is not really properly called testimonial. Rather, a *testimonial* is testimony in support of some particular idea, thing, or person.
 
@@ -208,7 +208,7 @@ The principal danger with movie testimonials from friends is the possible differ
 
 It should be clear, then, that there are cases of testimonial that we should not trust, but there are also cases that we should trust. Testimonial is not automatically a fallacy. The criteria for judging the credibility of sources are useful in judging whether to believe testimonials.
 
-#### Personal Attack
+### Personal Attack
 
 A personal-attack argument is an attack on the character or qualifications of a person rather than a challenge to the merits of the person's argument. Suppose you present an argument in support of the view that your volleyball team needs more practice. Suppose that someone challenges your argument on the ground that your religious preference differs from hers or that you are selfish and do not share food the way others do. Whether or not these are reasonable attacks on your character, they do not affect your argument, nor do they show anything about whether your team needs more practice. In such cases, a personal-attack argument is a fallacy.
 
@@ -220,7 +220,7 @@ The important thing is whether the attack on the person is relevant, that is, wh
 
 In summary, these supposed fallacies of credibility (transfer, appeal to authority, testimonial, and personal attack) are sometimes fallacies and sometimes not. For the first three, you should apply the criteria for credibility and judge on that basis. For personal attack, you must also decide whether the attack is relevant.
 
-### Chapter Summary
+## Chapter Summary
 
 The ideas in this chapter apply to judging the acceptability of reasons (part of the R in FRISCO). The focus has been on judging the credibility of sources of reasons. If a reason comes from a credible source, that helps to make the reason acceptable.
 
@@ -237,7 +237,7 @@ You have also considered some of the fallacy labels people sometimes use when ju
 3. **Testimonial** is a source's testimony in support of a position. Whether this is a fallacy depends on the degree of satisfaction of the criteria of credibility.
 4. **Personal-attack argument** is an argument against a statement that points out some defect in the maker of the statement. Whether this is a fallacy depends in part on whether the defect is relevant to the content of the statement.
 
-### Check-Up 3C
+## Check-Up 3C
 
 **True or False?**
 
@@ -285,7 +285,7 @@ For each of the following items, find an example in a newspaper or magazine. Ref
 - 3:36 A testimonial that you do not accept.
 - 3:37 A case that you would label as fallacious transfer.
 
-### Suggested Answers for Chapter 3
+## Suggested Answers for Chapter 3
 
 **Check-Up 3A**  
 **3:1** T  

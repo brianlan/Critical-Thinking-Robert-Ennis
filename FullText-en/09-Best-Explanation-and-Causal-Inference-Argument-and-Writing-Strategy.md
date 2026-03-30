@@ -1,8 +1,8 @@
-## CHAPTER 9 Best-Explanation and Causal Inference: Argument and Writing Strategy
+# CHAPTER 9 Best-Explanation and Causal Inference: Argument and Writing Strategy
 
 Did Napoleon die from poison? Did Shakespeare intend Iago to be a melodramatic villain? Was Arlene's knife stroke only moderate in force? Was Pluto once a satellite of Neptune? Is there a sizable oil deposit beneath Seal Island? Does the Prime Minister intend to resign soon? Does Martine like Karl? Did Frank trip Pele on purpose, or just by accident? Does the president feel insecure? Why did the car crash into the pole? What caused the extinction of the dinosaurs? What did Thomas Jefferson mean by "equal"?
 
-### Best-Explanation Hypotheses
+## Best-Explanation Hypotheses
 
 A proposed answer to each of these varied questions would be a fact-explaining hypothesis (or conclusion) that would be justified basically by its ability to explain the facts and the inability of its competitors to do so—or, to use a technical term, by its being the *best explanation*. Unfortunately, answers to these questions would be very difficult or impossible to obtain by experimentation. How then do we produce plausible answers to such questions, and how do we decide whether the evidence for such answers is strong enough? (This topic comes under the I for inference in *FRISCO* because we are talking about *inference* to best explanation.)
 
@@ -18,13 +18,13 @@ Not all conclusions, however, are former hypotheses. For example, some conclusio
 
 Henceforth, in order to avoid having to say both words, hypothesis and conclusion, I shall usually use only the word *hypothesis*. But consider what I say generally to apply also to conclusions that were or could have been hypotheses at some time. However, I shall use the word *conclusion* when talking about something that in the situation clearly is a conclusion.
 
-#### Developing a Best-Explanation Hypothesis
+### Developing a Best-Explanation Hypothesis
 
 When facing questions like those at the start of the chapter, it helps very much to be well-informed about the topic, so that we can avoid fruitless ideas and so that hypotheses from previous similar situations might stimulate a good one for this situation. It also usually helps to think hard about the question, but sometimes it is also a good idea to get away from it for a bit. It helps to talk to others, to imagine (at least temporarily) some of the constraints under which we are operating to be inoperative, and to be sensitive to hints that are present in the situation. Often it helps to modify and refine an unsuccessful hypothesis in a way that responds to its difficulties, and then to refine it some more, so that the production and testing of hypotheses interact with and contribute to each other. But there is no general set of rules that, if followed, produce good hypotheses. Much about it is intuitive, personal, and dependent on our already knowing quite a bit about the topic.
 
 Given that we have a provisional hypothesis, produced by us or someone else, how do we judge it? To that topic we now turn.
 
-#### Applying the Criteria to Be Satisfied in Accepting a Best-Explanation Hypothesis
+### Applying the Criteria to Be Satisfied in Accepting a Best-Explanation Hypothesis
 
 The criteria for judging best-explanation hypotheses are the same as those for experimental hypotheses, which actually are one kind of best-explanation hypothesis. That is, whether or not we have experimented, a hypothesis is justified to the extent that, given reasonable assumptions, (1) it explains some facts, (2) alternative explanations of these facts are inconsistent with some fact or facts (if there is a plausible alternative hypothesis, then we must not endorse the hypothesis), (3) it is itself consistent with the facts, and (4) it is plausible. The difference is that, when we cannot do an experiment to create our evidence (the *R* in *FRISCO*), we have to search it out, as a detective does. An inference (*I*) that employs these criteria (whether experimental or not) is called a *best-explanation inference*. The term *best explanation* is used here because the acceptability of the hypothesis depends on its being the best explanation of the facts (as well as being a good explanation of the facts).
 
@@ -40,11 +40,11 @@ Let us apply the four best-explanation criteria to the pathologist's conclusion 
 
 Therefore, the pathologist's conclusion that the stroke was of moderate force seemed justified on the basis of these criteria. As you can see, the criteria are not limited to experimental reasoning. They apply to many other types of hypotheses, including possible answers to the questions at the beginning of the chapter, which might be characterized as historical hypotheses, interpretations of author's meaning and intentions, and hypotheses about other people's states of mind (beliefs, likes, intentions, dislikes, fears, etc.)—or in general, hypotheses about events or states of affairs that are not observable or are difficult to observe.
 
-#### The Reasoning Pattern in Rejecting a Best-Explanation Hypothesis
+### The Reasoning Pattern in Rejecting a Best-Explanation Hypothesis
 
 The reasoning pattern for rejecting a nonexperimental hypothesis is the same as for experimental reasoning. The first stage is showing that the falsity of an implication (*i*) of the hypothesis (*h*) plus assumptions (*a*) requires the denial of the combination of the hypothesis and the assumptions. For example, the hypothesis that the knife stroke was strong in force (call it *KS* for *knife* and *strong*), together with the assumption that there was *no obstruction* to the blow and the assumption that a strong *unobstructed* knife stroke would have *penetrated* more than 2.5 inches (*NOUP*), implied that the *wound* would have been *more* than 2.5 inches deep (*WM*). Because it was not more than 2.5 inches deep, the conjunction of the hypothesis and the assumption must be false, as shown in the denial-of-the-consequent reasoning of Example 9:1, which depicts the first stage in the reasoning pattern.
 
-## Example 9:1
+#### Example 9:1
 
 Two alternative symbolizations of the same reasoning:
 
@@ -63,7 +63,7 @@ The content-representative letters *KS*, *NOUP*, and *WM* are used in the symbol
 
 The second stage is showing that the affirming of the assumptions then requires the denial of the hypothesis. We do this by claiming the assumptions to be true. In this case, the assumptions were that there were no obstructions and that an unobstructed strong knife stroke would have penetrated more than 2.5 inches. This pattern is shown in Example 9:2.
 
-## Example 9:2
+#### Example 9:2
 
 | | |
 |---|---|
@@ -81,7 +81,7 @@ As with experimental reasoning, this reasoning pattern is somewhat idealized. Of
 
 In sum, the criteria we use in rejecting a hypothesis are essentially the criteria of loose derivation (discussed in Chapter 7). This use of these criteria comes under the *I* in **FRISCO**.
 
-#### Details and General Knowledge
+### Details and General Knowledge
 
 I have given only a sketchy description of this example of the best-explanation way of looking at the reasoning. Without a much more complete grasp of the details in the situation, and without general knowledge about situations of this type, you are not in a position to decide whether the pathologist's conclusion was actually justified on the basis of the facts given. For example, the knife might have been very dull. If so, the alternate conclusion that the knife stroke was strong in force would have been consistent with the evidence, and could have given a good explanation of the depth of the wound. So a knowledge of the details is important. (Reminder: If there is a plausible alternative hypothesis, one should not endorse the hypothesis in question.)
 
@@ -89,11 +89,11 @@ Furthermore, for all I know, the chest bones and cartilage of an adult male migh
 
 The general lesson here is this: If you do best-explanation reasoning or judge someone else's best-explanation reasoning, you must be well-acquainted with the details of the situation and have general knowledge about the things in the situation. Sometimes the general knowledge comes from one standard subject that has been organized for teaching in our schools (chemistry, for example), but often it does not, as in the moderate-blow case. Here the knowledge comes from a number of subjects—with the addition of a large dose of general knowledge from practical experience.
 
-#### Other Types of Explanation
+### Other Types of Explanation
 
 The word *explanation* applies to a variety of things. In hypothesis testing, it applies to a proposition or factor that accounts for something.[^1] But there are other types of explanation, including process explanations (such as explaining how to swim), interpretation explanations (such as explaining the meaning of *deductive validity*), and justification explanations (such as explaining why you should, when driving, not change lanes without signaling). Best-explanation-reasoning explanations, in contrast, are supposed to account for something that is or was. Their explaining is not describing a process, stating a meaning, or justifying something. I mention these other types of explanation in order to help you avoid confusing their kinds of explaining with the explaining by a hypothesis or a conclusion that accounts for something. Do not look for these other kinds of explanation when looking for something that accounts for something (although these other kinds of explanation can be relevant to attempts to account for something).
 
-#### Explanation and Partial Explanation
+### Explanation and Partial Explanation
 
 In the knife-stroke case, the "something" that was accounted for is the fact that the wound was only 2.5 inches deep. The proposition that was supposed to account for this fact is "The knife stroke was only of moderate force." That proposition was the pathologist's conclusion. It explained why the wound was only 2.5 inches deep.
 
@@ -117,7 +117,7 @@ On the more narrow, mechanistic view of causation, judgments about account-for e
 
 Because this is a controversial topic, you must decide for yourself. But even if you construe causal relationships mechanistically, you can still usually make wise decisions about account-for relationships. Try it and see.
 
-#### The FRISCO Approach Applied to the Moderate Force Conclusion
+### The FRISCO Approach Applied to the Moderate Force Conclusion
 
 In using the moderate-force argument as an illustration of best-explanation reasoning, I have used the elements of the FRISCO approach, usually without saying so. Next, consider the explicit application of this approach to that example, now that you are familiar with the example and with best-explanation reasoning:
 
@@ -148,7 +148,7 @@ After reviewing the evidence, the situation, and the way I applied the various c
 
 This strength-of-the-blow case, in combining the application of the credibility criteria with the criteria for best explanation, is typical of a wide range of cases. Often we are well-informed enough to apply the best-explanation criteria to some extent, but not well-informed enough to apply them with full confidence, in which case we need to make a judgment about the credibility of a source, for which we need credibility criteria.
 
-#### Best-Explanation Reasoning in Figuring Out What Someone Believes or Thinks
+### Best-Explanation Reasoning in Figuring Out What Someone Believes or Thinks
 
 When we conclude that someone believes or thinks something, our conclusion is a best-explanation conclusion. The inference to the conclusion depends on its ability to best explain the facts. For example, consider Pedro's conclusion that Jim believes that Martine was out with Karl at the Blue Cloud. This conclusion would explain why Jim said that he saw them out together. It would explain why Jim came running over to Pedro to give him the news (on the assumption that Jim believed that Pedro was in love with Martine, and would thus be very interested). It would explain why Jim avoided Karl the next morning, even though he needed Karl's help with his homework (Jim and Pedro being staunch friends). An alternate hypothesis, "Jim was trying to get Pedro upset in order to make Pedro easier to beat in a racquetball match," seemed inconsistent with what Pedro believed to be Jim's character. Can you see the best-explanation pattern here?
 
@@ -171,7 +171,7 @@ Bradley's extremely confident tone here might suggest that he has offered a dedu
 
 For example, consider in Example 9:4 an argument, including a possible assumption that I have added (*b*), that makes use of her "thrice-repeated cry of astonishment and horror, 'My husband!'"
 
-## Example 9:4
+#### Example 9:4
 
 **a.** Emilia three times cried in a tone of astonishment and horror, "My husband!"[^4]
 
@@ -194,7 +194,7 @@ As usual, there is much more to be said. One interesting feature of this case is
 
 Another interesting feature is Bradley's extreme confidence. If you read and discuss the play intensively, you might also decide that Bradley's extreme confidence is unwarranted, as I did. But I am only trying to show you a way to look at much of the reasoning we do, and you might well judge his confidence warranted. In the enactments of *Othello* that I have seen, Iago was not interpreted as a melodramatic villain. Bradley's view has apparently been generally accepted.
 
-#### Summary
+### Summary
 
 Deprived of the use of experiments, as we are for a variety of hypotheses, we still can use the best-explanation pattern of reasoning. The two-stage rejection of a hypothesis depends on other assumptions. The acceptance of a hypothesis depends on an elimination-of-other alternatives approach (using the same four criteria as with experiments) and is also dependent on assumptions. Both processes require a familiarity with details of the situation and knowledge of the sort of thing being studied. Often the reasoning must be loosened through the use of such words as *probably* and *generally*.
 
@@ -208,7 +208,7 @@ The type of explanation of concern here is that in which the explanation is inte
 
 &#43; The nature of the accounting-for relationship in best-explanation reasoning is complex and controversial. My view is that this accounting-for relationship is a causal relationship, construing causality quite broadly as a bringing-about kind of relationship that includes mechanical as well as other kinds of bringing about. But some people feel that the word *cause* indicates a mechanical relationship. If you feel this way, then stick simply with accounting-for as your interpretation of the type of explanation under discussion in this chapter. It will serve you well.
 
-### Check-Up 9A
+## Check-Up 9A
 
 **True or False?**
 
@@ -224,7 +224,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 **9:5** The basic criteria for nonexperimental best-explanation hypothesis testing are the same as the criteria for experimental hypothesis testing.
 
-## Short Answer
+### Short Answer
 
 In each of the following arguments, underline the final conclusion twice, label the fact(s) it is supposed to explain with *EF*, label alternative hypotheses with *AH*, and label any evidence that is inconsistent with an alternative hypothesis *IE*, but only if you have identified an alternative hypothesis. If your instructor has not made another suggestion, either use a photocopy of this page or copy the items by hand.
 
@@ -242,7 +242,7 @@ In each of the following arguments, underline the final conclusion twice, label 
 
 9:12 Said by the prosecuting attorney in an attempt to show that Arlene was not engaged in self-defense: "Arlene wanted Al to follow her. That's why she put his keys in her purse and zipped it closed. It's not true that she wanted the use of his car. She did not like his car, and was afraid to drive it."
 
-## Medium Answer
+### Medium Answer
 
 **9:13–9:19** For each of the Items 9:6 through 9:12, supply a possible alternative hypothesis to try to explain some or all of the evidence presented. Try to make it as plausible as you can. If one is already presented (as in 9:10), then suggest a different one. You may write it in above. Here is an example of the first one:
 
@@ -256,7 +256,7 @@ Please do this on a separate piece of paper. Here is an example pair for the fir
 Imagined counter-evidence: Arlene is muscular, weighs about 130 pounds, and was in good health at the time.
 Assumption: If someone is muscular, weighs about 130 pounds, and is in good health, that person is probably not weak.
 
-## Longer Answer
+### Longer Answer
 
 In Items 9:27 through 9:31, for each piece of information, tell whether, if true, it would support the hypothesis, weaken it, or neither, *and tell why you think so.* Because the situations are so complex and the information can be construed in various ways if considered all by itself, there is generally no one right answer to these items. They are offered to give you practice in relating evidence to best-explanation hypotheses, and in justifying your decisions.
 
@@ -409,17 +409,17 @@ See the drawing for the general relationship between a rocker arm, a valve shaft
 
 **9:34** Apply the FRISCO approach to the argument in support of the conclusion about Polonius in 9:31 and report your results in writing element by element. In doing 9:31, you have already completed some of the elements. Be prepared to present the argument and your analysis to your class or group in an interesting way.
 
-### Necessarily Following: Deductive Versus Best-Explanation Inference and General Argument Strategy
+## Necessarily Following: Deductive Versus Best-Explanation Inference and General Argument Strategy
 
 In best-explanation reasoning, the conclusion does not necessarily follow from the evidence. If it did, then we could just go directly from the evidence to the conclusion (deducing the conclusion) and not worry about the explanatory power of the conclusion. The strategy in best-explanation reasoning is basically a process of showing that one possible conclusion could explain the evidence and eliminating other possible explanations as implausible, leaving only the one. But the conclusion does not necessarily follow from the evidence because one of the assumptions might be incorrect and because there might be still another plausible explanation that has not yet occurred to us.
 
 It does not necessarily follow from the depth of the wound and the lack of marks on the bones that the blow was moderate. Those reasons, which were the ones mentioned by the pathologist, do not rule out the possibility, for example, that the victim was wearing a medallion that deflected and reduced the strength of the blow. This alternative hypothesis did not occur to the jurors. If it had, it would probably have been rejected for the following reasons: If Al were wearing a medallion, then its presence would probably have been mentioned in the trial and its presence was not mentioned. In any case, we could not be absolutely certain that there were no other possibilities, so the conclusion did not follow necessarily from what she said.
 
-#### A Possible Alternative: Transformation into a Deductively Valid Argument
+### A Possible Alternative: Transformation into a Deductively Valid Argument
 
 Suppose instead that we transform the reasoning into deductively valid reasoning by adding a goal-filling reason as an assumption, shown in brackets:
 
-### Example 9:5
+#### Example 9:5
 
 **a.** The wound caused by the knife stroke was only 2.5 inches deep.
 
@@ -435,7 +435,7 @@ You can probably see from Example 9:5 (and from your experience with the items i
 
 
 
-#### Choosing Between the Best-Explanation Approach and the Deductive and Other Approaches
+### Choosing Between the Best-Explanation Approach and the Deductive and Other Approaches
 
 Usually, when judging an argument, our purpose is to decide whether the conclusion is true or sufficiently well-established. Assume this to be our purpose. Because there are various ways of looking at an argument (deductive, loose deductive, best-explanation, generalization, and value judging—the last two of which have not yet been discussed in this book), we should choose the way of looking at the argument that gives the strongest support for the conclusion. If the argument, even when viewed in a way that makes it look its strongest, still does not provide strong enough support, then it does not succeed. However, if, when looked at in some way, it does provide sufficient support, then it succeeds.
 
@@ -449,13 +449,13 @@ Often loose derivation (see Chapter 7) is the best kind of argument that we can 
 
 Value-judging arguments cannot be expected to fit best-explanation standards because value conclusions do not account for facts. So different strategies (often loose derivation) are appropriate here. But the general idea still holds: Do the best you can for an argument (assuming that the goal is to decide whether the conclusion is acceptable) and then judge it carefully.
 
-## *Complex Combinations*
+### *Complex Combinations*
 
 Often complex arguments consist of parts that satisfy different standards: possibly parts that satisfy deductive (or loose derivation) standards, parts that satisfy best-explanation standards, parts that satisfy generalization standards (to be discussed in Chapter 10), and parts that satisfy value-judging standards (to be discussed in Chapter 11). In Arlene's trial, the conclusion that she killed Al is a best-explanation conclusion. But the conclusion that she committed voluntary manslaughter follows necessarily from the satisfaction of the four conditions for voluntary manslaughter. The full set of conditions for voluntary manslaughter appeared as Example 7:1 in Chapter 7. If you have not seen these conditions, please go back and look at them now.
 
 The first of these conditions, roughly speaking, is that she killed Al. This is a best-explanation conclusion (the prosecutor's argument for which was presented in Chapter 2). The conclusion that she was not justified in using the force she used (the fourth condition) is a value conclusion. The second and third conditions, which I have neglected here for simplicity's sake, call for best-explanation and value judging arguments. So the overall argument for her guilt under the voluntary manslaughter  charge used at least three different kinds of inference: best-explanation inference, value-judging inference, and deductive inference. The deductive inference is from the satisfaction of the four conditions to the conclusion that she is guilty.
 
-#### Not Necessarily
+### Not Necessarily
 
 One frequently heard type of response to an argument is "Not necessarily" or "That doesn't necessarily follow." This is sometimes a misleading move in discussion, so beware.
 
@@ -471,7 +471,7 @@ If a person means the words literally and applies the charge to a best-explanati
 
 *Not necessarily* is sometimes an unfair attack on an argument. Be ready for it.
 
-#### Summary
+### Summary
 
 Any argument can be transformed into a deductively valid argument by the addition of one or more appropriate reasons in the role of assumptions, but often the result is a bad argument because one or more of the added reasons are false. Best-explanation inference is often a good alternative when the conclusion is a factual rather than a value conclusion, that is, a conclusion that could account for facts.
 
@@ -483,7 +483,7 @@ Sometimes *not necessarily* is a deceptive way to condemn an argument's conclusi
 
 ---
 
-### Check-Up 9B
+## Check-Up 9B
 
 **True or False?**
 
@@ -499,7 +499,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 **9:39** Arguments that include both deductive and best-explanation elements are likely to be unsatisfactory because there is no way to judge them.
 
-## Medium Answer
+### Medium Answer
 
 The point of the following items is to illustrate the fact that construing an argument to be a deductive argument often results in your adding a reason that is quite implausible. The desirability of construing many arguments as best-explanation arguments is thus exemplified.
 
@@ -516,19 +516,19 @@ a. If a person strikes a blow of moderate force, then that person does not inten
 
 b. No, because the premise I added is very implausible. I might be very weak and strike a moderate blow, even though I intend to hurt someone severely. Also, I might strike a moderate blow in what I know to be a vulnerable place, intending to hurt someone severely.
 
-### &#43; Causation
+## &#43; Causation
 
 Much, if not all, best-explanation reasoning involves causal relations. But because causation is a difficult and controversial topic, I have left it to the end of this two-chapter sequence on experimenting and best-explanation reasoning. Because causal reasoning fits the pattern of best-explanation reasoning, some of the ideas here have been presented earlier, but here the emphasis is on causal relations.
 
 Because this section on causation is more theoretical than other parts of the book, the reader in a hurry might justifiably choose to omit it. But for dealing in depth with causal issues in many areas, this section can be useful.
 
-#### A Distinction Between Singular Causal Statements and Causal Generalizations
+### A Distinction Between Singular Causal Statements and Causal Generalizations
 
 When the pathologist asserted, "The stabbing caused Al's death," she was making a *singular causal statement*. To make a singular causal statement is to say that one particular thing (or set of things) caused another particular thing (or set of things). A singular causal statement is about one sequence. Although it might be a very complex sequence, it is only one sequence. The stabbing-death sequence was one sequence.
 
 On the other hand, the statement, "Stabbing causes people to die" is a *causal generalization*. It is about an unlimited number of sequences of stabbing and dying, not just one.
 
-#### Causal Generalizations
+### Causal Generalizations
 
 Here are some more examples of causal generalizations:
 
@@ -605,7 +605,7 @@ A seventh kind of support for a causal generalization can come from its being st
 
 So there are at least seven basic types of support for causal generalizations: the existence of a singular-causal instance of the generalization, the instance's being representative, there being a number of instances of association between the independent and dependent variables (the effect's not having occurred before the cause in each of these associations), the independent variable's having been deliberately introduced, an understanding of an intervening causal chain, the causal generalization being derivable from broader causal generalizations and laws (given reasonable assumptions), and their assertion by credible sources. These types of support rely on appeal to the four basic criteria for hypothesis testing that were introduced in Chapter 8 and extended to nonexperimental hypotheses in this chapter. This reliance holds even for support by showing a source to be credible (how else to explain the assertion by a credible source?). Credibility also counts independently of this reliance.
 
-#### Singular Causal Statements
+### Singular Causal Statements
 
 Singular causal statements are of the form "The *X* caused the *Y*" or something convertible into that form, such as "The *X* was the cause of the *Y*." Here are some examples:
 
@@ -677,7 +677,7 @@ Another way of ruling out something as the cause is to show that it did not occu
 
 A frequently used method of establishing a singular causal statement is to show that it is believed by a credible source. The pathologist's testimony that the knife stroke caused Al's death was accepted as establishing that fact.
 
-#### Summary and Comment
+### Summary and Comment
 
 Although causation is a difficult and thorny topic, there are loose criteria that we can employ in drawing and judging causal conclusions. The criteria summarized below do not by themselves produce correct answers. Good judgment, background knowledge of the facts that serve as reasons (*R*) and counterreasons, and sensitivity to the situation (*S*) are required in applying the criteria. The basic criteria are those of best-explanation reasoning (*I*), with special attention to the question "Is there another plausible explanation?"
 
@@ -715,7 +715,7 @@ There is more to be said and learned about the concept *cause*. This is a beginn
 
 ---
 
-### Check-Up 9C
+## Check-Up 9C
 
 ### Classification
 
@@ -781,7 +781,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 ---
 
-### Best-Explanation and Causal Reasoning in Position Papers and Other Argumentative Writings
+## Best-Explanation and Causal Reasoning in Position Papers and Other Argumentative Writings
 
 In much argumentative writing, we use best-explanation and causal reasoning. Often our final conclusion is itself a best-explanation conclusion, as in the historian's written argument to support the conclusion that Napoleon died of arsenic poisoning. But often the final conclusion itself is not a best explanation or causal conclusion. Instead, some best-explanation or causal conclusions are intermediate conclusions offered in support of a final conclusion reached by some other type of reasoning.
 
@@ -789,7 +789,7 @@ One such example of writing that you have seen (in two different places in this 
 
 It is common for arguments leading to value conclusions (such as "We should not use DDT to kill insects") to make use of intermediate best-explanation conclusions (such as "DDT weakens birds' egg shells"). The conclusion that DDT weakens birds' egg shells is a causal conclusion (*weakens* being a causal word, if one construes *causal* broadly, as I do), or at least a best-explanation conclusion, that serves as a reason for the value conclusion. Most value arguments have one or more of this type of reason in support of their conclusions. These reasons should be defensible. The defense can be testimony from a credible source (discussed in Chapter 3), a best-explanation argument (discussed in this and the previous chapters), or a combination.
 
-#### General Writing Strategy
+### General Writing Strategy
 
 Sometimes the reasons in your argument are basic assumptions that you feel that you can expect your audience to accept. Alternatively, they might be observations you have made, testimony from others, or conclusions you have drawn in previous arguments. In any case, be aware of them and the sort of defense, if any, that you have for them. If you have no defense for one, be honest about it and note that your argument does depend on it.
 
@@ -825,19 +825,19 @@ Another indirect strategy is to talk around the issue, sometimes introducing irr
 
 Talking around the issue can serve these purposes well. But the dangers are that some readers will miss the argument and will lose patience with the extra time required. For other readers, these are not problems.
 
-#### Summary
+### Summary
 
 You must choose your strategy after analyzing the situation, including your audience. Be ready to alter your strategy, depending on its reception by the audience. In any case, be aware of your own and your audience's probable assumptions. Make sure that your own are made clear and that theirs are addressed. Note and deal with alternative hypotheses and possible challenges to your evidence, as above. Be sure to claim no greater (or less) strength for your argument than it deserves.
 
 The most straightforward position paper writing strategy is to present your conclusion, discuss its significance and your argument plan, offer your reasons, consider counterarguments, and summarize. Other strategies have advantages and disadvantages, the most common of which is failure to communicate your point.
 
-### Check-Up 9D
+## Check-Up 9D
 
 **9:73–9:79** Reread and revise each of Items 9:66–9:72 in light of the advice given in this last section about writing involving hypothesis formulation and judgment. Make sure that you have a thesis, which might be the hypothesis, might be that the hypothesis is probably false, might be that there is insufficient evidence to establish or refute the hypothesis, etc. Make sure that you are aware of your organization plan and that you are aware of the role of each sentence in your paper. Be ready to read the result to the class as a prelude to discussion of the issue.
 
-### Suggested Answers for Chapter 9
+## Suggested Answers for Chapter 9
 
-#### Check-Up 9A
+### Check-Up 9A
 
 **9:1** T **9:2** F **9:3** T **9:4** F **9:5** T
 
@@ -954,7 +954,7 @@ j. Weaken, because selective oil starvation might explain the worn guides.
 
 **9:33 and 9:34** These are up to you.
 
-#### Check-Up 9B
+### Check-Up 9B
 
 | | | | | |
 |:--|:--|:--|:--|:--|
@@ -996,7 +996,7 @@ b. No, there are other ways to get the mud, to perspire, to be upset, and get a 
 
 **9:46 (9:12)** Deliberately omitted.
 
-#### Check-Up 9C
+### Check-Up 9C
 
 | | | | | | |
 |:--|:--|:--|:--|:--|:--|
@@ -1013,6 +1013,6 @@ b. No, there are other ways to get the mud, to perspire, to be upset, and get a 
 
 **9:66–9:72** Up to you. Make sure that you have stated your position clearly, and that you have considered all relevant criteria. Have you had FRISCO in mind when doing each of these?
 
-#### Check-Up 9D
+### Check-Up 9D
 
 **9:73–9:79** Again up to you. Make sure that you have stated your thesis clearly, even though the hypothesis you are considering might itself not be clear enough, that you have applied the relevant criteria, that you have had FRISCO in mind, and that your organization plan makes sense.

@@ -1,8 +1,8 @@
-## CHAPTER 7 Applications of Deductive Logic: Necessary and Sufficient Conditions, Straight Deduction, Loose Derivation, and Assumption Attribution
+# CHAPTER 7 Applications of Deductive Logic: Necessary and Sufficient Conditions, Straight Deduction, Loose Derivation, and Assumption Attribution
 
 This chapter presents a discussion of some applications of deductive logic. Although deductive ideas are useful in directly developing and judging some arguments, they are more often useful in other ways. In this chapter, you will see examples of direct and indirect use: necessary and sufficient condition language, straight deduction from acceptable reasons, loose derivation, assumption attribution, and evaluation of deduction's role in hypotheses. Elaboration of evaluation of generalizations and hypotheses, and its applications in one type of explanation and in value judging, appear in Chapters 8–11.
 
-### Necessary and Sufficient Conditions
+## Necessary and Sufficient Conditions
 
 Sometimes it is convenient to discuss class logic relationships in terms of necessary conditions, sufficient conditions, or both. For example, "Being a dog is a sufficient condition for being an animal" is, roughly speaking, another way to say that all dogs are animals. To say that one condition is sufficient for another is to say that establishing that the first holds is enough to establish that the second holds.
 
@@ -14,7 +14,7 @@ Similarly, given our standard example in Chapter 6, the truth of "Mike is an ani
 
 This brief treatment of necessary and sufficient conditions should enable you to follow the use of these terms as we proceed. Unfortunately, there are some tricky features about these terms in causal contexts. Let me elaborate a bit. The consequent's holding is a logically necessary condition, as you just saw in the Mike example. But consider this if-then proposition: "If Mike is frightened, he barks." It could be confusing to say that his barking is a necessary condition for his being frightened. Always make sure that your use of the language of necessary and sufficient conditions makes sense in the given situation.[^1]
 
-### Soundness in Deductive Logic
+## Soundness in Deductive Logic
 
 When an argument has true reasons and is deductively valid, then we are required to accept its conclusion. Such an argument is called *sound* by deductive logicians. Because this precise use of the word *sound* is not widely accepted (by other than logicians and some philosophers), you can expect most people with whom you have discussions not to use the term *sound* this way. For most people, a sound argument is a good argument, whether or not it is deductively valid.
 
@@ -22,7 +22,7 @@ Not all good arguments are deductively valid, although in some fields (such as m
 
 In view of the ambiguity of the word *sound*, make sure that your audience (that is, those with whom you are communicating) is not confused by your use of this term. If you are confident that no one in your audience has studied deductive logic, then use it in the everyday sense. (You are less likely to mislead people.) Otherwise, in real situations, make sure that it is clear how you are using the term, if you use it at all. Also make sure that no one else is shifting in their meaning of the term (which, of course, *you* would not do). For example, make sure that no one is judging an argument unsound on the ground that it is not deductively valid, and then concluding that it is not a good argument on that basis alone. As the prosecutor's argument in Chapter 2 shows, some unsound arguments in the logician's sense of the term are quite sound (using the term in its everyday sense).
 
-### Three Cases of Deduction in Context
+## Three Cases of Deduction in Context
 
 Read these illustrative cases closely several times and make sure that you understand each step. If you have trouble with class logic, you should review Chapter 5 for detailed instruction and extensive practice. If you have trouble with propositional logic, review Chapter 6.
 
@@ -30,7 +30,7 @@ Read these illustrative cases closely several times and make sure that you under
 
 Chapters 5 and 6 gave you the opportunity to see and use deductive standards. Not all of the exercises there are realistic, although those from the context of the jury trial are realistic. Next, from that same context, we will examine the deductive application of the jury's instructions about voluntary manslaughter. Subsequently, you will see two cases from a discussion of Shakespeare's play *Othello*, in which parts of the total argument conform to the standards of deductive validity. The jury's instructions regarding the charge of murder appear in the first Check-Up and provide another example of deduction in context.
 
-### Applying Detailed Instructions About the Charge of Voluntary Manslaughter
+## Applying Detailed Instructions About the Charge of Voluntary Manslaughter
 
 After the prosecution and defense attorneys had finished presenting their cases, the judge provided the jury with a copy of the conditions to be established for voluntary manslaughter and for murder. You will see the conditions for murder in a Check-Up. Here are the conditions for voluntary manslaughter:
 
@@ -140,7 +140,7 @@ Cases like this of the direct use of deduction abound, but they are usually only
 
 Furthermore, real occurrences of deductive reasoning generally require supplementation and interpretation, which I have done here. This supplementation and interpretation is often difficult. It requires attention to the context and the nuances of language. In adding the assumptions I added, I was looking for propositions that probably needed to be true if the arguments are to be good arguments. Attributing assumptions to arguments is a difficult thing to do well. More about this later in this chapter.
 
-### Loose Derivation
+## Loose Derivation
 
 Does the conclusion follow in Example 7:7?
 
@@ -162,7 +162,7 @@ c.  Therefore, Ambassador White was probably a Communist.
 
 The argument in Example 7:8 is deductively invalid even when the qualifying words, *generally* and *probably*, are stripped from it. In the context in which I heard this argument, there were no other plausible background assumptions to support the inference from the reasons to the conclusion, so I judged the argument defective. The argument seemed to require something close to deductive validity in that situation, but deductive validity was not there, as shown in Diagram 7:2.
 
-### Summary So Far
+## Summary So Far
 The language of necessary and sufficient conditions is often useful in discussing relationships among things and in appraising deductive arguments. A *sufficient* condition is one that is enough to establish that something else holds. A *necessary* condition is one that must hold if another is to hold. A sufficient condition is enough, but it might not be necessary; a necessary condition is needed, but often is not enough. Although the language of necessary and sufficient conditions is also used in causal propositions, be careful about causal interpretations of logically necessary and sufficient condition relationships. Make sure that what you are saying makes sense.
 
 In the language of deductive logic, a sound argument is a deductively valid one with true reasons. In everyday language, a sound argument is a good argument.
@@ -175,7 +175,7 @@ This final judgment requires sensitivity to the situation, background informatio
 
 If you feel that you need more practice with deduction, go back and do more items from Chapters 5 and 6.
 
-### Check-Up 7A
+## Check-Up 7A
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -187,7 +187,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 7:5 A good formula for dealing with deductive-appearing arguments containing qualifiers is to strip the qualifiers, make a deductive validity judgment, and apply exactly that judgment to the total argument.
 7:6 Many real arguments omit one or the other of the reasons that would make them into deductively valid arguments.
 
-## Medium Answer
+### Medium Answer
 
 7:7 In the jury room one of the jurors argued as follows:
 
@@ -220,7 +220,7 @@ Find an argument in print, broadcast, or conversation in which the conclusion ap
 
 ---
 
-### Assumption Attribution and Identification
+## Assumption Attribution and Identification
 
 Usually, arguments that we offer and see have gaps in them. Consider Example 7:9. As it stands, the argument has a gap. The conclusion that Mollie is not on the team does not reasonably follow, unless some assumption is added to the argument. The most obvious candidate is that Mollie is not tall. This proposition, if added to the argument, makes it deductively valid.
 
@@ -231,21 +231,21 @@ Usually, arguments that we offer and see have gaps in them. Consider Example 7:9
 
 Adding a proposition that would strengthen the inference part of an argument—often by making the argument deductively valid (or loosely so)—is a standard procedure for attributing assumptions to arguments. But there are pitfalls and qualifications, which I shall discuss after looking at some uses of the word assumption and considering several reasons for attributing assumptions to arguments or explanations.
 
-#### Two Senses of the Word Assumption
+### Two Senses of the Word Assumption
 
-##### Pejorative Sense
+#### Pejorative Sense
 In one standard sense of the word assumption, to call something an assumption is to claim that it is more or less dubious. This is the pejorative sense of the word assumption. (A *pejorative* term is one that is used to condemn or deprecate in some way.) In the trial, one juror said, "That's an assumption," referring to the defense attorney's claim that Arlene was defending herself against attack. The juror was saying that the defense attorney's claim was dubious.
 
 Even a conclusion can be a pejorative type of assumption, as in "Because you are wearing your hat, I assume that you are going out." Here, the conclusion "You are going out" is an assumption, but it is offered with some hesitancy. The word assume indicates this hesitancy, and shows that the speaker regards the conclusion to be at least somewhat dubious.
 
-##### Undefended Basis
+#### Undefended Basis
 In a second standard sense of the word assumption, an assumption is an undefended (in the context) starting point in an argument. It might be explicit, it might be implicit, but it is undefended in the context, and other parts of the argument are supported by it. This is the undefended-basis sense of the word assumption. In Example 7:9, the proposition that Mollie is not tall is an *implicit* undefended-basis assumption. The proposition "Everyone on the volleyball team is tall" is an *explicit* undefended-basis assumption. When engaged in attributing and identifying assumptions, we usually are looking for the implicit ones. They are usually less obvious, and thus more likely to slip by unnoticed.
 
 The undefended-basis sense of the word assumption is not necessarily associated with the pejorative sense. We can call a proposition an undefended basis without implying that it is dubious. This is often done in mathematics. However, in everyday situations, the two senses of the word assumption often overlap. That is, often things called assumptions are held to be both undefended and dubious. In order to avoid confusion and to concentrate on the techniques and criteria for undefended-basis assumptions, I shall in the rest of this chapter focus on the undefended-basis sense of the word *assumption*, not the pejorative sense.
 
-#### Reasons for Attributing Assumptions to Arguments
+### Reasons for Attributing Assumptions to Arguments
 
-##### Evaluation of Arguments
+#### Evaluation of Arguments
 A common reason for attributing assumptions to arguments is to evaluate the argument. If an assumption in an argument is false, then the argument does not establish its conclusion, even if the stated reasons are true and the argument is deductively valid (when the assumption is added). Example 7:10 provides a sample conversation.
 
 **Example 7:10**
@@ -259,7 +259,7 @@ In Example 7:10, Sue attributed the assumption "Mollie is not tall" to Mike's ar
 
 On the other hand, if the assumptions and the reasons in an argument are true, and together they give very strong support for the conclusion, then the argument should probably be judged to be acceptable and the conclusion accepted.
 
-##### Figuring Out What Another Person Is Thinking
+#### Figuring Out What Another Person Is Thinking
 Often we attribute assumptions to arguments in order to get clear about the thinking of the arguer so that we know what to expect of that person in the future or so that we can judge that person.
 
 **Example 7:11**
@@ -267,11 +267,11 @@ Often we attribute assumptions to arguments in order to get clear about the thin
 
 After hearing a teacher make the comment in Example 7:11, a student might attribute to the teacher the assumption that people who did well on the test should get A's or, more generally, that people who do well on tests get A's. The student's purpose here is not to evaluate the teacher's argument. The purpose is to figure out the teacher. More evidence is needed to be sure that this is the right assumption to attribute to the teacher, but my point here is to exhibit this second purpose that people have for attributing assumptions: figuring out what other people are thinking (their motives, values, beliefs, etc.). We do this sort of thing with arguments by political candidates, as well as the arguments of close friends. However, because people know we do this, they sometimes deliberately mislead us about their true motives and beliefs. So be wary.
 
-##### Showing What Someone's Real Commitments Are
+#### Showing What Someone's Real Commitments Are
 
 A third, much less frequently pursued purpose for attributing assumptions to someone is to try to show the real commitments of a person. We might do this in order to show that the person is really on our side, or really against us, or really lined up with some view that the person claims to oppose or have doubts about, etc. For example, in a debate with Bertrand Russell, F. C. Copleston once urged that scientists in their investigations assume that nature is uniform—that there is a universal regularity in the nature of things.[^4] He did this in order to show that scientists are really on his side in support of the proposition that nature is uniform. Russell did not think that nature is necessarily uniform.
 
-#### A Basic Deductive Gap-Filling Move in Assumption Attribution
+### A Basic Deductive Gap-Filling Move in Assumption Attribution
 
 As you will see, there are usually various possible assumptions that can be attributed in a situation, but a good first guess is the simplest, most plausible proposition that transforms an argument into a deductively valid one. Consider Examples 7:12, 7:13, and 7:14, drawing on situations used in the chapters on deduction.
 
@@ -297,7 +297,7 @@ Two Possible Assumptions: 1. Males who continually put people down feel insecure
 
 Ordinarily, when choosing one from among several candidates, we should try to be as charitable as we can to the arguer. It is not fair to the arguer to claim that his or her argument needs something stronger than it really needs.
 
-#### Presuppositions
+### Presuppositions
 Another type of assumption attribution depends not on filling gaps in arguments, but on the meaning of the words in statements. Often, individual statements assume things without explicitly asserting them. Such assumptions are sometimes dangerous because they can slip things by us without our noticing them, as might happen in Examples 7:16 and 7:17.
 
 **Example 7:16**
@@ -310,7 +310,7 @@ These examples appear to be attempting to allocate responsibility, but they assu
 
 Presuppositions are easy to identify if you are sensitive to their presence. That is, the presuppositions "They are biased," "This economy has great strength," and "You have beaten your child at some time" are clearly there. No one would question their being presupposed once their presence is noticed. The important (and sometimes difficult) thing is to *notice* them, and be ready to challenge them, if they are dubious.
 
-#### Summary and Comment
+### Summary and Comment
 Although one of the senses of the word *assumption* is pejorative, for our purposes here, I shall avoid that sense. But keep it in mind when communicating with others. You will often use and encounter the pejorative sense of *assumption* and will need to attend to the pejorative claim involved.
 
 There are at least three reasons for identifying or attributing undefended-basis assumptions: To flesh out an argument or explanation so that it can be evaluated for its strength, to figure out the thinking of someone who has offered an argument or explanation, and (less often) to show that someone is committed for or against some position.
@@ -323,7 +323,7 @@ Because there is more than one way to convert an argument or explanation into a 
 
 One difficulty with the first question, "Are you assuming that. . . ?" is that the word *assuming* might be taken pejoratively. That is, you might be taken to be suggesting that the assumption is dubious or false (which it might well be); in response, the speaker might resist admitting it as an assumption because he or she thinks that such an admission implies the admission of dubiousness or falsity. Therefore, you must be sensitive to how such an inquiry will be taken.
 
-### Check-Up 7B
+## Check-Up 7B
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
@@ -339,7 +339,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 > Argument: Nothing written by that bureaucrat makes any sense, so Regulation EZTHINK was not written by that bureaucrat.
 > A: Regulation EZTHINK does not make any sense.
 
-## Short Answer
+### Short Answer
 
 For each of the following, add a proposition that would make the sequence deductively valid. If there is a choice among candidates of different amounts of complexity and plausibility, pick the simplest and most plausible one. Do this on a separate piece of paper. (Note: For the arguments that refer to the trial, it might be helpful to refer to the statement of conditions for voluntary manslaughter and murder in Example 7:1 and Check-Up item 7:8.)
 
@@ -384,10 +384,10 @@ For each of the following, add a proposition that would make the sequence deduct
 **Medium Answer**
 7:46 Select a sentence from a newspaper or magazine that contains a presupposition with which you agree and a sentence containing one with which you disagree. Identify them, indicating which is which.
 
-### Application of Deductive Logic in Writing Position Papers
+## Application of Deductive Logic in Writing Position Papers
 In position papers, as well as any other writing in which you take positions (that is, make points and give reasons), deductive logic, loose derivation, and assumption identification play an important role. Usually, this role is part of a larger argument.
 
-#### Deductive Logic and Loose Derivation
+### Deductive Logic and Loose Derivation
 Sometimes, you use (or find) straightforward deduction, as in Example 7:18, which is adapted from a recent newspaper editorial and exemplifies denying-the-consequent reasoning.
 
 **Example 7:18**
@@ -397,14 +397,14 @@ Example 7:18 is a strong argument if the reasons are true. In the selection from
 
 Similarly, you will often find it convenient to incorporate deductively valid arguments or loose derivations in your larger arguments. When you do so, make sure that the deductive parts are deductively valid.
 
-#### Straightforward Assumption Identification
+### Straightforward Assumption Identification
 You will note that I did some assumption identification in presenting the argument of Example 7:18. This sort of assumption identification is usually necessary in responding in writing (or orally) to the writing of others. People usually do not state their full arguments, often because doing so seems to be a waste of time. In Example 7:18, it probably would have been a waste of time for the writer to state explicitly that the president did these things. It is obvious that this proposition is part of the argument. Identifying this assumption is so easy that the author did not bother to state it.
 
 Incidentally, in this case, the assumption identification is made easier by the fact that the one identified in Example 7:18 is not only a gap-filling assumption, but also a presupposition, given the way the argument is stated. The phrase "she would not have done them" presupposes that she did them. In that context, the use of that phrase involves a commitment to the assumption, regardless of the argument, making it a presupposition as well.
 
 But although its being an assumption is obvious, bringing such an assumption out in the open is often helpful. Suppose that you believe that the president actually did not do the things to which reference is made, or that it is uncertain whether or not she did them, or that she only did some of them and those that she did had little impact. Bringing the assumption out in the open is then a necessary step in writing a reply to the argument in Example 7:18. The argument is no stronger than its reasons, including its assumptions. In writing a reply, if the assumption is dubious, it should be made explicit and then discussed.
 
-#### Identifying Your Own Assumptions
+### Identifying Your Own Assumptions
 Similarly, it is wise to check your own assumptions when you write. Are you committing yourself to something you do not want to include in your commitments? Are you committing yourself to something you cannot defend? If so, it is a good idea to be aware of it. I am not saying that you must be able to defend every assumption. That would be impossible if you keep going back, and back, and back. But identifying your basic assumptions helps you to understand yourself and your disagreements with others. Furthermore, your basic assumptions should be defensible.
 
 Though not a writing example, the jury's judgment that Arlene was not justified in using the force she used employed an argument (Item 7:45, repeated as Example 7:19) using an unstated assumption that has since been identified and questioned by some associates.[^5]
@@ -419,7 +419,7 @@ The members of the jury did not stop to consider the assumptions behind the reas
 
 Regardless of how you would have decided, I hope that you see the importance of bringing forward unstated assumptions of your own arguments, in writing as well as verbal exchanges. The critical thinking disposition to try to be reflectively aware of one's own basic beliefs, mentioned in Chapter 1, applies here.
 
-#### Slippery Assumption Identification
+### Slippery Assumption Identification
 
 A significant danger in identifying someone else's assumptions is attributing assumptions that are more broad than the person needs, so broad that the assumption is easy to refute. You saw the potential for this before in the Texas Jane case (Item 7:32). One possible gap-filler in that argument is that all creatures throughout time that are treated unfairly for their entire lives will lash out at the world. This assumption is easy to refute for two reasons. First, it is a universal statement, and there are usually counterexamples to universal statements. Second, it is about all creatures throughout time, including horses and slaves, and we know of some who were treated unfairly throughout their lives, but did not lash out.
 
@@ -431,21 +431,21 @@ When you are writing about a position and identifying its assumptions, try to be
 
 Furthermore, when you are responding to someone's analysis of your position, be very wary of assumptions that the person attributes to you. People are often careless when identifying assumptions, attributing much broader assumptions than the position needs and then trying to refute the position on the ground that the position rests on a false assumption. This is one example of the *straw person fallacy* (setting up a "straw person" instead of the real position and refuting the set-up position). If someone does that to you, appropriate responses include asking why that assumption has been attributed to you and showing that your argument is a good one with a much less ambitious, and more plausible, assumption. Perhaps even more important, when someone attributes an assumption to you, ask yourself whether this attribution is a fair one. Can your argument stand with a less ambitious assumption?
 
-### &#43; The Distinction Between Needed and Used Implicit Assumptions in Real Situations
+## &#43; The Distinction Between Needed and Used Implicit Assumptions in Real Situations
 
 As you saw earlier, in attributing assumptions, you should try to be fair to the position. In actually deciding what to attribute, it helps to be clear about why you are attributing an assumption to the person or position. Are you trying to evaluate the argument to see whether you should believe the conclusion? Are you trying to show that the assumer is committed to something? Or are you trying to find out something about the way the person thinks? If you are trying to do the first two things, you are looking for *needed assumptions*. If the third, you are looking for a *used assumption*.[^6]
 
-#### Needed Assumptions
+### Needed Assumptions
 
-##### Evaluating a Position
+#### Evaluating a Position
 Needed assumptions are those that the argument, position, or explanation needs in order to be at its best. Suppose you are trying to evaluate a position in order to decide whether to accept the conclusion. Then you want to find out what is needed, but you want to give the argument its best chance to succeed; otherwise you might miss a good argument and fail to accept a conclusion that is justified. So you should be charitable in attributing assumptions to the position. In argument evaluation aimed at deciding the acceptability of the conclusion, you do not give an argument with an obviously false assumption when there is a better one available. This point was illustrated earlier with the Texas Jane example, Example 7:19.
 
-##### Ascertaining the Commitments of a Person or Position
+#### Ascertaining the Commitments of a Person or Position
 Similarly, when we are ascertaining the commitments of a person or a position, we look for needed assumptions and again should be charitable. We do not want to say a position needs something implausible when it could get along with a more restricted and thus more plausible basis.
 
 [^6]: For an extended discussion of these distinctions, see my "Identifying Implicit Assumptions," *Synthese*, 51, 1982, pp. 61–86. David Hitchcock (personal communication) has labeled these two types as *assumptions of the argument* and *assumptions of the arguer*, respectively.
 
-#### Used Assumptions
+### Used Assumptions
 
 When we are trying to figure out the thoughts or beliefs of someone, we do not try to be either charitable or uncharitable. Instead, we try to get it right. That is, we try to determine what is actually going on in the person's head because that is what will influence the other decisions the person makes. Here we are looking for a proposition that was actually used by the person in reaching the conclusion or offering the explanation. Therefore, these assumptions can be called *used assumptions*.
 
@@ -455,7 +455,7 @@ When I heard a teacher say, "Sam should receive an A because he did well on the 
 
 The process of identifying the one that the person most probably used is an inductive inference-to-best-explanation process, the topic of the next two chapters, so I shall only hint at it here. But the idea is to pick a proposition that best explains what the person does and says. Attributing this belief to the person should fit in with whatever else you know about the person.
 
-### Summary
+## Summary
 
 In this chapter, you have seen a brief review of some basic elements of deductive logic and an attempt to show the applications of deductive logic in straight deduction from acceptable reasons, loose derivation, assumption attribution, and the evaluation of hypotheses. This latter area of application, as well as the role of deductive logic in the evaluation of generalizations, in one type of explanation, and in value judging, are further considered in Chapters 8–11.
 
@@ -475,7 +475,7 @@ A principal danger in assumption identification is attributing an assumption to 
 
 &#43; When figuring out what a person believes, you identify used assumptions. To do this, you pick the one that is most likely to have been actually consciously (or unconsciously) used by the person. To decide this, you select the one that best explains what the person did and said. The result should fit with other knowledge about the person. Best-explanation inference is the topic of subsequent chapters.
 
-### Check-Up 7C
+## Check-Up 7C
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -485,7 +485,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 7:49 If a presupposition is shown to be false, then the truth or falsity of the statement of which it is a presupposition cannot be settled.
 &#43; 7:50 In attributing a needed assumption, one should try to be charitable, doing the best one can to help the argument.
 
-## Medium Answer
+### Medium Answer
 Consider the following passages. From the point of view of fairness in assumption attribution, tell whether you think the assumption attributions are justified and why. Add comments, if you like.
 
 7:51
@@ -505,7 +505,7 @@ You have said that the defense attorney should not be believed because he has a 
 Argument: You demand equality on the ground (as asserted in the Declaration of Independence) that all people are created equal. But people are not equal. People are different. Some people are taller than others. They have different eye colors. Males and females are obviously different from each other in appearance from birth onward. So not all people are created equal.
 Response: You are *assuming* that I define equality as equality in traits. But that's not what I mean. I am talking about equality in basic rights. We have equal rights to life, liberty, and the pursuit of happiness, among other things.
 
-## More Medium Answer
+### More Medium Answer
 
 7:56 In your own writing, identify an unstated assumption that you have made, justify your claim that your passage did actually assume this proposition, and tell whether your assumption is justified. Supply a copy of the passage.
 
@@ -523,9 +523,9 @@ Response: You are *assuming* that I define equality as equality in traits. But t
   a. Decide on your approach to it. Do you want to attribute a used or needed assumption? Why?
   b. State an assumption of the sort you just chose. Defend your decision to attribute that assumption to the passage.
 
-### Suggested Answers for Chapter 7
+## Suggested Answers for Chapter 7
 
-#### Check-Up 7A
+### Check-Up 7A
 7:1 T    7:2 F    7:3 F    7:4 T    7:5 F    7:6 T  
 7:2 Change *valid* to *invalid*.  
 7:3 Omit *and that is needed in order*.
@@ -600,7 +600,7 @@ AA, DV
 7:44 Whoever is in trouble with the director will be kicked out of the band.
 7:46 This is up to you.
 
-#### Check-Up 7C
+### Check-Up 7C
 7:47 F  
 7:48 T  
 7:49 T  
@@ -612,13 +612,13 @@ AA, DV
 
 *Note: Henceforth in this set, odd-numbered answers are omitted.*
 
-##### 7:54
+#### 7:54
 This is a reasonable job of assumption attribution. It fills a gap in the argument in a quite plausible way. However, there is more to the issue: The definition of *credibility* is possibly in contention. The assumption attributor probably interpreted credibility as the degree to which a source ought to be believed; the other probably defined it as the degree to which a source is likely to be believed. In the context of the jury trial, the first definition expresses the concept of concern. We were trying to decide whether we should believe him, not whether people are likely to believe him.
 
-##### 7:56 and 7:57
+#### 7:56 and 7:57
 These are up to you.
 
-##### 7:58
+#### 7:58
 a. A needed assumption, because the concern is about the truth of the conclusion "She is guilty."
 b. I would attribute these assumptions:
   1. If she could have run away to her parents' room, then she had a safe alternative to responding with violence.
@@ -626,8 +626,8 @@ b. I would attribute these assumptions:
 
 These propositions do fill the gap, and seem more plausible than alternative gap-fillers. Proposition 2 is more defensible than a broad claim to the effect that anyone who has a safe alternative to responding with violence should pursue it. However, I might, as an alternative to Proposition 2, attribute this somewhat broader (than Proposition 2) set of propositions: "If someone can easily escape a threatened attack and there is no other reason to do violence to the attacker, then one should escape rather than respond with violence. There was no other reason to do violence to the attacker. If she should have escaped rather than responded with violence, then she was not justified in using the force she used." I might use this broader set because a defense of the narrow Proposition 2 would probably drive us back to this set, and the set seems fairly plausible. However, it is still open to a challenge of a crucial part, "There is no other reason to do violence to the attacker."
 
-##### 7:59
+#### 7:59
 Deliberately omitted.
 
-##### 7:60
+#### 7:60
 This is up to you.

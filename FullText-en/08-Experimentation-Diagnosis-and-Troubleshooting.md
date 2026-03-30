@@ -1,4 +1,4 @@
-## CHAPTER 8 Experimentation, Diagnosis, and Troubleshooting
+# CHAPTER 8 Experimentation, Diagnosis, and Troubleshooting
 
 We all do experiments, sometimes good ones, sometimes bad ones, and sometimes in between. The results of an experiment are often offered as reasons in support of a conclusion. This chapter is concerned with experimenting and deciding whether experimental results provide enough support for a conclusion. It is also concerned with diagnosis of a problem situation, sometimes called troubleshooting, sometimes diagnosing, both of which have similarities to experimenting but are focused on what is wrong in some situation. Experimenting, on the other hand, is focused on generalizing, even though the result of an experiment is sometimes very specific.
 
@@ -6,7 +6,7 @@ More precisely, *experimenting* is the deliberate changing of something in a sit
 
 In terms of the FRISCO approach, we shall be examining whether reasons (R) support (I) the conclusion (F), when inferring (I) from experimental results and information (R) that is methodically gathered. We will also be concerned with writing, particularly of reports of the type of investigations discussed here.
 
-### Control Group Experimentation
+## Control Group Experimentation
 
 A friend has a patch of grass. For many years, a number of dandelions have been growing in this patch. Last year the friend decided to try a chemical on the patch in the hope that it would kill the dandelions, but not the grass. At the time of writing, the end of April, there are no dandelions in the patch, although there were many at this time last year. "She tried it and it worked!"
 
@@ -18,7 +18,7 @@ Here is one way to have improved the experiment and avoided the *post hoc* falla
 
 One simple kind of experiment (which I have just illustrated) is one in which the experimenter sets up two similar groups, introduces a special condition called the *experimental condition* in one group, but tries to keep the two groups otherwise the same. The group that undergoes the experimental condition is called the *experimental group*. The other group, called the *control group*, experiences standard conditions. The purpose is to see the difference, if any, in the results of the experimental and standard conditions. If there is only this one difference in conditions, a difference in the results is explained by the experimental condition, so the thinking goes. If other factors were also allowed to vary, then their variations might also explain the results. The point of a control-group experiment is to rule out possible competing hypotheses. You can see this in greater detail in two examples I shall describe. One is a classic control-group experiment about the origin of maggots and the other is an experiment that is like one I have conducted.
 
-#### Redi's Experiment with Meat
+### Redi's Experiment with Meat
 
 In the seventeenth century, it was widely believed that the "worms" one finds in decaying organic matter were spontaneously generated there. Spontaneous generation is the development of some form of life by itself without being parented. Francesco Redi (1626–1697), after making a variety of observations, developed the hypothesis that the "worms" developed from eggs that were laid by flies. In reading his report and in deciding whether to accept this evidence, be aware of the importance of Redi's credibility and of his having satisfied observation criteria:
 
@@ -30,7 +30,7 @@ The results for the control group made the experimental hypothesis more credible
 
 Note that there are other possible explanations that a creative person can imagine. For example, another possible explanation is that the material used in covering the flasks was poisonous to maggots. Another is that the material frightened the little maggots, so that they did not develop. There are always other possible explanations resulting from the introduction of the experimental factor. One strategy in experimentation is to design the experiment so that the plausible ones can be eliminated on the basis of the results, or to design other experiments to test these other possible explanations. For example, Redi might have designed an experiment to test the compatibility of the covering with the maggots, perhaps by leaving a hole in the covering for one group of flasks to see whether the covering is poisonous or frightens little maggots. But there would still be other possibilities, perhaps even less plausible than the ones I suggested. Can you think of any?
 
-#### A Critical Thinking Experiment
+### A Critical Thinking Experiment
 
 My other example bears on a general hypothesis of mine. It is that taking a course in critical thinking, using this book, tends to improve the critical thinking ability of students. I have designed an experiment to test this hypothesis. It goes as follows. I pick an experimental group and a comparable control group and give the students in each group a critical thinking pretest such as the *Cornell Critical Thinking Test, Level Z*.[^1] Then I teach this course to the experimental group and make sure that the control group is not exposed to this course or any like it. Let us suppose that the other experiences of the two groups (for example, their other courses) are essentially the same. Then, at the end of the course, I give the test over again. Suppose that the experimental group's average improvement turns out to be significantly more than the average improvement of the control group. I might well conclude that the critical thinking course brought about the greater experimental-group improvement in critical thinking ability revealed by the testing. Note that this is a specific conclusion about this one experiment. It is loosely implied by the general hypothesis mentioned at the beginning of this paragraph, but is different.
 
@@ -40,13 +40,13 @@ Actually there would be other possible explanations, some arising from the condi
 
 The imagined results also support the general hypothesis that taking a course in critical thinking, using this book, tends to improve the critical thinking ability of students. The original conclusion was not a generalization. It was only about the one particular situation. The generalization would be supported because it would be a broader explanation of the results of the experiment. However, the generalization would not be established by the one experiment because (among other reasons) the representativeness of the student population has not been established. It might be that such a course is effective in this decade for a certain kind of student from a certain part of the world, but not otherwise effective. From this one experiment, I should not generalize unless the situation and people involved are representative of the population covered by the generalization. I shall say more about generalizing later, but at least want to point out that the generalization might well receive some support from the results I imagined. The amount of support can vary with the specific situation and details.
 
-#### Summary and Comment
+### Summary and Comment
 
 In the maggot example and the critical thinking example, I have indicated the value of a control group when checking a hypothesis about a causal relationship. There are many complicated variations of control-group experimentation, but all are governed by the goal of avoiding possible alternative explanations of the result. As with all experiment-based conclusions, the details in these two cases are very important and more complex than I have been able to represent. I have only tried to convey the flavor of the thinking.
 
 Because it is difficult to obtain representative samples of students, I emphasized the distinction between a specific hypothesis that applies only to the experiment in question and a general hypothesis. I did not emphasize this distinction in the Redi experiment because I wanted to minimize the complexity of the first experiment I considered, and because I was willing to assume that Redi's samples of organic matter were fairly representative of maggot havens.
 
-### Check-Up 8A
+## Check-Up 8A
 
 **True or False?**
 
@@ -122,7 +122,7 @@ d. How would you redesign this experiment? Explain why you make the changes you 
 
 8:10 Design an experiment that uses a control group to test a hypothesis that interests you. Describe your experiment and tell why you plan it the way you do.
 
-### Systematic Control of the Variables—Without Using a Separate Control Group
+## Systematic Control of the Variables—Without Using a Separate Control Group
 
 In some experiments, it does not seem reasonable to set up a separate control group, but we still want to be able to limit the possible alternative explanations of the results. Suppose, for example, that we are trying to find out what influences the period of a pendulum, as found in a playground swing, or a grandfather clock. (The period is the time it takes for one swing back and forth). A separate control group does not seem necessary here. That is, it seems unnecessary to set up two groups of pendulums that are comparable to each other and to make a change in some factor in one group, leaving the other group as is, and watch them both at the same time. It seems that we need only a representative group of pendulums. A basis for comparison can be the pendulums before we make the change. We might even do our work with only one pendulum and then see whether we get the same results with other pendulums and in other situations. But we would vary only one thing at a time to locate the factor or factors that influence the period.
 
@@ -130,13 +130,13 @@ One fruitful beginning seems to be to make some intelligent guesses about what m
 
 But if we vary just the weight, and there is no change in the period, then we can probably rule out weight as a factor that has independent influence. The hypothesis that weight influences the period would be inconsistent with the facts. Then, if we vary the length but hold everything else constant, and find that the period is significantly different, we could probably conclude that length is a factor. This hypothesis would seem to be the only explanation of the change in period that we find. Thus, varying only one thing at a time can be a useful way to test hypotheses experimentally.
 
-#### Dependent and Independent Variables
+### Dependent and Independent Variables
 
 We use the word *variable* to refer to the things that change or might change in an experiment. In the investigation of factors that affect the period of a pendulum, the length of the pendulum is a variable. So is the weight. The period of the pendulum is also a variable. The period is called a *dependent variable* because, according to the hypothesis, its variation, if any, would *depend* on the variation of the others, which are called *independent variables*. They are called *independent* because variation in them is presumed not to be dependent on the variation of the other variables. For example, variation in the length is presumed for the sake of the investigation not to be dependent on the period. Independent variables, then, are those that are manipulated to see whether they affect a dependent variable. In the pendulum experiment, as I described it, the length and the weight are independent variables; the period is a dependent variable.
 
 Beware: There are technical uses of these terms that supposedly do not imply the causal relationships that I have just assumed. They occur in fields where some people are reluctant to assume or conclude that there are causal relationships. In these fields, the independent variable is that which is somehow prior. I find such uses misleading where I have encountered them, and do not recommend them to you.
 
-#### Difficulty in Controlling the Possible Independent Variables
+### Difficulty in Controlling the Possible Independent Variables
 
 In the pendulum experiment, it is fairly easy to vary the length while holding the weight constant, and to vary the weight while holding the length constant. But the independent variable, *time*, is not held constant. (The observations before and after the variation occur at different times.) Neither are all the things that vary with the time, such as weather conditions, phases of the moon, position of the sun, interest rates, the price of gasoline, the mood of the experimenter, and the number of bicycles in the bicycle rack. For the pendulum experiment, I would be willing to assume that these things do not matter. But for other experiments in which one tries to vary one thing at a time, things that change with time can matter. For example, in the dandelion experiment I described at the beginning of this chapter, the other things that occurred during the passage of time from one year to the next could have explained the absence of dandelions in my friend's patch of grass.
 
@@ -148,7 +148,7 @@ These are all exterior possibilities that were not introduced by us in the exper
 
 The test score difference from the second to third administration was significantly greater than the difference from the first to the second. Could we conclude *from only what I have told you* that the critical thinking course improved the students' critical thinking ability? I think not. Not only are there some possible alternative explanations introduced by what we did, but a number of things could have occurred as *time* passed that could explain the results, as I have indicated.
 
-#### Importance of Knowledge in the Area of Investigation
+### Importance of Knowledge in the Area of Investigation
 
 From these three examples, we can see that the idea of isolating and varying the independent variables one at a time (for a single group or thing) can be a good one, but there are limitations. One must be familiar with the area of investigation to decide this. We had to know about weights, lengths, and pendulums to decide on a good strategy for pendulums. Our knowledge of plants and things that influence them enabled us to realize that, even though the use of the chemical was followed by the nonappearance of dandelions at the regular time, this fact does not establish the effectiveness of the chemical. Instead, it provided a slim amount of support: The hypothesis that the chemical is effective could explain the results in my patch, but so could many alternative hypotheses.
 
@@ -158,7 +158,7 @@ We tentatively concluded that the critical thinking instruction did help improve
 
 When there are other plausible explanations of the results, the best we can say about a vary-one-thing-at-a-time experiment with a single group of subjects is that the hypothesis could explain the data and is consistent with it. We must undertake further investigation and experimentation to try to rule out the other plausible and even-slightly-plausible explanations, if we want to say something stronger.
 
-#### Greater Complexity: Multiple Variables
+### Greater Complexity: Multiple Variables
 
 In one well-known chemical puzzle, five colorless liquids, when mixed together, become yellow. Suppose the problem is to find out what minimal combination produces the color. What would you do? Think about this before reading further. (Incidentally, this problem—and the next one—show that there is not a sharp line between experimentation and diagnosis and troubleshooting. Their solutions seem to involve both experimentation and diagnosis.)
 
@@ -166,7 +166,7 @@ My strategy would be first to label the liquids A, B, C, D, and E. Then I would 
 
 Things can get more complicated than this. Suppose that you have five colorless liquids, A, B, C, D, and E, but that A and B are in fact the same kind of liquid. Suppose that the combination of C, D, and either A or B is necessary and sufficient to get the color, and that E makes no difference. But all you know at the beginning is that all five together make the color, and you are asked to find out which ones matter. You might find it interesting to try to design an investigation that will enable you to discover the factors that matter, doing at most, nine tests. Remember that your hypothesis must explain the data and that alternative hypotheses must be ruled out by the data.
 
-### Check-Up 8B
+## Check-Up 8B
 
 **True or False?**
 
@@ -214,19 +214,19 @@ I have been twenty pounds overweight for as long as I can remember. Then, on the
 
 8:21 Puzzle: There are five colorless liquids, A, B, C, D, and E. A and B are the same kind. The combination of C, D, and either A or B is necessary and sufficient for any mixture of them to be colored. E makes no difference. Describe an investigation in which you could discover these facts without knowing them in advance. Your investigation should employ at most nine tests, given that you already know that all five together make a yellow liquid.
 
-### Comparability
+## Comparability
 
 In a well-conducted experiment, the things compared and the treatments they receive must be sufficiently similar. Without similarity, there would be another possible explanation of the results: the dissimilarity.
 
 In my experimental control-group critical-thinking experiment, for example, if the two groups are different at the beginning, then that difference might account for the experimental results. If the groups are treated differently (in addition to the critical-thinking-instruction difference), then that difference might account for the differences in results.
 
-#### Random Assignment to Experimental and Control Groups
+### Random Assignment to Experimental and Control Groups
 
 One commonly recommended way to secure comparability of experimental and control groups is to start with one pool of objects (seeds, people, etc.) and assign them at random to the experimental and control groups. *Random assignment* is an assignment in which each object has an equal chance of being in either group. Random assignment does not guarantee that the groups will be the same because by chance one group could contain, for example, more tall students or more mathematics majors. But random assignment is held by many authorities to be the best way to secure similar groups.
 
 Although random assignment to experimental and control groups is easy to achieve for many types of objects (such as bean seeds and white rats), it is usually difficult to achieve in practical *and* representative situations involving human beings. For example, I have never succeeded in getting such random assignment in studies of critical thinking, nor do I know of any significant critical thinking study in which such random assignment was achieved. There have always been a number of practical problems that interfered. Random assignment is not impossible for human beings in practical situations; rather, it is difficult. Sometimes this difficulty leads people to select hypotheses that deal with artificial or nonhuman situations, for which random assignment is easier. Sometimes the difficulty leads people to test a hypothesis that they are really interested in, but in situations that are not at all representative of those we care about. Sometimes, the result is the neglect of experimental study of such important areas as critical thinking instruction.
 
-#### Alternative Ways of Securing Comparability of Groups
+### Alternative Ways of Securing Comparability of Groups
 
 People sometimes use other ways to achieve comparability of experimental and control groups. One is to try to match individuals, neglecting the individuals who were not matched. For example, for each individual in the experimental group, we might seek an individual outside of it who matches on IQ, sex, age, and socioeconomic status. The group of individuals who match up with the members of the experimental group would then be the control group. The unmatched members of the experimental group, if any, would then be neglected in compiling experimental results. But matching is very difficult to do, and the design is open to the charge that there might well be some other significant variable that could influence the results (for example, the one that accounts for the inability to find a matchee) and that is more heavily weighted in one of the groups. There is another common difficulty called *regression to the mean*, but it is beyond the scope of this book.
 
@@ -234,11 +234,11 @@ A commonly used way to achieve similarity is to find a total group that seems ro
 
 There are also statistical ways of attempting to equate experimental and control groups. I will not go into them here, nor into their difficulties. Consult a statistics text if you want to know about them.
 
-#### Experiments Without a Separate Control Group
+### Experiments Without a Separate Control Group
 
 The comparability problems exist not only for separate control-group experiments, but also for experiments in which the variables are controlled without using a separate control group. In the two-semester critical thinking instruction experiment described earlier (done without a separate control group), it was important that the group not have significantly changed from the fall semester to the spring semester. Otherwise, there would have been another possible explanation of the results. We had to monitor the situation closely, and even then we could not be certain that the group had not changed, thus inviting another plausible explanation.
 
-#### Summary So Far
+### Summary So Far
 
 Control-group experimentation and systematic variation without a control group can both be very helpful in eliminating possible alternative hypotheses. The simplest control-group experiment requires comparable experimental and control groups and the addition of one special factor to the experimental group situation; furthermore, all other factors should be the same for the experimental and control groups. The simplest systematic variation without a control group is to vary one thing at a time, holding the others constant. An advantage of control-group investigation is its control of factors that change with time.
 
@@ -250,7 +250,7 @@ You encountered a Latin term in this chapter, *post hoc*. The *post hoc fallacy*
 
 Experimental investigations must be accompanied by a good understanding of the situation and some good judgment as well. You have encountered the main ideas in experimental investigations, but there are many refinements. The main things to remember are to be alert for alternative possible explanations and keep asking yourself whether it all makes sense.
 
-### Check-Up 8C
+## Check-Up 8C
 
 **True or False?**
 
@@ -298,13 +298,13 @@ d. State another possible explanation of the results. Make it as plausible as yo
 
 e. Were Millie and Arturo justified in drawing the conclusion that they did? Why?
 
-### Experimental Reasoning Assumptions
+## Experimental Reasoning Assumptions
 
 When we reason about experiments, we make assumptions. That is, we take certain things for granted. Because of these assumptions, our results never give us the absolute certainty of a conclusion's following necessarily from the data. The most we can ever hope for is proof beyond a reasonable doubt, and often we have less than this.
 
 The type of assumptions I shall be discussing here come under the *I* in the FRISCO approach. This is the type of assumption that is needed to justify an inference.
 
-#### The Assumption that the Experiment Was Carefully and Properly Done
+### The Assumption that the Experiment Was Carefully and Properly Done
 
 Consider again the Redi experiment. One possible alternative explanation of the absence of maggots in the sealed flasks is that the meat was poisoned. That alternative hypothesis would explain why no maggots were observed by Redi in the sealed flasks. But if the experiment had been conducted properly, Redi would have taken steps to see to it that the meat was normal meat. In reasoning about the experiment, he assumed that the steps had been effective and that the meat was normal meat. This is one part of his broader assumption that the experiment had been conducted properly.
 
@@ -314,11 +314,11 @@ However, comparability of experimental and control groups was assumed in derivin
 
 In order that the control group results rule out the poisoned-meat hypothesis, Redi assumed that the experimental and control groups were similar at the outset. This assumption is part of the broader assumption that the experiment was properly conducted.
 
-#### Assumptions About the Way Things Happen
+### Assumptions About the Way Things Happen
 
 A second kind of assumption we generally make is about the way things generally happen. For example, as I suggested earlier, it was logically possible that maggots developed in the experimental group meat but saw the covering, were frightened by it, and became immobile, like a baby rabbit when frightened. Perhaps they then stopped growing because they did not eat, but went into a state of suspended animation, like hibernating bears. We might think that this is all wildly implausible, based on what we know about maggots, but if it had happened, it would have been an alternative explanation of Redi's failure to observe maggots around the meat in the covered flasks. In drawing his conclusion, Redi assumed that the maggots, if any were produced, would be detectable. This seems to be a plausible assumption about the way things happen, but Redi's reasoning did depend on it. It was one of many assumptions he made about the way things generally happen.
 
-#### Summary and Comment
+### Summary and Comment
 
 At least two general types of assumptions are generally needed in reasoning about experiments: assumptions about the degree to which the experiment was well-conducted, and assumptions about the way things generally happen. There is not always a sharp line between these types, because in deciding whether the experiment was conducted well, we make assumptions about the way things happen. For example, in deciding that the possible poisoning of the meat was a relevant condition, we made the assumption that poisoning of the meat would have prevented the growth of maggots. This last is an assumption about the way things happen. The need for these assumptions to be true makes thinking about the following two questions useful:
 
@@ -327,7 +327,7 @@ At least two general types of assumptions are generally needed in reasoning abou
 
 The importance of the assumptions about the way things happen shows the importance of knowing the field of study when doing or judging an experiment. This is part of knowing the situation, the *S* in *FRISCO*.
 
-### The Reasoning Pattern in Rejecting Hypotheses
+## The Reasoning Pattern in Rejecting Hypotheses
 
 When we reason from a denied prediction back to a denial of a hypothesis, the form of the reasoning follows deductive patterns you have seen earlier (in Chapters 5, 6, and 7). In Example 8:1, this rejection-of-the-hypothesis-reasoning is presented as a two-step process in order to emphasize the role of the assumptions.
 
@@ -384,7 +384,7 @@ Thus, establishing the falsity of *PMH* depends not only on the results in the c
 
 Can you develop an argument against the spontaneous-generation hypothesis, using the two-step procedure and a broad assumption? Try it.
 
-### Accepting Hypotheses: Four Criteria
+## Accepting Hypotheses: Four Criteria
 
 Although rejection of hypotheses follows a deductive pattern, the acceptance of hypotheses instead depends on the satisfaction of these four criteria:
 
@@ -397,23 +397,23 @@ The first three criteria give necessary conditions, and the fourth a desirable c
 
 Let us see how these criteria apply to the Redi hypothesis about the source of the maggots. In this discussion of these criteria, I leave out a number of qualifying words in order to convey the total picture. The application of these criteria is not as neat as it may appear, and requires good well-informed judgment.
 
-#### 1. The hypothesis would explain some facts.
+### 1. The hypothesis would explain some facts.
 
 If true, the hypothesis that the maggots were introduced by flies would explain how the maggots got to be on the meat: The flies had access to the meat and brought the maggots (by laying eggs that developed into maggots). In applying this criterion, we do not require that the hypothesis explain all facts, only some facts. It does this.
 
-#### 2. All other explanations of these facts are inconsistent with some other facts, given reasonable assumptions.
+### 2. All other explanations of these facts are inconsistent with some other facts, given reasonable assumptions.
 
 This is the elimination criterion. Roughly speaking, if all other hypotheses are ruled out, given reasonable assumptions, then the remaining one is probably acceptable, provided the other criteria are satisfied. If the hypothesis that the meat was poisoned, the hypothesis that the maggots generated spontaneously, and the hypothesis that the maggots were there but not observed, were all shown to be inconsistent with some facts, given reasonable assumptions, and these are the only hypotheses that have any plausibility, then Redi's hypothesis was strongly supported. It would satisfy this elimination-of-other-explanations criterion.
 
 An implication of this criterion is that if there is a plausible alternative hypothesis, then we must not endorse the original hypothesis. Furthermore, we must have made a legitimate effort to uncover plausible alternative hypotheses.
 
-#### 3. The hypothesis is not inconsistent with any facts.
+### 3. The hypothesis is not inconsistent with any facts.
 
 The accepted hypothesis should not be inconsistent with any facts. Imagine it to be a fact that flies lay eggs that hatch out as flies (in a way similar to chickens). Then Redi's hypothesis would have been unacceptable because the hypothesis is inconsistent with this imagined fact. However, this imagined fact was never established, so it did not refute the hypothesis. Ideally, the absence of facts that appear to be inconsistent with the hypothesis is a necessary condition for the acceptability of a hypothesis.
 
 However, we must not be too hasty. Apparently inconsistent facts or information can sometimes be explained away. For example, the fact that no eggs were observable in the meat that was open to the air seemed inconsistent with the Redi hypothesis, if the intermediary between the flies and the maggots was assumed to be eggs laid by the flies. This apparent inconsistency could be explained away by the assumption that the eggs were too small to be observed. This assumption turned out to be true when magnification techniques were used. There is often an uncertain area between inconsistency and the possibility that something can be explained away. Judgment is required and we often cannot be sure.
 
-#### 4. The hypothesis is plausible.
+### 4. The hypothesis is plausible.
 
 Satisfaction of the plausibility criterion is not a strict requirement. It just helps. Sometimes the hypothesis is a radical departure from what seems plausible. At one time, for example, it seemed implausible that flies laid eggs that turn into maggots. At one time, it seemed implausible that the earth was round, and at one time, Einstein's relativity hypothesis seemed implausible (and still does to many people).
 
@@ -423,7 +423,7 @@ The reasoning for hypothesis acceptance is not as neat as that in which hypothes
 
 Roughly speaking, the reasoning pattern in accepting a hypothesis is a process of elimination. We try to eliminate all the hypotheses; if just one remains and explains certain facts, we probably should accept it, at least provisionally. This pattern fits experimental reasoning. It also fits diagnosis, troubleshooting, and many other areas of reasoning, as we shall see.
 
-#### Summary So Far—and Comment
+### Summary So Far—and Comment
 
 We have seen that hypotheses may be rejected by the use of denial-of-the-consequent reasoning. We have also seen that there are four criteria for accepting a hypothesis:
 
@@ -440,7 +440,7 @@ We have also seen that experiments can be helpful in eliminating alternative hyp
 
 We shall now see that these general considerations also apply in the area of diagnosis and troubleshooting.
 
-### Check-Up 8D
+## Check-Up 8D
 
 **True or False?**
 
@@ -460,7 +460,7 @@ These criteria apply to hypotheses about what someone is thinking, about what ac
 
 Furthermore, in complex cases, the identification of many elements within FRISCO constitutes hypothesis formulation and judgment. For example, identification of the conclusion in some arguments, is difficult and engenders the hypothesis that a given proposition is the conclusion. It is similar with the identification of reasons, with the determination of the situation, with the identification of some assumptions, and with judgments about clarity (which often require judgments about what someone meant). There will be more about this broader applicability of these criteria for hypotheses in the next chapter.
 
-### Check-Up 8E
+## Check-Up 8E
 
 **True or False?**
 
@@ -508,13 +508,13 @@ f. Given the specified results (no significant difference), tell whether you thi
 
 8:39 Revise your appraisal done as 8:18 or 8:19. To the extent that you are able in a reasonable period of time, apply all the elements in FRISCO.
 
-### Diagnosis or Troubleshooting
+## Diagnosis or Troubleshooting
 
 Diagnosis and troubleshooting also produce and test hypotheses about the cause of a problem, but call for tests and analysis of symptoms. When either diagnosis or troubleshooting require deliberate intervention to see what happens, then it is also experimenting. The reasoning patterns for diagnosis, troubleshooting, and experimentation are similar. Furthermore, the general principles of diagnosis and troubleshooting are identical. What to call it depends on the field (for example, medicine *versus* auto mechanics).
 
 *Diagnosis*, or *troubleshooting*, is a type of activity that has the goal of finding out what is wrong with something that malfunctions. We all diagnose and troubleshoot. Some people do it for a living, but we all do it for personal reasons at least once in a while. Perhaps a flashlight does not work; perhaps a bicycle's gear shift is inoperative; perhaps one's own body has a problem: a fingernail breaks or one gets a headache. To diagnose or troubleshoot a problem with our bodies or a complex piece of machinery usually requires more knowledge than most of us have, so we are often very dependent on repair, maintenance, and medical people. In this section, you will see a few principles of diagnosis or troubleshooting. They can serve as guides to the things we can do for ourselves, but also as basic guidelines for professional troubleshooters and diagnosticians. You will also see some things that we can do for others to facilitate the diagnosing or troubleshooting that they do for us.
 
-#### Do-It-Yourself Troubleshooting: The Inoperative Flashlight
+### Do-It-Yourself Troubleshooting: The Inoperative Flashlight
 
 Consider first this simple example of my troubleshooting a defective four-battery flashlight (which I shall call *F*). The flashlight did not operate when the switch was turned on. I happen to know that some of the things that can cause flashlights to be inoperative are these: bad batteries, extreme cold, a broken filament in the light bulb, corrosion on the switch and other contacts, and separation of the electrical contact between the body of the flashlight and the head. The basic strategy is to rule out possible causes, that is, to rule out hypotheses about what is causing the malfunction. When all but one are eliminated, then that one might well be the cause of the problem. But we have to check to make sure.
 
@@ -526,7 +526,7 @@ Next, I was careful to keep the batteries identified as the *F* set and the *Z* 
 
 A simple procedure (and the thing that I did) was to put three of the original *Z* batteries in *Z* and try the original batteries one at a time as the fourth battery. That involved four more tests.
 
-#### Efficiency
+### Efficiency
 
 If testing had been very expensive or time-consuming (as it often is, though not in this case), the testing could have been done with fewer tests by putting two of *Z*'s original batteries in *Z* together with two of *F*'s batteries at once. Note that this is not varying one thing at a time. This shows that the method of varying one thing at a time, although the most thorough method, is sometimes too costly and inefficient to use.
 
@@ -540,7 +540,7 @@ If testing is expensive, narrow down the possibilities as quickly as possible. S
 
 A hypothesis is eliminated by its being found inconsistent with the test results, using denial-of-the-consequent reasoning. But there is always the possibility that it is the assumption that is faulty, rather than the hypothesis.
 
-#### Alternative Diagnostic and Troubleshooting Strategies
+### Alternative Diagnostic and Troubleshooting Strategies
 
 There are three basic strategies. The efficiency strategy just described is especially appropriate when testing is expensive, but requires an experienced insightful person, especially if an understanding of the functioning of the whole system is to guide the selection of which subsystem to test first. Without such deep insight, understanding is still required in order to divide the whole system into (usually) equal parts. Differential cost of testing, however, is also a factor. Given two equally likely subsystems, the one to test first is usually the one that is least expensive to test.
 
@@ -554,7 +554,7 @@ In actual practice, the best diagnosticians and troubleshooters use all three st
 
 Perhaps we might add a fourth strategy for the person too ignorant to engage in the simplest troubleshooting, especially if the testing might be dangerous: Call in an expert. Even here, there is an important critical thinking process: applying the criteria of credibility not only in the initial selection, but as the services of an expert continue to be used.
 
-#### Cooperating with Maintenance Specialists: Troubleshooting the Inoperative Radio
+### Cooperating with Maintenance Specialists: Troubleshooting the Inoperative Radio
 
 Like most of us, I am not competent to repair radios and many other items I use in daily life. But there are things that I can do to help specialists in their diagnoses. For example, when I was maintenance officer for an aviation club, there were many things I could do to help the radio specialists when a radio malfunctioned. Doing these things often saved the club both time and money, because otherwise the repairer would not have found the problem without expensive flight testing. It was important that I describe the complaint as fully as possible, stating the conditions under which the malfunction occurred, *and* those under which it did not occur.
 
@@ -562,7 +562,7 @@ One time a navigational radio needle became inoperative during a trip. To keep d
 
 [^2]: This discussion has been informed by the work of Scott D. Johnson and his associates. See their *Application of Cognitive Theory to the Design, Development, and Implementation of a Computer-Based Troubleshooting Tutor* (Berkeley, CA: National Center for Research in Vocational Education, 1992).
 
-#### Principles of Diagnosis and Troubleshooting
+### Principles of Diagnosis and Troubleshooting
 
 Although the particular strategy in diagnosis and troubleshooting depends on the facts of the situation and the expense involved, there are some general principles that fit into the hypothesis-testing approaches described earlier. Each possible cause corresponds to a hypothesis that explains the malfunction. Ruling out hypotheses narrows down the field of possibilities.
 
@@ -580,13 +580,13 @@ Do not memorize these principles. Understand them and practice applying them.
 
 Implicit in the application of these principles to the situations I described (and others as well) are the elements of the FRISCO approach. The question, "What is the defect?," and the hypothesis, "The fourth battery is bad," provided the foci (*F*) at different stages in the investigation. The reasons (*R*) included the facts that *Z* did not work when a particular battery was in it, but did work when the battery was replaced. An alternative hypothesis was that the bulb was bad, but that was refuted (*I*) by its working when the batteries were replaced. Criteria of inference (*I*) that I used were the criteria of hypothesis testing (presented earlier in this chapter). An assumption made in testing complex and expensive-to-test systems is that if a whole sequence of components works well, then each is all right. This assumption also bears on inference (*I*). Important situational (*S*) factors included the expense and time involved in doing tests and the extent to which the possible causes of a particular kind of malfunction are known. There was no particular problem with clarity (*C*) in these cases, although it was important for me in reporting to the radio repairer to know the meaning of a number of key terms such as *frequency* and *omni*. Lastly, the overview (*O*) process consisted of checking over my thinking and the evidence.
 
-#### Summary and Comment
+### Summary and Comment
 
 *Diagnosis*, or *troubleshooting*, is an activity that has the goal of finding out what is wrong with something that malfunctions. The basic strategy is to eliminate hypotheses that identify possible causes of the problem, to be methodical about this, and to check the results. To the extent that the possible causes are known and to the extent that testing is costly in time or money, methods should be used that are likely to rule out a large number of hypotheses at each test. To the extent that we know few of the possible causes, a more conservative vary-one-thing-at-a-time strategy is appropriate. If we have good reason to believe that one and only one thing can cause the symptom of the kind reported, select that. But check it out.
 
 Diagnosis and troubleshooting fit under the FRISCO approach to reasoning and investigation. All the elements are involved, as are all the critical thinking dispositions, especially the dispositions to take into account the total situation, to try to be well-informed, to look for alternatives, to endorse a position only to the extent that it is justified by the information available.
 
-### Check-Up 8E
+## Check-Up 8E
 
 **True or False?**
 
@@ -616,11 +616,11 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 8:48 A troubleshooting brain teaser for a rainy weekend: Suppose you have twelve pennies, eleven of which weigh the same, and one of which is off-weight, weighing either more or less than each of the others, but you do not know which. You also have a balance scale, on each side of which can be placed one or more pennies. The scale will show whether the weight on one side is equal to that on the other, or, if one side is heavier, will show which side is heavier. That is all the scale can do. It cannot be used to read weights. Suppose that it is very expensive to operate balance scales. Describe how to identify the off-penny efficiently, and to tell whether it is heavier or lighter than each of the others. Unfortunately, the difference in weight is too small for you to detect in any way but with this balance scale. If you can do this in three balancings, you are eligible for a Master General-Troubleshooter Efficiency Award.
 
-### Writing about Your Results
+## Writing about Your Results
 
 In writing about the results of your experimental, diagnostic, or troubleshooting work, the primary question to consider is "How will this report be most useful to the reader of this report (who might in fact be you, later on)?" The report should contain the information the reader needs to know in making future decisions.
 
-#### Reports About Experiments
+### Reports About Experiments
 
 Experiments are usually conducted in order to develop knowledge about a topic, such as knowledge about the nature of meat spoilage and ways to prevent it, or knowledge about the factors that affect the learning of critical thinking. Although standard forms for such reports vary from field to field, certain sorts of things generally should appear in such reports. These include the identification of the question or hypothesis, including definitions of key terms; a discussion of the significance of the question or hypothesis; a review of prior work in the area, on which the experimental results should build; a description of the procedures used, including methods of measurement if these are not obvious; a report of results; a discussion of the results, including their bearing on the hypothesis and the question, and including your conclusion; suggestions for further research; and an abstract, which generally appears at the beginning. When you write a report of your experiment, these items might provide an outline and be useful as subheadings, but they should be adjusted to fit the field of your work and the likely interests of your reading audience.
 
@@ -628,13 +628,13 @@ It is important to prepare a written report of some kind. Otherwise, the work is
 
 Because actual report organization justifiably differs in format from field to field, I cannot provide much more general advice, but do urge you to read a number of reports in your field before you write yours. Perhaps you will want to make some changes in the standard form for the field. This is best approached from a knowledge of standard practices and their strengths and weaknesses.
 
-#### Reporting the Results of Diagnosis and Troubleshooting
+### Reporting the Results of Diagnosis and Troubleshooting
 
 Reports of results of troubleshooting tend to be much shorter than reports of experiments, perhaps because the results are usually of interest to a much smaller audience, perhaps only the person whose body is being diagnosed or whose mechanism is the object of the troubleshooting. The results usually do not have general application, but there usually should still be a report when the results are significant, as in the repair of a car or the diagnosis and treatment of cancer. Such a report helps us to handle recurrences of the symptoms and to assess the adequacy of the treatment or repair.
 
 Such reports always should describe the remedial action taken, if any, such as "Filter #3045 replaced" or "Methocarbomyl prescribed." It is also desirable that tests be administered and their results described. The dates of the tests and the remedial action are essential. Description of the original symptoms is also important so that others can assess the appropriateness of the tests and can check on the diagnosis. Can you think of any other essential items?
 
-### Check-Up 8F
+## Check-Up 8F
 
 **Longer Answer**
 
@@ -642,7 +642,7 @@ Such reports always should describe the remedial action taken, if any, such as "
 
 8:50 Write up the results of some troubleshooting or diagnosis you have done. Describe your audience and the situation. Cover the topics mentioned in the text, unless you have good reason to do it differently. If feasible, assume that you are doing it for pay and submit a bill that justifies your charge, probably combining your report and your justification of your charges.
 
-### Chapter Summary
+## Chapter Summary
 
 In reasoning about experiments, we make assumptions of at least two kinds. One is that the experiment was done carefully and well. An assumption about comparability is of this kind. The other kind of assumption in reasoning about experiments involves the way things happen. Even though there is not a sharp line between the two kinds of assumptions, it is helpful to ask yourself about each. Because of the assumptions inevitably made in drawing a conclusion from an investigation, it is important that we be familiar with the subject matter of the investigation.
 
@@ -671,9 +671,9 @@ All the elements of the FRISCO approach apply to experimental reasoning, diagnos
 
 When you report the results of your experimentation, diagnosis, or troubleshooting, focus on what your audience needs to know. Follow the standard format for the field unless you have good reason to do otherwise, but in any case, be clear.
 
-### Suggested Answers for Chapter 8
+## Suggested Answers for Chapter 8
 
-#### Check-Up 8A
+### Check-Up 8A
 
 8:1 F 8:2 T 8:3 T 8:4 T
 
@@ -705,7 +705,7 @@ c. Yes. Two suggestions: Do a survey of the two classes' parents' attendance bef
 
 8:10 Check yourself: Be attentive to comparability of experimental and control groups, to seeing to it that the groups receive the intended treatments only, and to minimizing the possibility of plausible alternative explanations of the results.
 
-#### Check-Up 8B
+### Check-Up 8B
 
 8:11 F 8:12 F 8:13 T 8:14 F 8:15 F
 
@@ -741,7 +741,7 @@ O: After review I still feel that the first alternative hypothesis is such a pla
 
 8:21 Omit one at a time (five tests). Results: C and D are necessary; A and B, and E not necessary. Try only C and D together (the sixth test). Result: C and D are not by themselves sufficient. Try C and D together with each of A, B, and E (three more tests, making nine in all). Result: CDA works, CDB works, CDE does not work. Conclusion: C and D are each necessary and C and D and either A or B are jointly sufficient. E is not a factor.
 
-#### Check-Up 8C
+### Check-Up 8C
 
 8:22 F 8:23 T 8:24 T 8:25 T 8:26 F 8:27 F 8:28 T
 
@@ -753,7 +753,7 @@ O: After review I still feel that the first alternative hypothesis is such a pla
 
 8:29 and 8:30 Deliberately not included. Be sure to be attentive to the meaning of the conclusions (the *C* in *FRISCO*), especially for 8:30. Your evaluation will depend heavily on your interpretation.
 
-#### Check-Up 8D
+### Check-Up 8D
 
 8:31 T 8:32 F 8:33 F 8:34 T 8:35 T
 
@@ -772,7 +772,7 @@ c. No, because the differences in the teachers' personalities might well have ac
 
 8:39 This one is yours.
 
-#### Check-Up 8E
+### Check-Up 8E
 
 8:40 T 8:41 T 8:42 F 8:43 T
 

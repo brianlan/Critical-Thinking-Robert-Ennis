@@ -1,4 +1,4 @@
-## CHAPTER 10 Generalization: Meaning, Sampling, Typicality, Tables, Graphs, and Correlations
+# CHAPTER 10 Generalization: Meaning, Sampling, Typicality, Tables, Graphs, and Correlations
 
 Do you believe the following generalizations?
 
@@ -19,9 +19,9 @@ First, let us be clear about what generalizations are. A *generalization* is a s
 
 [^1]: (Englewood Cliffs, NJ: Prentice Hall, 1978).
 
-## Limited-to-the-Data and Inferred Generalizations
+### Limited-to-the-Data and Inferred Generalizations
 
-### Limited-to-the-Data Generalizations
+#### Limited-to-the-Data Generalizations
 
 These cover only the cases that have been examined. Suppose that we examine the eye color of everyone in the room, counting the number of blue-eyed people and the total number of people, and find eight blue-eyed people out of twenty-two. The resulting generalization "Eight out of the twenty-two people here have blue eyes" is a limited-to-the-data generalization. It does not go beyond the data provided by our counting.
 
@@ -31,7 +31,7 @@ For an illustration of these difficulties in a different field, suppose we exami
 
 These three kinds of problems hold for inferred generalizations also, and must always be kept in mind. They come under at least the *C* and *S* in *FRISCO*, and inevitably the *I* as well.
 
-## Inferred Generalizations
+#### Inferred Generalizations
 
 For the rest of the chapter, I shall focus on *inferred generalizations*. They go beyond the data on which they are based by claiming that the characteristic holds for a larger group. As I interpret Kimble's generalizations, they are all inferred generalizations. For example, his generalization about mental patients applies to mental patients in general, not just to those studied.
 
@@ -40,7 +40,7 @@ For the rest of the chapter, I shall focus on *inferred generalizations*. They g
 
 Some inferred generalizations are about a population, each member of which could be identified and studied if we had time and resources, such as a generalization about all practicing physicians in Urbana, Illinois, based on a sample of those physicians. Other inferred generalizations are about limitless populations, not all of whose members could be identified and studied, such as all mental patients, some of whom are dead, some of whom are not yet patients of any kind, and some not yet even born. We cannot secure the much-desired random sample of them. (There is more about random samples in the next section.) Generalizations that apply to limitless populations are theoretically the most difficult to evaluate because the nature of the population in the studied cases might be significantly different from the population in the cases we cannot study, rendering the generalization inapplicable. All of Kimble's generalizations apply to limitless populations.
 
-## Degree of Universality
+### Degree of Universality
 
 *Universal generalizations* hold that every member of the class being considered has the stated characteristic. They have the form "All A's are B's." Here are three examples:
 
@@ -52,17 +52,17 @@ The first of these universal generalizations is also a limited-to-the-data gener
 
 *Less-than-universal inferred generalizations* claim that the characteristic holds for some (loosely or precisely specified) subclass of the members of the class. All six examples from Kimble's list are less-than-universal inferred generalizations, as is the following probability generalization: "The probability of getting a four on one roll of a die is 1 in 6." According to this probability generalization, one-sixth of the rolls, in the long run, should be fours. This is less than universal because it says neither that every roll will be a four nor that none will be a four.
 
-### Gambler's Fallacy
+#### Gambler's Fallacy
 
 One danger in applying a probability statement is to fall into the trap of the gambler's fallacy. Suppose that the last ten rolls of the die have not been fours. Does that increase the chances of getting a four this next roll? To think so, assuming that the die is an honest one, is to commit the *gambler's fallacy*. If the six faces of a die have equal chances of coming up on top, then the past history does not affect the next roll at all. The chances of getting a four on the next roll are still 1 in 6, even though the last ten rolls have not been fours. But remember that I said, "assuming that the die is an honest one." If a long run record shows something significantly different from one out of six, then there is reason to suspect the die.
 
-### Streak Theory
+#### Streak Theory
 
 Suppose that the last two rolls have been fours. Does that increase the chances of getting a four on the next roll? Suppose you have been having a run of especially good hands at cards. Does that mean that the next hand is more likely to be better than average? According to the *streak theory*, the answers are both *yes*. The streak theory holds that if you have been having a streak of one kind of thing, then the next shot is more likely to be that kind of thing. But if the die and the cards are honest, the streak theory is wrong also. The probabilities do not change with history.
 
 Getting three fours in a row does not prove wrong the statement that the probability of getting a four is 1 in 6. (It is just that such a result is unlikely, if the probability statement is correct.) Similarly, finding one mental patient who is dangerous to others—or finding several—does not prove wrong the generalization about mental patients.
 
-### A Trade-off: Ease of Support Versus Utility in Application
+#### A Trade-off: Ease of Support Versus Utility in Application
 
 In general, a few counterexamples do not prove a less-than-universal generalization wrong because the generalization does not claim to tell us what to expect or believe for every case. It tells us roughly what to expect in the long run for some amount of the cases. But there is a trade-off. The more a generalization is insulated from counterexamples, the less guidance it provides about what to believe or do. Even those that loosely specify a proportion or probability give us more guidance than those that use words such as *sometimes* and *often*.
 
@@ -80,7 +80,7 @@ Consider the problem of the meaning of the terms in this generalization: "Three 
 
 All these facts about the meaning of the words in a generalization serve as a warning to be very attentive to clarity in considering and applying generalizations (the *C* in *FRISCO*). Generalizations often appear to say more than they do. The less they say, the easier it is to justify them, but often, consequently, the less useful they are (a generalization!).
 
-## Inference to Generalizations
+### Inference to Generalizations
 
 If the words "Three out of five doctors recommend Zenith Aspirin" are used to express an inferred generalization, then presumably the data consist of a set of doctors, three fifths of whom recommend Zenith Aspirin. The generalization makes a statement about more doctors than those in the data. But who are these other doctors?
 
@@ -103,7 +103,7 @@ This problem of breadth of coverage is a general problem in the meaning of gener
 
 Another question of meaning in this case, postponed earlier, is the meaning of the phrase *recommend Zenith Aspirin*. What sort of evidence does it take to establish that a doctor recommends Zenith? Does it mean that the doctor recommends only Zenith Aspirin, or that the doctor recommends Zenith as well as other kinds of aspirin and some other pain relievers as well? Because it is in the interest of advertisers (and others) to get us to buy the products advertised (and to do other things), we must be due cautious about the meaning of the words used by them.
 
-## Summary
+### Summary
 
 Generalizations are either limited-to-the-data or inferred, and either universal or less-than-universal. Less-than-universal generalizations are either proportional or loosely numerical (using terms such as *often*, *sometimes*, and *at least some*). Proportional generalizations are vague (using terms such as *usually* and *generally*) or precise (stating probabilities or percentages). In general, the more informative a generalization, the more difficult it is to defend; and the less informative, the less susceptible to defeat by counterexamples (the *trade-off principle*).
 
@@ -129,7 +129,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 10:8 If the generalization in 10:5 is true and if the last three tosses turned up tails, then the chances are better than even that the next will turn up tails.
 10:9 It is legitimate to extend a generalization to a population larger than the population from which a random sample was drawn, as long as we are assured that the sample was indeed random.
 
-## Longer Answer
+### Longer Answer
 
 10:10 Consider the generalization "Societies always develop class systems, even when organized with the goal of being classless." Assume that a class system is a system within a given society consisting of a prestige and power hierarchy (resulting in some identifiable classes' being of higher status and power) and in which somehow there is considerable passage of the class status of parents to their offspring.
 a. Cite examples and, if you can, counterexamples to this generalization.
@@ -151,7 +151,7 @@ Furthermore, the fact that the prediction was based on a return of only slightly
 
 Ways that survey makers can reduce the problem include providing a stamped self-addressed envelope, making it very easy to respond to the survey by asking few questions (or only one), following up on a survey request with a barrage of further requests to comply, perhaps appealing to the conscience of those being surveyed, and actually interviewing each person personally. There are problems with each of these approaches, as you can imagine, and no solution is perfect.
 
-## Random Sampling
+### Random Sampling
 
 How can a sample be selected that is representative of the population from which it is selected? Securing a random sample of sufficient size is the standard ideal answer. To say that a sample is *random* is to say that each member of the population had an equal chance of being selected. Securing a random sample requires that we have access to the entire population, so that each member has an equal chance of being included.
 
@@ -171,11 +171,11 @@ The absolute size of the sample, rather than the percentage of the population se
 
 Because it is often extremely difficult to secure a random sample of even 1,000 and to examine *every* member, there would still have been good reason for concern. Securing a random sample was practically impossible for the *Literary Digest* because of the problems of developing accurate lists and of securing valid information from every person selected for examination. The expense and difficulty of identifying and securing valid information from pure random samples bring people to seek substitute methods.
 
-## Systematic Sampling
+### Systematic Sampling
 
 An alternative that makes the process of selecting the sample slightly easier is systematic sampling. Instead of using a random selection process, a systematic process is used, such as selecting every tenth student on our list of 10,000 students, starting with an arbitrarily picked one of the first ten. The mechanics of this procedure are easier, leaving the selection process less susceptible to error (an advantage), but there is the possibility of systematic variation in the way that students are listed, a variation that might make the sample unrepresentative. I do not see much chance of this sort of thing in the ways that I imagine students would be listed, so I would settle for a systematic sample in this case. But a systematic sampling procedure would not have helped the people from the *Literary Digest*. They still would have needed complete lists and would have needed to secure returns from those sampled in a way that did not bias the results. Furthermore, systematic sampling would not have increased the efficiency of sampling. They would have had to do just about as much work one way or the other.
 
-## Stratified Random Sampling
+### Stratified Random Sampling
 
 Because of the difficulties involved in securing valid results from each member of a selected sample, stratified random sampling is sometimes used. *Stratified random sampling* consists of breaking up the population into groups, and then randomly sampling each group. It enables us to reduce—to some extent—the size of the group selected without losing accuracy, if we stratify on variables that are correlated with the characteristic we are estimating. Consider again the survey of student opinion about the president's thesis about tuition and fees.
 
@@ -185,7 +185,7 @@ Suppose that there are 2,500 in each class and that half of each class is female
 
 If there is a high relationship between class or gender and opinion about the president's thesis, we can manage with fewer people sampled without losing validity of results. In this case, we might be able to reduce our sample size by 30 percent, maintaining the same degree of accuracy. Stratified sampling down to about 88 people per group (about 700 in all) to study carefully would actually be an improvement over studying 125 per group (1,000 in all) less carefully. Their remarks could then be given more consideration, missing returns could be pursued more effectively, and interviews would be more feasible. Viewed differently, the cost of the interviewing without increasing the care of the work would be less with stratified sampling, not a full 30 percent less, but significantly less, if the interviewing is expensive. In any case, however, we would need a complete list of all the members of the population to make sure that everyone in each subgroup of 1,250 had an equal chance of being chosen.
 
-## Cluster Sampling
+### Cluster Sampling
 
 In its simplest form, *cluster sampling* calls for selecting a sample of groups (or clusters) from the total population being studied, and then sampling within the groups that are selected, but only from those groups. In effect, the *Literary Digest* people did cluster sampling, but they apparently did not sufficiently consider whether the groups they selected were representative of the total population. In fact, it is clear that these groups were not representative because they included only people with a telephone, or an automobile, or a subscription to *Literary Digest*.
 
@@ -210,7 +210,7 @@ A simpler but less accurate alternative: If there is some class hour when almost
 
 The numbers required here are vague—with only rough approximations—because of a variety of technical factors in determining the accuracy of estimation. Consult a text on sampling for more details. But from this account, you should now have a fairly good idea of the broad outlines of the process and the type of problems involved.
 
-## A Danger in Sampling, and the Case-Study Alternative
+### A Danger in Sampling, and the Case-Study Alternative
 
 Although random sampling and its variations seem to some people to be the only scientific way to estimate a characteristic without examining the whole population, there are those who disagree. The basis for the disagreement lies in the fact that examination of a large number of people often results in a superficial examination of each. Even though random sampling can reduce the number needed to somewhere between 100 and 2,000, depending on the accuracy desired, that still requires a large number of people, if the characteristic being estimated is not easily identified or measured. Eye color is easily enough determined for large numbers of people. Prospective voting intentions are less easily determined because people might be reluctant to tell the truth to someone they do not know. They might fear ridicule or rejection. Furthermore, they might not have thought about the matter enough at the time of the query, and make a snap judgment that would later be reversed.
 
@@ -220,7 +220,7 @@ An alternative that is often suggested is the case-study approach, or some varia
 
 Difficulties with case studies, according to their critics, are that generalization from case studies is not easy (or not possible), and that the reporter often puts his or her own subjective interpretation on the situation. The relative value of case studies is a controversial issue.
 
-## Inferring to a Broader Population
+### Inferring to a Broader Population
 
 It is tempting to draw a conclusion about a broader population based on a sampling from a population that is contained within that broader population. For example, we might be tempted to draw a conclusion about all university students in the country, based on a random sample of the opinions of the students in one particular university. You saw earlier the danger in inferring to all doctors from a random sample of a population of Urbana doctors, even though the random sample is a representative sample of Urbana doctors. And you saw the result of inferring to the United States population of voters in 1936 from a sample drawn from people with a telephone, automobile, or subscription to the *Literary Digest*. But such inferences are not always wrong. It depends on whether the sampled population is typical of the broader population.
 
@@ -230,7 +230,7 @@ Unfortunately, the rules for judging typicality do not have the clarity and prec
 
 But there is more to keeping your eyes and ears open and being well-informed. The best-explanation reasoning pattern can be applied here. If we make a number of studies of wheat, voting preference, or opinions about the college president's thesis, even though these are not of randomly selected clusters of the population and they respectively turn out about the same, then we might justifiably infer that the trait pervades the population if there is no other plausible explanation of the agreement among the results and if we responsibly have searched for one. Thus, a judgment of typicality can be buttressed by the best-explanation approach to reasoning.
 
-## Summary
+### Summary
 
 One standard way to justify an inference from a group to a broader population containing the group is to have the group be a random sample of the population. A *random sample* is a sample drawn in such a manner that each member of the population has an equal chance of being selected for the group. For the estimate to be accurate, the sample must be of fairly good size, somewhere between 100 and 2,000 depending on the confidence one seeks to have in the accuracy of the estimate. In securing this confidence, the size of the sample is much more important than the size of the population. A random sample of 1,000 from a population of 10,000 justifies not much more confidence in accuracy than a random sample of 1,000 from a population of 200 million, even though the proportions selected are very different (1 in 10 versus 1 in 200,000).
 
@@ -258,7 +258,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 10:18 There is no basis for inferring to a larger population than the population from which a random sample has been drawn, even though the larger population includes the population that has been sampled.
 10:19 A stratified random sample can justify a smaller sample, if the variables of stratification are related to the variable being studied.
 
-## Medium Answer
+### Medium Answer
 
 10:20 A tennis ball machine produces 2,000 tennis balls per hour. In order to check on the quality of the production, the inspectors systematically select 500 tennis balls (every fourth one) from the first hour of an eight-hour production run and the same number from the last hour of
 
@@ -314,7 +314,7 @@ The important point here is that comparisons can be misleading. When reading or 
 
 It is easy to be misled by tables. One must stop and think about the numbers. Numbers do frighten some people, but simple numbers like these need not be frightening. Just stop and think about their meaning (the C of FRISCO). A higher number of fatalities does not by itself mean that a place is more dangerous.
 
-## Graphs
+### Graphs
 
 Graphs that show relationships can be intimidating. But all it takes is reading the titles and thinking about the meaning of the points and lines. Look at Graph 10:1, which shows a point for each place plotted on two axes: one for fatalities and one for population. The line at the bottom on the horizontal direction is called the horizontal axis, and here it shows population. The line in the vertical direction is called the vertical axis; here it shows traffic fatalities. In looking at a graph, one first thing to do is to become familiar with what each axis represents, and of course, to read the title.
 
@@ -322,7 +322,7 @@ Each place has been represented by a point (shown by an x), determined by going 
 
 The display of points in a graph like that of Graph 10.1 is called a scatterplot. (I plotted the points and they are scattered about.) I also drew a line (called the line of best fit) that represents a hypothesis about the relationship in that set of places between population and fatalities in the year studied. Because the line does not go directly through all the points, there must be other things than size of population that influenced the number of fatalities.
 
-##### Graph 10:1 Traffic Fatalities vs Population in Sixteen Southern States and Washington, D.C.
+#### Graph 10:1 Traffic Fatalities vs Population in Sixteen Southern States and Washington, D.C.
 
 [Graph 10:1]
 
@@ -332,7 +332,7 @@ The limited-to-the-data generalization is this: For these seventeen places, larg
 
 Here is another limited-to-the-data generalization: In the areas studied, there tended to be fewer fatalities per person in and around the capital of the United States than in places away from the capital. Here is another inferred generalization: The people who live in and around Washington, D.C., tend to be more cautious on the highways. What do you think of these generalizations? They illustrate the distinction between observation and inference that I drew back in Chapter 4, if you are willing to think of the limited-to-the-data generalization as a set of observations. If not, then at least the distinctions are parallel and the warning the same: We generally must be more wary of inferences that go beyond the data than of the data on which they are based.
 
-## Positive and Negative Relationships
+### Positive and Negative Relationships
 
 In the highway fatality case, the line of best fit shows a positive relationship between population and fatalities. That is, it suggests that as the population gets larger, the number of fatalities increases as well. A line that slopes up as it goes to the right shows a positive relationship. As one variable gets larger, so does the other. In contrast, a negative relationship is one in which, as one variable gets larger, the other gets smaller. See Table 10.3 for an example.
 
@@ -353,7 +353,7 @@ To secure the information in Table 10.3, a copilot recorded information from a s
 [^6]: The pilot was attempting to maintain a constant indicated airspeed.
 [^7]: This information can be directly read from an instrument called a DME (Distance Measuring Equipment).
 
-##### Graph 10:2. Altitude vs. Temperature on a Selected Flight
+#### Graph 10:2. Altitude vs. Temperature on a Selected Flight
 
 [Graph 10:2]
 
@@ -371,7 +371,7 @@ Draw or imagine a scatterplot using altitude and distance from the airport. You 
 
 [Graph: Indicated Airspeed (miles per hour)]
 
-## Correlations
+### Correlations
 
 *Correlation coefficients* are a numerical way of expressing the degree of relationship between two variables. They range from +1 to -1, with 0 indicating no relationship at all. +1 indicates a perfect positive relationship; -1 indicates a perfect negative relationship. If a relationship is *perfect*, then there is a formula for precisely calculating either one, given the other. A high negative relationship is stronger than a low positive relationship. For example, a relationship of -.9 is stronger than a +.3.
 
@@ -383,7 +383,7 @@ As with other generalizations based on data, one must be careful in inferring be
 
 Although correlation coefficients can be very useful, be careful. Figures do not lie, but liars certainly do figure (and suggest misleading interpretations of the figures).
 
-## Summary
+### Summary
 
 Key features of tables and graphs are their titles and the labeling of their horizontal and vertical axes. Then one must also determine whether the numbers or lines mean what they might at first seem to mean. One way to do this is to see what bearing a conclusion drawn from data might have on you. For example, does the highway fatal-ity table tell you that you would be at greater risk in Texas than in other places considered?
 
@@ -407,7 +407,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 10:28 A correlation of +.8 indicates a stronger relationship than a correlation of +.4.
 10:29 A correlation of +.4 indicates a stronger relationship than a correlation of -.8.
 
-## Medium Answer
+### Medium Answer
 
 10:30 Make a scatterplot for altitude and distance from the airport for the data in Table 10.3. Draw a line of best fit.
 10:31 Make a scatterplot and line of best fit for altitude and vertical speed when the airplane is flying.
@@ -422,7 +422,7 @@ a. Is there an apparent relationship between these two variables? If so, is it p
 b. Do you think that there is a real causal relationship between these two variables? Defend your answer.
 c. Can the data be generalized to a general relationship between distance from the airport and temperature (for example, "The farther one gets from this airport, the colder it is")? Why?
 
-## Longer Answer
+### Longer Answer
 
 10:34 Do a study in which you gather data that can be put in a table and a graph. Make the table and a scatterplot and line-of-best fit graph. Give the titles to the table and graph, and label the rows, columns, and axes.
 a. On your scatterplot, did you start both variables at zero? If so, why? If not, why not?
@@ -450,7 +450,7 @@ c. Is there a causal relationship between the variables? If so, in which way? Ex
 
 10:10 and 10:11 These are up to you.
 
-## Check-Up 10B
+### Check-Up 10B
 
 10:12 F
 10:13 F
@@ -473,7 +473,7 @@ b. It would probably be better to select every sixteenth ball (a systematic samp
 10:21 Deliberately omitted.
 10:22–10:23 These are up to you.
 
-## Check-Up 10C
+### Check-Up 10C
 
 10:24 T
 10:25 T

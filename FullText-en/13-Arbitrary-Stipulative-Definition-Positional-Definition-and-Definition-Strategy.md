@@ -1,4 +1,4 @@
-## CHAPTER 13 Arbitrary Stipulative Definition, Positional Definition, and Definition Strategy
+# CHAPTER 13 Arbitrary Stipulative Definition, Positional Definition, and Definition Strategy
 
 Not all definitions are reported definitions. Sometimes, when giving a definition, we are accomplishing (or trying to accomplish) something else. In the following examples, only 13:6a is a pure reported definition:
 
@@ -28,13 +28,13 @@ a. Some people identify *freedom* with the absence of social direction and physi
 
 b. But rightly conceived, to say that someone is *free* is to say that the person possesses the power to think reflectively in an intelligent manner (a paraphrase of statements made by John Dewey in *How We Think*).
 
-### Arbitrary Stipulative Definition and Positional Definition
+## Arbitrary Stipulative Definition and Positional Definition
 
 In contrast to reported definitions, arbitrary stipulative definitions and positional definitions are not attempts to *make factual statements* about standard or other usage. Instead, they attempt to *give* a meaning to a term, phrase, or symbol, or to *express a position* on an issue. This way of looking at definitions emphasizes what a definer is *accomplishing* or *trying to accomplish*, rather than just the content of the definition and the form of the words used. The same words can be used to accomplish different things, just as a tool can be used to do different things. For example, a screwdriver can be used to turn screws, but can also be used to pry things loose, or to serve as a paperweight.
 
 Because most people do not consciously distinguish among these three types of definitional activity (reporting, arbitrarily stipulating, and expressing a position), they do not consciously choose to do one over the other. But these are three identifiable, important, and different definitional activities. You will find it helpful to be able to distinguish among them, so that you can assess the defense available for the definition in the context in which it is offered. Different definitional activities require different types of defense.
 
-#### Arbitrary Stipulative Definition
+### Arbitrary Stipulative Definition
 
 A person giving an *arbitrary stipulative definition* suggests or requests that we, the audience, agree to a meaning for a term for the sake of communication. (Note my use of the equivalent-expression form here.) In effect, an arbitrary stipulative definition provides a communication agreement to which we are invited or requested to assent. Henceforth, for the sake of brevity, I shall just call these definitions *stipulative*, leaving out the word *arbitrary*, though keeping it in mind. (This itself is a stipulated definition of *stipulation*.)
 
@@ -44,7 +44,7 @@ The primary motivation in a stipulative definition is convenience of communicati
 
 The basis for an apparently stipulative definition can be a reported definition. For example, I did not just invent a wild definition of *argument*. Based on and to some extent justified by a reported definition of *argument* in the field of critical thinking, I was both stipulating and (implicitly) reporting it. Similarly, in a class in English literature or a class in physics, the instructor might at one and the same time stipulate and report a meaning for *irony* or *work*. Part of an instructor's job is to teach students the standard meanings of special terms in the field of study. But the definitions are usually presented as requests, suggestions, or commands, as well as reports of usage. Thus, such definitions are usually partly stipulative (backed up by authority) as well as partly reported.
 
-#### Positional Definition
+### Positional Definition
 
 To give a *positional definition* is to express a position or point of view on some issue. This is a third kind of definitional activity. The definition of *murder* that was given to my jury (see Chapter 7, Check-Up Item 7:8) was a positional definition. Roughly speaking, the position expressed by that definition of murder is that an act that fits those criteria is among the most serious of crimes, deserving of serious punishment. Generally, the primary thing to defend in a positional definition is the position expressed by the definition.
 
@@ -98,13 +98,13 @@ Example 13:5, the definition of *segregated*, is borderline between classificati
 
 At this point, it might be helpful to examine Table 13:1, which depicts the form, activity, and content of a definition as three different dimensions of definition. Every definition given by someone is a composite of these three dimensions. Examples 13:1–13:6 are placed in the table.
 
-#### Summary
+### Summary
 
 *Arbitrary stipulative definitions* are attempts to specify a meaning for a term for the sake of convenience in communication. Little or no defense is required, but one should be careful to avoid stipulating a meaning for a term with positive or negative connotations in a situation in which the participants will not be flexible enough to leave these connotations out of their thinking. For the sake of brevity, I generally leave out the term *arbitrary* in labeling these definitions.
 
 *Positional definitions* are those that express or incorporate a position on an issue. Often the position is controversial. When this is so, and defense is not provided, they could also be called *persuasive definitions*. Although defense for positional definitions need not always immediately accompany them, defense should be available, and we should be ready to request a defense for positional definitions when they are offered to us.
 
-### Check-Up 13A
+## Check-Up 13A
 
 **True or False?**
 
@@ -143,11 +143,11 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 13:10 Judge the positional definition of *freedom* (*positive freedom*) that I attributed to John Dewey (Example 13:6b). Defend your judgment.
 
-### &#43; Definitional Strategy
+## &#43; Definitional Strategy
 
 Reporting a meaning, stipulating a meaning, and expressing a position through a definition are very different things. In discussing issues with others, developing oral and written material for presentation to other people, and understanding what others have done, you must make sure that these activities are not confused.
 
-#### The Need for Defense of Positional Definitions
+### The Need for Defense of Positional Definitions
 
 One principal danger in dealing with positional definitions is acting as if they are stipulations for convenience and need no defense. The rule that you can define a term any way you please does not apply to positional definitions. These must be justified. For the *segregation* definition, the wrongness of situations that would thereby be judged segregated needs to be shown. For the positive-freedom definition, it must be shown that it is generally more important to help students to think reflectively in an intelligent manner than it is to eliminate school-related constraints on them.
 
@@ -155,7 +155,7 @@ Both of these issues are more complex than I have indicated, but I hope you get 
 
 Because offering a positional definition often amounts to assuming crucial support for a conclusion, we have a right to ask for reasons. The simplest way to handle this problem is to ask "Why?" That is, "Why should that definition be accepted?" The answer "I have a right to define my terms however I like" is not acceptable for positional definitions. If someone gives you such an answer, then, in reply, you can point out some consequences that would arise from accepting the definition and point out different consequences that would arise from accepting a competing definition. Then you can point out that these differences must be defended.
 
-#### Introducing Confusion with a Stipulative Definition
+### Introducing Confusion with a Stipulative Definition
 
 Another possible danger lies in the use of definitions that are claimed to be stipulative, but in fact are not, and risk throwing a discussion off the track:
 
@@ -185,7 +185,7 @@ One way to handle such attempts to throw a discussion off the track is to be fle
 
 Another way is to refuse the stipulation. J might have said that M knows very well what J meant, and in that sense of the word *argument*, M and J were arguing. This strategy is appropriate if you have trouble being that flexible, or if there are other people listening, or somehow involved, who would have trouble being that flexible.
 
-#### Using a Positional Definition to Avoid the Issue
+### Using a Positional Definition to Avoid the Issue
 
 Another way of misusing definitions is to argue for (or assume) a positional definition of a term, draw a conclusion using the term in that sense, and then apply the conclusion in a way that actually ignores the real original issue, although the application may appear to bear on the original issue. This, in effect, is defining the problem out of existence. Consider this discussion:
 
@@ -221,7 +221,7 @@ Alternately, still accepting M's definition, J could distinguish among types of 
 
 A third kind of reply is to refuse to accept the positional definition of *selfish*. This could involve defending the so-called subjective element in the word *selfish*. The word *selfish* in my desk dictionary is defined as "concerned chiefly or only with oneself, without regard for the well-being of others." J could say that it was easy to see that M's cutting into line was done without regard for the well-being of others. So it was not difficult to show that the "subjective" element (acting without regard for the well-being of others) applies in this case. So the concept indicated by the reported definition in my dictionary is not defective in the way alleged by M. That concept does not need to be replaced, J could conclude. J could also note that not all people are selfish, in this dictionary sense, because many people act out of regard for the well-being of others, thus undercutting M's claim that everything everybody does is selfish.
 
-#### Equivocation: Shifting Meaning in Mid-Argument
+### Equivocation: Shifting Meaning in Mid-Argument
 
 Watch for definitional wizards who develop a stipulative or positional definition, draw a conclusion on the basis of the definition, and then apply the conclusion using the term in its standard sense. Consider this example:
 
@@ -249,7 +249,7 @@ Another possible move was to show that according to Q's definition, there should
 
 Can you think of any other possibly appropriate responses to Q?
 
-#### Impact Equivocation
+### Impact Equivocation
 
 It is often difficult to establish that the arguer consciously exploited a meaning shift. Therefore, I have invented a name for a fallacy that is like equivocation, because it has the impact of equivocation, even though we are not sure what the arguer is actually doing. This name is *impact equivocation*. To commit the fallacy of *impact equivocation* is to use a different meaning for a term than the meaning the audience is likely to understand it to have, with the impact on the audience being the same as if equivocation had been committed.
 
@@ -263,7 +263,7 @@ The term *reliability* is an example from the field of psychometrics (testing). 
 
 The extent to which a person has committed the impact equivocation fallacy depends on the audience. That is, it depends on the extent to which the audience is likely to be fooled into accepting the conclusion in one sense of the key term rather than the sense in which the arguer claims to be using. In order to avoid this fallacy, we have a responsibility to try to know the audience and to take steps to warn the audience, if there is danger of their being misled. If a warning will not provide adequate protection (perhaps because the audience is too inflexible to handle the ambiguity), then the arguer has a responsibility to avoid the ambiguous use of terms.
 
-#### Considering Several Possible Meanings
+### Considering Several Possible Meanings
 
 One basic (though often complex) strategy for dealing with possible equivocation, impact equivocation, and other problems arising from the meaning of terms is that of evaluating the argument several times, each time interpreting the key terms in accord with each of their possible meanings. Then the argument is judged separately for each of its possible interpretations. Roughly the strategy goes as follows: If the meaning is *Y*, then the judgment is such and such. If the meaning is *Z*, then the judgment is such and such (and so on, for as many plausible interpretations as exist). Then, if every judgment is that the argument is defective, and if there are no other plausible meanings for the key term (or terms), then the argument is given a final judgment of defective. Simply put, the final judgment would then consist of the following summary statement: "Whatever the interpretation, the argument is defective. Therefore, the argument is defective." This overall judgment follows from the individual judgments and the assumption that all reasonable interpretations have been included.
 
@@ -271,7 +271,7 @@ This strategy could be applied to the example dealing with selfishness. Consider
 
 At the end of Chapter 11, you saw an argument about absolutism and relativism. It did not seem possible to report one consistent meaning of the term *absolutism* because it was not clear what meaning was in use in that argument. So the strategy I adopted was to identify the most likely and examine the argument from beginning to end for each meaning, making sure that only that one meaning was considered throughout that particular examination of the argument. This strategy requires flexibility on the part of the reasoner and the audience.
 
-#### A Simpler Strategy
+### A Simpler Strategy
 
 A simpler (but less thorough) strategy would have been to pick only one meaning for *absolutism*, defend the choice of that meaning, and then (assuming that meaning) examine the argument. For example, I could have offered the following more simple response:
 
@@ -283,7 +283,7 @@ In this simpler strategy, one picks the most likely interpretation and argues ag
 
 The strategy of considering several possible meanings could have been even more complicated. Suppose that there are two terms in an argument, one of which could be interpreted in two ways, the other in three ways. Then an exhaustive treatment would require six (two times three) evaluations of the argument, one for each of the six possible combinations of the meanings of the key terms. For practical reasons, this complexity must sometimes be replaced by the simpler strategy of working initially with the one set of meanings that we think the speaker has probably intended.
 
-### Summary
+## Summary
 
 Although there is no sharp line between arbitrary stipulative and positional definitions, they are very different at their extremes. A pure *arbitrary stipulative definition* is a suggestion, a request, or a demand that the audience agree to a meaning in order conveniently to conduct the business at hand. We have much freedom in giving arbitrary stipulative definitions, although we are limited by the flexibility of the audience. A standard *positional definition*, on the other hand, expresses a position or point of view on some issue. In giving positional definitions, we are bound by the limits that the situation sets for the word or phrase in question. Often the word has positive or negative connotations, and the positional definition is an attempt to capture these connotations for things that would then be labeled by the word or phrase.
 
@@ -319,7 +319,7 @@ There are many variations on these basic ideas.
 
 The S and C in FRISCO are especially important when dealing with problems of definition and equivocation. We must try to be clear, and we must keep the situation in mind, continually asking ourselves to consider the consequences when performing or accepting the verbal maneuver under consideration.
 
-### &#43; Check-Up 13B
+## &#43; Check-Up 13B
 
 **True or False?**
 
@@ -371,7 +371,7 @@ For each of the following, reproduce the dialogue, specifying the context, and e
 
 **13:23** A dialogue or exchange in a newspaper (such as a pair of letters to the editor) or magazine in which a positional definition was misused somehow.
 
-### Writing That Consciously Takes Account of Definitional Activities
+## Writing That Consciously Takes Account of Definitional Activities
 
 In writing a position paper, you often need to make clear just how you are using specific terms. For example, when I write position papers in the area of critical thinking, I need to say what I mean by *critical thinking*. Otherwise, people wonder. So I start by offering a reported definition of *critical thinking*: "reasonable and reflective thinking that is focused on deciding what to believe or do." This is a reported definition because it captures as well as I can the central meaning of this term as used in the English-speaking world. I might be wrong about it, but it is the best I can do, and it does provides a basis for whatever else I want to do in the paper.
 
@@ -383,7 +383,7 @@ When you offer a positional definition, be sure that you do not behave as if it 
 
 You need not always provide definitions. If the meaning is clear to the audience, you are wasting their time with definitions. But often the mistake goes in the other direction, when definitions are needed but not provided. You must decide, based on your appraisal of the situation.
 
-### Check-Up 13C
+## Check-Up 13C
 
 **True or False?**
 
@@ -411,7 +411,7 @@ b. Alexander Hamilton's letter to George Washington, in which he defends the con
 
 **&#43; 13:29** Do the same for an editorial in a newspaper. Be sure to provide a copy for your instructor to see.
 
-### Suggested Answers for Chapter 13
+## Suggested Answers for Chapter 13
 
 **Check-Up 13A**
 

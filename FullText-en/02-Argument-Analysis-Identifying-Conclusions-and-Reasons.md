@@ -1,9 +1,9 @@
-## CHAPTER 2 Argument Analysis: Identifying Conclusions and Reasons
+# CHAPTER 2 Argument Analysis: Identifying Conclusions and Reasons
 
 Before you can be confident in your judgment about an argument, you must know what the argument is. The first thing to do is to determine the focus (the *F* in *FRISCO*). In an argument, the focus is the conclusion—the thing that the arguer is trying to get us to accept. So the first thing to do is to identify the conclusion.
 Generally, the second thing to do is to identify the reasons (the “R”) offered in support of the conclusion. In preparation for judging the inference (the “*I*”), it is also usually helpful to make a deliberate effort to see how the conclusion and the reasons fit together. These activities of argument analysis are not always as easy as they seem, and they are the concerns of this chapter. In later chapters, we will look at deciding whether to accept reasons and inferences. Here our concern is just to figure out what are the reasons and conclusions and to figure out their relationships to each other.
 
-### The Murder Trial
+## The Murder Trial
 
 The murder trial I mentioned earlier will be the source of a number of my examples, so I shall give some more background about it. I have changed some features in order to protect privacy and have unavoidably omitted a number of details of the situation.
 Arlene Burr was on trial for the murder of her boyfriend, Al Hamilton. Arlene, 22, was living with her parents that cold night in January when it happened. Arlene and Al had been out in his car, and returned at about 11 P.M. According to the prosecutor, Arlene was jealous because Al was going with another woman, and she lured him into the dining room and stabbed him in the heart. He died within five minutes of the stabbing. There were no witnesses to the stabbing, although there were people in nearby rooms.
@@ -20,11 +20,11 @@ At the end of the trial, the prosecuting and defense attorneys each had a chance
 6. The first person to touch the body after the stabbing was the ambulance driver, who reported that he arrived to find Al dead five minutes after Arlene’s father called in. Her father said that he called as soon as Arlene came into her parents’ bedroom with a bloody knife in her hand. Her father also said that he prevented anyone from entering the dining room until the ambulance driver *did* so.
 7. We must therefore conclude that, although she loved him, Arlene *did* perform the act that caused Al Hamilton’s death.
 
-### Conclusions and Reasons
+## Conclusions and Reasons
 
 The final conclusion in this part of the prosecutor’s summary speech is this proposition: “Arlene performed the act that caused Al’s death.” There are several reasons for picking this one. I will consider these reasons and talk about various criteria for identifying conclusions and reasons. (By *criteria* I mean rules or guides for making a judgment.)
 
-#### Criteria (or Cues) for Identifying Conclusions
+### Criteria (or Cues) for Identifying Conclusions
 
 One excellent criterion for something’s being a conclusion is the author’s (or speaker’s) calling it a conclusion. In the prosecutor’s Paragraph 1, he did just this.
 In the first sentence of Paragraph 7, the prosecutor used two other clear conclusion indicators: “therefore” and “conclude.” The use of either of these indicator words is a very reliable criterion for identifying a conclusion. (He did not need two indicators here. Sometimes people use more than one for emphasis.)
@@ -42,11 +42,11 @@ Often, the conclusion appears at either the beginning or the end of a paragraph 
 Writers and speakers often put the conclusion at the beginning in order to get your attention and to enable you to see why they are saying the things they do. This is a good practice, especially when the topic and the reasoning are complex. On the other hand, sometimes people put the conclusion at the end to make it clear what they hope to have accomplished. It is often a good idea to do both—to put the conclusion at both the beginning and the end.
 However, placement is not a thoroughly reliable criterion. People sometimes put their conclusions in the middle, and sometimes they do not even state them explicitly at all, leaving it up to you to figure it out. But searching around at the beginning and at the end of a passage is helpful. The conclusion is often in one place or the other (or both).
 
-#### Conclusion-Suggesting Emphasis Terms: Must, Should, Etc.
+### Conclusion-Suggesting Emphasis Terms: Must, Should, Etc.
 
 Often, when there is no clear conclusion indicator, the conclusion has an emphasis term such as *must* or *should* in it, suggesting that it is the conclusion. This happens at the end of Paragraph 3: "Arlene’s knife stroke must have caused his death." One of the signs suggesting that this is the conclusion is the word *must*, which is used for emphasis here. The prosecutor is saying that the evidence forces us to accept the conclusion that Arlene’s knife stroke caused the death. Unfortunately, the word *must* (and others like it) have other functions, so they are not very reliable indicators.
 
-### Check-Up 2A
+## Check-Up 2A
 
 **True or False?**
 If a statement is false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -85,21 +85,21 @@ Before you do these things, be clear about what pieces of paper you will use to 
 **2:22** She must have hated him. He was going with another woman, wasn't he?
 **2:23** Tom Jeffers could not have killed Al Hamilton. Tom was in the local hospital from 10 P.M. to midnight and Al was killed at about 11:05 P.M.
 
-#### Reasons and Intermediate Conclusions
+### Reasons and Intermediate Conclusions
 
 Often a conclusion serves as a reason for another conclusion. Then it is called an intermediate conclusion. For example, the conclusion of Paragraph 5, "There was no one else in the dining room at the time," is in turn a reason for the conclusion of the part of the prosecutor's speech that you read, "Arlene performed the act that caused Al Hamilton's death." This conclusion, given the rest of the prosecutor's summary speech, was a reason for the prosecutor's ultimate conclusions, "Arlene is guilty of murder" and "Arlene is guilty of voluntary manslaughter."
 
 In order to avoid confusion, let us limit the use of the label *intermediate conclusion* to any conclusion supporting another conclusion that is part of the passage under consideration. Otherwise, almost every conclusion would be called an intermediate conclusion.
 
-#### Nonindicators
+### Nonindicators
 
-### Some Words that Signal Importance
+#### Some Words that Signal Importance
 
 One set of words in the first paragraph, although it does introduce the main conclusion, is not a reliable indicator that what comes next is a conclusion of the reasoning that is presented. Those words are "it is clear that." Sometimes, such words are used instead to introduce a reason that is not defended in the surrounding line of reasoning. Note their use in Paragraph 5 to introduce a reason. Other words that can introduce either a conclusion or a reason are *obviously* and *there is no doubt that*. Note the word *obviously* in the last sentence in Paragraph 2 and in the last sentence of Paragraph 5. In one place it introduces a reason; in the other, a conclusion. These kinds of words, although they generally introduce statements that are important, are not reliable indicators of a conclusion. They express the speaker's (or author's) self-confidence and sometimes serve to intimidate people. Beware of being intimidated by such words.
 
 Because I have so often seen such terms used to introduce statements that are not at all obvious, I make a practice of deliberately checking to see whether things called obvious really are obvious. I recommend this practice to you. It applies to expressions such as *it is obvious*, *it is clear that*, *there is no doubt that*, and *of course*. (Do not use such terms to hide the weaknesses in your own arguments or to intimidate people. Instead, have good arguments!)
 
-### Contrast Words
+#### Contrast Words
 
 The word *although* is an important word in arguments. Note that the prosecutor used it in the last paragraph when he said, "although she loved him." Usually, the word *although* indicates something that is neither a reason nor a conclusion. It usually introduces something that contrasts with what the person is trying to show. Other language that does the same thing is the phrase *despite the fact that*.
 
@@ -110,7 +110,7 @@ Members of the jury, although Arlene loved Al Hamilton, she murdered him. In fac
 Note the contrast and concession at the beginning of Paragraph 4: “You might think that Arlene is not strong enough to stab someone that seriously, but remember that the knife stroke was not a powerful one.” The phrasing “You might think that . . . , but . . . ” often suggests that the opposite (or the denial) of what you might think is really the conclusion. In Paragraph 4, this is so. That is, “Arlene is strong enough to stab someone that seriously” is the conclusion of Paragraph 4. (I will consider this example in greater detail later on.)
 There are a variety of other devices that indicate something important that a speaker wants to get across without necessarily indicating a conclusion. Trying to list them all is unnecessary because you probably have the idea by now. To check this, I ask you to think about whether the words *but* and *however* are conclusion indicators. Always? Sometimes? Never? Can you give some examples to support your answer?
 
-#### The "Therefore" Test
+### The "Therefore" Test
 
 When there are no clear conclusion indicators, it is sometimes helpful to use the “therefore” test. To do this, you take each proposition you are considering as a possible conclusion (one at a time), move it to the end of the passage, insert the word “therefore” in front of the proposition, and see which result makes the most sense. Consider this example:
 
@@ -150,7 +150,7 @@ She did not intend to kill him. Therefore, the knife stroke was delivered with o
 Both results make sense to me before we take the *Situation* (the *S* in *FRISCO*) into account. Consider the situation: Who said the sentences in Example 2:4 and what was his role in the trial? Assuming that the selection is intended to be an argument, it makes more sense for the defense attorney to have 2:5 in mind because it argues for a conclusion that he wanted us to accept. Considering the situation in which the argument arises helps us then to decide which is the conclusion.
 Even though the “therefore” test does not always give the answer by itself, it is a useful device. It often clearly reveals the conclusion, and usually is at least of some help. Because it is the writer’s intended conclusion that we are trying to determine in this chapter, we often cannot be sure that we have determined it. Sometimes writers themselves are not sure what they are trying to prove, and often what they say can legitimately be interpreted in different ways. For some examples, look at the letters to the editor in your local newspaper. However, despite this difficulty, the “therefore” test is often very helpful.
 
-### Check-Up 2B
+## Check-Up 2B
 
 **True or False?**
 
@@ -180,7 +180,7 @@ For each of the following arguments, (a) underline the conclusion twice and (b) 
 **2:38** Write out an argument in which you use the words *although*, *obviously*, and *must*.
 **2:39** Are the words *but* and *however* conclusion indicators? Give examples to support your answer.
 
-### Propositions with Two or More Parts
+## Propositions with Two or More Parts
 
 A proposition is a complete thought that can be asserted separately and meaningfully by itself. *Jane’s baseball glove is missing* is a proposition in this sense. So is *She went to the park today*.
 Although reasons and conclusions are not always simple separate propositions, they are simple and separate in the following argument:
@@ -209,11 +209,11 @@ This leads us to the second practical consequence: When you assert an *if-then* 
 
 How would you apply these ideas to sentences containing the word *when* or *whenever*? Here is an example of such a sentence: "When the Dodgers win, I am happy." Another: "Whenever it rains, the streets are wet." Think about it.
 
-### Figuring Out the Conclusion
+## Figuring Out the Conclusion
 
 Earlier in this unit, we considered some conclusion indicators that are right before your eyes, such as *therefore*, *so*, and placement in a passage. Sometimes, however, you must figure out the conclusion that was intended when the clues are less obvious and the “therefore” test does not settle it. The general question to ask is this one: Given the things that the author said and the situation (the *S* in *FRISCO*) in which they were said, what makes the most sense for the author to be concluding? I shall suggest three loose criteria to help decide. The first two of these criteria really are just an expansion of the “therefore” test.
 
-#### Three Criteria for Identifying Conclusions
+### Three Criteria for Identifying Conclusions
 
 Consider Paragraph 4 of the prosecutor’s speech:
 
@@ -273,17 +273,17 @@ The most important consideration here is the second criterion. It calls for us t
 Next, let us attempt to apply the third criterion. Because only one part of the argument (E) is supported by the rest, it uses more of the rest for its support than any other part, so E is again preferred.
 All the signs point to E’s being the conclusion, and the second criterion points to it very strongly. There is no reason to think that the conclusion has been left unstated. So we should choose E.
 
-#### Unstated Conclusions
+### Unstated Conclusions
 
 Sometimes people do not explicitly state their conclusions. You must figure them out by making one or more intelligent guesses and checking them with the “therefore” test or the three conclusion-identification criteria just discussed. The conclusion in Example 2:10 is not stated. Can you figure it out?
 
-## Example 2:10
+#### Example 2:10
 
 If Sean were in school, then the soccer ball would be in the box. But the soccer ball is not in the box.
 
 The one conclusion that occurs to me is that Sean is not in school. It satisfies the “therefore” test. In the situation in which I heard the argument, it also satisfied the three criteria for identifying conclusions. In that situation, it quite probably was the conclusion.
 
-### &#43; Because in Explanations that Try to Account for Something
+## &#43; Because in Explanations that Try to Account for Something
 
 The word *because* (or *since*) does not always indicate that the other part of the sentence is a conclusion. Sometimes it introduces something that is supposed to account for something else. Then, instead of introducing reasons for conclusions in arguments, it introduces explanatory factors. Here is an example (quoted earlier):
 
@@ -300,7 +300,7 @@ In a way, of course, the whole explanation was part of an argument offered in su
 The main point for now is that sometimes passages that look like arguments for a particular conclusion are not that at all. Rather, they are attempts to account for a consequence. In such a situation, the goal is not to prove a proposition that might look like a conclusion. Rather, the truth of that proposition (for example, “She killed him”) is taken for granted and the passage tries to account for it (that is, to explain why the event happened).
 If you try to apply FRISCO to an explanation and treat the consequence as the conclusion, you will run into trouble. This is because FRISCO is aimed at deciding whether to accept the conclusion. Generally, in the account-for type of explanation, the proposition that looks like a conclusion is already assumed to be true, so the decision about that proposition is already made.
 
-### Summary So Far
+## Summary So Far
 
 So far in this chapter, the primary concern has been with the first two elements of the FRISCO approach to argument judgment: 1) Focus (identifying the conclusion) and 2) Reasons (identifying the reasons, though not judging them). You have considered indicators that point to the conclusion and reasons in an argument. These include *therefore*, *so*, *because*, and placement in a passage. You have seen and used the “therefore” test. You have also considered three criteria that are more precise than the “therefore” test:
 
@@ -314,7 +314,7 @@ You have seen that the two parts of an *if–then* proposition are generally tre
 As a result of your study of this chapter so far, you should be more adept at picking out conclusions and the reasons offered to support them. When it is not your own conclusion that you are identifying, it is not always possible to be confident that you have succeeded in identifying it. The intentions of other people are sometimes difficult to discern, and some writers and speakers are just not clear. So the identification of someone else’s conclusion is a matter about which reasonable people might differ. For example, you might reasonably differ with some of the proposed answers at the end of this chapter. Still, you should have more justified confidence in your ability to identify the parts of an argument.
 This identification of conclusions and reasons is related to the other elements of critical thinking. That is, you sometimes need to judge the inferences in order to guess what it would have been reasonable for the author to have concluded. So you also had a little practice in this chapter at making decisions about whether to accept the reasons and the inferences in an argument. The rest of this book focuses on these decisions.
 
-### Check-Up 2C
+## Check-Up 2C
 
 **True or False?**
 
@@ -391,7 +391,7 @@ The nation's schools still have a long way to go to deserve unqualified cheers. 
 **2:68 DISQUALIFIED:** Donald Lan is the Secretary of State of New Jersey, which means that he must review the returns of Tuesday's still-undecided election for governor. Mr. Lan was in a curious position, since he was not only an early contender in the Democratic gubernatorial primary, but later became deputy campaign manager for the Democratic candidate, James Florio.
 Mr. Florio and the Republican contender, Tom Kean, agree that every effort should be taken to ensure the legitimacy of the ultimate result. That means Mr. Lan ought to step aside. We do not question his honesty, only the appearances. With a near-dead heat for the top office of the state, the appearances of having a partisan certify the results are dead wrong.
 
-### An Alternative: Diagramming the Whole Argument
+## An Alternative: Diagramming the Whole Argument
 
 Sometimes it helps to draw an arrow diagram of an argument in order to make sure you know how the parts are related to each other. The steps are as follows:
 
@@ -447,7 +447,7 @@ This system only gives a picture of an argument. It does not tell you how strong
 
 The way to learn to make arrow diagrams is to practice. Do the first set in the Check-Up and compare it with my suggested answers. Then do the second set and compare, and so on. Some answers are deliberately omitted because discussion of arrow diagrams without an “authoritative” answer can be valuable to you. If some seem like busywork, then skip them. The ones at the end will be challenging. Remember that there are different ways of diagramming the same argument because you are trying to represent the writer’s intentions, and there are often legitimately different interpretations of people’s intentions, especially when you do not know the writer or the situation.
 
-### Check-Up 2D
+## Check-Up 2D
 
 **True or False?**
 
@@ -484,11 +484,11 @@ For Items 2:110 through 2:112, do the same thing for Items 2:66 through 2:68. Th
 **b.** Bracket the propositions and assign letters to them.
 **c.** Represent the argument pictorially in an arrow diagram.
 
-### Suggested Answers for Chapter 2
+## Suggested Answers for Chapter 2
 
 **Reminder:** In some cases, different answers are as good as the ones given. If one of your answers is different from the one suggested, then either try to satisfy yourself that yours really is all right, or else try to figure out why it is not.
 
-#### Check-Up 2A
+### Check-Up 2A
 **2:1** F **2:2** T **2:3** T **2:4** F **2:5** T **2:6** F **2:7** T
 
 **2:1** The conclusion often comes at the beginning or end of a passage.
@@ -525,7 +525,7 @@ For Items 2:110 through 2:112, do the same thing for Items 2:66 through 2:68. Th
 
 2:23 Tom Jeffers could not have killed Al Hamilton. Tom was in the local hospital from 10 P.M. to midnight and Al was killed about 11:05 P.M.
 
-#### Check-Up 2B
+### Check-Up 2B
 **2:24 F 2:25 T 2:26 F 2:27 T 2:28 T 2:29 T**
 **2:24** The word *although* rarely introduces a conclusion.
 **2:26** The word *obviously* can be used to introduce conclusions, reasons, insults, etc.
@@ -549,7 +549,7 @@ For Items 2:110 through 2:112, do the same thing for Items 2:66 through 2:68. Th
 **2:38** One possibility: Obviously argument analysis can be difficult. Although some examples are easy to analyze, one must realize that practicing with these can develop one's skills.
 **2:39** No. The following examples refute the suggestion: 1) "He is old, but not wise. So we cannot depend on him." 2) "She is young. However, she is not wise. So we cannot depend on her."
 
-#### Check-Up 2C
+### Check-Up 2C
 **2:40 T     2:41 T     2:42 T     2:43 T     2:44 T     2:45 F**
 **2:46 F     2:47 F**
 **2:45** Sometimes *because* introduces a reason in an argument, sometimes it indicates an explanation containing the proposition.
@@ -596,7 +596,7 @@ For Items 2:110 through 2:112, do the same thing for Items 2:66 through 2:68. Th
 
 **2:68** The final conclusion is that Mr. Lan ought to step aside and not review the returns. This conclusion passes the "therefore" test. We do not know all of the purposes of the editorial writer, but getting a political person to step aside in making a judgment about election returns when the person has a conflict of interests is a plausible purpose for an editorial writer. This conclusion is supported in the editorial. It makes use of all the other material in the editorial for its support, and as far as I can see, nothing else does.
 
-#### Check-Up 2D
+### Check-Up 2D
 
 **2:69** T **2:70** T **2:71** T
 

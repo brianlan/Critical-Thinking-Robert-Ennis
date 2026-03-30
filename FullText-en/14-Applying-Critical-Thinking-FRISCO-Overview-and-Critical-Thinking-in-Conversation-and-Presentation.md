@@ -1,8 +1,8 @@
-## CHAPTER 14 Applying Critical Thinking: FRISCO, Overview, and Critical Thinking in Conversation and Presentation
+# CHAPTER 14 Applying Critical Thinking: FRISCO, Overview, and Critical Thinking in Conversation and Presentation
 
 The chapter organization in this book emphasizes one aspect of critical thinking at a time. But real situations always involve many aspects of critical thinking at the same time—plus other things as well—and you must put them all together. In this, the last chapter, I invite you to join me in putting the pieces together in approaching a decision, considering it, judging it and the support you have for and against it, gathering more evidence, stepping back and reflecting, and applying your insights in oral presentations and discussions. You have, I hope, been continuously trying to apply all aspects of critical thinking in your writing, and in particular to formulating a position, writing a position paper, and evaluating your own and others' ideas and arguments.
 
-### Broad Critical Thinking Elements: FRISCO
+## Broad Critical Thinking Elements: FRISCO
 
 Those of you who have read through this book have now considered in some detail each of the first five elements of FRISCO. In the following brief summary of FRISCO (which was introduced in Chapter 1), it covers both the evaluation and development of positions and arguments.
 
@@ -12,7 +12,7 @@ Those of you who have not read the other chapters of this book will find some un
 
 
 
-#### FRISCO in Making a Decision About What to Believe or Do
+### FRISCO in Making a Decision About What to Believe or Do
 
 **F:** In making a decision about what to believe or what to do, you first must be clear about the question or issue at hand. What are you trying to decide about? What is your question? You should state this question to yourself as clearly and sensitively as possible, because if you do not know what your question is, it is difficult to proceed. Until you have stated your question as clearly as possible, you do not even know how to tell whether you are making progress. Questions can be of all sorts, and can be simply the question of whether a particular hypothesis is justified.
 
@@ -32,10 +32,10 @@ The above FRISCO elements might all seem like common sense, and in a way they ar
 
 Most of these elements of FRISCO receive special emphasis in various parts of the book: Focus receives special emphasis in Chapter 2. Reasons receive special emphasis in Chapters 2–4. Inference is emphasized in Chapters 5–11. Situation is emphasized throughout, as is clarity, although Chapters 12 and 13 emphasize definition and meaning. Overview is emphasized in this chapter.
 
-#### Inventing, Checking for Quality, Reformulating
+### Inventing, Checking for Quality, Reformulating
 As you go through this FRISCO-guided decision-making process, you are constantly inventing, checking the quality of what you are doing, and reformulating, a continuous evaluative and creative set of interdependent processes. The reason that most of this book is about the quality-checking parts of this activity is that there is much more to be explained about checking for quality. Furthermore, the quality-checking parts continually inform the inventing and reformulating parts and provide the ultimate control of our thought.
 
-#### Overview
+### Overview
 So far, you have seen a brief summary of the FRISCO elements. I shall now elaborate the *O* element, the overview, with emphasis on inference-evaluation procedures and on the interdependence of the elements, as well as openness to revision, even after the decision is made. This strategy is sequential, just to make sure that all aspects are covered, although the original decision-making process skips around a good deal.
 
 The overview element should actually be applied at every point in the decision-making process, from formulating your question—through gathering information—to making your decision, although it can be more detailed at the advanced stages of decision-making. Furthermore, an overview is a necessary final step before provisional acceptance of the decision to believe something or to do something. You should do these overviews when you evaluate the arguments of others, as well as when you develop your own. Basically the whole idea is to keep track of what you are doing. Be reflective about it.
@@ -98,14 +98,14 @@ Ideal critical thinkers are disposed to do the following:
 
 The elements of FRISCO and these dispositions might seem like a great deal to manage all at once. But with practice, a short review list such as FRISCO in the back of your mind can help you do it without an explicit question about each one.
 
-### Check-Ups
+## Check-Ups
 Those of you reading this chapter before reading the others should know that there will be periodic Check-Ups that you should use for review and application. They usually start with true-false questions that are intended primarily as a review of the main points, and in a way constitute a summary, which is usually also provided. But true-false questions cannot reach deeply enough, so there are more open-ended activities. It is important to do the Check-Ups, at least to the point that you feel confident about the ideas in the relevant section.
 
 [^1]: A few interpretive comments: Several of the dispositions (1 D, 2 E, and 3 A) contribute to being well-informed (1 C) but are separate dispositions in their own right.
 The expressed concern with true belief accepts the view that our concepts and vocabulary are constructed by us, but also that (to oversimplify somewhat) the relationships among the referents of our concepts and terms are not constructed by us. We can have true or false beliefs about these.
 The disposition (#3) to care about the dignity and worth of every person is not required of critical thinking by definition, but in order that it be humane. I call it a correlative disposition, by which I mean one that, although this disposition is not part of the definition of *critical thinking*, it is desirable for all critical thinkers to have it, and the lack of it makes the critical thinking less valuable, or perhaps of no value at all.
 
-### Check-Up 14A
+## Check-Up 14A
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
@@ -121,7 +121,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 14:10 The elements of FRISCO are independent of each other when applied to a decision.
 14:11 Quality checks on the decision-making process should be made throughout.
 
-#### FRISCO Argument Appraisal
+### FRISCO Argument Appraisal
 
 14:12 Apply FRISCO to the following argument. Do a more thorough job than you did in Item 1:23. You are now much better informed about the reasons and assumptions of this argument than you were at the beginning of the book. Suppose you have overheard the argument offered to someone about to take the same course. Imagine and specify further details of the situation.
 
@@ -137,7 +137,7 @@ Argument: You should not bother to do your homework in this course in critical t
 
 Chris Individ argues as follows: "There is absolutely nothing wrong with even the most extreme forms of selfish individualism. All people can be expected to be selfish, that is, to do what is best for themselves, including wasting food and driving expensive sports cars when others are starving and without sanitation. This is because people always do what they really want to do. Otherwise, they would not do it. Because being selfish is doing what you want to do, everybody is selfish all the time. So there is nothing wrong with being selfish, just as there is nothing wrong with being human. How could it be wrong to do what all people are doing every minute of their waking lives, and to do what all people unavoidably do?"
 
-### Thinking Critically When Discussing Things with Others
+## Thinking Critically When Discussing Things with Others
 
 Up to now, we have been considering the practice of critical thinking in situations in which you have as much time to think as you want. You have applied numerous critical thinking strategies, principles, and insights to a variety of examples that I provided and to some that you have located yourself. But in all cases, you had time to reflect and revise before "going public" with your proposals and judgments.
 
@@ -147,7 +147,7 @@ However, in discussion with other people, you generally do not have the luxury o
 
 
 
-#### General Advice
+### General Advice
 
 The first piece of general advice is that it takes practice—and more practice—to think critically in discussion. Find nonthreatening situations and try out my suggestions, as well as your own ideas. Think about what happened, and try again in other situations. Then practice some more.
 
@@ -173,7 +173,7 @@ I hope that you agree with these three general pieces of advice, but I also susp
 
 The rest of the chapter is organized around four discussion activities: seeking clarification, challenging, responding, and presenting. They are distinguished for purposes of presentation of my suggestions, but in a real discussion, they usually flow from one to another and back again. You will find that generally there are threatening and nonthreatening ways to pursue your inquiry, but whether a particular question or challenge is threatening depends not only on its words, but on the tone of voice, on the situation, and on the nature of the person addressed. In almost all cases, I recommend the least threatening way that will get the job done.
 
-#### Seeking Clarification
+### Seeking Clarification
 
 It is useful to distinguish between seeking clarification of a position and challenging it. But the distinction is sometimes elusive because some clarification efforts are in fact a challenge to a position, some are perceived as a challenge even if not so intended, some challenges result in clarification, and some apparent challenges are actually intended to achieve clarification. However, let us start with questions explicitly seeking clarification. The reason for starting here and for emphasizing clarification is simple: If we are not clear about what is being said, we cannot respond to it reasonably.
 
@@ -242,7 +242,7 @@ All of these questions can be asked more informally. I leave it to you to add th
 4. What difference does it make?
 5. Does it make any difference?
 
-#### Summary and Comment So Far
+### Summary and Comment So Far
 
 In discussion, you usually have ready access to the other person, and can use this access to clarify what the person is saying. This goes beyond word meanings, the concern under the *C* in *FRISCO*.
 
@@ -260,7 +260,7 @@ Before you go further, you need to practice using all of these questions. It wou
 
 
 
-### Check-Up 14B
+## Check-Up 14B
 
 14:15–14:18 Find a partner and address one of the arguments in Items 14:12 through 14:14 in Check-Up 14A. For each argument, imagine further details in the situation as necessary. Then one of you play the role of the arguer while the other asks the arguer each of the suggested questions in the first three groups (general clarification, seeking focus, and reasons). The one playing the arguer role should then try to answer the questions. Then switch roles and the former arguer should ask the new arguer each of the questions in each of the last three groups (relevance of reasons, seeking word meaning, and significance). The new arguer should respond to each of the questions. Do this orally. After each question and response, discuss with your partner the quality of the question and response, and how each of you felt. Go slowly and plan to spend several hours doing this. Then write out an answer to each of the following questions:
 a. What additional details in the situation did you imagine?
@@ -269,7 +269,7 @@ c. Which questions were least useful in the situation? Why?
 
 14:19 Find a partner. Do the same thing as in 14:15–14:18 for an argument that you find in your daily life such as from a newspaper editorial page, a magazine article, a talk show, a debate, a discussion with a friend, or a meeting you attended. The most instructive argument here would be one about an issue on which you and your partner disagree. In your written report, present the total argument and describe the situation in full. Also answer questions *b* and *c* that appeared under 14:15–14:18.
 
-#### Challenging a Position
+### Challenging a Position
 
 Challenging a position can result in its rejection, but rarely is a position destroyed simply by a challenge. Challenge often results in a clarification or a modification, especially if the challenge is presented gently, in a nonthreatening way. As you read these forms of challenge, imagine yourself trying to apply each to an extended discussion you have had in the past week that included an argument (not necessarily involving a hostile disagreement). Try to see whether the likely reply might have clarified the position, resulted in its modification, or been grounds for rejection. Again, the important thing is to practice asking these questions to yourself and to think about the import of possible responses. Stop now and think over the discussion and argument you select before you proceed.
 
@@ -406,14 +406,14 @@ Sometimes an argument can look good, but not be so because it depends on the shi
 > Sample Challenge: "Have you changed the meaning of [state term] in drawing your conclusion?"
 > Another: "No matter which interpretation of [state term] we use, your argument is defective. Look. On this meaning, there is a problem here. On that meaning, there is a problem there. There do not seem to be any other plausible interpretations."
 
-#### Fallacy Labels
+### Fallacy Labels
 As you may have noted, I have tried to work a definition and brief discussion of some of the major fallacy labels into this discussion of challenge questions. To apply a fallacy label to someone's thinking is in effect to raise a challenge question.
 
 The danger with fallacy labels is that for many of them, activities that they fit are often not fallacious; that is, they are often not mistaken. For example, *appeal to authority* is a fallacy label (presented in Chapter 3), but many instances of appeal to authority are perfectly all right. We do it when we provide citations to support a reason we are using, and often this is perfectly legitimate.
 
 On the other hand, some fallacy labels, such as circularity and *non sequitur*, if applied correctly, label only mistakes. In any case, it is helpful to be familiar with the most common fallacy labels, in part because they sensitize us to common sources of error, and in part because they provide an efficient way to communicate complaints (to those who understand their meaning). You will find definitions of a number of popular fallacy labels in the Glossary.
 
-#### Summary and Comment
+### Summary and Comment
 Although I could have categorized these kinds of problems and challenges differently, no one listing being perfect, I hope I have conveyed a number of different kinds of challenges that might be used in a discussion. These include claiming that:
 - There are possible counterexamples.
 - There is an inconsistency.
@@ -444,7 +444,7 @@ Many fallacy labels were used in this section, and some others have been introdu
 
 Before proceeding to look at ways of responding to challenges directed at you in the next section, please practice using the above challenges and similar ones that you develop for yourself, as in Check-Up Items 14:25 and 14:26.
 
-### Check-Up 14C
+## Check-Up 14C
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 14:20 Challenging a position is dangerous because it will not result in clarification.
@@ -453,7 +453,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 14:23 *Post hoc* reasoning is reasoning that concludes that one thing caused another simply because it preceded the other.
 14:24 Anything accurately labeled by one of the fallacy labels is a mistake.
 
-#### Application of Challenge Questions
+### Application of Challenge Questions
 14:25 Find a partner. Each of you choose and adopt one of the arguments in Items 14:12–14:14 on which you have not yet practiced, or find another argument in this book. Imagine a context for the argument(s) chosen. Then one of you should try to formulate a challenge of each of the types listed above (in the immediately preceding section *Summary and Comment*). The challenge should apply to the argument that your partner has chosen. The partner should try to respond.
 Next, reverse roles and select another argument. The previous challenger should become an arguer, and the previous arguer should become the challenger, again trying to frame each of the types of challenge listed above. Then write out answers to the following questions:
 - a. Which arguments did you choose? Describe the situations you have imagined.
@@ -467,7 +467,7 @@ Next, reverse roles and select another argument. The previous challenger should 
 - d. State which of the challenges seemed most useful, and why.
 - e. State which of the challenges seemed least useful, and why.
 
-#### Responding
+### Responding
 By now, you should have a fairly good idea of the straightforward questions of clarification and challenges that I have presented. You have, I hope, practiced asking them and have offered some responses to them. Next I shall present some overall strategies for responding to these straightforward questions and challenges, and then some strategies for responding when things seem to be going wrong.
 
 #### Responding to Straightforward Questions of Clarification and to Challenges
@@ -549,7 +549,7 @@ On the other hand, if someone requests a definition of a term that is crucial to
 
 Strategy: One way to answer the question is to point out that many things could be different, so you cannot be sure, but that you might do such and such. Another way is to clarify the question by asking for more details about the situation. A third way that is sometimes used is flatly to refuse to answer the question, saying "That's a hypothetical question." This last strategy could work well with experienced people well-versed in the political process (such as newspaper reporters and judges), but some people will think that you are hiding something. So you must judge how to respond on the basis of your appraisal of the situation.
 
-#### Presenting Your Own Position
+### Presenting Your Own Position
 
 I have postponed the discussion of presenting your own position because a main consideration in presenting your own position is the avoidance of the problems mentioned earlier. Now that you know them, I can give the general advice: Try to present your view in a way that minimizes the likelihood of legitimate challenges and questions. That is, try to be clear in your statement, giving definitions and examples where necessary, usually stating your thesis, your main point, at the beginning and at the end of your presentation. Define your terms, if necessary. Give your reasons, and avoid claiming more strength for your argument than it has. However, not all legitimate challenges and clarification questions can be avoided. Be resigned to that. It is often a good idea to admit difficulties in advance.
 
@@ -573,7 +573,7 @@ In a small group, there is more chance that the discussion will stray off the po
 
 Discussion in a small group is good practice for discussion in a larger group. Take advantage of your opportunities for such practice, and think about the process.
 
-### Check-Up 14D
+## Check-Up 14D
 
 True or False?
 
@@ -603,7 +603,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 14:38 When making a presentation, it is generally a good idea to summarize.
 
-#### Discussion Practice
+### Discussion Practice
 
 14:39 Find a partner. Select one of the arguments in Items 14:12-14:14, or somewhere else in this book, that you have not yet used for practice. One of you adopt the argument first. The other should then offer challenges one by one that invite each of the sixteen types of responses discussed in this section. Give the appropriate response. Exchange roles after the first eight. Do them one at a time, and discuss each before going on to the next. Write out answers to the following questions:
 
@@ -613,7 +613,7 @@ c. What response types seemed least useful? Why?
 
 14:40 Do the same thing for a new argument from a newspaper editorial page, a magazine article, a talk show, a debate, a discussion with a friend, or a meeting you attended. Try to find an argument about an issue about which you and your partner disagree.
 
-### Summary
+## Summary
 
 This chapter began with advice for conducting the overview in FRISCO. It emphasized the interdependence of the parts and suggested the successive application of standards for credibility, observation, value judging, deduction, loose derivation, and induction (both generalization and best-explanation). It suggested caution, looking at things from others' points of view, and awareness of one's own deep assumptions.
 
@@ -629,7 +629,7 @@ Presenting your own position was discussed last because so much of it depends on
 
 In a small group discussion, there is more chance for straying from the main point, but in any case, all of the previous pieces of advice for questioning, challenging, and responding hold.
 
-### Suggested Answers for Chapter 14
+## Suggested Answers for Chapter 14
 
 **Check-Up 14A**
 14:1 F 14:2 F 14:3 T 14:4 F 14:5 T 14:6 T
@@ -677,11 +677,11 @@ In a small group discussion, there is more chance for straying from the main poi
 
 14:39–14:40 These are up to you. Remember to think about your challenges and responses and to continue to practice.
 
-### You Have Reached the End of This Book
+## You Have Reached the End of This Book
 
 This book has not given you a mechanical formula for critical thinking because there is none. After you have followed all the advice contained herein, you must still use your own good judgment. I wish you success. Remember to practice, practice, and practice some more, consciously employing the critical thinking dispositions listed in this chapter. Please go back and look at them now.
 
-### Epilogue
+## Epilogue
 
 In case it is not clear how the trial turned out, here is a quick summary: We unanimously voted her not guilty of murder because we felt that the pathologist's moderate force conclusion showed that the state had not proven beyond a reasonable doubt the complicated second condition for murder. (The conditions for murder given us are listed in Chapter 7, Check-Up Item 7:8.) But we unanimously voted her guilty of voluntary manslaughter because we felt that the state had proven beyond a reasonable doubt all four conditions for voluntary manslaughter (listed in Chapter 7, Example 7:1).
 

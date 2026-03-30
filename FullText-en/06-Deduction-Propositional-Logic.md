@@ -1,6 +1,5 @@
-## CHAPTER 6
+# CHAPTER 6 Deduction: Propositional Logic
 
-## Deduction: Propositional Logic
 
 Now that you understand deductive validity and have some techniques for handling class logic, you are ready to move on to propositional logic. Here are three examples of propositional-logic arguments.
 
@@ -25,7 +24,7 @@ You can probably see that the first two arguments are deductively valid, but you
 
 
 
-### Propositions
+## Propositions
 
 According to the meaning of *proposition* that we shall use, a *proposition*, roughly speaking, is either a sentence or, if embedded in a more complex sentence, could be a sentence if isolated.[^2] It is a set of concepts (or words) with a given meaning that can stand alone and make sense if asserted. Here are some examples of simple propositions that appear in italics in Examples 6:1, 6:2, and 6:3:
 
@@ -62,10 +61,9 @@ The classes that are *a* and *b* in Example 6:5 obviously do not make sense to a
 
 Even though Example 6:5c (*anybody is under eighteen*) has a subject and predicate, someone's trying to assert it does not make sense, if its words mean what they mean in the complete sentence given in parentheses in that example. What would you make of someone's coming up to you and saying, "Anybody is under eighteen," in the sense in which it is meant in Example 6:5c? Actually, the proposition in quotes in Example 6:5c fits best under class logic because its meaning is *People under eighteen may not enter*.
 
-### If-Then Reasoning
+## If-Then Reasoning
 Reasoning with *if-then* propositions is the most important kind of propositional reasoning, so we shall start with it. The following argument is a case of *if-then* reasoning because it employs an *if-then* proposition:
 
-**Example 6:6**
 a. If Ben is a cat, then Ben is an animal.
 b. Ben is a cat.
 c. Therefore, Ben is an animal.
@@ -95,10 +93,10 @@ Another difference that we can usually ignore comes from the substituting of a p
 a. If Ben is a cat, then Ben is an animal.
 b. If Ben is a cat, then he is an animal.
 
-### Summary
+## Summary
 Propositions can stand alone and make sense when asserted. When two propositions are appropriately joined together by the words *if* and *then* (although *then* is not always needed), the result is a more complex *if-then* proposition). The *if* part is the *antecedent*. The *then* part is the *consequent*. Although the antecedent usually comes first, the consequent sometimes comes first, and sometimes the antecedent comes between parts of the consequent. The substitution of a pronoun, when referring to something already named, generally does not change the meaning of an *if-then* proposition. When an argument consists of an *if-then* proposition as one reason, the affirmed antecedent as the other reason, and the consequent by itself as the conclusion, this argument is of the form, *affirming the antecedent*, a deductively valid form of argument.
 
-### Check-Up 6A
+## Check-Up 6A
 
 **True or False?**  
 If a statement is false, change a crucial word or words to make it true.
@@ -146,7 +144,7 @@ For each of the following items, (a) underline the antecedent once and (b) under
 6:25 Tom Jeffers, if he was seen in the hospital waiting room between 10 P.M. and midnight, did not do it.
 6:26 If Tom Jeffers was seen in the hospital waiting room between 10 P.M. and midnight, then he did not do it.
 
-### Affirming and Denying the Antecedent and Consequent
+## Affirming and Denying the Antecedent and Consequent
 
 In addition to affirming the antecedent, there are three other basic moves one can make from an *if-then* proposition. Two are deductively invalid, and one is deductively valid. Example 6:9 is an illustration of the move called *denying the antecedent*, so called because one of the reasons denies the antecedent of the other reason.
 
@@ -194,7 +192,7 @@ Table 6.1 summarizes the relationships among affirming and denying antecedents a
 | Affirming | Deductively Valid | Deductively Invalid |
 | Denying | Deductively Invalid | Deductively Valid |
 
-### Check-Up 6B
+## Check-Up 6B
 **True or False?**
 If a statement is false, change a crucial word or words to make it true.
 
@@ -207,7 +205,7 @@ If a statement is false, change a crucial word or words to make it true.
 6:30 *Denying the consequent* is a deductively invalid form.
 6:31 *Affirming the consequent* is a deductively invalid form.
 
-## Short Answer
+### Short Answer
 For each of the following items, indicate the form of the argument, using the following abbreviations: For *affirming the antecedent*, use *AA*; for *denying the antecedent*, use *DA*; for *affirming the consequent*, use *AC*; and for *denying the consequent*, use *DC*. Also indicate whether the argument is deductively valid (DV) or deductively invalid (DI). The first one is done as an example.
 
 6:32 a. If Marguerite is here, then Estelle is happy.
@@ -270,7 +268,7 @@ Exchanging these two different ways of joining the elementary propositions in *i
 
 The location of the antecedent and consequent with respect to each other has no bearing on whether they have been exchanged. All that matters is the location of the word *if*. Hence, the two propositions in Example 6:13 are also converses of each other:
 
-### Example 6:13
+#### Example 6:13
 a. Ben is an animal if Ben is a cat.
 b. If Ben is an animal, Ben is a cat.
 
@@ -279,17 +277,17 @@ Conversion is a deductively invalid form. It is also usually a mistake (that is,
 ### Contraposition
 A *contrapositive* of a proposition is the proposition with the antecedent and consequent exchanged and each denied. In Example 6:14, *b* is the contrapositive of *a*.
 
-### Example 6:14
+#### Example 6:14
 a. If Ben is a cat, then Ben is an animal.
 b. Therefore, if Ben is not an animal, Ben is not a cat.
 
 Ordinarily, contrapositives can be substituted for each other in arguments.
 The move from *a* to *b* in Example 6:14 is called contraposition: The antecedent and consequent were exchanged and each was denied (or negated). More precisely, the exchange calls for shifting the *if* from one proposition to the other, accompanied by the denial of each. The conclusion (*b*) follows from the reason (*a*) by the same kind of thinking that shows denying the consequent to be deductively valid: Example 6:14*a* tells us that if Ben is a cat, then Ben is an animal. Granting that, let us suppose that Ben is not an animal. Then we would have to conclude that Ben is not a cat. Otherwise, he would be an animal (from *a*). So, if Ben is not an animal, then Ben is not a cat. This *if-then* proposition is our conclusion (6:14*b*). Contraposition is a deductively valid form.[^3]
 
-### Negation
+## Negation
 To negate the proposition *Ben is a cat* is to assert that Ben is not a cat. Generally speaking, one negates by introducing such words or prefixes as *not*, *non-*, *no*, *un-*, and *it is not the case that*. The three propositions in Example 6:15 are negations (or denials) of the proposition *Ben is a cat* and are propositions themselves. For present purposes, they are essentially equivalent to each other:
 
-### Example 6:15
+#### Example 6:15
 a. Ben is not a cat.
 b. It is not true that Ben is a cat.
 c. Ben is a non-cat.
@@ -340,7 +338,7 @@ The contrapositive of an *if-then* proposition is formed by exchanging and negat
 
 Double negatives can be dropped, unless there is a middle ground. Beware.
 
-### Check-Up 6C
+## Check-Up 6C
 **True or False?**
 If a statement is false, change a crucial word or words to make it true.
 
@@ -369,7 +367,7 @@ b. If Tom Jeffers was not seen in the hospital waiting room between 10 P.M. and 
 a. Joanna is not a liberal, if it is not true that she did not support the prime minister.
 b. If Joanna supported the prime minister, then she is not a liberal.
 
-## Short Answer
+### Short Answer
 For each of the following, on a separate sheet of paper, fill in an appropriate word or words in the second proposition so that it means the same as the first (or write only the words *if* and *then* in the proper order). Capitalize a letter if necessary. Avoid conversion. The first is done as an example.
 
 6:53 a. Our cattle are in danger, if junipers are poisonous.
@@ -404,7 +402,7 @@ Simplify the following by eliminating the double negatives. If you do not think 
 
 
 
-## More Short Answer
+### More Short Answer
 Write a contrapositive of each of the following propositions. Simplify, if a double negative can be eliminated without changing the meaning.
 
 6:67 If Arlene admitted it, then she did it.
@@ -419,7 +417,7 @@ Write a contrapositive of each of the following propositions. Simplify, if a dou
 6:76 The battery is in bad condition, if you left the lights on all night.
 6:77 If a majority approved the resolution, then the society did not meet in a state that has not passed the proposed constitutional amendment.
 
-## More Short Answer
+### More Short Answer
 For each of the following arguments, state the final conclusion. Then decide whether each is deductively valid, indicating your reasons in abbreviated form. For these items, choose your reasons from the following list:
 
 | Justifications of a judgment of deductive validity (DV): | Justifications of a judgment of deductive invalidity (DI): |
@@ -486,7 +484,7 @@ For some items, you will need to break the argument into parts and deal with eac
 
 6:99 If she believed that he wanted to hurt her, then it has not been proven beyond a reasonable doubt that she was not justified in using the force that she used. It is clear that she really did believe that he wanted to hurt her. Therefore, it has been proven beyond a reasonable doubt that she was justified in using the force that she used.
 
-## More Short Answer
+### More Short Answer
 For the following sets of reasons, if a conclusion that is different from the reasons follows necessarily, write it in. Otherwise write *Nothing*, by which you should mean that the conclusion that is probably intended does not follow necessarily. In any case, label the form of the probably intended argument. The first is done as an example.
 
 6:100 If Anita stands to make a profit from your believing what she says, then you should be careful about believing what she says. It is clear that you should be careful about believing what she says. Therefore?
@@ -506,7 +504,7 @@ For the following sets of reasons, if a conclusion that is different from the re
 6:107 If the state has not proven beyond a reasonable doubt that she was not justified in using the force that she used, then she is not guilty. However, the state has proven beyond reasonable doubt that she was not justified in using the force that she used. Therefore?
 6:108 If Arlene did not believe that circumstances existed that would justify the killing of Al, then she is not guilty of voluntary manslaughter. However, Arlene did believe that such circumstances existed. She was very jealous and believed that he was disloyal to her. Therefore?
 
-### Saving Time with Letters
+## Saving Time with Letters
 
 In propositional logic, we can save time in organizing arguments by using letters to represent each significant proposition in an argument. An arrow is used to show the *if-then* relationship. This system helps us show not only the overall picture, but also the way the parts are put together in complex propositions. This in turn helps us to decide whether the argument is deductively valid.
 
@@ -580,10 +578,10 @@ c. Therefore, not $q$
 
 Examples 6:21 and 6:22 are two different ways of representing the same argument. I find the first way more convenient; you might prefer the second. Either way is all right, as long as you stay with your original assignment throughout your analysis of the argument. Be consistent.
 
-## Summary
+### Summary
 In evaluating complicated deductive arguments, it is often helpful to assign individual letters to propositions and to represent the argument in terms of these letters. Use arrows to represent *if-then* relationships, and the word *not* to represent negation. In so doing, make sure that the same letter represents the same proposition throughout the argument.
 
-### Check-Up 6D
+## Check-Up 6D
 **True or False?**
 If a statement is false, change a crucial word or words to make it true.
 
@@ -616,7 +614,7 @@ If a statement is false, change a crucial word or words to make it true.
 
 
 
-## Short Answer
+### Short Answer
 For the next items, assign letters to the propositions, and represent the total statement in symbols. The first is done as an example.
 
 6:119 If John is in school, then Mary is happy.
@@ -658,7 +656,7 @@ Therefore, *p*  AC, DI
 
 6:134 If Michael has a conflict of interest, then his testimony is not to be trusted. If Michael's brother is a suspect, then Michael has a conflict of interest. Michael's brother is a suspect. Therefore, Michael's testimony is not to be trusted.
 
-### Conjunction, Alternation, and Embedded Complex Propositions
+## Conjunction, Alternation, and Embedded Complex Propositions
 
 In the following argument (which you saw at the beginning of this chapter), two propositions are conjoined (connected by the word *and*). The two are then treated as one unit and become the antecedent for the overall implication. Can you assign letters and judge the deductive validity? The basic propositions are italicized:
 
@@ -758,7 +756,7 @@ Affirmation of weak alternant; DI
 
 
 
-### Example 6:30
+#### Example 6:30
 Let *p* = *Marguerite is at the movies*.
 Let *q* = *She is with Estelle*.
 | | |
@@ -774,14 +772,14 @@ Affirmation of strong alternant;
 
 &#43; You must decide from the situation which sense of *or* is in use, the weak sense (as in Examples 6:27, 6:28, and 6:29), or the strong sense (as in Example 6:30). But remember, there is no free ride. If the strong sense is in use, the alternation reason (*a*) is harder to establish, so the total argument might be in trouble if the strong sense is in use. If in doubt, I suggest the weak interpretation.
 
-## Summary
+### Summary
 When two propositions are *conjoined* by the word *and*, they form a unit. If the whole unit is asserted, that implies that each *conjunct* can be asserted separately. If the unit is denied (or negated), then at least one conjunct must be denied. Without further information, it is not clear which one is the one to be denied. Furthermore, the unit can itself be a proposition in an argument (as can any complex proposition). This is shown by the use of parentheses around the unit when it is represented symbolically.
 
 When two propositions are connected by the word *or*, they are *alternants*. The denial of one alternant implies the assertion of the other, if the total alternation is asserted.
 
 &#43; However, unless the alternation is a *strong* alternation, the assertion of one alternant does not imply the denial of the other. You must determine from the situation whether the *or* is strong or weak. If in doubt, I suggest that you choose the weak interpretation.
 
-### Check-Up 6E
+## Check-Up 6E
 **True or False?**
 If the statement is false, change a crucial word or words to make it true.
 6:135 The affirmation of one conjunct implies the denial of the other.
@@ -796,7 +794,7 @@ If the statement is false, change a crucial word or words to make it true.
 
 
 
-## Short Answer
+### Short Answer
 State the conclusion, assign letters, symbolize the argument, judge the deductive validity, and give your reason.
 
 6:142 This piece of cloth is warm and it is 50 percent wool. If the dog is shivering from cold, then the cloth is not warm. Therefore, the dog is not shivering from cold.
@@ -831,7 +829,7 @@ State the conclusion, assign letters, symbolize the argument, judge the deductiv
 
 6:155 Arlene is not both guilty of murder and innocent of voluntary manslaughter. If she might have been justified in using the amount of force she used, then she is innocent of voluntary manslaughter. Therefore, she is not guilty of murder because she might have been justified in using the amount of force she used.
 
-### Suggested Answers for Chapter 6
+## Suggested Answers for Chapter 6
 
 ### Check-Up 6A
 6:1 T &nbsp;&nbsp; 6:2 F &nbsp;&nbsp; 6:3 T &nbsp;&nbsp; 6:4 F &nbsp;&nbsp; 6:5 T &nbsp;&nbsp; 6:6 T  
@@ -880,7 +878,7 @@ b. The blood . . . blood
 6:26 a. Tom . . . midnight  
 b. he did not do it  
 
-## Check-Up 6B
+### Check-Up 6B
 6:27 T &nbsp;&nbsp; 6:28 T &nbsp;&nbsp; 6:29 T &nbsp;&nbsp; 6:30 F &nbsp;&nbsp; 6:31 T  
 6:30 Change *valid* to *invalid*.  
 6:32 Done as an example.  
@@ -888,7 +886,7 @@ b. he did not do it
 6:37 DA, DI &nbsp;&nbsp; 6:38 AC, DI &nbsp;&nbsp; 6:39 Deliberately omitted.  
 6:40 DC, DV &nbsp;&nbsp; 6:41 Deliberately omitted.  
 
-## Check-Up 6C
+### Check-Up 6C
 6:42 T &nbsp;&nbsp; 6:43 F &nbsp;&nbsp; 6:44 T &nbsp;&nbsp; 6:45 T &nbsp;&nbsp; 6:46 T &nbsp;&nbsp; 6:47 T  
 6:48 F &nbsp;&nbsp; 6:49 T &nbsp;&nbsp; 6:50 T &nbsp;&nbsp; 6:51 F &nbsp;&nbsp; 6:52 T  
 6:43 Change *the converse of* to *the same as*.  
@@ -950,7 +948,7 @@ Henceforth in this set and the next, odd-numbered answers are omitted.
 6:106 Jane did not say "No." DC
 6:108 Nothing. DA
 
-## Check-Up 6D
+### Check-Up 6D
 6:109 T &nbsp;&nbsp; 6:110 T &nbsp;&nbsp; 6:111 T &nbsp;&nbsp; 6:112 T &nbsp;&nbsp; 6:113 T  
 6:114 F &nbsp;&nbsp; 6:115 T &nbsp;&nbsp; 6:116 T &nbsp;&nbsp; 6:117 F &nbsp;&nbsp; 6:118 F  
 6:114 #1 is deductively invalid, but not #2.
@@ -1052,7 +1050,7 @@ Let *r* = *Michael's brother is a suspect*.
 
 Therefore, *q* &nbsp;&nbsp; AA, AA; DV
 
-## Check-Up 6E
+### Check-Up 6E
 6:135 F &nbsp;&nbsp; 6:136 T &nbsp;&nbsp; 6:137 T &nbsp;&nbsp; 6:138 F &nbsp;&nbsp; 6:139 F  
 6:140 T &nbsp;&nbsp; 6:141 T  
 6:135 Replace *the denial of* with *nothing about*.  

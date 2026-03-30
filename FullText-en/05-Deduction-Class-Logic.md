@@ -1,4 +1,4 @@
-## CHAPTER 5 Deduction: Class Logic
+# CHAPTER 5 Deduction: Class Logic
 
 In Chapters 2, 3, and 4, our primary concerns were with analyzing arguments and appraising reasons. Now we turn to inference (*FRISCO's I*), the step from the reason(s) to the conclusion.
 
@@ -13,7 +13,7 @@ For some people, the material in Chapters 5 and 6 is easy. For others, it is dif
 [^1]: This is a controversial topic, beyond the scope of this book, but those who are interested might start with a look at C. I. Lewis' "Implication and the Algebra of Logic," *Mind*, October 1912, pp. 522–531, and P. F. Strawson's *Introduction to Logical Theory* (London: Methuen & Co., 1952), where some misleading features are elaborated. H. P. Grice, in his "Logic and Conversation," in *The Philosophy of Language* (2nd edition), edited by A. P. Martinich (Oxford: Oxford University Press, 1990), offers a defense.
 
 
-### Deductive Validity and Invalidity
+## Deductive Validity and Invalidity
 
 Let us start with the basic concept in deductive inference: *deductive validity*. To say that an argument is *deductively valid* is to say that its conclusion follows necessarily from its reasons. That is to say, if you accept the reasons in a deductively valid argument, you are thereby automatically committed to accepting the conclusion. In a deductively valid argument, it would be contradictory to reject the conclusions if you accept the reasons. Consider this argument:
 
@@ -50,7 +50,7 @@ There is a use for deductive arguments that lead to false conclusions. Such argu
 
 You will read more about this later, but I discussed the example here to show that a deductively valid argument can have a false conclusion, and that there is a practical use for deductively valid arguments with false conclusions.
 
-#### Deductive Invalidity
+### Deductive Invalidity
 
 A *deductively invalid* argument is one in which the conclusion does *not* necessarily follow from the reasons. Here is one:
 
@@ -79,7 +79,7 @@ Examples 5:4 and 5:5 are helpful in several ways:
 
 It is important to realize that deductive invalidity is often not a fatal flaw in an argument. Many good arguments are deductively invalid. An example was presented early in Chapter 2: the prosecutor's proof beyond a reasonable doubt that Arlene performed the act that caused Al's death.
 
-#### Summary
+### Summary
 
 We have begun to look at one standard kind of inference: deductive inference. It is different from what Sherlock Holmes generally called "deduction," but is similar in basic spirit, though not in detail, to the deduction of symbolic logic. However, ours is the deduction of everyday reasoning. It is easier to learn this at the outset, and it avoids the occasionally misleading features of symbolic logic. It also lacks the elegance of symbolic logic, but it has practical uses, as you will see.
 
@@ -93,7 +93,7 @@ Although these points were illustrated with some examples, digesting them and fe
 
 ---
 
-### Check-Up 5A
+## Check-Up 5A
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -112,7 +112,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 **5:7** If the conclusion of an argument is false and the reasons are true, then the argument is deductively invalid.
 
-#### Short Answer
+### Short Answer
 
 For each of the following arguments, decide whether you think it is deductively valid or deductively invalid. Use your basic understanding of deductive validity as I have explained it: If you accept the reasons, you are thereby committed to accepting the conclusion.
 
@@ -142,11 +142,11 @@ a. No vehicles are permitted.
 b. Motorcycles are vehicles.
 c. Therefore, no motorcycles are permitted.
 
-### Class Logic, Using a Circle System
+## Class Logic, Using a Circle System
 
 Next, we shall consider one common type of deductive logic—class logic—the type that deals with relationships among classes and individuals. We shall use a circle system for dealing with class logic arguments.
 
-#### Inclusion
+### Inclusion
 
 In this circle system, deductive arguments are represented by a set of circles (called Euler circles[^2]) and Xs, each circle representing a class. Xs represent individuals.
 
@@ -185,7 +185,7 @@ Note that Diagrams 5:2 and 5:3 have a circle in common: the circle for buildings
 
 Notice that by combining the diagrams for the two reasons (*a* and *b*), I have made a diagram that shows that the conclusion is inescapable. That is, **Diagram 5:4** shows that the circle for houses is unavoidably inside the circle for structures, which is to say that houses are structures. There is no way to avoid diagramming the conclusion, given the diagrams of the reasons.
 
-#### The Basic Circle-System Validity Test
+### The Basic Circle-System Validity Test
 
 The circle diagram exhibits the validity of the argument of Check-Up Item 5:8. It does this by showing that diagramming the reasons forces us to diagram the conclusion. Here is the circle diagram test for deductive validity:
 
@@ -224,7 +224,7 @@ I did full justice to the reasons, but managed to avoid diagramming the conclusi
 
 The circle for houses could also be in the circle for homes, as is shown by the lower of the alternative circles for houses. This lower circle is not absolutely necessary to show invalidity. But in my experience, most students find that including this sort of thing helps them to feel comfortable with their diagrams.
 
-#### Summary
+### Summary
 
 This basic circle system is useful when we are judging the deductive validity of arguments that involve the relationships of classes. A circle represents a class, and a circle within another circle shows that the smaller is included in the larger. If, after drawing the circle relationships for the reasons in an argument in one diagram, we find that we have unavoidably diagrammed the conclusion, the argument is deductively valid. Otherwise, it is not.
 
@@ -236,7 +236,7 @@ A helpful way to show the deductive invalidity of an argument is to draw alterna
 
 ---
 
-### Check-Up 5B
+## Check-Up 5B
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -250,7 +250,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 **5:16** If a conclusion is unavoidably diagrammed in the diagramming of the reasons, then the argument is deductively valid.
 
-#### Short Answer
+### Short Answer
 
 Diagram each of the following propositions. Label the diagram. Make sure that the points of the arrows touch the circles to which they point.
 
@@ -288,7 +288,7 @@ a. Bananas are magnets.
 b. Magnets are pieces of fruit.
 c. Therefore, bananas are pieces of fruit.
 
-#### Subject Class and Predicate Class
+### Subject Class and Predicate Class
 
 In the proposition "Houses are buildings," the subject class is *houses* because *houses* is the subject of the sentence. The predicate class is *buildings*, and is in the predicate of the proposition. In propositions like this, the circle for the subject class goes inside of the circle for the predicate class because the proposition says that the subject class is included in the predicate class (the "inside–outside" rule). You can see that this is the way it was drawn in **Diagram 5:2**. There are exceptions to this inside-outside rule for drawing circles, so be careful. Make sure that the diagram actually represents what is intended. Use the inside-outside rule for drawing circles only as a temporary crutch.
 
@@ -340,7 +340,7 @@ In Example 5:7, each proposition consists of two class terms connected by the wo
 
 Note that in order to fit the system, the reasons and the conclusion had to be modified. This is common. You will often have to use your ingenuity.
 
-#### Specific Class Members and Universal Terms
+### Specific Class Members and Universal Terms
 
 The following argument refers to a specific person, Juan:
 
@@ -361,7 +361,7 @@ Note that a predicate class, *tall people*, had to be created out of the adjecti
 
 Note also that the words, *all of the*, are left out of the diagramming of the noun phrase, *all of the members of the basketball team*. This is because the circle labeled with "members of the basketball team" automatically represents them all. To say *all* in the diagram would duplicate what is already said by the circle. The boundaries of a circle contain every one of the group or class that is represented by the circle, so words such as *all*, *every*, and *each* are generally omitted from diagrams. The boundaries do the job these words do in the sentences.
 
-#### Summary
+### Summary
 
 In attempting to represent a sentence by a circle, we sometimes need to transform the proposition so that it connects exactly two classes, using either the word *is* or the word *are*. Predicate adjectives must be transformed into nouns, and other verbs than *is* or *are* must be changed in a way that captures the meaning of the original proposition. Doing this often makes the result somewhat different from the ways we ordinarily speak, so the result should usually be converted back to ordinary speech.
 
@@ -371,7 +371,7 @@ If you do not make these transformations—at least mentally—then when things 
 
 ---
 
-### Check-Up 5C
+## Check-Up 5C
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -434,7 +434,7 @@ The following deductively valid arguments are written in more natural form. For 
 
 **5:45** Anything that promotes the good life is just. Because zoning promotes the good life, it is just.
 
-#### Exclusion
+### Exclusion
 
 Just as class inclusion is represented by one circle inside another, class exclusion is represented by two completely separate circles. For example, the proposition *No vehicles are permitted* could be represented this way:
 
@@ -461,7 +461,7 @@ Try to diagram Example 5:9 before you read further.
 In drawing **Diagram 5:13**, I first drew the first reason by drawing two separate circles: one for vehicles and one for things that are permitted. Then I drew the circle for motorcycles inside the circle for vehicles, as required by the second reason. This unavoidably put the circle for motorcycles totally separate from the circle for things that are permitted, which is what the conclusion says. Therefore, the conclusion is inescapably diagrammed by diagramming the reasons, so the argument is deductively valid.
 
 
-#### Nonmembership
+### Nonmembership
 
 Like exclusion, nonmembership is shown by putting the X for an individual outside of a circle. See **Diagram 5:14** for one way to diagram the proposition *Joan's bike is not permitted*.
 
@@ -483,13 +483,13 @@ As shown by **Diagram 5:15**, this conclusion is inescapable, given the reasons,
 
 [diagram]
 
-#### Invalid and Valid: Terms of Condemnation and Commendation
+### Invalid and Valid: Terms of Condemnation and Commendation
 
 In deductive logic books and courses, it is common practice to use the words *invalid* and *valid* without their being preceded by the word *deductively*. This practice is confusing to many people because in everyday speech, *invalid* by itself is a general term of condemnation of arguments and statements, and *valid* by itself a general term of commendation. So, it will seem to many people that, when these words are used, general commendation or condemnation is claimed. If so, and the word *deductively* is not used, it might then seem that we are invited to condemn all *deductively* invalid arguments, even if they are good arguments (like the prosecutor's and the pathologist's). It might also seem that we are invited to commend deductively valid but circular arguments (arguments that make no progress), and deductively valid arguments that have false reasons and that are offered in support of their conclusions. These invitations should be refused.
 
 To avoid confusion in deductive logic, I place the word *deductively* in front of the words *invalid* and *valid* (unless I actually do mean general condemnation or commendation). I urge you to do likewise, even though it is sometimes more convenient to omit the word *deductively*. Deductive validity is not automatic success and deductive invalidity is not automatic failure.
 
-#### Summary and Comment
+### Summary and Comment
 
 Class exclusion is represented by drawing circles separate from each other. Similarly, nonmembership can be represented by placing the X for the nonmember outside of the circle for the class of which it is not a member.
 
@@ -499,7 +499,7 @@ There are many other refinements for the circle system, including using overlapp
 
 ---
 
-### Check-Up 5D
+## Check-Up 5D
 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
@@ -527,7 +527,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 **5:55** Using *invalid* to mean *deductively invalid* can be confusing to most people.
 
-#### Short Answer
+### Short Answer
 
 For each of the following deductively valid arguments, (a) state the conclusion and (b) draw a diagram of the argument that shows it to be deductively valid, making sure that the labels are perfectly clear.
 
@@ -549,7 +549,7 @@ For each of the following deductively valid arguments, (a) state the conclusion 
 
 [An additional challenge for you in this item is to fill in a reason that would make the argument deductively valid. Identifying this likely assumption gives you a glimpse of this activity, which is discussed in Chapter 7.]
 
-#### More Short Answer
+### More Short Answer
 
 For each of the following arguments, (a) state the conclusion and (b) make and label a diagram that shows the argument to be deductively invalid. As a reminder of a way to exhibit deductive invalidity, the first is done as an example.
 
@@ -569,7 +569,7 @@ b. [diagram]
 
 **5:69** Propositions that have been proved beyond a reasonable doubt are true. Because the proposition that the defendant was not justified in using the force she used has not been proven beyond a reasonable doubt, that proposition is not true. (Hint: Use types of propositions for your classes, such as *true propositions* and *propositions that have been proven beyond a reasonable doubt*.
 
-#### More Short Answer
+### More Short Answer
 
 For each of the following arguments, (a) state the conclusion, (b) make a labeled circle diagram of the argument exhibiting whether it is valid or invalid, and (c) report your judgment with the words *deductively valid* (or *DV*) or *deductively invalid* (or *DI*).
 
@@ -603,11 +603,11 @@ For each of the following arguments, (a) state the conclusion, (b) make a labele
 
 **5:84** "... none of woman born shall harm Macbeth." But "Macduff was from his mother's womb untimely ripp'd." Therefore, Macduff shall harm Macbeth.
 
-### Suggested Answers for Chapter 5
+## Suggested Answers for Chapter 5
 
 *Note:* Different diagrams from those suggested are often at least as good as the ones given. If yours differ from the ones suggested, then either try to satisfy yourself that yours are all right, or figure out why not.
 
-#### Check-Up 5A
+### Check-Up 5A
 
 5:1 T  5:2 T  5:3 F  5:4 F  5:5 F  5:6 T  5:7 T
 
@@ -627,7 +627,7 @@ For each of the following arguments, (a) state the conclusion, (b) make a labele
 
 5:12 Deductively valid
 
-#### Check-Up 5B
+### Check-Up 5B
 
 5:13 F  5:14 T  5:15 F  5:16 T
 
@@ -656,7 +656,7 @@ For each of the following arguments, (a) state the conclusion, (b) make a labele
 5:26 [diagram]
 
 
-#### Check-Up 5C
+### Check-Up 5C
 
 5:27 T  5:28 T  5:29 T  5:30 F  5:31 T
 
@@ -702,7 +702,7 @@ b. [diagram]
 a. Conclusion: Zoning is just.
 b. [diagram]
 
-#### Check-Up 5D
+### Check-Up 5D
 
 5:46 T  5:47 F  5:48 T  5:49 T  5:50 T  5:51 F
 
