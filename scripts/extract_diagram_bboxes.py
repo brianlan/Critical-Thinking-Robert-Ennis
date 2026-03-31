@@ -299,6 +299,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--final-pad-y", type=int, default=18, help="Final vertical padding added to each detected box")
     parser.add_argument("--annotate-dir", type=Path, help="Directory for saving page images with boxes drawn on top")
     parser.add_argument("--json", action="store_true", help="Emit JSON instead of plain text")
+    parser.add_argument("--json-output", type=Path, help="Also save the JSON output to this file path")
     return parser.parse_args()
 
 
@@ -323,8 +324,14 @@ def main() -> None:
         if args.annotate_dir:
             annotate_image(image_path, boxes, args.annotate_dir / image_path.name)
 
+    json_output = json.dumps(results, indent=2, ensure_ascii=True)
+
+    if args.json_output:
+        args.json_output.parent.mkdir(parents=True, exist_ok=True)
+        args.json_output.write_text(json_output + "\n", encoding="utf-8")
+
     if args.json:
-        print(json.dumps(results, indent=2, ensure_ascii=True))
+        print(json_output)
         return
 
     for image_path, boxes in results.items():
