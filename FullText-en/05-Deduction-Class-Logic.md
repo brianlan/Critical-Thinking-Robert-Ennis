@@ -156,13 +156,13 @@ First, I shall represent the argument in Check-Up Item 5:8 with circles, so chec
 
 **Diagram 5:1**
 
-[diagram]
+![Diagram 5:1](images/chapter-05/page_115/page_115_diagram_1_loc_558_1260_937_1408.png)
 
 To show that the class of houses is included in the class of buildings, a circle for houses is put inside the circle for buildings:
 
 **Diagram 5:2**
 
-[diagram]
+![Diagram 5:2](images/chapter-05/page_115/page_115_diagram_2_loc_544_1586_953_1735.png)
 
 [^2]: This system is largely based on one developed by Leonhard Euler, a Swiss mathematician. Professor William Rapaport has suggested useful changes.
 
@@ -175,13 +175,13 @@ Although the word *all* is not in the original proposition, we draw diagrams as 
 
 **Diagram 5:3**
 
-[diagram]
+![Diagram 5:3](images/chapter-05/page_116/page_116_diagram_1_loc_521_647_921_847.png)
 
 Note that Diagrams 5:2 and 5:3 have a circle in common: the circle for buildings. The diagrams can be combined, drawing the circle for buildings only once, as in **Diagram 5:4**, which you could form by placing Diagram 5:2 over Diagram 5:3.
 
 **Diagram 5:4**
 
-[diagram]
+![Diagram 5:4](images/chapter-05/page_116/page_116_diagram_2_loc_491_1082_949_1319.png)
 
 Notice that by combining the diagrams for the two reasons (*a* and *b*), I have made a diagram that shows that the conclusion is inescapable. That is, **Diagram 5:4** shows that the circle for houses is unavoidably inside the circle for structures, which is to say that houses are structures. There is no way to avoid diagramming the conclusion, given the diagrams of the reasons.
 
@@ -202,7 +202,7 @@ Putting the two reasons in the same diagram gives **Diagram 5:5**. You ordinaril
 
 **Diagram 5:5**
 
-[diagram]
+![Diagram 5:5](images/chapter-05/page_117/page_117_diagram_1_loc_482_537_1034_758.png)
 
 **Diagram 5:5** shows the argument in Check-Up Item 5:9 to be deductively valid. Diagramming the reasons forced me to diagram the conclusion. The circle for motorcycles is unavoidably included in the circle for mechanical contraptions, which is what the conclusion asserts.
 
@@ -218,7 +218,7 @@ c. Therefore, houses are homes.
 
 **Diagram 5:6**
 
-[diagram]
+![Diagram 5:6](images/chapter-05/page_117/page_117_diagram_2_loc_549_1454_964_1690.png)
 
 I did full justice to the reasons, but managed to avoid diagramming the conclusion. The circle for houses does not need to be inside the circle for homes, as is shown by the upper one of the alternative circles for houses. That shows the argument to be invalid.
 
@@ -299,7 +299,7 @@ For example, the proposition *Houses are expensive* does not contain a predicate
 
 **Diagram 5:7**
 
-[diagram]
+![Diagram 5:7](images/chapter-05/page_120/page_120_diagram_1_loc_493_643_918_799.png)
 
 *Birds have wings* is an example of a sentence without an *is* or an *are*. How would you transform that proposition into an *is* or *are* relationship between two classes? Circles inside of circles can explicitly represent only an *is* or *are* relationship, not a *have* relationship.
 
@@ -307,13 +307,13 @@ Here are some possibilities that would work: *Birds are winged creatures*, *Bird
 
 **Diagram 5:8**
 
-[diagram]
+![Diagram 5:8](images/chapter-05/page_120/page_120_diagram_2_loc_501_1227_913_1386.png)
 
 Sometimes classes are labeled in such a way that the labels do not look like class labels, such as *the ostrich* and *a bird* in *The ostrich is a bird*. The proposition means the same as *Ostriches are birds*, and is diagrammed in **Diagram 5:9**.
 
 **Diagram 5:9**
 
-[diagram]
+![Diagram 5:9](images/chapter-05/page_120/page_120_diagram_3_loc_500_1598_913_1751.png)
 
 
 Now try to diagram the following argument, which is Check-Up Item 5:11:
@@ -336,7 +336,7 @@ In Example 5:7, each proposition consists of two class terms connected by the wo
 
 **Diagram 5:10**
 
-[diagram]
+![Diagram 5:10](images/chapter-05/page_121/page_121_diagram_1_loc_532_1025_1014_1241.png)
 
 Note that in order to fit the system, the reasons and the conclusion had to be modified. This is common. You will often have to use your ingenuity.
 
@@ -355,7 +355,7 @@ It does not make sense to represent Juan by a circle because Juan is not a class
 
 **Diagram 5:11**
 
-[diagram]
+![Diagram 5:11](images/chapter-05/page_122/page_122_diagram_1_loc_381_183_1031_386.png)
 
 Note that a predicate class, *tall people*, had to be created out of the adjective *tall*.
 
@@ -440,7 +440,7 @@ Just as class inclusion is represented by one circle inside another, class exclu
 
 **Diagram 5:12**
 
-[diagram]
+![Diagram 5:12](images/chapter-05/page_124/page_124_diagram_1_loc_282_665_1133_787.png)
 
 **Diagram 5:12** says that the class of vehicles is *excluded* from the class of things that are permitted. Now try to diagram the argument of Example 5:9, which you have seen as Check-Up Item 5:12:
 
@@ -456,7 +456,7 @@ Try to diagram Example 5:9 before you read further.
 
 **Diagram 5:13**
 
-[diagram]
+![Diagram 5:13](images/chapter-05/page_124/page_124_diagram_2_loc_245_1354_1158_1531.png)
 
 In drawing **Diagram 5:13**, I first drew the first reason by drawing two separate circles: one for vehicles and one for things that are permitted. Then I drew the circle for motorcycles inside the circle for vehicles, as required by the second reason. This unavoidably put the circle for motorcycles totally separate from the circle for things that are permitted, which is what the conclusion says. Therefore, the conclusion is inescapably diagrammed by diagramming the reasons, so the argument is deductively valid.
 
@@ -467,7 +467,7 @@ Like exclusion, nonmembership is shown by putting the X for an individual outsid
 
 **Diagram 5:14**
 
-[diagram]
+![Diagram 5:14](images/chapter-05/page_125/page_125_diagram_1_loc_343_417_1205_565.png)
 
 In Example 5:10, the proposition diagrammed in **Diagram 5:14**, *Joan's bike is not permitted*, is the conclusion:
 
@@ -481,7 +481,7 @@ As shown by **Diagram 5:15**, this conclusion is inescapable, given the reasons,
 
 **Diagram 5:15**
 
-[diagram]
+![Diagram 5:15](images/chapter-05/page_125/page_125_diagram_2_loc_315_1084_1228_1238.png)
 
 ### Invalid and Valid: Terms of Condemnation and Commendation
 
@@ -557,7 +557,7 @@ For each of the following arguments, (a) state the conclusion and (b) make and l
 
 
 a. Conclusion: Alligators are amphibians
-b. [diagram]
+b. ![Diagram for 5:64](images/chapter-05/page_128/page_128_diagram_1_loc_421_198_985_478.png)
 
 **5:65** People under eighteen are not permitted to vote. Because Mark is not permitted to vote, he is under eighteen.
 
@@ -635,25 +635,25 @@ For each of the following arguments, (a) state the conclusion, (b) make a labele
 
 5:15 To represent the proposition *Turtles are egg layers*, the circle for turtles is put inside the circle for egg layers.
 
-5:17 [diagram]
+5:17 ![Diagram for 5:17](images/chapter-05/page_130/page_130_diagram_1_loc_535_737_936_914.png)
 
-5:18 [diagram]
+5:18 ![Diagram for 5:18](images/chapter-05/page_130/page_130_diagram_2_loc_538_944_936_1123.png)
 
-5:19 [diagram]
+5:19 ![Diagram for 5:19](images/chapter-05/page_130/page_130_diagram_3_loc_542_1155_935_1333.png)
 
-5:20 [diagram]
+5:20 ![Diagram for 5:20](images/chapter-05/page_130/page_130_diagram_4_loc_541_1364_939_1541.png)
 
-5:21 [diagram]
+5:21 ![Diagram for 5:21](images/chapter-05/page_130/page_130_diagram_5_loc_547_1573_935_1749.png)
 
-5:22 [diagram]
+5:22 ![Diagram for 5:22](images/chapter-05/page_131/page_131_diagram_1_loc_553_148_959_325.png)
 
-5:23 [diagram]
+5:23 ![Diagram for 5:23](images/chapter-05/page_131/page_131_diagram_2_loc_491_368_1032_627.png)
 
-5:24 [diagram]
+5:24 ![Diagram for 5:24](images/chapter-05/page_131/page_131_diagram_3_loc_486_671_1027_931.png)
 
-5:25 [diagram]
+5:25 ![Diagram for 5:25](images/chapter-05/page_131/page_131_diagram_4_loc_487_972_1026_1231.png)
 
-5:26 [diagram]
+5:26 ![Diagram for 5:26](images/chapter-05/page_131/page_131_diagram_5_loc_486_1275_1026_1534.png)
 
 
 ### Check-Up 5C
@@ -662,45 +662,53 @@ For each of the following arguments, (a) state the conclusion, (b) make a labele
 
 5:30 The proposition *Grasshoppers are flying creatures* is in the recommended idealized form, ready to be diagrammed.
 
-5:32 [diagram]
+5:32 
+![Diagram for 5:32](images/chapter-05/page_132/page_132_diagram_1_loc_448_169_988_339.png)
 
-5:33 [diagram]
+5:33 
+![Diagram for 5:33](images/chapter-05/page_132/page_132_diagram_2_loc_470_363_971_534.png)
 
-5:34 [diagram]
+5:34 
+![Diagram for 5:34](images/chapter-05/page_132/page_132_diagram_3_loc_504_563_936_735.png)
 
-5:35 [diagram]
+5:35 
+![Diagram for 5:35](images/chapter-05/page_132/page_132_diagram_4_loc_408_759_1033_928.png)
 
-5:36 [diagram]
+5:36 
+![Diagram for 5:36](images/chapter-05/page_132/page_132_diagram_5_loc_459_955_989_1204.png)
 
-5:37 [diagram]
+5:37 
+![Diagram for 5:37](images/chapter-05/page_132/page_132_diagram_6_loc_438_1231_1008_1479.png)
 
-5:38 [diagram]
+5:38 
+![Diagram for 5:38](images/chapter-05/page_132/page_132_diagram_7_loc_382_1516_1064_1772.png)
 
-5:39 [diagram]
+5:39 
+![Diagram for 5:39](images/chapter-05/page_133/page_133_diagram_1_loc_459_158_1071_408.png)
 
 5:40 
 a. Conclusion: All mayors are deeply concerned about taxes.
-b. [diagram]
+b. ![Diagram for 5:40](images/chapter-05/page_133/page_133_diagram_2_loc_380_478_1151_735.png)
 
 5:41 
 a. Conclusion: Sarah Washington is deeply concerned about taxes.
-b. [diagram]
+b. ![Diagram for 5:41](images/chapter-05/page_133/page_133_diagram_3_loc_381_798_1151_1054.png)
 
 5:42 
 a. Conclusion: All Chekhov's short stories have had an influence on my life.
-b. [diagram]
+b. ![Diagram for 5:42](images/chapter-05/page_133/page_133_diagram_4_loc_406_1153_1114_1410.png)
 
 5:43 
 a. Conclusion: Those wheat plants are weeds.
-b. [diagram]
+b. ![Diagram for 5:43](images/chapter-05/page_133/page_133_diagram_5_loc_452_1474_1068_1732.png)
 
 5:44 
 a. Conclusion: Zoning is unjust.
-b. [diagram]
+b. ![Diagram for 5:44](images/chapter-05/page_134/page_134_diagram_1_loc_313_196_1119_454.png)
 
 5:45 
 a. Conclusion: Zoning is just.
-b. [diagram]
+b. ![Diagram for 5:45](images/chapter-05/page_134/page_134_diagram_2_loc_367_523_1070_779.png)
 
 ### Check-Up 5D
 
@@ -720,37 +728,37 @@ b. [diagram]
 
 5:56 
 a. Conclusion: Mike is not permitted in the park.
-b. [diagram]
+b. ![Diagram for 5:56](images/chapter-05/page_134/page_134_diagram_3_loc_320_1271_1115_1449.png)
 
 5:57 
 a. Conclusion: The gasoline from this can is not permitted in this tank.
-b. [diagram]
+b. ![Diagram for 5:57](images/chapter-05/page_134/page_134_diagram_4_loc_203_1556_1235_1744.png)
 
 *Note:* The gasoline from this can could have been represented with an *X* instead of a circle. It does not matter.
 
 5:58 
 a. Conclusion: Tina cannot be president.
-b. [diagram]
+b. ![Diagram for 5:58](images/chapter-05/page_135/page_135_diagram_1_loc_280_300_1252_476.png)
 
 5:59 
 a. Conclusion: Mirabelle is ineligible to vote.
-b. [diagram]
+b. ![Diagram for 5:59](images/chapter-05/page_135/page_135_diagram_2_loc_303_545_1224_725.png)
 
 5:60 
 a. Conclusion: Sharon will have to pay the full admission price.
-b. [diagram]
+b. ![Diagram for 5:60](images/chapter-05/page_135/page_135_diagram_3_loc_255_795_1268_973.png)
 
 5:61 
 a. Conclusion: Henry will not have to pay the full admission price.
-b. [diagram]
+b. ![Diagram for 5:61](images/chapter-05/page_135/page_135_diagram_4_loc_279_1041_1236_1220.png)
 
 5:62 
 a. Conclusion: Regulation EZCOMP will not make any sense.
-b. [diagram]
+b. ![Diagram for 5:62](images/chapter-05/page_135/page_135_diagram_5_loc_239_1288_1282_1465.png)
 
 5:63 
 a. Conclusion: The canteen is not open today.
-b. [diagram]
+b. ![Diagram for 5:63](images/chapter-05/page_135/page_135_diagram_6_loc_138_1524_1272_1730.png)
 c. Unstated reason, or assumption: The canteen is a store.
 
 
@@ -758,70 +766,70 @@ c. Unstated reason, or assumption: The canteen is a store.
 
 5:65 
 a. Conclusion: Mark is under eighteen.
-b. [diagram]
+b. ![Diagram for 5:65](images/chapter-05/page_136/page_136_diagram_1_loc_271_246_1155_442.png)
 
 5:66 
 a. Conclusion: The members of the action committee are good communists.
-b. [diagram]
+b. ![Diagram for 5:66](images/chapter-05/page_136/page_136_diagram_2_loc_286_547_1155_743.png)
 
 5:67 
 a. Conclusion: Nobody in the in-group is careless with the energy supply.
-b. [diagram]
+b. ![Diagram for 5:67](images/chapter-05/page_136/page_136_diagram_3_loc_202_851_1229_1048.png)
 
 5:68 
 a. Conclusion: The members of the planning commission are critical thinkers.
-b. [diagram]
+b. ![Diagram for 5:68](images/chapter-05/page_136/page_136_diagram_4_loc_249_1156_1190_1350.png)
 
 5:69 
 a. Conclusion: The proposition that the defendant was not justified in using the force she used is not true.
-b. [diagram]
+b. ![Diagram for 5:69](images/chapter-05/page_136/page_136_diagram_5_loc_250_1458_1186_1730.png)
 
 
 5:70 
 a. Conclusion: Figure ABCD has four right angles
-b. [diagram]
+b. ![Diagram for 5:70](images/chapter-05/page_137/page_137_diagram_1_loc_429_189_1093_447.png)
 c. DV
 
 5:71 
 a. Conclusion: John is nearsighted.
-b. [diagram]
+b. ![Diagram for 5:71](images/chapter-05/page_137/page_137_diagram_2_loc_292_582_1232_781.png)
 c. DI
 
 5:72 
 a. Conclusion: The penguin is a fast runner.
-b. [diagram]
+b. ![Diagram for 5:72](images/chapter-05/page_137/page_137_diagram_3_loc_484_914_1023_1175.png)
 c. DV
 
 5:73 
 a. Conclusion: The percent increase in the Gross Domestic Product is an index that should take into account changes in the cost of living.
-b. [diagram]
+b. ![Diagram for 5:73](images/chapter-05/page_137/page_137_diagram_4_loc_315_1381_1194_1641.png)
 c. DV
 
 
 5:74 
 a. Conclusion: The first few sentences in Marc Antony's speech to the people of Rome should be combined.
-b. [diagram]
+b. ![Diagram for 5:74](images/chapter-05/page_138/page_138_diagram_1_loc_245_239_1162_502.png)
 c. DV
 
 *Henceforth in this set, odd-numbered answers will be omitted. A challenge!*
 
 5:76 
 a. Conclusion: ABCDE is an equilateral polygon inscribed in a circle.
-b. [diagram]
+b. ![Diagram for 5:76](images/chapter-05/page_138/page_138_diagram_2_loc_306_710_1110_908.png)
 c. DI
 
 5:77 Deliberately omitted.
 
 5:78 
 a. Conclusion: Marguerite Blank will win the presidential election.
-b. [diagram]
+b. ![Diagram for 5:78](images/chapter-05/page_138/page_138_diagram_3_loc_284_1074_1136_1252.png)
 c. DI
 
 5:79 Deliberately omitted.
 
 5:80 
 a. Conclusion: Blue and yellow, when combined, will appear to be white.
-b. [diagram]
+b. ![Diagram for 5:80](images/chapter-05/page_138/page_138_diagram_4_loc_274_1414_1139_1668.png)
 c. DV
 
 
@@ -831,14 +839,14 @@ c. DV
 
 5:82 
 a. Conclusion: Mary does not know the rules of punctuation.
-b. [diagram]
+b. ![Diagram for 5:82](images/chapter-05/page_139/page_139_diagram_1_loc_334_472_1215_709.png)
 c. DV
 
 5:83 Deliberately omitted.
 
 5:84 
 a. Conclusion: Macduff shall harm Macbeth.
-b. [diagram]
+b. ![Diagram for 5:84](images/chapter-05/page_139/page_139_diagram_2_loc_347_879_1196_1067.png)
 c. DI
 
 *Thought question:* What then does follow?
