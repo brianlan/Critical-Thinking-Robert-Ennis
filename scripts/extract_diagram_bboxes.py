@@ -233,6 +233,8 @@ def detect_diagram_bboxes(
             continue
         if fill > 0.15 and w > 120 and h < 120:
             continue
+        if looks_like_annotated_text_block(mask, box):
+            continue
 
         padded_box = [
             max(0, int(box[0] - final_pad_x)),
@@ -266,6 +268,22 @@ def annotate_image(image_path: Path, boxes: list[list[int]], output_path: Path) 
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     image.save(output_path)
+
+
+def looks_like_annotated_text_block(mask: np.ndarray, box: list[int]) -> bool:
+    x1, y1, x2, y2 = box
+    crop = mask[y1:y2, x1:x2]
+    h, w = crop.shape
+    if w < 400 or h < 120 or h > 360:
+        return False
+
+    fill = float(crop.mean())
+    row_frac = crop.mean(axis=1)
+    col_frac = crop.mean(axis=0)
+    strong_row_ratio = float((row_frac > 0.12).sum() / max(1, h))
+    wide_col_ratio = float((col_frac > 0.08).sum() / max(1, w))
+
+    return fill > 0.15 and strong_row_ratio > 0.25 and wide_col_ratio > 0.85
 
 
 def parse_args() -> argparse.Namespace:
