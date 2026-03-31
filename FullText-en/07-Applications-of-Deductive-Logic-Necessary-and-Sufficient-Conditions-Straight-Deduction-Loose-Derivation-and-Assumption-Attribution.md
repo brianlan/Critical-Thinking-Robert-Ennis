@@ -132,6 +132,8 @@ It is false that Iago was . . . chiefly incited by two things, the desire of adv
 
 I added the apparent assumption that the desire of advancement and the hatred of Othello due principally to the affair of the lieutenancy are simple passions due to simple causes. Then the argument can be seen to be deductively valid by the following diagram:
 
+![Diagram 7:1](images/chapter-07/page_178/page_178_diagram_1_loc_58_200_1254_486.png)
+
 [^3]: A. C. Bradley, *Shakespearean Tragedy* (London: Macmillan and Co., Ltd, 1937), p. 220.
 
 Therefore, the argument is deductively valid. Diagramming the reasons *forces* us to diagram the conclusion. The reasons force the X for Iago to be outside the inner circle on the right-hand side.
@@ -161,6 +163,10 @@ b.  Ambassador White was opposed to United States policy in El Salvador.
 c.  Therefore, Ambassador White was probably a Communist.
 
 The argument in Example 7:8 is deductively invalid even when the qualifying words, *generally* and *probably*, are stripped from it. In the context in which I heard this argument, there were no other plausible background assumptions to support the inference from the reasons to the conclusion, so I judged the argument defective. The argument seemed to require something close to deductive validity in that situation, but deductive validity was not there, as shown in Diagram 7:2.
+
+**Diagram 7:2**
+
+![Diagram 7:2](images/chapter-07/page_179/page_179_diagram_1_loc_144_953_1296_1260.png)
 
 ## Summary So Far
 The language of necessary and sufficient conditions is often useful in discussing relationships among things and in appraising deductive arguments. A *sufficient* condition is one that is enough to establish that something else holds. A *necessary* condition is one that must hold if another is to hold. A sufficient condition is enough, but it might not be necessary; a necessary condition is needed, but often is not enough. Although the language of necessary and sufficient conditions is also used in causal propositions, be careful about causal interpretations of logically necessary and sufficient condition relationships. Make sure that what you are saying makes sense.
