@@ -53,7 +53,7 @@ Although Example 12:3 is easier to understand (and thus might be better to use f
 
 **Diagram 12:1**
 
-[Diagram 12:1]
+![Diagram 12:1](images/chapter-12/page_343/page_343_diagram_1_loc_515_380_774_653.png)
 
 The figure in Diagram 12:1 is not a triangle, although according to Example 12:3, it would be a triangle. Therefore, this figure is a counterexample to Example 12:3. Example 12:2, although more difficult to understand, is less vulnerable to counterexamples. It is a more accurate report of the standard usage of the word *triangle*.
 
@@ -65,7 +65,7 @@ A diagram of the relationship between these two parts of the definition in Examp
 
 **Diagram 12:2**
 
-[Diagram 12:2]
+![Diagram 12:2](images/chapter-12/page_343/page_343_diagram_2_loc_343_1322_953_1576.png)
 
 This diagram states that the definition has the defect of having the defining part represent a class that is larger than the other class or, in this case, that there are three-sided figures that are not triangles. (The S-sided three-sided figure is an example.) Circle diagrams are a way of explaining this sort of defectiveness to other people.
 
@@ -83,7 +83,7 @@ One counterexample to this definition of *car* is my neighbor's pick-up truck. I
 
 **Diagram 12:3**
 
-[Diagram 12:3]
+![Diagram 12:3](images/chapter-12/page_344/page_344_diagram_1_loc_214_859_1198_1130.png)
 
 This diagram of two overlapping circles shows that there are cars that do not fit the defining part (racing cars) and that there are things that fit the defining part that are not cars (pick-up trucks). The car definition is both too restrictive and too liberal. (Do not be bothered by the fact that the size of the circles and the overlap are not truly proportional.)
 
@@ -98,7 +98,7 @@ Chapter 2) of his conclusion that Arlene performed the act that caused Al's deat
 
 **Diagram 12:4**
 
-[Diagram 12:4]
+![Diagram 12:4](images/chapter-12/page_345/page_345_diagram_1_loc_284_391_1004_654.png)
 
 In this case, the deviation from standard usage mattered because one of the jurors was using the deductive definition, resulting in his refusing—for a while—to accept any other kind of proof.
 
@@ -106,13 +106,13 @@ The ideal for a reported definition is to have the two parts cover exactly the s
 
 **Diagram 12:5**
 
-[Diagram 12:5]
+![Diagram 12:5](images/chapter-12/page_345/page_345_diagram_2_loc_311_990_983_1219.png)
 
 Actually, it is difficult to satisfy this ideal completely for terms in everyday use. For example, would you call Diagram 12:6 a triangle? I am reluctant to do so, yet it satisfies the defining part of Example 12:2, according to one way that we might interpret the words *closed figure* in that definition.
 
 **Diagram 12:6**
 
-[Diagram 12:6]
+![Diagram 12:6](images/chapter-12/page_345/page_345_diagram_3_loc_460_1484_839_1720.png)
 
 I invite you to try to make a true precise reported definition of some term in its standard meaning that has no counterexamples. Then see whether a friend can produce a counterexample. It is instructive to do this, both to make the definition and to try to produce a counterexample. Because you have not yet read about different ways of formulating definitions, it might be difficult even to start making such a definition, but give it a try. You already know something about formulating definitions because you have often done it. Furthermore, trying to make some definitions will help you get warmed up for the next part of this chapter.
 
@@ -122,7 +122,7 @@ After thinking more about my definition of *proven beyond a reasonable doubt*, I
 
 **Diagram 12:7**
 
-[Diagram 12:7]
+![Diagram 12:7](images/chapter-12/page_346/page_346_diagram_1_loc_260_866_1146_1118.png)
 
 Diagram 12:7 represents the ideal in reported definitions of terms in their standard meaning: coextensive circles. Seek this ideal, but do not expect perfection.
 
@@ -607,7 +607,7 @@ C. Which of the resulting definitions best suits your circumstances? Why?
 12:5 Replace *have absolutely no counterexamples* with *be good enough for the situation*.  
 12:7 Incorrect. An ellipse is a plane curved figure, but is not a circle.
 
-[Diagram 12:7]
+![Diagram for 12:7](images/chapter-12/page_362/page_362_diagram_1_loc_394_146_981_402.png)
 
 12:8 Incorrect. A frozen lake is a large body of ice. Diagrammed like 12:7.
 
@@ -615,7 +615,7 @@ C. Which of the resulting definitions best suits your circumstances? Why?
 
 12:10 Incorrect. The short story "The Lottery" is a "literary work . . .," but it is not a poem.
 
-[Diagram 12:10]
+![Diagram for 12:10](images/chapter-12/page_362/page_362_diagram_2_loc_321_555_1054_850.png)
 
 12:11 Deliberately omitted.
 
