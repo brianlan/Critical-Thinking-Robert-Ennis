@@ -549,7 +549,7 @@ For each of the following, write a one-page essay starting with your conclusion,
 11:14 a. The United States should have stayed out of World War I.  
 b. It follows, as shown in the following diagram:
 
-[Diagram 11:14]
+![Diagram 11:14](images/chapter-11/page_338/page_338_diagram_1_loc_334_958_1085_1216.png)
 
 11:15 Deliberately omitted.
 
@@ -561,7 +561,7 @@ b. It follows: the antecedent has been affirmed.
 11:18 a. Michael's intercepting and destroying Bill's love letter to Juanita was not unethical.  
 b. It follows, assuming that whatever is fair is not unethical, as shown by the following diagram:
 
-[Diagram 11:14]
+![Diagram 11:18](images/chapter-11/page_338/page_338_diagram_2_loc_307_1506_1078_1848.png)
 
 ### Check-Up 11B
 11:19 F 11:20 T 11:21 F 11:22 T
