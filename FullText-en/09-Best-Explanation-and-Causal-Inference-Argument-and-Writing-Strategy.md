@@ -381,7 +381,11 @@ See the drawing for the general relationship between a rocker arm, a valve shaft
 
 **b.** On inspection, five engines with premature wearing of one or more valve guides were found to have exhaust-valve rocker arms installed in the place of intake rocker arms in the position associated with the affected valve guides.
 
-**c.** Some engines with premature wear on the intake valve guides were found to have the correct rocker arms installed in all positions. (There are eight rocker arms on a four-cylinder engine, two per cylinder.)
+**c.** Some engines with premature wear on the intake valve guides
+
+![Schematic drawing of rocker arm, valve shaft, and valve guide](images/chapter-09/page_257/page_257_diagram_1_loc_190_155_1198_750.png)
+
+were found to have the correct rocker arms installed in all positions. (There are eight rocker arms on a four-cylinder engine, two per cylinder.)
 
 **d.** Some engines had guides so heavily worn that they needed replacement after only 300 hours of operation (2,000 hours is expected minimum time). The rocker arms on these engines were in the correct places. That is, the intake and exhaust rocker arms were not exchanged.
 
