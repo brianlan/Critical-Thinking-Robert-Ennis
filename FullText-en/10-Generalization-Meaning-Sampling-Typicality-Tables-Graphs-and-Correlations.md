@@ -324,7 +324,7 @@ The display of points in a graph like that of Graph 10.1 is called a scatterplot
 
 #### Graph 10:1 Traffic Fatalities vs Population in Sixteen Southern States and Washington, D.C.
 
-[Graph 10:1]
+![Graph 10:1](images/chapter-10/page_304/page_304_diagram_1_loc_55_210_1180_1280.png)
 
 Until I drew the line, I was engaged in limited-to-the-data generalizing. But the line suggests that there is a relationship that holds for population sizes not represented in the data. For example, it could be the basis of a prediction that if Texas had a population of only 11.0 million, there would have been somewhere around 2.8 thousand (or 2,800) fatalities. (Draw a straight line up from 11.0 million until it touches the line of best fit that I drew. Then, from the point of touching draw a line straight over to the vertical axis at the left and see where it hits—about 2.8.) The line of best fit represents an inferred generalization that goes beyond the data.
 
@@ -355,7 +355,7 @@ To secure the information in Table 10.3, a copilot recorded information from a s
 
 #### Graph 10:2. Altitude vs. Temperature on a Selected Flight
 
-[Graph 10:2]
+![Graph 10:2](images/chapter-10/page_306/page_306_diagram_1_loc_87_197_1230_720.png)
 
 What do the data tell us about the relationship between altitude and temperature? We can see that the temperature went down as the altitude increased. (A general rule at these low altitudes, by the way, is that the temperature usually decreases about 3°F for each thousand feet of altitude—a well-established generalization.) This relationship is plotted in Graph 10:2.
 
@@ -363,13 +363,15 @@ Note that the line goes up to the left, not to the right. This means that the re
 
 Note also that the variable on the horizontal axis does not start at 0. Can you see that if it had ranged from 0 to 80, the line would have been much steeper in slope? See Graph 10:3, based on the same data, and compare it to Graph 10:2. The lesson here is that relationships and differences can be made to appear in different ways by excluding or including selected portions. There are other ways of being fooled by the way the scale is set up. One in particular is the use of logarithmic scales. If you remember logarithms, you might imagine how this can occur.
 
+![Graph 10:3](images/chapter-10/page_307/page_307_diagram_1_loc_87_103_1280_600.png)
+
 Next, look at a scatterplot with a line of best fit for altitude and indicated airspeed for this flight in Graph 10:4. The line of best fit (a perfect fit this time) goes straight up and down. No matter what the altitude (in this sequence of observations) the indicated airspeed was the same. So there was no apparent relation in this sequence, something that we can see from the line's being straight up and down. However, we do not learn anything from this about the possibility of a real relationship between attitude and indicated airspeed because the pilot deliberately kept the indicated airspeed at 115 mph as the airplane climbed. At constant power and vertical speed, the indicated airspeed would in fact have declined as this aircraft climbed.
 
 What would you infer from a line of best fit that goes straight across, not slanted at all? Similarly, it would indicate no apparent relationship in the data because it would tell us that there was no change in the variable on the vertical axis when there were changes in the variable in the horizontal axis. If you do not see that, then study the graph a bit until it becomes clear.
 
 Draw or imagine a scatterplot using altitude and distance from the airport. You should get a line that slopes upward to the right, showing a positive relationship for this particular segment of this particular flight. Does that show that climbing causes an airplane to be farther from the airport? Not in ground distance. The airplane could just as easily have circled and arrived at 5,000 feet when it was just over the place where it started. The ground distance from reference point on the airport could then have been the same as at departure. Climbing does not cause airplanes to be farther away across the ground from a position. Although there was a relationship in this flight, it was what some people call a *spurious* relationship. I think that the word *spurious* is a bit strong because it implies that the relationship is counterfeit or false. I suggest instead calling it a noncausal association because, in that situation, there really was a relationship. What do you think?
 
-[Graph: Indicated Airspeed (miles per hour)]
+![Graph 10:4](images/chapter-10/page_307/page_307_diagram_2_loc_100_1283_1200_1780.png)
 
 ### Correlations
 
@@ -485,9 +487,15 @@ b. It would probably be better to select every sixteenth ball (a systematic samp
 10:26 The entire possible range of variables is often not included on a graph so that a certain range can be examined more thoroughly.
 10:27 Change *negative* to *positive*.
 
-10:29 Change *stronger* to *weaker*.  
-10:30  [Graph 10:30]
-10:31  [Graph 10:31]
+10:29 Change *stronger* to *weaker*.
+
+10:30 Altitude vs Distance from Airport:
+
+![Graph 10:30](images/chapter-10/page_312/page_312_diagram_1_loc_203_210_1080_780.png)
+
+10:31 Altitude vs Vertical Speed:
+
+![Graph 10:31](images/chapter-10/page_312/page_312_diagram_2_loc_202_830_1120_1400.png)
 a. This was the range in the table.  
 b. Negative. (We cannot give a value for the altitude of 756 because we do not know what the vertical speed is at takeoff. The 0 vertical speed reading was obtained before the airplane was flying, as can be seen by the concurrent airspeed reading.)  
 c. Yes, because the airplane's power and the density of the air on which the propeller can get a "bite" reduce with the altitude. (Giving a good answer to this question requires knowledge of the field. If you figured it out, good for you!)
