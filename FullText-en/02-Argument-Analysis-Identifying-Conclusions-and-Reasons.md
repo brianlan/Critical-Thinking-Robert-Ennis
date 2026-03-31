@@ -405,25 +405,37 @@ Here is an example, using the defense attorney’s argument for her innocence (I
 
 In the diagram of this simple argument, we put the letter A above the letter B and draw an arrow from B up to A. This shows that B is offered in support of A.
 
+![Diagram of defense attorney's argument](images/chapter-02/page_059/page_059_diagram_1_loc_728_482_795_683.png)
+
 If two or more reasons are offered in support of a conclusion, they all appear below it with arrows going up to it showing their support, as in the following example:
 
 Paragraph 3: (A) `<The pathologist who examined the body said that there was only one knife wound>` and (B) `<that was in Al’s chest>`. (C) `<The pathologist also said that this one knife wound was the cause of death>`. (D) `<Arlene’s knife stroke must have caused his death>`.
 
+
+![Diagram of Paragraph 3](images/chapter-02/page_059/page_059_diagram_2_loc_628_950_892_1163.png)
 In drawing this diagram, I omitted a refinement that I shall soon discuss. If one thing supports another, which in turn supports a third, then they make a chain, as in the following argument:
 
 (A) `<He threatened to kill her>`. (B) `<She was defending herself against attack>`. (C) `<She must be innocent>`.
+
+![Diagram of argument chain](images/chapter-02/page_059/page_059_diagram_3_loc_723_1384_790_1700.png)
 
 Here is a more complicated one. Check to make sure that you see why each part of the diagram is the way it is.
 
 Paragraph 2: (A) `<The most important fact is that on the witness stand she admitted stabbing him>`. (B) `<She said that she picked up the knife and stabbed him in the chest with it>`. Obviously (C) `<she would not have admitted it if she had not done it>`. Hence, (D) `<she did stab him>`.
 
+
+![Diagram of Paragraph 2](images/chapter-02/page_060/page_060_diagram_1_loc_632_270_804_569.png)
 Note that in judging that B was offered in support of A, I neglected the first six words in A. Do you think I was justified in doing so? I again omitted the refinement that I shall soon discuss.
 
 This system for diagramming arguments can be changed or made more elaborate, if it suits your taste. You could even turn the diagrams upside down and call them tree diagrams. This is often done. The main thing is to use it as a tool to represent what you think are the intentions of the writer. Feel free to modify it in whatever way seems helpful. If you want to leave out such unnecessary words as *obviously*, then do so. If it helps you to combine or separate different assertions, then do so. One refinement I like is to distinguish between two ways in which a pair of propositions can support another: jointly (in cooperation) or separately (independently), as in the following diagrams, in which A and B support C jointly and independently:
 
+![Joint and independent support diagrams](images/chapter-02/page_060/page_060_diagram_2_loc_378_1013_1059_1261.png)
+
 In my suggested diagrams, I shall use this refinement, and recommend it to you. However, one difficulty with using this refinement is that it is sometimes difficult to tell whether the person making the argument intended the reasons to join together to support the conclusion. A suggestion: If in doubt, diagram them as independent reasons.
 
 Using this joint system, the previous argument from Paragraph 2 in the prosecutor’s speech would look like this:
+
+![Refined diagram of Paragraph 2](images/chapter-02/page_060/page_060_diagram_3_loc_634_1503_811_1803.png)
 
 Another refinement is to add what you think are unstated assumptions. However, it is often difficult to identify unstated assumptions in a way that is fair to the arguer, so beware. The process of identifying assumptions is discussed in Chapter 7, but here is an example:
 
@@ -438,6 +450,8 @@ Possible unstated assumption:
 (C) `<We are at a high altitude>`.
 
 A diagram might look like this, using the joining-together system and using square brackets to indicate the unstated assumption:
+
+![Diagram for Example 2:11](images/chapter-02/page_061/page_061_diagram_1_loc_623_722_896_945.png)
 
 In general, if you do add something that is not explicitly there, mark it with square brackets ([,]).
 
@@ -461,6 +475,8 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 For Items 2:72 through 2:83, make an arrow diagram for each of the arguments in Items 2:12 through 2:23. Label the propositions in order of appearance, with A, B, etc. The first is done as an example:
 
 **2:72** (A) `<Jane’s baseball glove is missing>`. So (B) `<she went to the park today>`.
+
+![Diagram 2:72](images/chapter-02/page_062/page_062_diagram_1_loc_685_602_752_803.png)
 
 **More Short Answer**
 For Items 2:84 through 2:91, do the same thing with Items 2:30 through 2:37.
@@ -602,65 +618,123 @@ For Items 2:110 through 2:112, do the same thing for Items 2:66 through 2:68. Th
 
 **2:73 (2:13)** (A) `<Jane went to the party today>`. I know this because (B) `<her glove is missing>`.
 
+![Diagram 2:73](images/chapter-02/page_067/page_067_diagram_1_loc_722_1531_791_1734.png)
+
 **2:74 (2:14)** Because (A) `<Arthur plays chess slowly and carefully>`, (B) `<this will be a long game>`.
+
+![Diagram 2:74](images/chapter-02/page_068/page_068_diagram_1_loc_679_196_748_396.png)
 
 **2:75 (2:15)** (A) `<Eggs boiled at high altitude take much longer for the egg to be cooked>`. Therefore, (B) `<you should boil this egg for a longer time>`.
 
+![Diagram 2:75](images/chapter-02/page_068/page_068_diagram_2_loc_681_460_751_660.png)
+
 **2:76 (2:16)** (A) `<The unexamined life is not worth living>`. I know this to be true because (B) `<Socrates said so>`.
+
+![Diagram 2:76](images/chapter-02/page_068/page_068_diagram_3_loc_682_722_749_922.png)
 
 **2:77 (2:17)** It is obvious that (A) `<she loved him>`. So (B) `<she did not kill him>`.
 
+![Diagram 2:77](images/chapter-02/page_068/page_068_diagram_4_loc_684_949_752_1148.png)
+
 **2:78 (2:18)** Because (A) `<the pathologist found only one wound on the victim's body>`, (B) `<that wound must be the one she caused>`.
+
+![Diagram 2:78](images/chapter-02/page_068/page_068_diagram_5_loc_685_1213_754_1412.png)
 
 **2:79 (2:19)** (A) `<A twenty-two-year-old woman could not do such a thing to someone she loved>`. (B) `<She could not even have struck at him with a knife>`. Therefore, (C) `<someone else did it>`.
 
+![Diagram 2:79](images/chapter-02/page_068/page_068_diagram_6_loc_588_1509_851_1726.png)
+
 **2:80 (2:20)** (A) `<Rooms with light-colored walls are well-lighted>`. Because (B) `<Mr. Martinez says that Monique's room is not well-lighted>`, we can conclude that (C) `<it does not have light-colored walls>`.
+
+![Diagram 2:80](images/chapter-02/page_069/page_069_diagram_1_loc_640_234_898_483.png)
 
 **2:81 (2:21)** Because (A) `<Charles Dickens describes people and events in great detail>`, (B) `<Jonathan will no doubt be reading that book for a long time>`.
 
+![Diagram 2:81](images/chapter-02/page_069/page_069_diagram_2_loc_733_584_801_784.png)
+
 **2:82 (2:22)** (A) `<She must have hated him>`. (B) `<He was going with another woman>`, wasn't he?
+
+![Diagram 2:82](images/chapter-02/page_069/page_069_diagram_3_loc_731_852_799_1054.png)
 
 **2:83 (2:23)** (A) `<Tom Jeffers could not have killed Al Hamilton>`. (B) `<Tom was in the local hospital from 10 P.M. to midnight>` and (C) `<Al was killed at about 11:05 P.M.>`
 
+![Diagram 2:83](images/chapter-02/page_069/page_069_diagram_4_loc_636_1156_894_1406.png)
+
 **2:84 (2:30)** Although (A) `<he died>`, (B) `<the knife stroke was delivered with only moderate force>`. We can conclude this because (C) `<the knife penetrated only 2.5 inches and did not touch any bone>`.
+
+![Diagram 2:84](images/chapter-02/page_069/page_069_diagram_5_loc_729_1505_797_1706.png)
 
 **2:85 (2:31)** (A) `<She must not have intended to kill him>`. (B) `<The knife stroke was delivered with only moderate force>`. So (C) `<she is not guilty>`.
 
+![Diagram 2:85](images/chapter-02/page_070/page_070_diagram_1_loc_682_240_752_556.png)
+
 **2:86 (2:32)** Obviously (A) `<she was strong enough to do the job>`, although (B) `<she is not very strong>`. (C) `<The knife stroke was delivered with only moderate force>`.
+
+![Diagram 2:86](images/chapter-02/page_070/page_070_diagram_2_loc_684_675_752_874.png)
 
 **2:87 (2:33)** Although (A) `<Martine was on the scene>`, (B) `<she did not see the accident>`. Here's how I know: (C) `<Martine always tells us when important things happen>`, and (D) `<she did not even mention the accident>`.
 
+![Diagram 2:87](images/chapter-02/page_070/page_070_diagram_3_loc_587_1028_853_1246.png)
+
 **2:88 (2:34)** (A) `<Traffic on Poplar Road must be changed from two-way to one-way>`. (B) `<There is too much traffic on this road now>` and (C) `<there are frequent collisions>`.
+
+![Diagram 2:88](images/chapter-02/page_070/page_070_diagram_4_loc_586_1361_855_1582.png)
 
 **2:89 (2:35)** Because (A) `<the prosecuting attorney proved conclusively that the defendant killed the victim,>` (B) `<it has been proved beyond a reasonable doubt that the defendant performed the act that caused the death of the victim>`. (C) `<The first condition for a murder verdict is satisfied>`.
 
+![Diagram 2:89](images/chapter-02/page_071/page_071_diagram_1_loc_726_300_795_617.png)
+
 **2:90 (2:36)** There is no doubt that (A) `<a very important feature of our legal system is that a defendant is considered innocent until proved guilty>`. But (B) `<the public does not seem to believe this>`. Obviously, (C) `<we need a broad public-information campaign about that feature of our system>`.
 
+![Diagram 2:90](images/chapter-02/page_071/page_071_diagram_2_loc_623_806_893_1021.png)
+
 **2:91 (2:37)** (A) `<Jones can never be elected to the presidency>`. (B) `<She has a questionable background and has a habit of irritating people with her penetrating questions>`. (C) `<This is obvious to me>`, although (D) `<I realize that she would make an excellent president>`. However, (E) `<we need her on our side>`. So (F) `<let's make her Chair of the Rules Committee>`.
+
+![Diagram 2:91](images/chapter-02/page_071/page_071_diagram_3_loc_622_1245_893_1579.png)
 
 (Note: On some readings, D also supports F.)
 
 **2:92 (2:48)** (A) `<If you boil an egg at high altitude, then it takes much longer for the egg to be cooked>`. Therefore, (B) `<you should boil this egg for a long time>`.
 
+![Diagram 2:92](images/chapter-02/page_072/page_072_diagram_1_loc_677_242_745_442.png)
+
 **2:93 (2:49)** (A) `<If Monique’s room has light-colored walls, then it is well-lighted>`. Because (B) `<Mr. Martinez says that her room is not well-lighted>`, we can conclude that (C) `<it does not have light-colored walls>`.
+
+![Diagram 2:93](images/chapter-02/page_072/page_072_diagram_2_loc_577_560_845_773.png)
 
 **2:94 (2:50)** (A) `<If the public does not realize that people are to be considered innocent until proved guilty, then there will continue to be mistreatment of perfectly innocent people>`. Hence, (B) `<we need a broad public-information campaign about this feature of our system>`.
 
+![Diagram 2:94](images/chapter-02/page_072/page_072_diagram_3_loc_680_926_747_1125.png)
+
 **2:95 (2.51)** (A) `<Men generally have difficulty expressing their emotions>`. (B) `<If it is desirable for our society to consist of fully developed human beings, then people who do find it easier to express emotions should make a special effort to draw out those who do not>`. (C) `<Generally this means that women should make a special effort to encourage men to express their inner feelings>`. I say this, even though (D) `<some might feel that it places an unfair burden on women>`.
+
+![Diagram 2:95](images/chapter-02/page_072/page_072_diagram_4_loc_580_1421_847_1633.png)
 
 **2:96 (2:52)** (A) `<Women generally do not have confidence in themselves, or else they find it difficult to maintain confidence>`. Therefore, (B) `<if we are to achieve true equality, hiring preference should be given to women in cases where men outnumber women>`. (C) `<To some people this might at first appear to be unfair to men>`, but I think that (D) `<on reflection they will change their minds>`. (Added final conclusion: (E) `<Hiring preference should be given to women in cases where men outnumber women.>`)
 
+![Diagram 2:96](images/chapter-02/page_073/page_073_diagram_1_loc_708_416_820_732.png)
+
 **2:97 (2:53)** Prosecutor: (A) `<Tom Jeffers did not do the deed>`. (B) `<He was in the hospital at the time>`.
 
+![Diagram 2:97](images/chapter-02/page_073/page_073_diagram_2_loc_726_801_793_1001.png)
+
 **2:98 (2:54)** Defense Attorney: (A) `<She was defending herself against attack>`. (B) `<He threatened to kill her>`.
+
+![Diagram 2:98](images/chapter-02/page_073/page_073_diagram_3_loc_723_1065_791_1267.png)
 
 **2:99 (2:55)** Deliberately omitted.
 
 **2:100 (2:56)** Juror: (A) `<The pathologist testified that the knife stroke was only of medium strength>`. (B) `<She did not think that she would cause him great bodily harm>`. (C) `<She did not commit murder>`.
 
+![Diagram 2:100](images/chapter-02/page_073/page_073_diagram_4_loc_722_1403_790_1719.png)
+
 **2:101 (2:59)** Although (A) `<the sun is shining brightly now>`, (B) `<it will be raining before nightfall>`. (C) `<Mr. Roberts, our dependable TV weatherman, said so>`. So (D) `<we had better postpone our picnic>`.
 
+![Diagram 2:101](images/chapter-02/page_074/page_074_diagram_1_loc_684_231_752_546.png)
+
 **2:102 (2:60)** (A) `<So many kids are getting high school diplomas even though they cannot read>`. (B) `<College graduates do not understand percentages>`. (C) `<Adults cannot read directions>`. The solution is simple: (D) `<The schools should attend to their primary job, the development of basic skills and the intellectual virtues>`. Because (E) `<they cannot both do this job well and devote all the resources that are currently devoted to athletics, busing, music, and making students happy>`, we must conclude that (F) `<such things should be dropped>`. (G) `<Homes, neighborhoods, and religious institutions are able to perform these functions>`.
+
+![Diagram 2:102](images/chapter-02/page_074/page_074_diagram_2_loc_538_913_901_1264.png)
 
 Explanatory note regarding the previous item: In case you are wondering why the previous item is diagrammed that way, here is a word of explanation: A, B, and C seem fairly obviously to be offered in support of D. E and G seem to be offered in support of F. The question about which some people wonder is whether D is offered in support of F, or F in support of D. To answer this question try the “therefore” test: Which sounds right in the situation in which this argument probably appears: 1) “The schools should attend to their primary job, the development of the basic skills and the intellectual virtues; therefore athletics, busing, music, and making students happy are things that should be dropped” or 2) “Athletics, busing, music, and making students happy are things that should be dropped; therefore the schools should attend to their primary job, the development of the basic skills and intellectual virtues”? Even though the dropping of the indicated things might cause the schools to focus on the intellectual virtues, it is probable that the claimed primacy of the intellectual virtues is offered as a supporting reason for the dropping of the indicated things. So D is probably offered in support of F.
 
@@ -668,9 +742,13 @@ Explanatory note regarding the previous item: In case you are wondering why the 
 
 2:104 (2:62) (A) `<If I do my homework now, I’ll miss band practice>`. (B) `<If I do it later, my friend’s feelings will be hurt>`. (C) `<Both of these consequences are unacceptable>`. The conclusion is obvious. (Probable final conclusion: (D) `<I should not do my homework>`.)
 
+![Diagram 2:104](images/chapter-02/page_075/page_075_diagram_1_loc_621_609_899_859.png)
+
 2:105 (2:63) Deliberately omitted.
 
 2:106 (2:64) (A) `<The signers of the Declaration of Independence did not intend to claim that men and women should be considered equal>`. For one thing, (B) `<they used the word *men* in the statement “All men are created equal”>`. For another, (C) `<it is a historical fact that men and women were not considered equal in 1776>` and (D) `<nothing was done in those days to ensure equal treatment>`. (E) `<Women were not even guaranteed the right to vote in the United States until 1920>`.
+
+![Diagram 2:106](images/chapter-02/page_075/page_075_diagram_2_loc_627_1205_887_1530.png)
 
 2:107 (2:65) Deliberately omitted.
 
@@ -678,11 +756,17 @@ Explanatory note regarding the previous item: In case you are wondering why the 
 
 (C) `<Neither did her parents>`. Because (D) `<they did not mention anyone else>`, obviously (A) `<there was no one else>`.
 
+![Diagram 2:108](images/chapter-02/page_076/page_076_diagram_1_loc_580_194_844_520.png)
+
 2:109 (Paragraph 6) Deliberately omitted.
 
 2:110 (2:66) NO TO S.B. 833: As the parent of a six-year-old with cystic fibrosis, I urge you to (A) `<oppose Senate Bill 833>` because (B) `<it would make research on diseases such as cystic fibrosis, cancer, AIDS, and nephrosis much more expensive>`. Consequently, (C) `<less research would be done>`. (D) `<The bill requires that animals used in research be bred and raised for that purpose>` and (E) `<prohibits the use in research of stray dogs and cats>` (F) `<(who would otherwise be put to sleep anyway)>`. (G) `<It is time to choose between human beings and animals>`. (H) `<I choose human beings>`.
+
+![Diagram 2:110](images/chapter-02/page_076/page_076_diagram_2_loc_484_886_937_1368.png)
 
 2:111 (2:67) Deliberately omitted.
 
 2:112 (2:68) DISQUALIFIED: (A) `<Donald Lan is the Secretary of State of New Jersey>`, which means that (B) `<he must review the returns of Tuesday’s still-undecided election for governor>`. (C) `<Mr. Lan is in a curious position>` because (D) `<he was not only an early contender in the Democratic gubernatorial primary, but later became deputy campaign manager for the Democratic candidate, James Florio>`.
 (E) `<Mr. Florio and the Republican contender, Tom Kean, agree that every effort should be taken to ensure the legitimacy of the ultimate result>`. That means (F) `<Mr. Lan ought to step aside>`. (G) `<We do not question his honesty>`, (H) `<only the appearances>`. (I) `<With a near-dead heat for the top office of the state>`, (J) `<the appearances of having a partisan certify the results are dead wrong>`.
+
+![Diagram 2:112](images/chapter-02/page_077/page_077_diagram_1_loc_571_263_963_847.png)
