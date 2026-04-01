@@ -1,6 +1,7 @@
 .DS_Store
 critical_thinking_robert_ennis.pdf
 per-page-images/
+.sisyphus
 
 *cache*
 *.pyc
