@@ -239,6 +239,7 @@ Suppose that we are considering the proposition “The pathologist testified to 
 Remember that this criterion does not say that the conclusion must actually receive support from the rest of the passage. It says only that if a proposition is not supported by other things in the passage, then it might well not be the conclusion. Here is a case in which a proposition is a conclusion, although it receives little or no legitimate support from the reason that is offered:
 “Because the Prime Minister uses Shino Toothpaste, you should use it.”
 The conclusion, “You should use it,” is not well-supported, but that does not show that it is not the conclusion. The author of the statement *intended* it to be the conclusion.
+
 Here is the third criterion:
 
 3. Generally a conclusion of a passage should use most or all of the passage for its support. If two propositions are supported in a passage, then the one using the greater amount of the passage is probably the conclusion.

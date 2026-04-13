@@ -1,11 +1,17 @@
 # CHAPTER 1 Introduction: Decision and Argument
 
 How can you decide what to believe and what to do?
+
 Should you believe everything you hear and read? Should you even believe everything you read in your local newspaper? Obviously not. Which of the things that you hear and read should you believe? Do you have a guess, or a theory, or an idea about something? Should you believe it? How can you investigate to find out? In short, how can you decide what to believe?
+
 Suppose you are trying to decide how to vote, what kind of orange juice to buy (if at all), whether to see a doctor, or whether to take a class. How can you decide what to do?
+
 The primary purpose of this book is to help you decide in a reasonable way what to believe and what to do. Sometimes decisions are easy. Sometimes they are difficult. Sometimes you have no way to decide with any confidence, and you just have to do the best you can. Fortunately, there are guidelines that are helpful in making decisions.
+
 This book is going to help you learn to use some of the most important of these guidelines. Do not expect the guidelines to do the whole job for you. In decisions about what to believe and do, you also need reliable information and understanding of the topic or field of study. Then, after considering all these things, you must make a reasonable judgment. The guidelines and the facts do not automatically produce an answer.
+
 Other people are often involved. You engage in discussions with them in order to gather information, ideas, and understanding for your own decisions. You ask questions. Sometimes you engage in discussions with others simply to persuade them about something. Sometimes you need to present your ideas to others so that they can make good decisions. These things are not easy to do well. This book attempts to advise you about these ways of interacting with other people. Again, these are only guidelines. The rest is up to you.
+
 You depend on your beliefs, whether you are deciding what to do or deciding what to believe. Decisions about belief, then, are fundamental. A key feature in decisions about belief is often an argument. You will be examining others’ arguments and developing your own. So let us start by looking at arguments.
 
 ## Argument
@@ -37,42 +43,69 @@ Each of the speakers is offering a conclusion (“You are a fool” and “I’m
 ## Check-Ups
 
 So that you can get feedback and practice, there will be frequent questions and problems. They will help you to review and check your understanding. It is very important that you do these and check your answers against the suggested answers at the end of the chapter. If your answers disagree with the suggested ones, think twice before you decide that yours is wrong; there can often be more than one reasonable answer to a question. If one of your answers is different from the one suggested, then either try to satisfy yourself that yours really is all right or try to figure out why it is not.
+
 Sometimes the check-up and practice items involve controversial issues. I do not necessarily agree (or disagree) with the opinions or arguments in the examples in this book.
+
 Some of the check-up items are true–false. Generally, these serve as a broad review of the main points. If the statement is false, you will also be asked to revise the statement to make it true. Wherever possible, do this in an interesting way that shows that you understand what is wrong. Try to avoid just inserting the word *not* or some similar device. For example, the first one reads as follows:
+
 **1:1** As defined here, an argument is a hostile disagreement.
+
 This is false, but should not be changed to read as follows:
+
 **1:1** As defined here, an argument is *not* a hostile disagreement.
+
 A change like this does not give a strong enough indication of understanding. Rather, it should be changed to read something like the following:
+
 **1:1** As defined here, an argument is an attempt to prove or establish a conclusion.
+
 This sort of revision more clearly shows that you understand.
+
 Do not give in to the temptation to look up the suggested answer before you try to figure it out. Try it first, then look it up. Also, resist the temptation to abandon your own answer automatically when it is different from the one given. Make sure that you know a good reason before you change your answer. Yours might be just as good as the suggested answer—perhaps better.
+
 In some cases, answers are not supplied. This is to help you think independently while still giving you the help you can get from seeing the acceptable answers that are supplied.
+
 Often, the last item in a series is more difficult, sometimes asking you to think ahead—to go beyond the material already presented; for example, see Item 1:13 in the first set of check-up items. These items are intended to challenge you and to help you think critically about thinking critically!
 
 ## Check-Up 1A
+
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
+
 **1:1** As defined here, an argument is a hostile disagreement.
+
 **1:2** The main purpose of this book is to help you decide reasonably what to believe and do.
+
 **1:3** This book gives some advice for interacting with other people on decisions about what to believe and do.
+
 **1:4** If a person follows the guidelines offered in this book exactly as they are written, that person does not need to attend to the irksome details in the situation calling for the thinking.
+
 **1:5** Something can be both an argument in the logical sense and part of a dispute.
 
 **Short Answer**
+
 For each of the following, write *A* if it is an argument (in the logical sense of the word *argument*). Write *N* if it is not. Do not try to judge whether an argument is a good one. Just decide whether each item is an argument at all. If you need to add a word of explanation, do so.
 
 1:6 Mayor Martin will not be reelected because she has raised taxes.
+
 1:7 Because zoning interferes with freedom, it is unjust.
+
 1:8 It is absolutely clear that the future holds more promise than the past.
+
 1:9 Although the sun is shining now, it will be raining before nightfall.
+
 1:10 Whenever the streets are wet, they are slippery, so you should drive carefully.
+
 1:11 "Turn down the volume, please." "Why should I?" "Don't argue with me!"
+
 1:12 The streets are wet. Therefore, they are slippery.
+
 1:13 Whenever the streets are wet, they are slippery.
 
 ## Six Basic Elements in Critical Thinking: The FRISCO Approach
 
 It helps to have a mental checklist for critical thinking. The one recommended here has six basic elements: Focus, Reasons, Inference, Situation, Clarity, and Overview. The first letters of these words make the easy-to-remember acronym *FRISCO*.
+
 Sometimes you will go through these elements in order when thinking critically, but often you will skip around—and back and forth. In any case, you can use these six elements as a checklist to make sure that you have done the most important things. Generally, you should start by working on the focus and end with an overview, but you should do these two things at other times, too. Often, you should remind yourself of and reconsider the focus at points in your thinking other than the beginning. Furthermore, you should continually do the reviewing called for in the overview step. In later chapters, I shall say more about each of these elements, but my purpose here is just to give you an introduction to FRISCO, using a very short argument as an example.
 
 ### Focus
@@ -128,8 +161,11 @@ The jurors in that situation needed to realize this difference. At first, some w
 When you write and speak, it is important to be clear in what you say. If others are not clear, try to get them to be clear. Make sure that you understand what they are saying.
 
 Let us go back to the argument I was considering earlier. The defense attorney’s conclusion (“My client is innocent of the charge of murder”) and reason (“She was defending herself against attack”) seemed clear to me in that situation. But in judging the inference from the reason to the conclusion, it was important to know what he meant by the word *attack*. If he had meant the word broadly, so that verbal abuse counted as an attack, then I believe that the inference would not have been a good one. That is, the reason, if true, would not have been enough to establish the conclusion. Why should defending herself against verbal abuse justify the killing?
+
 On the other hand, if by the word *attack* he meant attempted physical violence, then the inference from reason to conclusion seems to be more plausible. So it is important to be clear about what he meant by the word if we are to judge fairly the inference from reason to conclusion, as well as to judge fairly the acceptability of the reason. In short, it is important to be clear about the meaning of terms and the way in which you and others are using them.
+
 I have just drawn a distinction between physical and verbal violence in order to avoid possible confusion. Earlier, I drew a distinction between the *process* and *product* senses of the word *inference*. Drawing distinctions that avoid confusion is an important feature of the *C* in *FRISCO*.
+
 A good clarity slogan is "**Say what you mean, mean what you say**, and try to get others to do so as well." Four good questions to use in implementing this slogan are these: "**What do you mean?**," "**Will that confuse people who use the word(s) in a different way?**," "**Can you give me an example?**," and "**Can you give me a case that comes close, but is not an example?**" More such questions are considered in Chapter 14. I urge you to be always ready to use these questions. You will find me asking and answering questions like these throughout the book. Can you remember a case that I have already offered that comes close, but is not an example?
 
 ### Overview
@@ -137,6 +173,7 @@ A good clarity slogan is "**Say what you mean, mean what you say**, and try to g
 The sixth element in critical thinking, *overview*, calls for you to check what you have discovered, decided, considered, learned, and inferred. Put it all together and see whether it all still makes sense. This should be done not only at the end, but continuously as you go along. Monitor your own thinking. Even though you have made a judgment about the inference at the inference phase, you do it again here as part of checking everything.
 
 #### The First Five Elements: **FRISC**
+
 As I review the defense attorney's argument in the Overview phase, I check each of the other five elements, the *Focus*, the *Reason* (and its acceptability), the *Inference* (and its acceptability), the *Situation*, and the *Clarity* of meaning of the terms and the attorney's use of them. But note some ways in which these elements are interdependent in my discussion of the defense attorney's argument: The strength of the inference depended on what the defense attorney was talking about when he used the word *attack* (*I* depends on *C*). The real focus depended on the situation (that is, ascertaining the focus depended on what we knew to be the defense attorney's interest in that situation. *F* depends on *S*.) Whether the reason should be believed depends on what he meant by *attack* (*R* depends on *C*). Determining the actual inference depends on the nature of the reason (*I* depends on *R*). I could go on, but you get the idea. The important thing to see is that it is necessary to review and put all these interdependent things together by stepping back to overview your thinking.
 
 #### **Critical Thinking Dispositions**
@@ -161,29 +198,33 @@ Another key feature of the overview is to make sure that you have been exemplify
     B. Take into account others’ feelings and level of understanding, avoiding intimidating or confusing others with their critical thinking prowess.
     C. Be concerned about others’ welfare.[^1]
 
-Actually, these dispositions are embedded in FRISCO, but it sometimes helps to make them more explicit. For example, the disposition to try *to be well-informed*
+Actually, these dispositions are embedded in FRISCO, but it sometimes helps to make them more explicit. For example, the disposition to try *to be well-informed* is needed for the evaluation of the reasons. The disposition to be open-minded and to seriously consider other points of view than one’s own is needed for judging the inference. However, a few of the dispositions are explicit in FRISCO. The disposition to be clear about the meaning of the words is explicitly stated under the *C*. The disposition to determine and maintain the focus is explicitly stated under the *F*. In any case, make sure in the Overview that you are exemplifying these dispositions.
 
 [^1]: A few interpretive comments: Several of the dispositions (1 D, 2 E, and 3 A) contribute to being well-informed (1 C) but are separate dispositions in their own right. The expressed concern with true belief accepts the view that our concepts and vocabulary are constructed by us, but also that (to oversimplify somewhat) the relationships among the referents of our concepts and terms are not constructed by us. We can have true or false beliefs about these. The disposition (#3) to care about the dignity and worth of every person is not required of critical thinking by definition, but in order that it be humane. I call it a correlative disposition, by which I mean that, although this disposition is not part of the definition of *critical thinking*, it is desirable for all critical thinkers to have it, and the lack of it makes the critical thinking less valuable, or perhaps of no value at all.
-
-is needed for the evaluation of the reasons. The disposition to be open-minded and to seriously consider other points of view than one’s own is needed for judging the inference. However, a few of the dispositions are explicit in FRISCO. The disposition to be clear about the meaning of the words is explicitly stated under the *C*. The disposition to determine and maintain the focus is explicitly stated under the *F*. In any case, make sure in the Overview that you are exemplifying these dispositions.
 
 ## Writing a Position Paper Using Critical Thinking
 
 As you work your way through this book, there is a danger that you will understand the separate parts without being able to put them together and apply them to your own life. One way to help deal with this danger is for you to write a short position paper and revise it as you proceed through the book, making use of any new insights you acquire. Doing so will also give you an opportunity to use what you learn in an area that matters to you.
+
 A *position paper* is an essay in which you state and defend a thesis by giving an argument. It is often called an argumentative essay. A *thesis* is an assertion consisting of a subject and predicate. It is the conclusion (the *F* in FRISCO). Your defense of the thesis should consist of reasons that are relevant to and support the conclusion. It should acknowledge, and respond to, opposing points of view and weaknesses in your argument. Furthermore, it should be sensitive to word meanings and should avoid verbal confusion and be well-organized. Lastly, it should evidence such critical thinking dispositions as sensitivity to the feelings and thoughts of others (especially your audience).
 
 ### Organization
 
 Although there are many possible ways to organize a position paper, the simplest and usually most effective way in practical situations is to state your thesis early in the paper, sketch out your plan for the rest of the paper, give your reasons (and often your reasons for your reasons, if appropriate), and summarize your position, providing a restatement of the thesis and a summary of your reasons. In a paper of any length, it is often helpful to the reader to provide headings (perhaps one for each major reason) and sometimes subheadings. Ordinarily, the reasons make up the longest part of the paper.
+
 This simple approach is conducive to clarity and ensures that the major elements are there. Some people might feel that it is an imposition on their creativity and aesthetic sensibility to be forced into this mold. No doubt that is true in some circumstances, but if you cannot follow this approach effectively, then you probably cannot be effective in other approaches, such as leaving it up to your reader to figure out what your conclusion is.
+
 Everyday practical situations in which this approach is useful include a presentation to a committee, a letter to the editor, an attempt to get an organization to take a stand, and an answer to an examination question that asks you to defend an approach or point of view. Although here I am talking about written arguments, this approach is also useful in such verbal situations as open meetings devoted to the discussion of controversial proposals and motions. I have seen so many confusing and thereby ineffective attempts to defend a position that I urge this simple basic approach for most practical situations. Just examine the letters to the editor of your local newspaper to find examples of confusion that could have been avoided. Making this routine habitual is especially useful in situations when you are under pressure because it frees your mind to think about the issues and what others are saying.
-    Good organization for most people does not come automatically. Generally, I first write down as fast as I can the ideas I want to get across—in any order. Then I examine them to see what patterns among them might be found or constructed. Next, I develop a few major categories that together go somewhere and can be sequenced naturally. Then I try to fit the assorted ideas into one of the major categories and write down the result in the form of an outline. There is much trial and error about this. I try something, see how it goes, revise it, and try again. The result never is perfect, but some organization plans flow more smoothly and make more sense than others. Ultimately, you must select one and use it, subject to modification.
+
+Good organization for most people does not come automatically. Generally, I first write down as fast as I can the ideas I want to get across—in any order. Then I examine them to see what patterns among them might be found or constructed. Next, I develop a few major categories that together go somewhere and can be sequenced naturally. Then I try to fit the assorted ideas into one of the major categories and write down the result in the form of an outline. There is much trial and error about this. I try something, see how it goes, revise it, and try again. The result never is perfect, but some organization plans flow more smoothly and make more sense than others. Ultimately, you must select one and use it, subject to modification.
 
 ### Revision
 
 Very few people write a good position paper on the first draft. Expect to revise and revise and revise your work if it is to be good. I often revise papers twenty times or more before they are published. You are reading at least the twentieth revision of this chapter.
-    When you revise, ask yourself the following question about each sentence: Is this sentence relevant to my thesis? If the answer is negative, discard the sentence. Relevance is a broad criterion, however. A sentence can be relevant if it states a reason, defends a reason, states or responds to an opposing position, clarifies meaning, or offers background information to make the situation (S) clear.
-    Apply FRISCO to each draft. It is also a good idea to get opinions from your friends or associates. Ask one or more of them to apply FRISCO to your work.
+
+When you revise, ask yourself the following question about each sentence: Is this sentence relevant to my thesis? If the answer is negative, discard the sentence. Relevance is a broad criterion, however. A sentence can be relevant if it states a reason, defends a reason, states or responds to an opposing position, clarifies meaning, or offers background information to make the situation (S) clear.
+
+Apply FRISCO to each draft. It is also a good idea to get opinions from your friends or associates. Ask one or more of them to apply FRISCO to your work.
 
 ### Citations
 
@@ -220,35 +261,53 @@ Here is a nineteen-item checklist to use to ensure that the principal considerat
 ## Responsibility for the Wise Exercise of Your Knowledge
 
 When you are through with this book, you will have some powerful tools that are not only useful, but also dangerous. You will learn about some methods of discussion and persuasion that you could use to make mischief. You will learn some new words that can be used to intimidate people. You will learn to see better what is right and wrong with an argument, and will have more power that results from your understanding. You will have learned about some techniques that are often effective in deceiving people. You will then have a responsibility to use your knowledge wisely.
+
 There is another danger: A little knowledge, because it can induce unjustified confidence, is sometimes worse than no knowledge. While you are learning the techniques, distinctions, and vocabulary of critical thinking, you should practice. But the danger is that you will flaunt your partial knowledge with more confidence than you should have. Remember these three things:
+
 There is always more to a situation than you know.
+
 The principles of critical thinking have exceptions and require good judgment in their application.
+
 Information, knowledge, and understanding of the topic or field of study are crucial.
 
 ## Chapter Summary
 
 In this book, the primary concern is how to decide what to believe or do. A related concern is reasonable interaction with other people in situations calling for such decisions.
+
 Initially, we will be concerned with the judging of arguments (in the logical sense of the word *argument*). An argument in this logical sense is an attempt to support a conclusion with one or more reasons. A conclusion is not the ending of something; rather, it is a proposition that someone is trying to prove or establish. The basic idea in judging arguments is that both the reasons and the inference (the reasoning) must be acceptable. This basic idea is expanded into FRISCO.
+
 The six basic elements in the FRISCO process of judging arguments are Focus, Reasons, Inference, Situation, Clarity, and Overview. This list of interdependent elements is not a sequence of steps; rather, it is a checklist to use to ensure that you have done the major things. The word *FRISCO* is a device to help you remember them.
+
 Because realistic practice is helpful, you are urged to develop, and revise—and revise—a position paper as you read this book. Apply FRISCO to each revision. As you wend your way through the book, you will learn things to improve your position paper.
+
 Chapter 2 deals with argument analysis. In it, you will concentrate on the identification aspects of the first three elements of FRISCO. You will consider how to identify conclusions and reasons and will learn to clarify how the parts of an argument relate to each other to make an inference. Later chapters will look at the judgments you need to make in developing and appraising positions and arguments.
 
 ## Check-Up 1B
 
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
 1:14 One often needs to deviate from the given order of the six elements of critical thinking.
+
 1:15 When examining an argument, it is generally a good idea to try to identify the conclusion right away.
+
 1:16 Suppose that one has determined the writer's conclusion. Then, in judging the argument, one does not need to ask whether there are alternative possible conclusions that are better supported.
+
 1:17 Asking whether the reasons are themselves believable is generally confusing and a waste of time.
+
 1:18 The main point of the overview element of critical thinking is to make sure that you can tell others how you have reached your decision.
+
 1:19 The ideas in this book, if properly understood, can be used only for good purposes.
+
 1:20 If an argument is bad, the conclusion must be wrong.
+
 1:21 In deciding whether to believe a conclusion, the primary issue is whether the reasons are acceptable.
+
 1:22 A reason in one argument can be the conclusion in another.
 
 **Medium-Length Answer**
+
 1:23 Here is an argument:
 
 You should not bother to do your homework in this course because critical thinking is difficult to learn.
@@ -263,30 +322,51 @@ Imagine that a friend of yours has just offered this argument. Also imagine and 
 6. Give an Overview in which you review your decisions about whether to accept the conclusion. Check for your use of your critical thinking dispositions throughout. Come to a final decision.
 
 1:24 Suppose that the defense attorney had been using the word *attack* to mean the giving of either verbal or physical abuse, and that he had shown that the victim was calling the defendant nasty names. How would that affect your judgment as a juror about whether the reason was sufficient to establish the innocence? Why?
+
 **1:25** Find a real (but very short) argument that you have heard someone offer or that you have read somewhere (perhaps in a newspaper, a book, or a magazine—perhaps an editorial, a letter to the editor, or a “Dear Abby” argument). Write it down or photocopy it. Apply the six basic elements of critical thinking to this argument. Briefly report your results in writing. If the argument you consider is only part of the total argument, then indicate that part and label it. Remember that an argument is an attempt to establish or justify a conclusion. Before you start working on your selection, ask yourself, “Is someone trying to establish or justify a conclusion here?” If not, look further.
+
 **1:26** Develop a plan for a position paper. Suggest a tentative thesis and a rough idea of your argument in the form of an outline.
 
 ## Suggested Answers for Chapter 1
+
 Reminder: If used wisely, a set of suggested answers can be of great help to you in your study and practice. Wise use calls for you to do the items, problems, and questions first, and then look up the suggested answers. Do not peek at an answer before making a reasonable effort. If a suggested answer does not agree with yours, then try to figure out why. Perhaps yours is wrong, but perhaps yours is just different, but quite good. In any case, try to make sure that you understand why the suggested answer is what it is. Ask your instructor for help, if necessary.
+
 For the True–False items, I shall first list the True–False answers and then suggest acceptable revisions of the False items. Remember that there are other acceptable revisions, and sometimes other acceptable answers, depending on how you interpret the question and the situation.
 
 **Check-Up 1A**
+
 **1:1** F **1:2** T **1:3** T **1:4** F **1:5** T
+
 **1:1** As defined here, an argument is an attempt to prove or establish a conclusion, and consists of a conclusion and one or more reasons offered in support of the conclusion. (Just the first part of this definition would have been enough, but I chose here to give more.)
+
 **1:4** The details of the situation are always important in making decisions.
+
 **1:6** A **1:7** A **1:8** N **1:9** N **1:10** A **1:11** N
+
 **1:12** A **1:13** N
 
 **Check-Up 1B**
+
 **1:14** T **1:15** T **1:16** F **1:17** F **1:18** F **1:19** F
+
 **1:20** F **1:21** F **1:22** T
+
 **1:16** It is generally a good idea to ask whether there are alternative possible conclusions that are as well, or better, supported.
+
 **1:17** To ask whether the reasons are themselves believable is often a good idea.
+
 1:18 The main points of the overview are to check to catch any errors made previously, to see how everything fits together, and to make sure that you have evidenced the critical thinking dispositions.
+
 1:19 The ideas in this course can be misused.
+
 1:20 Showing that an argument is bad does not by itself show that the conclusion is wrong.
+
 1:21 In deciding whether to believe a conclusion, the primary issues are whether the reasons are acceptable and whether they give sufficient support for the conclusion.
+
 1:23 This is up to you. I hope you were brief.
+
 1:24 That would be reason to judge the support insufficient, because calling somebody nasty names is not sufficient reason for killing.
+
 1:25 This is up to you. I hope you had an easy time finding a short, interesting argument.
+
 1:26 This is up to you. Please continue to develop this as you proceed through this book.
