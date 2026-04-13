@@ -20,10 +20,6 @@ You can probably see that the first two arguments are deductively valid, but you
 
 [^1]: Most standard elementary deductive logic texts would be helpful. For one that continues an emphasis on natural language, see my *Natural Language Logic*, forthcoming.
 
-
-
-
-
 ## Propositions
 
 According to the meaning of *proposition* that we shall use, a *proposition*, roughly speaking, is either a sentence or, if embedded in a more complex sentence, could be a sentence if isolated.[^2] It is a set of concepts (or words) with a given meaning that can stand alone and make sense if asserted. Here are some examples of simple propositions that appear in italics in Examples 6:1, 6:2, and 6:3:
@@ -54,10 +50,6 @@ c. anybody is under eighteen (in "If *anybody is under eighteen*, then that pers
 The classes that are *a* and *b* in Example 6:5 obviously do not make sense to assert all by themselves. Suppose, for example, someone came up to you and said, "Robins." What sense would you make of that? Of course it would make sense as an answer to a question, such as "What kinds of birds are those?" But then the speaker would implicitly be asserting a complete proposition, *Those are robins*, which can stand alone and make sense if asserted. But the word *Robins*, without any such implication, is not an assertion.
 
 [^2]: A more precise, theoretical definition of *proposition* would not be helpful for present purposes.
-
-
-
-
 
 Even though Example 6:5c (*anybody is under eighteen*) has a subject and predicate, someone's trying to assert it does not make sense, if its words mean what they mean in the complete sentence given in parentheses in that example. What would you make of someone's coming up to you and saying, "Anybody is under eighteen," in the sense in which it is meant in Example 6:5c? Actually, the proposition in quotes in Example 6:5c fits best under class logic because its meaning is *People under eighteen may not enter*.
 
@@ -126,10 +118,6 @@ For each of the following items, (a) underline the antecedent once and (b) under
 6:12 The cattle are in danger, if junipers are poisonous.  
 6:13 If the supervisor forgot about us, then there is a shortage of concrete.  
 6:14 If Terry got into the Blue Room, then she lied about her age.
-
-
-
-
 
 6:15 If Terry lied about her age, then she got into the Blue Room.
 6:16 If Arlene is a liberal, then she supported the prime minister.
@@ -223,11 +211,7 @@ For each of the following items, indicate the form of the argument, using the fo
 6:36 a. Terry, if she lied about her age, got into the Blue Room.
   b. Terry got into the Blue Room.
   c. Therefore, Terry lied about her age.
-
-
-
-
-
+  
 6:37
 a. Terry lied about her age, if she got into the Blue Room.
 b. Terry did not get into the Blue Room.
@@ -294,10 +278,6 @@ c. Ben is a non-cat.
 
 [^3]: Beware of contraposing *if-then* propositions that express causal connections. Make sure that the contrapositive is stated so that it makes sense in the situation.
 
-
-
-
-
 Example 6:15a is the more convenient way to express the thought.
 
 ### Double Negation
@@ -327,10 +307,6 @@ In Example 6:17, the move from *a* to *b* is contraposition. The move from *b* t
 
 Eliminating double negatives makes things easier to understand, but it must be done with caution, and sometimes must not be done (as you saw in the previous section).
 
-
-
-
-
 ## Summary
 The converse of an *if-then* proposition is formed by exchanging the antecedent and the consequent so that the antecedent becomes the consequent, and vice versa. Conversion is a deductively invalid move.
 
@@ -358,10 +334,6 @@ b. If it is not type A, then it is not Al's blood.
 6:51 The following two *if-then* propositions are contrapositives of each other and therefore imply each other:
 a. Tom Jeffers did not do it, if he was seen in the hospital waiting room between 10 P.M. and midnight.
 b. If Tom Jeffers was not seen in the hospital waiting room between 10 P.M. and midnight, then he did it.
-
-
-
-
 
 6:52 The second of these two *if-then* propositions is a useful simplification of the first:
 a. Joanna is not a liberal, if it is not true that she did not support the prime minister.
@@ -398,10 +370,6 @@ Simplify the following by eliminating the double negatives. If you do not think 
 6:65 If a majority approved the resolution, then the society will not meet in a state that has not passed the proposed constitutional amendment.
 6:66 If Arlene did not do it, then she did not admit doing it.
 
-
-
-
-
 ### More Short Answer
 Write a contrapositive of each of the following propositions. Simplify, if a double negative can be eliminated without changing the meaning.
 
@@ -435,10 +403,6 @@ For some items, you will need to break the argument into parts and deal with eac
 6:79 If John is at work today, then Juanita is happy. If Juanita is happy, then she is smiling. I just saw Juanita and noticed that she was not smiling. Hence, John is not at work today.
 *Final conclusion: John is not at work today. DC, DC; DV*
 
-
-
-
-
 6:80 Karl did not lose the election. I conclude this because I know that if he lost the election, he would be depressed. And he obviously is not depressed.
 
 6:81 If Mary went out last night, then Pedro is angry today. I have just seen Pedro and he is not angry today. Therefore, Mary did not go out last night.
@@ -468,10 +432,6 @@ For some items, you will need to break the argument into parts and deal with eac
 
 6:93 If Shakespeare had intended Polonius to be a comic figure, then he would not have made Polonius the father of two tragic characters. But Polonius was made the father of two tragic characters, Laertes and Ophelia. Hence, Polonius was not intended by Shakespeare to be a comic figure.
 
-
-
-
-
 6:94 No photosynthesis can be occurring in this plant. That this is so can be seen from the fact that it is not getting any light whatsoever. Furthermore, photosynthesis cannot occur in this plant, if there is no light reaching it.
 
 6:95 If the Board of Education suspends young Brown from school, then it will be punishing him for refusing on religious grounds to salute the flag. And if it does that, it will be acting unconstitutionally. Because the board, we can be sure, will not act unconstitutionally, we can be sure that the board will not suspend young Brown.
@@ -495,10 +455,6 @@ For the following sets of reasons, if a conclusion that is different from the re
 6:103 If our leader tells you to commit suicide, then he is not worthy of being our leader. By ordering you to drink the poison, our leader has in effect told you to commit suicide. Therefore?
 6:104 Mr. Davis, if he was suspected to have a friendship with someone involved in the trial, was excused from the jury by the judge. Mr. Davis was excused from the jury by the judge. Therefore?
 
-
-
-
-
 6:105 If Frankie did not step out of bounds, then the basket counts. But see, the referee is declaring that the basket does not count. Therefore?
 6:106 John, if Jane said "No," went to the movies alone. John did not go to the movies alone. Therefore?
 6:107 If the state has not proven beyond a reasonable doubt that she was not justified in using the force that she used, then she is not guilty. However, the state has proven beyond reasonable doubt that she was not justified in using the force that she used. Therefore?
@@ -520,17 +476,13 @@ With these assignments, our standard *affirming-the-antecedent* example looks li
 
 #### Example 6:18
 
-|  |  |  |
-| --- | --- | --- |
+|  |  |  |  |
+| --- | --- | --- | --- |
 | a. If Ben is a cat, Ben is an animal. |  | $p \rightarrow q$ | $md \rightarrow ma$ |
 | b. Ben is a cat. | OR | $\underline{p}$ | $\underline{bc}$ |
-| c. Therefore, Ben is an animal. | Therefore, $q$ | Therefore, $ba$ |
+| c. Therefore, Ben is an animal. |  | Therefore, $q$ | Therefore, $ba$ |
 
 The fact that *p* (or *bc*) is to the left of the arrow shows it to be the antecedent in *a*. It is this same thing that is affirmed in *b*, so the argument is a case of affirming the antecedent. You knew this all along, but the example is helpful in showing how to use letters and arrows.
-
-
-
-
 
 Henceforth, I shall use the traditional letter assignments (*p*, *q*, *r*, etc.). You should use whatever letter system you prefer.
 
@@ -572,10 +524,6 @@ a. $p \rightarrow$ not $q$
 b. $\underline{p}$
 c. Therefore, not $q$
 
-
-
-
-
 Examples 6:21 and 6:22 are two different ways of representing the same argument. I find the first way more convenient; you might prefer the second. Either way is all right, as long as you stay with your original assignment throughout your analysis of the argument. Be consistent.
 
 ### Summary
@@ -610,10 +558,6 @@ If a statement is false, change a crucial word or words to make it true.
 6:117 The form of example #1 in 6:114 is *denying the consequent*.
 6:118 The form of example #2 in 6:114 is *affirming the consequent*.
 
-
-
-
-
 ### Short Answer
 For the next items, assign letters to the propositions, and represent the total statement in symbols. The first is done as an example.
 
@@ -646,10 +590,6 @@ Therefore, *p*  AC, DI
 6:130 This blood on the porch is type A. If the blood is Al's blood, then it is type A, according to the blood analyst. Hence, the blood on the porch is Al's.
 6:131 Joanna is not a liberal, if she did not support the prime minister. Therefore, if she supported the prime minister, she is a liberal.
 
-
-
-
-
 6:132 If it has not been proven beyond a reasonable doubt that she knew that at least there was a strong probability that she would do him serious harm, she is not guilty. However, it has been proven beyond a reasonable doubt that she knew that at least there was a strong probability that she would do him serious harm. Therefore, she is guilty.
 
 6:133 If the Board of Education suspends young Brown from school, then it will be punishing him for refusing on religious grounds to salute the flag. And if it does that, it will be acting unconstitutionally. Because the board, we can be sure, will not act unconstitutionally, we can be sure that the board will not suspend young Brown.
@@ -676,10 +616,6 @@ The first two propositions are joined together by the word *and*, as in *p and q
 
 **Example 6:24**
 (*p* and *q*) → *r*
-
-
-
-
 
 Thus, *p* and *q* are conjoined and the conjunction is *embedded* in the whole implication.
 
@@ -708,10 +644,6 @@ This type of argument will appear again in Chapters 8 and 9 in connection with t
 When a conjunction of propositions appears by itself, and is affirmed, then it is implied that each conjunct can be affirmed separately. For example, if someone said, "Parking is prohibited on this street and Sybil parked there yesterday," it would deductively follow from the conjunction that parking is prohibited on this street. But if the conjunction is denied, and there is no other information, then the denial of each or either does not follow deductively. All that we know then is that at least one is to be denied, but we do not yet know which one.
 
 [^4]: This is a controversial point, again beyond the scope of this book. See the Lewis, Strawson, and Grice references mentioned at the beginning of Chapter 5 if you want to pursue it.
-
-
-
-
 
 ### Alternation
 An alternation consists of two propositions (alternants) connected by the word *or*, as in *Myrna is going back to California, or she is foolish*. The denial of either alternant then implies the assertion of the other. Suppose that Myrna is not going back to California. It follows that she is foolish. Suppose that she is not foolish. It follows that she is going back to California. Example 6:27 illustrates the first of these two deductively valid arguments.
@@ -752,10 +684,6 @@ Affirmation of weak alternant; DI
 
 &#43; However, in a strong sense of the word *or*, the affirmation of either alternant does imply the denial of the other, as in *Either Marguerite is at the movies or she is with Estelle*. Example 6:30 illustrates the use of the strong *or*.
 
-
-
-
-
 #### Example 6:30
 Let *p* = *Marguerite is at the movies*.
 Let *q* = *She is with Estelle*.
@@ -764,10 +692,6 @@ Let *q* = *She is with Estelle*.
 | a. *Either* Marguerite is at the movies *or* she is with Estelle.  | *p or q* |
 | b. Marguerite is at the movies.  | *p* |
 | c. Therefore, she is not with Estelle. Therefore, not  | *q* |
-
-
-
-
 Affirmation of strong alternant;
 
 &#43; You must decide from the situation which sense of *or* is in use, the weak sense (as in Examples 6:27, 6:28, and 6:29), or the strong sense (as in Example 6:30). But remember, there is no free ride. If the strong sense is in use, the alternation reason (*a*) is harder to establish, so the total argument might be in trouble if the strong sense is in use. If in doubt, I suggest the weak interpretation.
@@ -789,10 +713,6 @@ If the statement is false, change a crucial word or words to make it true.
 6:139 There is little practical difference between these two complex propositions: (1) *not (p and q)* and (2) *not p and q*.
 &#43; 6:140 The affirmation of one strong alternant implies the denial of the other.
 &#43; 6:141 The affirmation of one weak alternant implies nothing about the other.
-
-
-
-
 
 ### Short Answer
 State the conclusion, assign letters, symbolize the argument, judge the deductive validity, and give your reason.
@@ -816,10 +736,6 @@ State the conclusion, assign letters, symbolize the argument, judge the deductiv
 6:150 If Pedro has lived in his election district for over thirty days, and is over eighteen, he is entitled to vote. Pedro has lived in his election district for over a year, and he turned nineteen last month. Therefore, he is entitled to vote.
 
 6:151 Hamlet must not have been in doubt of the guilt of his uncle. Consider: He certainly was not both in doubt of the guilt of his uncle and convinced that he had actually spoken to his father's ghost. He was convinced that he had actually spoken to his father's ghost. Hence, in his mind there was no doubt of the guilt of his uncle.
-
-
-
-
 
 6:152 You have seen rainbows when it was raining, and you have seen rainbows when it is sunny. But one thing is certain: It is not the case both that there is a rainbow now and that the sky is completely overcast now. You will note that there is no rainbow now. From this, it follows that the sky is completely overcast now. There is no way around it.
 
@@ -853,10 +769,6 @@ b. she . . . age
 b. she . . . Room  
 6:16 a. Joanna . . . liberal  
 b. she . . . minister
-
-
-
-
 
 6:17 a. she . . . minister  
 b. Joanna . . . liberal  
@@ -908,10 +820,6 @@ b. he did not do it
 6:66 Not eliminable because one negation is in an antecedent and the other in a consequent.  
 6:67 If Arlene did not do it, then she did not admit doing it.
 
-
-
-
-
 6:68 If our cattle are not ill, then junipers are not poisonous.
 6:69 If the blood is not type A, then it is not Al's blood.
 6:70 If the vehicle is not prohibited, then it does not have a motor.
@@ -952,10 +860,6 @@ Henceforth in this set and the next, odd-numbered answers are omitted.
 6:109 T &nbsp;&nbsp; 6:110 T &nbsp;&nbsp; 6:111 T &nbsp;&nbsp; 6:112 T &nbsp;&nbsp; 6:113 T  
 6:114 F &nbsp;&nbsp; 6:115 T &nbsp;&nbsp; 6:116 T &nbsp;&nbsp; 6:117 F &nbsp;&nbsp; 6:118 F  
 6:114 #1 is deductively invalid, but not #2.
-
-
-
-
 
 6:117 Replace *denying* with *affirming*.
 6:118 Replace *affirming* with *denying*.
@@ -1015,10 +919,6 @@ Not *p*
 
 Therefore, not *q* &nbsp;&nbsp; DA; DI
 
-
-
-
-
 6:130 Final conclusion: The blood on the porch is Al's.  
 Let *p* = *the blood is Al's*.  
 Let *q* = *the blood is type A*.  
@@ -1077,10 +977,6 @@ Let *r* = *the piece of cloth is warm*.
 
 Therefore, not *p* &nbsp;&nbsp; DC; DV
 
-
-
-
-
 6:144 Conclusion: Thomas Jefferson did not make . . . him.  
 Let *p* = *Thomas Jefferson made . . . him*.  
 Let *r* = *he was an astute politician*.  
@@ -1135,10 +1031,6 @@ Let *r* = *he is entitled . . . insurance*.
 
 Therefore, *r*
 Only one conjunct in the antecedent was affirmed; DI
-
-
-
-
 
 6:150 Conclusion: He is entitled to vote.  
 Let *p* = *Pedro has lived in his election district for over thirty days*.  
