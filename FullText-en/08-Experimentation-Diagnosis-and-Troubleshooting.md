@@ -369,7 +369,6 @@ One of the assumptions in reasoning to a rejection of this hypothesis is that th
 | 1. *Not NMC*. | 2. *Not p*. |
 | 3. Therefore, not both *PMH* and *EODW*. | 3. Therefore, not (*h* and *a*). |
     
-
 Suppose further that the assumption, *EODW*, is true. Then (by deductively valid reasoning using the assertion of one part of a negated conjunction), the hypothesis, *PMH*, must be false. Example 8:3 presents this second step.
 
 **Example 8:3**
@@ -699,7 +698,6 @@ e. Yes, it is fairly good. There was random assignment to experimental and contr
 a. That the students in the first class pressured their parents to go to the game.
 b. No. There were too many alternative explanations of the results.
 c. Yes. Two suggestions: Do a survey of the two classes' parents' attendance before she began distributing the information about the team, in order to check the initial comparability of the experimental and control groups. Secure the information directly from the parents. (Perhaps the students were just trying to please her.)
-
 
 8:9 Deliberately not included.
 
