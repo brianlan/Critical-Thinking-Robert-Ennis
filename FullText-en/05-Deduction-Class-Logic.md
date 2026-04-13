@@ -96,6 +96,7 @@ Although these points were illustrated with some examples, digesting them and fe
 ## Check-Up 5A
 
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
 **5:1** A deductively valid argument is one in which the conclusion follows necessarily from the reasons.
@@ -239,6 +240,7 @@ A helpful way to show the deductive invalidity of an argument is to draw alterna
 ## Check-Up 5B
 
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
 **5:13** In the circle system, one circle is used to represent a whole proposition.
@@ -374,6 +376,7 @@ If you do not make these transformations—at least mentally—then when things 
 ## Check-Up 5C
 
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
 **5:27** In a standard class-inclusion proposition, the subject class is represented by the inner circle.
@@ -502,6 +505,7 @@ There are many other refinements for the circle system, including using overlapp
 ## Check-Up 5D
 
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
 **5:46** Class exclusion can be represented by drawing two circles separated from each other.
@@ -557,6 +561,7 @@ For each of the following arguments, (a) state the conclusion and (b) make and l
 
 
 a. Conclusion: Alligators are amphibians
+
 b. ![Diagram for 5:64](images/chapter-05/page_128/page_128_diagram_1_loc_421_198_985_478.png)
 
 **5:65** People under eighteen are not permitted to vote. Because Mark is not permitted to vote, he is under eighteen.

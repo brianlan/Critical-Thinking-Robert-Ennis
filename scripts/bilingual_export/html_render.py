@@ -20,13 +20,31 @@ def parse_args() -> argparse.Namespace:
 md_parser = MarkdownIt('commonmark', {'html': False})
 md_parser.disable('entity')
 
+def _preprocess_footnote_defs(text: str) -> str:
+    """Convert footnote definitions [^N]: ... to placeholder tokens before markdown-it.
+
+    markdown-it in CommonMark mode treats [^N]: as a link reference definition and
+    silently discards it (since ^N is not a valid link label).  By converting to a
+    plain-text sentinel *before* rendering we prevent the content from being eaten.
+    """
+    return re.sub(r'^\[\^(\d+)\]:\s*(.*)$', r'FNDEF\1END \2', text, flags=re.MULTILINE)
+
+
+def _postprocess_footnote_defs(rendered: str) -> str:
+    """Convert sentinel tokens back to proper footnote definition HTML."""
+    return re.sub(
+        r'FNDEF(\d+)END',
+        r'<a id="fn\1"></a><sup class="footnote-label">[\1]</sup> ',
+        rendered,
+    )
+
+
 def render_markdown_text(text: str) -> str:
     """Render markdown block to HTML, preserving &#43; but escaping raw HTML like <EF>."""
-    rendered = md_parser.render(text)
+    preprocessed = _preprocess_footnote_defs(text)
+    rendered = md_parser.render(preprocessed)
+    rendered = _postprocess_footnote_defs(rendered)
     rendered = re.sub(r'&amp;(#\d+|[a-zA-Z]+);', r'&\1;', rendered)
-    
-    # Process footnote definitions
-    rendered = re.sub(r'\[\^(\d+)\]:\s*', r'<a id="fn\1"></a><sup class="footnote-label">[\1]</sup> ', rendered)
     # Process footnote references
     rendered = re.sub(r'\[\^(\d+)\]', r'<sup class="footnote-ref"><a href="#fn\1">[\1]</a></sup>', rendered)
     
