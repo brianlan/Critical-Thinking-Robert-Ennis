@@ -20,6 +20,72 @@ def parse_args() -> argparse.Namespace:
 md_parser = MarkdownIt('commonmark', {'html': False})
 md_parser.disable('entity')
 
+def _render_inline_math(latex: str) -> str:
+    r"""Convert a snippet of LaTeX math to lightweight HTML.
+
+    Handles the subset used in this textbook:
+      - \\rightarrow  ->  Unicode arrow
+      - \\underline{...} -> <u>...</u>
+      - \\ (escaped space) -> space
+      - bare letters/words -> <em>...</em>
+
+    This function receives the *content between* dollar signs, never the
+    dollar signs themselves.
+    """
+    s = latex.strip()
+    # Step 1: LaTeX command replacements
+    s = s.replace('\\rightarrow', '→')
+    s = s.replace('\\leftarrow', '←')
+    s = s.replace('\\leftrightarrow', '↔')
+    s = s.replace('\\ ', ' ')
+    # Step 2: \underline{...} → <u>...</u>
+    s = re.sub(r'\\underline\{([^}]*)\}', r'<u>\1</u>', s)
+    # Step 3: Italicize alphabetic tokens outside HTML tags
+    parts = re.split(r'(<[^>]+>)', s)
+    result = []
+    for part in parts:
+        if part.startswith('<') and part.endswith('>'):
+            result.append(part)
+        else:
+            result.append(re.sub(r'\b([a-zA-Z]+)\b', r'<em>\1</em>', part))
+    return ''.join(result)
+
+
+_math_stash_counter: int = 0
+_math_stash_pending: dict[int, str] = {}
+
+
+def _preprocess_inline_math(text: str) -> str:
+    r"""Replace $...$ inline math with placeholder tokens before markdown-it.
+
+    markdown-it CommonMark does not support $...$ math syntax, so we stash
+    the content in sentinel tokens that survive markdown-it's rendering.
+    Post-processing will convert them to proper HTML.
+    """
+    global _math_stash_counter, _math_stash_pending
+
+    def _stash(m):
+        global _math_stash_counter
+        latex = m.group(1)
+        idx = _math_stash_counter
+        _math_stash_counter += 1
+        _math_stash_pending[idx] = latex
+        return f'INLINEMATH{idx}END'
+
+    return re.sub(r'(?<!\$)\$(?!\$)([^$\n]+?)\$(?!\$)', _stash, text)
+
+
+def _postprocess_inline_math(rendered: str) -> str:
+    """Convert INLINEMATH<n>END sentinels back to rendered HTML."""
+    global _math_stash_counter, _math_stash_pending
+    for idx, latex in _math_stash_pending.items():
+        html = _render_inline_math(latex)
+        rendered = rendered.replace(f'INLINEMATH{idx}END', html)
+    _math_stash_counter = 0
+    _math_stash_pending = {}
+    return rendered
+
+
 def _preprocess_footnote_defs(text: str) -> str:
     """Convert footnote definitions [^N]: ... to placeholder tokens before markdown-it.
 
@@ -41,8 +107,10 @@ def _postprocess_footnote_defs(rendered: str) -> str:
 
 def render_markdown_text(text: str) -> str:
     """Render markdown block to HTML, preserving &#43; but escaping raw HTML like <EF>."""
-    preprocessed = _preprocess_footnote_defs(text)
+    preprocessed = _preprocess_inline_math(text)
+    preprocessed = _preprocess_footnote_defs(preprocessed)
     rendered = md_parser.render(preprocessed)
+    rendered = _postprocess_inline_math(rendered)
     rendered = _postprocess_footnote_defs(rendered)
     rendered = re.sub(r'&amp;(#\d+|[a-zA-Z]+);', r'&\1;', rendered)
     # Process footnote references
@@ -52,7 +120,9 @@ def render_markdown_text(text: str) -> str:
 
 def render_markdown_inline(text: str) -> str:
     """Render markdown inline to HTML, preserving &#43; but escaping raw HTML like <EF>."""
-    rendered = md_parser.renderInline(text)
+    preprocessed = _preprocess_inline_math(text)
+    rendered = md_parser.renderInline(preprocessed)
+    rendered = _postprocess_inline_math(rendered)
     rendered = re.sub(r'&amp;(#\d+|[a-zA-Z]+);', r'&\1;', rendered)
     
     # Process footnote definitions (just in case they appear inline)
