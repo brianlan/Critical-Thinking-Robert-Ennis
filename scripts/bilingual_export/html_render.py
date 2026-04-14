@@ -118,16 +118,18 @@ def render_markdown_text(text: str) -> str:
     
     return rendered
 
+_BR_PLACEHOLDER = "BRPLCHLD"
+
 def render_markdown_inline(text: str) -> str:
     """Render markdown inline to HTML, preserving &#43; but escaping raw HTML like <EF>."""
-    preprocessed = _preprocess_inline_math(text)
+    preprocessed = re.sub(r'<br\s*/?\s*>', _BR_PLACEHOLDER, text, flags=re.IGNORECASE)
+    preprocessed = _preprocess_inline_math(preprocessed)
     rendered = md_parser.renderInline(preprocessed)
     rendered = _postprocess_inline_math(rendered)
+    rendered = rendered.replace(_BR_PLACEHOLDER, '<br>')
     rendered = re.sub(r'&amp;(#\d+|[a-zA-Z]+);', r'&\1;', rendered)
     
-    # Process footnote definitions (just in case they appear inline)
     rendered = re.sub(r'\[\^(\d+)\]:\s*', r'<a id="fn\1"></a><sup class="footnote-label">[\1]</sup> ', rendered)
-    # Process footnote references
     rendered = re.sub(r'\[\^(\d+)\]', r'<sup class="footnote-ref"><a href="#fn\1">[\1]</a></sup>', rendered)
     
     return rendered
@@ -247,7 +249,7 @@ def render_html(document: AlignedDocument, repo_root: Path) -> str:
         "#toc-sidebar { position: fixed; top: 0; left: 0; height: 100vh; z-index: 1000; display: flex; align-items: stretch; transform: translateX(-292px); transition: transform 0.25s ease; }",
         "#toc-sidebar.open { transform: translateX(0); }",
         "#toc-content { width: 280px; max-width: 280px; background: #fafafa; border-right: 1px solid #ddd; padding: 1.5rem 1rem; overflow-y: auto; font-size: 0.85rem; box-shadow: 2px 0 8px rgba(0,0,0,0.05); }",
-        "#toc-content h3 { margin: 0 0 0.8rem 0; font-size: 1rem; color: #333; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem; }",
+        "#toc-content .toc-title { margin: 0 0 0.8rem 0; font-size: 1rem; color: #333; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem; font-weight: bold; }",
         "#toc-list { list-style: none; padding: 0; margin: 0; }",
         "#toc-list li { margin-bottom: 0.3rem; }",
         "#toc-list a { color: #555; text-decoration: none; display: block; padding: 0.2rem 0.4rem; border-radius: 3px; }",
@@ -313,7 +315,7 @@ def render_html(document: AlignedDocument, repo_root: Path) -> str:
 
     html.append(f'''<div id="toc-sidebar">
   <div id="toc-content">
-    <h3>Table of Contents</h3>
+    <div class="toc-title">Table of Contents</div>
     <ul id="toc-list">
       {"".join(toc_items)}
     </ul>
