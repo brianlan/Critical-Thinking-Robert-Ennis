@@ -66,7 +66,8 @@ class TestExtractImageRefs:
     def test_chapter_09_zh_has_no_images(self):
         text = (FULLTEXT_ZH / "09-Best-Explanation-and-Causal-Inference-Argument-and-Writing-Strategy.md").read_text(encoding="utf-8")
         refs = extract_image_refs(text)
-        assert len(refs) == 0
+        assert len(refs) == 1
+        assert "chapter-09" in refs[0].relative_path
 
     def test_chapter_11_en_has_two_images(self):
         text = (FULLTEXT_EN / "11-Making-Value-Judgments.md").read_text(encoding="utf-8")
@@ -196,11 +197,9 @@ class TestBuildAsymmetryReport:
         zh_refs = extract_image_refs(zh_text)
         report = build_asymmetry_report("09-....md", "09-....md", en_refs, zh_refs)
         assert report.en_image_count == 1
-        assert report.zh_image_count == 0
-        assert len(report.asymmetries) == 1
-        assert report.asymmetries[0].zh_missing is True
-        assert report.asymmetries[0].en_missing is False
-        assert has_image_asymmetry(report)
+        assert report.zh_image_count == 1
+        assert len(report.asymmetries) == 0
+        assert not has_image_asymmetry(report)
 
     def test_chapter_11_has_en_missing_zh_asymmetry(self):
         en_text = (FULLTEXT_EN / "11-Making-Value-Judgments.md").read_text(encoding="utf-8")

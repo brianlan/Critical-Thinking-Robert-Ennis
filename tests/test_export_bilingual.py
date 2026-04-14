@@ -154,7 +154,8 @@ def test_full_manifest_ch09_incomplete(tmp_path: Path) -> None:
         e for e in entries
         if e["english_file"] == "09-Best-Explanation-and-Causal-Inference-Argument-and-Writing-Strategy.md"
     )
-    assert ch09["pair_status"] == "incomplete"
+    # Ch09 was fixed (duplicate section removed) — now exact
+    assert ch09["pair_status"] == "exact"
 
 
 def test_full_manifest_ch11_image_asymmetry(tmp_path: Path) -> None:
@@ -199,10 +200,11 @@ def test_word_ch09_divergent_marker(tmp_path: Path) -> None:
     )
     word_path = tmp_path / "word" / "09-Best-Explanation-and-Causal-Inference-Argument-and-Writing-Strategy.docx"
     assert word_path.exists()
+    # Ch09 is now fully matched — no alignment notice expected
     import zipfile
     with zipfile.ZipFile(str(word_path)) as zf:
         doc_xml = zf.read("word/document.xml").decode("utf-8")
-        assert "Alignment notice" in doc_xml or "Missing" in doc_xml
+        assert "Alignment notice" not in doc_xml
 
 
 # --- Real CLI invocation tests (subprocess) ---

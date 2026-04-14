@@ -31,10 +31,11 @@ def test_chapter_09_validation_confirms_incomplete_markers_and_report_agreement(
     report = validate_output_root(REPO_ROOT, OUTPUT_ROOT)
     chapter = next(item for item in report.chapters if item.english_file.startswith("09-"))
     assert chapter.passed
-    assert chapter.pair_status == "incomplete"
-    assert chapter.alignment_status == "incomplete"
+    # Ch09 was fixed (duplicate section removed) — no longer incomplete
+    assert chapter.pair_status == "exact"
+    assert chapter.alignment_status == "matched"
     assert chapter.checks["manifest_report_agree"]
-    assert chapter.actual.missing_markers["zh"] > 0
+    assert chapter.actual.missing_markers["zh"] == 0
     assert chapter.expected.missing_markers == chapter.actual.missing_markers
 
 

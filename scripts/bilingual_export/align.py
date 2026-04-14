@@ -9,7 +9,7 @@ from scripts.bilingual_export.discovery import HEADING_RE, build_pair_manifest, 
 
 
 PREAMBLE_ANCHOR = "__preamble__"
-PARAGRAPH_MARKER_RE = re.compile(r"^(?:\*\*)?(\d+(?::\d+)?(?:[.–-]\d+(?::\d+)?)?|[A-Z])(?:\.|:|\))\b")
+PARAGRAPH_MARKER_RE = re.compile(r"^(?:\*\*)?(\d+(?::\d+)?(?:[.–-]\d+(?::\d+)?)?|[A-Z])(?:\.(?!\d)|:|\))\b")
 EXAMPLE_MARKER_RE = re.compile(r"^\*\*(?:Example|示例)\s+([0-9]+(?::[0-9]+)?)\*\*$")
 
 

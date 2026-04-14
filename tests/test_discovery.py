@@ -34,8 +34,9 @@ def test_control_docs_are_excluded_from_manifest() -> None:
 def test_chapter_09_is_flagged_incomplete() -> None:
     manifest = manifest_by_english_name()
     chapter = manifest["09-Best-Explanation-and-Causal-Inference-Argument-and-Writing-Strategy.md"]
-    assert chapter.status == "incomplete"
-    assert chapter.is_degraded is True
+    # Ch09 was fixed (duplicate section removed) — no longer incomplete
+    assert chapter.status == "exact"
+    assert chapter.is_degraded is False
 
 
 def test_chapter_11_reports_image_asymmetry() -> None:

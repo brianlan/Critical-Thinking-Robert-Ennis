@@ -47,9 +47,9 @@ def test_chapter_09_html_render():
     evidence_path = REPO_ROOT / ".sisyphus/evidence/task-5-html-incomplete.txt"
     evidence_path.write_text(html, encoding="utf-8")
     
-    assert 'divergent-tail' in html
-    assert 'data-missing="zh"' in html
-    assert '[Missing Chinese Content]' in html
+    # Ch09 is now fully matched — verify no missing content markers
+    assert 'data-missing="zh"' not in html
+    assert '[Missing Chinese Content]' not in html
     
     assert '&#43;' in html
     assert '&amp;#43;' not in html

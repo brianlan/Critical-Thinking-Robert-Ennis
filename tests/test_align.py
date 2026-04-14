@@ -36,10 +36,11 @@ def test_chapter_09_emits_unmatched_english_tail() -> None:
     document = build_aligned_document(REPO_ROOT, CHAPTER_09)
     rows = all_rows(document)
 
-    assert document.pair_status == "incomplete"
-    assert document.status == "incomplete"
-    assert any(row.status == "unmatched-en" for row in rows)
-    assert any(section.status == "unmatched-en" for section in document.sections)
+    # Ch09 was fixed (duplicate section removed) — now fully matched
+    assert document.pair_status == "exact"
+    assert document.status == "matched"
+    assert all(row.status == "matched" for row in rows)
+    assert all(section.status == "matched" for section in document.sections)
 
 
 def test_chapter_06_absorbs_wrapping_drift_without_section_tail_failure() -> None:

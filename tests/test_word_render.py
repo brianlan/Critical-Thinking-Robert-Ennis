@@ -91,8 +91,9 @@ def test_chapter_09_docx_contains_visible_incomplete_markers(tmp_path: Path) -> 
     )
 
     assert first_table_row_count(document_xml) == len(all_rows(document))
-    assert "[Missing Chinese Content]" in document_xml
-    assert "[Alignment notice] No aligned Chinese section for this English block." in document_xml
+    # Ch09 is now fully matched — no missing content markers
+    assert "[Missing Chinese Content]" not in document_xml
+    assert "[Alignment notice]" not in document_xml
     assert "第 9 章 最佳解释与因果推理：论证与写作策略" in document_xml
     assert len(media_files) >= 1
     assert "relationships/image" in rels_xml

@@ -137,20 +137,14 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 ### Longer Answer
 
 10:10 Consider the generalization "Societies always develop class systems, even when organized with the goal of being classless." Assume that a class system is a system within a given society consisting of a prestige and power hierarchy (resulting in some identifiable classes' being of higher status and power) and in which somehow there is considerable passage of the class status of parents to their offspring.
-
-a. Cite examples and, if you can, counterexamples to this generalization.
-
-b. Revise the generalization if you feel that it needs revision in order to be true.
-
-c. Write a short defense of the generalization, as revised (if you revised it). Heed FRISCO.
+- a. Cite examples and, if you can, counterexamples to this generalization.
+- b. Revise the generalization if you feel that it needs revision in order to be true.
+- c. Write a short defense of the generalization, as revised (if you revised it). Heed FRISCO.
 
 10:11 Find a generalization in a newspaper, magazine, research report, etc. Copy it and give the source.  
-
-a. Tell what type of generalization it is (limited-to-the-data or inferential, universal or less-than-universal).  
-
-b. Comment on its meaning. Is it misleading? State its meaning in other words than those in which it is written.  
-
-c. Tell whether you think that the evidence supports the generalization. Explain why you think as you do. (Do not expect to do a perfect job here. Just do the best you can. But do not neglect such considerations as credibility of sources, and actual reports of the data on which the generalization is based.)
+- a. Tell what type of generalization it is (limited-to-the-data or inferential, universal or less-than-universal).  
+- b. Comment on its meaning. Is it misleading? State its meaning in other words than those in which it is written.  
+- c. Tell whether you think that the evidence supports the generalization. Explain why you think as you do. (Do not expect to do a perfect job here. Just do the best you can. But do not neglect such considerations as credibility of sources, and actual reports of the data on which the generalization is based.)
 
 ## Sampling and Typicality
 
@@ -278,10 +272,8 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 ### Medium Answer
 
 10:20 A tennis ball machine produces 2,000 tennis balls per hour. In order to check on the quality of the production, the inspectors systematically select 500 tennis balls (every fourth one) from the first hour of an eight-hour production run and the same number from the last hour of the production run, securing 1,000 tennis balls altogether. Each of the 1,000 balls is given the bounce and squeeze tests, and is visually inspected for apparent defects. The thinking is that if the production is all right at the beginning and end of a run, it is no doubt all right in the middle.
-
-a. What do you think of these inspection procedures, and why?
-
-b. What would you do, and why?
+- a. What do you think of these inspection procedures, and why?
+- b. What would you do, and why?
 
 10:21 The school board of a large city containing 100 elementary schools wants to secure an estimate of the number of third-grade students who understand and are able to use contraposition and avoid conversion in everyday situations. An interview-type test has been devised that takes about thirty minutes of a student's time, but the number of students is too large for the test to be given to every student. Assume that there are four classes of about 25 third-graders in each of the 100 schools, making 10,000 third-graders altogether. Tell how you would draw a sample of about 1,000 third-graders for testing, and explain why you make the choices you do. Because you do not know all the details about this school system, you will need to make some assumptions about the situation.
 
@@ -438,36 +430,25 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 10:30 Make a scatterplot for altitude and distance from the airport for the data in Table 10.3. Draw a line of best fit.
 
 10:31 Make a scatterplot and line of best fit for altitude and vertical speed when the airplane is flying.
-
-a. Why did you select the range you did for the variable altitude?
-
-b. Is the indicated relationship positive, negative, or neither?
-
-c. Do you think that the relationship is causal? Explain. If you cannot answer this or explain why (because you are not familiar with the facts), then just read the suggested answer.
+- a. Why did you select the range you did for the variable altitude?
+- b. Is the indicated relationship positive, negative, or neither?
+- c. Do you think that the relationship is causal? Explain. If you cannot answer this or explain why (because you are not familiar with the facts), then just read the suggested answer.
 
 10:32 Make a scatterplot and line of best fit for highway fatalities and registered vehicles from the data in Table 10.2.
-
-a. Is there an apparent relationship between these two variables? If so, is it positive or negative?
-
-b. Do you think that there is a real causal relationship between these two variables? Defend your answer.
+- a. Is there an apparent relationship between these two variables? If so, is it positive or negative?
+- b. Do you think that there is a real causal relationship between these two variables? Defend your answer.
 
 10:33 Make a scatterplot and line of best fit for temperature and distance from the airport, based on the data in Table 10.3.
-
-a. Is there an apparent relationship between these two variables? If so, is it positive or negative?
-
-b. Do you think that there is a real causal relationship between these two variables? Defend your answer.
-
-c. Can the data be generalized to a general relationship between distance from the airport and temperature (for example, "The farther one gets from this airport, the colder it is")? Why?
+- a. Is there an apparent relationship between these two variables? If so, is it positive or negative?
+- b. Do you think that there is a real causal relationship between these two variables? Defend your answer.
+- c. Can the data be generalized to a general relationship between distance from the airport and temperature (for example, "The farther one gets from this airport, the colder it is")? Why?
 
 ### Longer Answer
 
 10:34 Do a study in which you gather data that can be put in a table and a graph. Make the table and a scatterplot and line-of-best fit graph. Give the titles to the table and graph, and label the rows, columns, and axes.
-
-a. On your scatterplot, did you start both variables at zero? If so, why? If not, why not?
-
-b. Is there a positive or negative relationship, or neither?
-
-c. Is there a causal relationship between the variables? If so, in which way? Explain.
+- a. On your scatterplot, did you start both variables at zero? If so, why? If not, why not?
+- b. Is there a positive or negative relationship, or neither?
+- c. Is there a causal relationship between the variables? If so, in which way? Explain.
 
 ## Suggested Answers for Chapter 10
 
@@ -515,9 +496,8 @@ c. Is there a causal relationship between the variables? If so, in which way? Ex
 10:18 There is a basis for inferring to a larger population than the population from which the random sample was drawn, when the smaller population is typical of the larger one.
 
 10:20 
-a. By neglecting the middle six hours, they risk missing problems that develop in those six hours but that are not causing trouble at the beginning and end.
-
-b. It would probably be better to select every sixteenth ball (a systematic sample for the whole day). But perhaps the machine is systematically making every sixteenth ball badly and everyone is missed. It would probably be better to select at random six five-minute periods in each hour and to select at random one-eighth of the balls produced in each selected five-minute period. Again, 1,000 balls would be selected. I do not know enough about tennis ball production to be more specific.
+- a. By neglecting the middle six hours, they risk missing problems that develop in those six hours but that are not causing trouble at the beginning and end.
+- b. It would probably be better to select every sixteenth ball (a systematic sample for the whole day). But perhaps the machine is systematically making every sixteenth ball badly and everyone is missed. It would probably be better to select at random six five-minute periods in each hour and to select at random one-eighth of the balls produced in each selected five-minute period. Again, 1,000 balls would be selected. I do not know enough about tennis ball production to be more specific.
 
 10:21 Deliberately omitted.
 
@@ -546,8 +526,6 @@ b. It would probably be better to select every sixteenth ball (a systematic samp
 
 ![Graph 10:31](images/chapter-10/page_312/page_312_diagram_2_loc_202_830_1120_1400.png)
 
-a. This was the range in the table.  
-
-b. Negative. (We cannot give a value for the altitude of 756 because we do not know what the vertical speed is at takeoff. The 0 vertical speed reading was obtained before the airplane was flying, as can be seen by the concurrent airspeed reading.)  
-
-c. Yes, because the airplane's power and the density of the air on which the propeller can get a "bite" reduce with the altitude. (Giving a good answer to this question requires knowledge of the field. If you figured it out, good for you!)
+- a. This was the range in the table.  
+- b. Negative. (We cannot give a value for the altitude of 756 because we do not know what the vertical speed is at takeoff. The 0 vertical speed reading was obtained before the airplane was flying, as can be seen by the concurrent airspeed reading.)  
+- c. Yes, because the airplane's power and the density of the air on which the propeller can get a "bite" reduce with the altitude. (Giving a good answer to this question requires knowledge of the field. If you figured it out, good for you!)

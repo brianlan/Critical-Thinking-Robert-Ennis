@@ -8,10 +8,6 @@ Those of you who have read through this book have now considered in some detail 
 
 Those of you who have not read the other chapters of this book will find some unfamiliar language here. For the most part it is defined, but some terms describing types of inference, such as *deduction*, *loose derivation*, *induction*, *generalization*, *best-explanation inference*, and *value judging* might not be clear to you. There is no simple set of definitions and accompanying strategies. They are developed throughout the book, but be patient. Read the rest of the book. For the time being, the major strategy is to use whichever set of inference standards makes the reasoning look best, if you are only trying to tell whether the conclusion is justified. With a different goal, a different approach could be appropriate.
 
-
-
-
-
 ### FRISCO in Making a Decision About What to Believe or Do
 
 **F:** In making a decision about what to believe or what to do, you first must be clear about the question or issue at hand. What are you trying to decide about? What is your question? You should state this question to yourself as clearly and sensitively as possible, because if you do not know what your question is, it is difficult to proceed. Until you have stated your question as clearly as possible, you do not even know how to tell whether you are making progress. Questions can be of all sorts, and can be simply the question of whether a particular hypothesis is justified.
@@ -33,17 +29,21 @@ The above FRISCO elements might all seem like common sense, and in a way they ar
 Most of these elements of FRISCO receive special emphasis in various parts of the book: Focus receives special emphasis in Chapter 2. Reasons receive special emphasis in Chapters 2–4. Inference is emphasized in Chapters 5–11. Situation is emphasized throughout, as is clarity, although Chapters 12 and 13 emphasize definition and meaning. Overview is emphasized in this chapter.
 
 ### Inventing, Checking for Quality, Reformulating
+
 As you go through this FRISCO-guided decision-making process, you are constantly inventing, checking the quality of what you are doing, and reformulating, a continuous evaluative and creative set of interdependent processes. The reason that most of this book is about the quality-checking parts of this activity is that there is much more to be explained about checking for quality. Furthermore, the quality-checking parts continually inform the inventing and reformulating parts and provide the ultimate control of our thought.
 
 ### Overview
+
 So far, you have seen a brief summary of the FRISCO elements. I shall now elaborate the *O* element, the overview, with emphasis on inference-evaluation procedures and on the interdependence of the elements, as well as openness to revision, even after the decision is made. This strategy is sequential, just to make sure that all aspects are covered, although the original decision-making process skips around a good deal.
 
 The overview element should actually be applied at every point in the decision-making process, from formulating your question—through gathering information—to making your decision, although it can be more detailed at the advanced stages of decision-making. Furthermore, an overview is a necessary final step before provisional acceptance of the decision to believe something or to do something. You should do these overviews when you evaluate the arguments of others, as well as when you develop your own. Basically the whole idea is to keep track of what you are doing. Be reflective about it.
 
 #### Focus and Reasons
+
 First of all, try to be clear about the focus (*F*), the question or conclusion at issue (Chapter 2). In doing so, you will need to take the situation into account. Actually, the selection of the question is sometimes a decision, so it might call for an initial overview by itself. Next, determine what information and reasons (*R*) are given or available, and get clear about how the reasons join together to provide support for a conclusion. If there is not enough information, get more. Check the information. Is there good reason to believe it? Is it from a credible source (Chapter 3)? Were adequate observation procedures used (Chapter 4)? Answering each question itself calls for some sort of overview (because each question calls for a decision), so repeated overviews are necessary.
 
 #### Inference
+
 Look at the inference (*I*). If the goal is only to tell whether the conclusion or decision is justified, use the following strategy of successful application of different standards. If the goal is otherwise (such as trying to figure out what a particular person is thinking and arguing, and to judge that), then a different strategy might be appropriate.
 
 If the question or conclusion requires a value judgment, then make sure that you consider the consequences of acting on it, and check the factual information, if any, offered in its support. Also check the value principle(s) on which it is based. There usually are one or more value principles in the background. Decide whether, in the given situation, the conclusion at least loosely follows from these principle(s). In doing so, consider whether the argument takes account of all relevant consequences and principles. (Value judging is discussed in Chapter 11.)
@@ -58,39 +58,33 @@ Suppose instead that the conclusion is a hypothesis that gets its primary suppor
 
 If the total argument is a combination of smaller arguments, then you must evaluate them one at a time, using the successive evaluation strategy of the previous paragraphs. A total argument is no stronger than its weakest necessary link. However, an argument might be a strong one even if one of the parts is weak, if that part is not a necessary part of the chain or if the other parts do not depend on it for support or help. The other parts might be strong enough by themselves. You must balance and judge.
 
-
-
-
-
 #### Situation
+
 Have you kept in mind the situation (S) as you did these other things? Did you keep in mind the basic concern when you decided about the strength of the inference and the meanings of the terms? Have you successfully looked at things from the point of view of others, and have you attempted to discount any unfairness resulting from your own deeply held assumptions? (These questions represent crucial critical thinking dispositions. Some others are listed below.) Are you well-informed? Check with other people and books (Chapter 3). Do they give you reason to wonder? Investigate (Chapters 4, 8, and 10).
 
 #### Clarity
+
 Make sure that you know the intended meanings of key terms and, if not, try to find out (C). Are the terms clearly defined, if definition is necessary (Chapter 12)? If you cannot ascertain a single intended meaning for each key term, you might need to appraise the argument anew for each meaning, or meanings, of key terms (Chapter 13). If there is even one interpretation that gives you a good argument from the beginning all the way to the application, accept it. The argument is a good one.
 
 Finally, you must check your tentative decision. Make sure that it is no stronger than is warranted by the evidence or reasons (evidencing a crucial critical thinking disposition on your part). You should be open to making revisions, especially if new relevant information of ideas develop. Your conclusion should also be clear enough to provide guidance in the situation. Qualify your decision, as appropriate, and always be open to considering new information and points of view (another crucial critical thinking disposition).
 
 #### Critical Thinking Dispositions
+
 Here is a more complete list of critical thinking dispositions, all of which should be functioning throughout the overview (and of course, all the elements of FRISCO). There is overlap here, even with FRISCO itself, but I hope you will not mind. Read this set slowly, thinking about a particular decision you made, and asking yourself whether you were like this when you made the decision.
 
 Ideal critical thinkers are disposed to do the following:
+
 1.  Care that their beliefs are true and that their decisions are justified; that is, care to "get it right" to the extent possible, or at least care to do the best they can. This includes the interrelated dispositions to do the following:
     A.  Seek alternatives (hypotheses, explanations, conclusions, plans, sources), and be open to them.
     B.  Endorse a position to the extent that, but only to the extent that, it is justified by the information available.
     C.  Be well-informed.
     D.  Seriously consider points of view other than their own.
 2.  Represent a position honestly and clearly (theirs as well as others'). This includes the dispositions to do the following:
-
-
-
-
-
     A. Be clear about the intended meaning of what is said, written, or otherwise communicated, seeking as much precision as the situation requires.
     B. Determine, and maintain focus on, the conclusion or question.
     C. Seek and offer reasons.
     D. Take into account the total situation.
     E. Be reflectively aware of their own basic beliefs.
-
 3. Care about the dignity and worth of every person. This includes the dispositions to do the following:
     A. Discover and listen to others' views and reasons.
     B. Take into account others' feelings and level of understanding, avoiding intimidating or confusing others with their critical thinking prowess.
@@ -99,26 +93,41 @@ Ideal critical thinkers are disposed to do the following:
 The elements of FRISCO and these dispositions might seem like a great deal to manage all at once. But with practice, a short review list such as FRISCO in the back of your mind can help you do it without an explicit question about each one.
 
 ## Check-Ups
+
 Those of you reading this chapter before reading the others should know that there will be periodic Check-Ups that you should use for review and application. They usually start with true-false questions that are intended primarily as a review of the main points, and in a way constitute a summary, which is usually also provided. But true-false questions cannot reach deeply enough, so there are more open-ended activities. It is important to do the Check-Ups, at least to the point that you feel confident about the ideas in the relevant section.
 
 [^1]: A few interpretive comments: Several of the dispositions (1 D, 2 E, and 3 A) contribute to being well-informed (1 C) but are separate dispositions in their own right.
+
 The expressed concern with true belief accepts the view that our concepts and vocabulary are constructed by us, but also that (to oversimplify somewhat) the relationships among the referents of our concepts and terms are not constructed by us. We can have true or false beliefs about these.
+
 The disposition (#3) to care about the dignity and worth of every person is not required of critical thinking by definition, but in order that it be humane. I call it a correlative disposition, by which I mean one that, although this disposition is not part of the definition of *critical thinking*, it is desirable for all critical thinkers to have it, and the lack of it makes the critical thinking less valuable, or perhaps of no value at all.
 
 ## Check-Up 14A
+
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
 14:1 If an argument is not deductively valid, then it cannot be a good argument.
+
 14:2 If an argument includes a reason that is clearly false, then the argument cannot provide adequate grounds for believing the conclusion.
+
 14:3 If an argument is deductively valid, then if you accept the reasons, you must accept the conclusion.
+
 14:4 Once the conclusion or question is identified, the situation is no longer of interest in decision-making.
+
 14:5 If a key term is ambiguous, then showing that the argument is a good argument—in at least one of the senses of the key term—is enough to show that the argument is a good one.
+
 14:6 If the conclusion is factual, then if an argument is not deductively valid, there is still the possibility that it is inductively valid.
+
 14:7 There are two kinds of inductive arguments or relationships: generalization from particulars and inference to the best explanation.
+
 14:8 Both consequences and principles are relevant to making value judgments.
+
 14:9 The overview process is appropriate only at the end of the decision-making process.
+
 14:10 The elements of FRISCO are independent of each other when applied to a decision.
+
 14:11 Quality checks on the decision-making process should be made throughout.
 
 ### FRISCO Argument Appraisal
@@ -142,10 +151,6 @@ Chris Individ argues as follows: "There is absolutely nothing wrong with even th
 Up to now, we have been considering the practice of critical thinking in situations in which you have as much time to think as you want. You have applied numerous critical thinking strategies, principles, and insights to a variety of examples that I provided and to some that you have located yourself. But in all cases, you had time to reflect and revise before "going public" with your proposals and judgments.
 
 However, in discussion with other people, you generally do not have the luxury of time to reflect and revise before you respond in public. You often think and work things out as you talk. When other people say things, there ordinarily is no chance to have these things recorded and played before you need to respond. So discussion provides a special critical thinking challenge. I shall begin with some general advice, and then give some specific advice, including the suggestion of a wide array of specific strategies, questions, challenges, and responses.
-
-
-
-
 
 ### General Advice
 
@@ -191,11 +196,8 @@ All of these questions can be asked more informally. I leave it to you to add th
 2. Why did you say that?
 3. What do you mean?
 
-
-
-
-
 #### Main Point Questions
+
 1.  Let me see if I have it right. Is this your main point? [State what you think is the main point.]
 2.  I take it that your main point is this: [state what you think is the main point.]
 3.  I'm afraid I don't quite see what you're driving at. Could you say a little more about it?
@@ -204,6 +206,7 @@ All of these questions can be asked more informally. I leave it to you to add th
 6.  What's this all about?
 
 #### Reason-Seeking Questions
+
 1.  Could you say a little more about your reasons for saying that?
 2.  Perhaps you could elaborate on why you believe that.
 3.  Why did you say that?
@@ -211,6 +214,7 @@ All of these questions can be asked more informally. I leave it to you to add th
 5.  Do you have reasons for that conclusion?
 
 #### Questions Seeking the Connection Between the Reasons and the Conclusion (Relevance).
+
 1.  I want to understand you. Could you elaborate on the connection between the reason and the conclusion?
 2.  Are you assuming that. . .? [Specify a likely assumption.]
 3.  You are assuming that . . ., are you not? [Specify a likely assumption.]
@@ -221,16 +225,12 @@ All of these questions can be asked more informally. I leave it to you to add th
 8.  What does that statement [a statement made by the speaker] have to do with your conclusion?
 
 #### Questions Seeking Clarification of Word Meaning
+
 1.  I'm not sure how you are using this word.
 2.  Could you give an example of. . .?
 3.  Could you give a negative example of. . .? [This question is unfortunately rarely used, though it can be very useful and is sometimes devastating to a position that really does not say anything. A *negative example* is a case that is instructively not an example.]
 4.  Would this be an example. . .? [give an instructive possible case.]
 5.  Perhaps we are talking past each other. Are we using this word the same way? [This question is often asked much later in a discussion than it should be. Consider it when you see people looking at the same facts, yet still disagreeing with each other. Often the disagreement in such cases is merely verbal, though not always.]
-
-
-
-
-
 6. What do you mean by. . .?
 7. By . . ., do you mean. . .?
 8. Do you know what . . . means?
@@ -255,10 +255,6 @@ I have suggested a range of questions for each of these activities. The question
 The three general clarification questions are ones that you should always be ready to ask. Of the three, the second and third questions, "Why did you say that?" and "What do you mean?," are sometimes more threatening, and are more specific than the first, but usually are good general questions. The first question, "Would you say more about that?," although vague, is very useful. It often provokes the speaker to see what needs elaboration. Then the speaker can provide the elaboration, if he or she knows it and wants to provide it. Usually people do want to make clear what they are saying. The question "Would you say more about that?" is also useful for the questioner who feels confused and is not sure exactly what is lacking. The question helps to get the dialogue going.
 
 Before you go further, you need to practice using all of these questions. It would be best if you could practice with someone else. Find a partner and do one or more of Check-Up Items 14:15–14:18 together. Schedule a significant block of time in order to make this activity worthwhile.
-
-
-
-
 
 ## Check-Up 14B
 
@@ -286,6 +282,7 @@ A *counterexample* is a case that seems inconsistent with the generalization off
 5. That could not be right because there is this case: . . . [describe it].
 
 #### Suggesting a Possible Inconsistency
+
 The trouble with inconsistency is that no more than one of two inconsistent things can be right. The person who makes two statements that are inconsistent with each other must withdraw at least one, on pain of having said nothing.
 
 Ralph Waldo Emerson is often quoted as urging that foolish consistency is the hobgoblin of small minds, but he was not talking about straightforward inconsistency between two statements. Rather, he was chiding someone for unwillingness to change his mind in the face of good reason to do so.
@@ -296,6 +293,7 @@ Here are some questions that can be used to challenge a possible inconsistency:
 3. You have contradicted yourself. You said this, and you said that. They can not both be true.
 
 #### Dubious Reasons or Evidence
+
 If the explicitly stated reasons or evidence (the *R* in *FRISCO*) are dubious or false and if the argument depends on them, then the argument is suspect. But remember, that does not show the conclusion to be false.
 
 Because you now probably have the idea about the range from less-threatening to more-threatening questions, I shall henceforth only give one or two fairly non-threatening questions to illustrate the challenge. You can supply others.
@@ -304,6 +302,7 @@ Because you now probably have the idea about the range from less-threatening to 
 > Sample Challenge: "You stated that . . . [give the stated reason]. I wonder about that because the college newspaper reported otherwise."
 
 #### Weak Source
+
 Often the credibility of a source is suspect. A challenge to the credibility of this source is then appropriate, and should probably refer to one or more of the criteria for credibility listed in Chapter 3.
 
 
@@ -313,6 +312,7 @@ Often the credibility of a source is suspect. A challenge to the credibility of 
 
 
 #### False or Dubious Assumption
+
 A position is no stronger than its assumptions. A standard challenge technique is to claim that the position assumes a proposition and that the proposition is false or dubious.
 
 Here is a sample challenge:
@@ -323,12 +323,14 @@ This technique is more speculative than the dubious-explicit-reason technique be
 An example of the identification of an unneeded assumption was a juror's claiming that the defense attorney made the following assumption: "A person who kills in defense against a threatened attack should be judged innocent of murder as well as voluntary manslaughter." (The defense had argued, you probably remember, "My client is innocent because she was defending herself against attack.") The juror then proceeded to reveal that he interpreted the word *attack* very broadly (including verbal attacks) and argued that the assumption was false because we did not think that defending yourself against the threat of insults generally justifies killing someone. But this was not relevant because the defense attorney did not need such a broad assumption and is unfairly burdened with such a sweeping assumption. Real physical attack was enough for his assumption to be about. So it is important to make sure that the assumption is needed by the position or argument, if refuting it is to count heavily against the position or argument. But despite the danger of misattribution of assumptions, attempted identification of a false assumption is useful at least in probing a position, and often in challenging it.
 
 #### Circular Argument
+
 Sometimes an argument does not make any progress because it starts by explicitly assuming what it tries ultimately to prove. Usually, because of verbosity, this is less obvious than in the following example: "Our industry remains volatile. Therefore it is subject to change."
 
 > Sample Challenge: "Your argument seems circular."
 > Another: You seem to begin your argument by assuming your conclusion, though in different words.
 
 #### Changing the Subject
+
 Often, in discussion, one person argues for something that is unrelated to the question at hand. Sometimes the shift is subtle, as occurred in the argument regarding selfishness (Item 14:14). Sometimes the shift is not subtle, as when the other person attacks you personally for your ignorance (or bad memory) about something that is not part of the issue. In the language of logical fallacies, such a personal attack is sometimes called *argumentum ad hominem*. I mention this label because having heard of the label might help you avoid being intimidated by someone's using it. I do not recommend that you use it. I prefer the equivalent label *personal attack argument*. I used that label in Chapter 3, when I noted that some personal attack arguments (*ad hominem* arguments) are relevant. In any case, it is often easy to be distracted by changes in the subject, whether they are subtle or not.
 
 
@@ -338,6 +340,7 @@ Often, in discussion, one person argues for something that is unrelated to the q
 These challenges are much easier to see when you are not involved in a heated discussion and when you are not the butt of the personal attack, so you need to keep them in the back of your mind at all times.
 
 #### Insufficient Reason or Evidence
+
 There are a variety of ways that the reasons and evidence offered can be insufficient. I shall mention a few:
 
 *Other plausible explanations*. Sometimes a hypothesis does explain the evidence, but the evidence is not sufficient to rule out alternative hypotheses. See Chapters 8 and 9. To assert the hypothesis that one thing caused another, simply on the ground that the first preceded the second, has a special fallacy label: *post hoc reasoning*. Again I do not recommend that you use this label, but that you be familiar enough with it to avoid being intimidated when someone else uses it.
@@ -358,14 +361,11 @@ There are a variety of ways that the reasons and evidence offered can be insuffi
 *Oversimplification*. It is often tempting to oversimplify complicated situations by stating one or two simple principles and deriving a conclusion from them. Then one might neglect the fact that most acceptable value principles, and many others as well, have exceptions. See Chapter 11. Another standard kind of oversimplification is the assumption that there are only two alternatives, when in fact there are others (sometimes called the *either-or* fallacy).
 
 
-
-
-
-
 > Sample Challenge: "But there are exceptions to that rule (or generalization). Here's one: . . ." [Challenger describes an exception.]
 > Another: "There are other alternatives. It's not just either this or that. It might be both, or it might be this other possibility: . . ." [Challenger offers another alternative.]
 
 #### Emotional language without sufficient substance
+
 People often appeal to slogans or use words (including *glittering generalities* and *name-calling*—some popular fallacy labels that are self-explanatory) that set off emotional reactions in many of us but do not offer substantial reasons.
 
 
@@ -373,12 +373,14 @@ People often appeal to slogans or use words (including *glittering generalities*
 > Another: "That's good rhetoric. Now let's get down to substance."
 
 #### Faulty analogy
+
 An *analogical argument* (discussed in Chapter 11) proceeds by showing that two things are alike in some respects, and concludes that they are therefore alike in some other respect. Some analogical arguments are strong; some are faulty. Their potential weakness lies in the respects in which the two things are different, and there are always differences. For example, one might argue that all the nations of the world could successfully join together because they are like the thirteen states that joined together to form the United States. A challenger could note that the cases are different because the United States had external enemies against which the states needed to protect themselves, whereas the world has no such external enemies. As you can see, the argument could go on and on, possibly acquiring validity as it approximates one of our standard forms: deduction, loose derivation, induction (generalization or best-explanation), or value judging.
 
 
 > Sample Challenge: "There's a significant relevant difference between these two cases: . . ." [Challenger describes the difference.]
 
 #### Neglect of a point of view
+
 Often, a conclusion depends on the point of view of the arguer. It sometimes helps to show that from another point of view, the evidence is insufficient.
 
 Our point of view, as jurors in judging Arlene guilty of voluntary manslaughter, was nonconfrontational. That is, we assumed that if a person is threatened and there is an easy way to escape, that person should take that way of escape. From the point of view that women should fight back and confront threatened violence with violence, our evidence was insufficient to show that she was not justified in using the force she used.
@@ -387,26 +389,25 @@ Our point of view, as jurors in judging Arlene guilty of voluntary manslaughter,
 > Sample Challenge: "But look at it from this point of view: . . ." [Challenger describes it.]
 
 #### General failure to follow
+
 Sometimes, we feel bewildered by the claim that a conclusion follows from the reason(s) or evidence because we cannot see how anyone could have thought it did, or we just do not understand the alleged connection. In that case, a general challenge is appropriate.
 
 > Sample Challenge: "I do not see the connection between the reason(s) and your conclusion."
 > Another: "Could you explain how this is relevant to your conclusion?"
-
-
-
-
 
 (There is a special term used for a general-type failure of a conclusion to follow from its support: *non sequitur*. I mention this term so that you will not be intimidated by its use, though again I do not recommend that you use it. To say that something is a *non sequitur* is to say only that the conclusion does not follow. I was disappointed when I learned that this impressive phrase meant only that. I had expected the term to have a more specific meaning. How about you? Anyway, now you know.)
 
 That completes this suggested set of ways that the sufficiency of the evidence or reason(s) could be challenged. You might think of others, but these are enough for now. You might even want to put the next item, equivocation, in this group. But elegant categorization of ways of going wrong is not our concern here.
 
 #### Equivocation
+
 Sometimes an argument can look good, but not be so because it depends on the shifting of meaning of a key term during the course of the argument (see Chapter 13).
 
 > Sample Challenge: "Have you changed the meaning of [state term] in drawing your conclusion?"
 > Another: "No matter which interpretation of [state term] we use, your argument is defective. Look. On this meaning, there is a problem here. On that meaning, there is a problem there. There do not seem to be any other plausible interpretations."
 
 ### Fallacy Labels
+
 As you may have noted, I have tried to work a definition and brief discussion of some of the major fallacy labels into this discussion of challenge questions. To apply a fallacy label to someone's thinking is in effect to raise a challenge question.
 
 The danger with fallacy labels is that for many of them, activities that they fit are often not fallacious; that is, they are often not mistaken. For example, *appeal to authority* is a fallacy label (presented in Chapter 3), but many instances of appeal to authority are perfectly all right. We do it when we provide citations to support a reason we are using, and often this is perfectly legitimate.
@@ -414,15 +415,11 @@ The danger with fallacy labels is that for many of them, activities that they fi
 On the other hand, some fallacy labels, such as circularity and *non sequitur*, if applied correctly, label only mistakes. In any case, it is helpful to be familiar with the most common fallacy labels, in part because they sensitize us to common sources of error, and in part because they provide an efficient way to communicate complaints (to those who understand their meaning). You will find definitions of a number of popular fallacy labels in the Glossary.
 
 ### Summary and Comment
+
 Although I could have categorized these kinds of problems and challenges differently, no one listing being perfect, I hope I have conveyed a number of different kinds of challenges that might be used in a discussion. These include claiming that:
 - There are possible counterexamples.
 - There is an inconsistency.
 - The evidence or reasons are false or at least dubious.
-
-
-
-
-
 - The source is not credible.
 - An assumption is false or dubious.
 - The argument is circular.
@@ -445,16 +442,25 @@ Many fallacy labels were used in this section, and some others have been introdu
 Before proceeding to look at ways of responding to challenges directed at you in the next section, please practice using the above challenges and similar ones that you develop for yourself, as in Check-Up Items 14:25 and 14:26.
 
 ## Check-Up 14C
+
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
+
 14:20 Challenging a position is dangerous because it will not result in clarification.
+
 14:21 A counterexample is an example that appears to count against a position or a definition.
+
 14:22 A *circular argument* is one that starts by explicitly assuming what it ends up trying to prove.
+
 14:23 *Post hoc* reasoning is reasoning that concludes that one thing caused another simply because it preceded the other.
+
 14:24 Anything accurately labeled by one of the fallacy labels is a mistake.
 
 ### Application of Challenge Questions
+
 14:25 Find a partner. Each of you choose and adopt one of the arguments in Items 14:12–14:14 on which you have not yet practiced, or find another argument in this book. Imagine a context for the argument(s) chosen. Then one of you should try to formulate a challenge of each of the types listed above (in the immediately preceding section *Summary and Comment*). The challenge should apply to the argument that your partner has chosen. The partner should try to respond.
+
 Next, reverse roles and select another argument. The previous challenger should become an arguer, and the previous arguer should become the challenger, again trying to frame each of the types of challenge listed above. Then write out answers to the following questions:
 - a. Which arguments did you choose? Describe the situations you have imagined.
 - b. Which of the challenges seemed most useful? How so?
@@ -468,6 +474,7 @@ Next, reverse roles and select another argument. The previous challenger should 
 - e. State which of the challenges seemed least useful, and why.
 
 ### Responding
+
 By now, you should have a fairly good idea of the straightforward questions of clarification and challenges that I have presented. You have, I hope, practiced asking them and have offered some responses to them. Next I shall present some overall strategies for responding to these straightforward questions and challenges, and then some strategies for responding when things seem to be going wrong.
 
 #### Responding to Straightforward Questions of Clarification and to Challenges
@@ -632,6 +639,7 @@ In a small group discussion, there is more chance for straying from the main poi
 ## Suggested Answers for Chapter 14
 
 **Check-Up 14A**
+
 14:1 F 14:2 F 14:3 T 14:4 F 14:5 T 14:6 T
 14:7 T 14:8 T 14:9 F 14:10 F 14:11 T
 
@@ -688,10 +696,3 @@ In case it is not clear how the trial turned out, here is a quick summary: We un
 Most of the discussion about voluntary manslaughter concerned the meaning of proven beyond a reasonable doubt and the question of whether the fourth condition for voluntary manslaughter had been proven beyond a reasonable doubt. This condition was that the defendant was not justified in using the force she used. Because we felt that she had a nonviolent alternative (escaping to her parents' room), we felt that it was proven beyond a reasonable doubt that she was not justified in using the force she used. In discussions of this trial since then, some people have held that the jurors made a faulty assumption. It is that a woman who is physically threatened by a man should pursue a nonviolent solution, if it is available. What do you think? How would you have voted? Why? Your answer is an argument. Apply FRISCO to it!
 
 Can you think of any other assumptions we made in concluding that she was not justified in using the force she used? Are they justified? Apply FRISCO.
-
-
-
-
-
-
-
