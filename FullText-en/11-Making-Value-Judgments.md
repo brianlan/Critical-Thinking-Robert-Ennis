@@ -477,6 +477,7 @@ In this section on relativism, as well as in the entire value judgment chapter, 
 You have probably noticed that this section on relativism consisted mostly of argument. In Chapter 13 in a section on argument strategy and tactics, I shall use some of these arguments as examples.
 
 ## Check-Up 11C
+
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
@@ -494,52 +495,74 @@ For each of the following, write a one-page essay starting with your conclusion,
 - 11:39 Argue against the view that democratic countries should not attempt to change the totalitarian ways of other countries. Assume that the view you are arguing against is grounded on the basic cultural relativist assumption that whatever is in a culture is right for the people of that culture. Be sure to include a challenge to this basic cultural relativist assumption and give your reasons for this challenge.
 - 11:40 Refute this argument: It is right for Jones to cheat on a law school aptitude test because whatever a person approves of is right for that person to do, and Jones approves of the cheating. Be sure to show one or more problems with this personal relativist view.
 - 11:41 Plan a survey in which you will try to find out the percentages of people in a certain group (or population) who accept each of the three kinds of cultural relativism. In your plan, make it clear how you will tell whether someone accepts each of the three types. (For example, state the question that you will ask and tell how to interpret the possible answers.) Make this easy enough for you actually to do the survey, paying attention to the principles of sampling and generalizing in Chapter 10. Do not expect perfection, but be aware of, and specify, the limitations of your procedures.
-
-11:42 Do the survey you planned in 11:41 and write a report for an audience you specify, or orally present a report to this class.
+- 11:42 Do the survey you planned in 11:41 and write a report for an audience you specify, or orally present a report to this class.
 
 ## Suggested Answers for Chapter 11
 
 ### Check-Up 11A
-11:1 T 11:2 F 11:3 F 11:4 F 11:5 T  
-11:2 Change *a value statement* to *some factual statements*.  
-11:3 Typically, even the best value principles have exceptions.  
-11:4 There can be both true and false factual statements.  
-11:6 Value 11:7 Factual 11:8 Factual 11:9 Value  
-11:10 Value 11:11 Factual 11:12 Value 11:13 Value
+- 11:1 T 11:2 F 11:3 F 11:4 F 11:5 T  
+- 11:2 Change *a value statement* to *some factual statements*.  
+- 11:3 Typically, even the best value principles have exceptions.  
+- 11:4 There can be both true and false factual statements.  
+- 11:6 Value
+- 11:7 Factual
+- 11:8 Factual
+- 11:9 Value  
+- 11:10 Value
+- 11:11 Factual
+- 11:12 Value
+- 11:13 Value
 
 *Note:* In discussing Examples 11:14, 11:15, and 11:17, I have used concepts from Chapters 5 and 6. If these concepts bewilder you, then you might find it helpful to reexamine the relevant parts of those chapters.
 
-11:14 a. The United States should have stayed out of World War I.  
-b. It follows, as shown in the following diagram:
+11:14 
+- a. The United States should have stayed out of World War I.  
+- b. It follows, as shown in the following diagram:
 
 ![Diagram 11:14](images/chapter-11/page_338/page_338_diagram_1_loc_334_958_1085_1216.png)
 
 11:15 Deliberately omitted.
 
-11:16 a. It would be wrong to tell the teacher about it.  
-b. It follows: the antecedent has been affirmed.
+11:16 
+- a. It would be wrong to tell the teacher about it.  
+- b. It follows: the antecedent has been affirmed.
 
 11:17 Deliberately omitted.
 
-11:18 a. Michael's intercepting and destroying Bill's love letter to Juanita was not unethical.  
-b. It follows, assuming that whatever is fair is not unethical, as shown by the following diagram:
+11:18
+- a. Michael's intercepting and destroying Bill's love letter to Juanita was not unethical.  
+- b. It follows, assuming that whatever is fair is not unethical, as shown by the following diagram:
 
 ![Diagram 11:18](images/chapter-11/page_338/page_338_diagram_2_loc_307_1506_1078_1848.png)
 
 ### Check-Up 11B
+
 11:19 F 11:20 T 11:21 F 11:22 T
+
 11:19 Change *inapplicable* to *applicable*.
+
 11:21 Change *is more precise* to *is often more practical or is less precise*.
+
 11:23–11:31 These are up to you. Have you reviewed and revised?
 
 ### Check-Up 11C
+
 11:32 T 11:33 F 11:34 T 11:35 T 11:36 F
+
 11:37 F
+
 11:33 Factual relativism is the view that the value judgments supported by different groups are often different and conflicting.
+
 11:36 Change *cannot* to *can*.
+
 11:37 Omit the last clause, *but that is a contradiction*.
+
 11:38 An argument of this sort appeared in the discussion of this topic. I hope yours used a different example than the eating of the meat of cattle, and I hope that you stated your conclusion clearly, making apparent that it is your conclusion.
+
 11:39 In your argument you might well have shown how the assumed view leads to contradictory recommendations. You also might well have pointed out some of the incredibly vicious practices of some totalitarian governments, practices that a democratic government is committed to avoiding. Again, I hope that you stated your conclusion clearly and indicated that it is your conclusion.
+
 11:40 You are on your own on this one.
+
 11:41 Again you are on your own, but make sure that you have satisfied this question: Do your questions (or other ways of deciding what people think) actually work fairly well?
+
 11:42 I hope that you found it interesting, and that your audience did also.

@@ -584,7 +584,9 @@ For Items 12:48–12:55, give a reported (standard meaning) range definition of 
 12:56 From your conversations within the past few days, choose a term that needed defining. Describe the situation and underline and define the term as you understand it, explaining why you chose the form you used. Also tell why you used or did not use an example and a nonexample.
 
 12:57 Take out a recent position paper you have written. Select a key term, the definition of which might help your paper. Using each of the forms of definition that have been considered, formulate a definition of this term, if that is possible, and discuss the activity. More specifically:
+
 A. If possible, formulate a definition of the term in accord with each of the following forms:
+
 1. Synonym
 2. Classification
 3. Equivalent-expression
@@ -663,7 +665,7 @@ C. Which of the resulting definitions best suits your circumstances? Why?
 
 12:35 *Validity* is the quality of having the conclusion follow from the evidence. This is a stilted definition, I admit, but my friend is quite literate and good with language.
 
-### Check-Up 12C
+**Check-Up 12C**
 
 12:36 F 12:37 T 12:38 F 12:39 T 12:40 T
 
