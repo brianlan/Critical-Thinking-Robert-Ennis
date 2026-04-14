@@ -50,6 +50,7 @@ Fourth: That the defendant was not justified in using the force she used.
 2. If you find from your consideration of all the evidence that any of these propositions has not been proved beyond a reasonable doubt, then you should find the defendant not guilty.
 
 What does it all mean? One way to help grasp this detailed specification is to think in terms of necessary and sufficient conditions. Try to do so before you read further.
+
 Here is one possible rough summary statement in terms of necessary and sufficient conditions: According to the first if-then proposition, the conjunction of the first four conditions (each proven beyond a reasonable doubt) is sufficient for a guilty verdict. According to the second if-then proposition, proof beyond a reasonable doubt of each one of the four conditions is a necessary condition for a guilty verdict. More compactly, the four conditions (each proven beyond a reasonable doubt) are jointly sufficient and each necessary for a guilty verdict. Looking at it in these terms was helpful to me, as it should be to you, now that you are familiar with the language of necessary and sufficient conditions.
 
 But my associates on the jury were not all familiar with this language. When I tried to make overall sense of it for them, I did not use the words *necessary* and *sufficient*. Instead, I said something like the following: "If every one of those four conditions has been proven beyond a reasonable doubt, then that is enough for a verdict of guilty and we should vote for a guilty verdict. But each of them is needed. Without any one of them, we must declare her not guilty." This is an example of what I hope you can do: Think in terms of necessary and sufficient conditions and use that language with people who understand it. But when you are with people who might be confused or intimidated by this language, express necessary and sufficient relationships in simpler, though usually lengthier, terms.
@@ -184,13 +185,19 @@ If you feel that you need more practice with deduction, go back and do more item
 ## Check-Up 7A
 
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
 7:1 A deductively valid argument is one in which the conclusion follows necessarily from the reasons.
+
 7:2 The following argument is deductively valid when stripped: "Because totalitarian systems of government generally fail and the government of Ladia is about to fail, it is probably a totalitarian government."
+
 7:3 A sufficient condition is one that is enough and that is needed in order for another to hold.
+
 7:4 A necessary condition is one that must hold in order that another hold.
+
 7:5 A good formula for dealing with deductive-appearing arguments containing qualifiers is to strip the qualifiers, make a deductive validity judgment, and apply exactly that judgment to the total argument.
+
 7:6 Many real arguments omit one or the other of the reasons that would make them into deductively valid arguments.
 
 ### Medium Answer
@@ -213,10 +220,10 @@ To sustain the charge of murder, the state must prove the following propositions
 
 Simplify by treating the second condition as a single proposition to be represented by a single letter.
 
-a. Interpret this set of specifications in the language of necessary and sufficient conditions.
-b. Interpret this set of specifications in less technical language (using words such as *enough* and *needed*), as you might for a group of people who might be intimidated by the language of necessary and sufficient conditions.
-c. Assign letters to the propositions in this set of specifications.
-d. Assuming that the second condition has not been proven beyond a reasonable doubt, symbolize an argument based on this assumption and concluding that the defendant is to be found not guilty.
+- a. Interpret this set of specifications in the language of necessary and sufficient conditions.
+- b. Interpret this set of specifications in less technical language (using words such as *enough* and *needed*), as you might for a group of people who might be intimidated by the language of necessary and sufficient conditions.
+- c. Assign letters to the propositions in this set of specifications.
+- d. Assuming that the second condition has not been proven beyond a reasonable doubt, symbolize an argument based on this assumption and concluding that the defendant is to be found not guilty.
 
 &#43; 7:9
 Do the same things as in 7:8, but do not simplify the second condition. Instead elaborate its constituent propositions. For example, *she intended to kill the victim* is one possible constituent proposition, assuming one way of analyzing the instructions.
@@ -350,27 +357,49 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 For each of the following, add a proposition that would make the sequence deductively valid. If there is a choice among candidates of different amounts of complexity and plausibility, pick the simplest and most plausible one. Do this on a separate piece of paper. (Note: For the arguments that refer to the trial, it might be helpful to refer to the statement of conditions for voluntary manslaughter and murder in Example 7:1 and Check-Up item 7:8.)
 
 7:16 If Karl lost the election, then he is a fool. Therefore, Karl is a fool.
+
 7:17 If Karl lost the election, then he is a fool. Therefore, Karl did not lose the election.
+
 7:18 If Cecille won the tennis tournament, then Mirabelle is dejected. Therefore, Cecille must have lost.
+
 7:19 Motorcycles are legally classified as motor vehicles, so Sarah's motorscooter is legally classified as a motor vehicle.
+
 7:20 Mary is in good spirits today. Therefore, she must have gone out with Pedro last night.
+
 7:21 Pedro must be in good spirits today. I know this because he went out with Mary last night.
+
 7:22 If Arlene did it, then she admitted it. Therefore, she did not do it.
+
 7:23 If Shakespeare had intended Polonius to be a comic figure, then he would not have made Polonius the father of two tragic characters. Therefore, Shakespeare did not intend Polonius to be a comic figure.
+
 7:24 The strawberries in the cabbage patch are weeds because we do not want them there.
+
 7:25 Raoul is in good physical shape because he plays soccer.
+
 7:26 Zoning is unjust because it interferes with the desires of honest people.
+
 7:27 Fights should be avoided because they hurt people.
+
 7:28 Contemporary pop music is repetitive, uninteresting, and a threat to the peace, so it should be banned.
+
 7:29 Everyone on the team is tall, so John is tall.
+
 7:30 Everyone on the team is tall, so Enrico is not on the team.
+
 7:31 Good chess players are critical thinkers, so Sally is a critical thinker.
+
 7:32 Texas Jane will certainly lash out at the world because she has been treated unfairly for her entire life.
+
 7:33 The new mayor made mistakes in her first speech because she is inexperienced.
+
 7:34 Our students are not permitted in this joint because nobody under eighteen is permitted.
+
 7:35 Because all genuine foods contain carbon, hydrogen, and oxygen, all genuine foods are carbohydrates.
+
 7:36 If she killed him, then she performed the act that caused his death. Therefore, the first condition for murder is satisfied. (Hint: Fill two gaps here. Reminder: The statement of conditions given us for the charge of murder is in Check-Up item 7:8. Use it.)
+
 7:37 Because June's Honda is a motorcycle and motor vehicles are not permitted on Rock Island, June's Honda is not permitted on Rock Island.
+
 7:38 Nothing written by that bureaucrat makes any sense. Because Regulation EZTHINK was written by that bureaucrat, I refuse to publish it.
 
 7:39 Nobody under thirty-five can be president. Because Tina is under thirty-five, we should not nominate her to be president.
@@ -486,10 +515,10 @@ A principal danger in assumption identification is attributing an assumption to 
 **True or False?**
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
-7:47 If a proposition fills a gap in your argument, then that proposition is an assumption of your argument.
-7:48 The straw-person fallacy can be defined as attributing to a person a view the person does not hold (or does not need to hold, if an assumption), refuting that view, and then acting as if the person's real view has been refuted.
-7:49 If a presupposition is shown to be false, then the truth or falsity of the statement of which it is a presupposition cannot be settled.
-&#43; 7:50 In attributing a needed assumption, one should try to be charitable, doing the best one can to help the argument.
+- 7:47 If a proposition fills a gap in your argument, then that proposition is an assumption of your argument.
+- 7:48 The straw-person fallacy can be defined as attributing to a person a view the person does not hold (or does not need to hold, if an assumption), refuting that view, and then acting as if the person's real view has been refuted.
+- 7:49 If a presupposition is shown to be false, then the truth or falsity of the statement of which it is a presupposition cannot be settled.
+- &#43; 7:50 In attributing a needed assumption, one should try to be charitable, doing the best one can to help the argument.
 
 ### Medium Answer
 Consider the following passages. From the point of view of fairness in assumption attribution, tell whether you think the assumption attributions are justified and why. Add comments, if you like.
@@ -578,33 +607,33 @@ AA, DV
 7:14 T  
 7:15 F
 
-7:11 Assumptions are sometimes conclusions.
-7:13 There are usually many propositions that can convert an argument with a deductive gap into a deductively valid one.
-7:15 Change A to read *Regulation EZTHINK makes sense*.
-7:16 Karl lost the election.
-7:17 Karl is not a fool.
-7:18 Mirabelle is not dejected.
-7:19 Sarah's motorscooter is a motorcycle.
-7:20 Whenever Mary is in good spirits, she has gone out with Pedro the night before.
-7:21 Whenever Pedro goes out with Mary, he is in good spirits the next day.
-7:22 Arlene did not admit it.
-7:23 Shakespeare made Polonius the father of two tragic characters.
-7:24 Whatever we do not want in the cabbage patch is a weed.
-7:25 All soccer players are in good physical shape.
-7:26 Whatever interferes with the desires of honest people is unjust.
+- 7:11 Assumptions are sometimes conclusions.
+- 7:13 There are usually many propositions that can convert an argument with a deductive gap into a deductively valid one.
+- 7:15 Change A to read *Regulation EZTHINK makes sense*.
+- 7:16 Karl lost the election.
+- 7:17 Karl is not a fool.
+- 7:18 Mirabelle is not dejected.
+- 7:19 Sarah's motorscooter is a motorcycle.
+- 7:20 Whenever Mary is in good spirits, she has gone out with Pedro the night before.
+- 7:21 Whenever Pedro goes out with Mary, he is in good spirits the next day.
+- 7:22 Arlene did not admit it.
+- 7:23 Shakespeare made Polonius the father of two tragic characters.
+- 7:24 Whatever we do not want in the cabbage patch is a weed.
+- 7:25 All soccer players are in good physical shape.
+- 7:26 Whatever interferes with the desires of honest people is unjust.
 
 *Note: Henceforth in this set, answers to the odd-numbered items are omitted.*
 
-7:28 Whatever is repetitive, uninteresting, and a threat to the peace should be banned.
-7:30 Enrico is not tall.
-7:32 Anyone who has been treated unfairly for her entire life will certainly lash out at the world.
-7:34 Our students are under eighteen.
-7:36 (a) She killed him. (b) If she performed the act that caused his death, then the first condition for murder is satisfied.
-7:38 I refuse to publish anything that does not make any sense.
-7:40 The Board of Education will not act unconstitutionally.
-7:42 If Samantha is not in town, then she is in the country.
-7:44 Whoever is in trouble with the director will be kicked out of the band.
-7:46 This is up to you.
+- 7:28 Whatever is repetitive, uninteresting, and a threat to the peace should be banned.
+- 7:30 Enrico is not tall.
+- 7:32 Anyone who has been treated unfairly for her entire life will certainly lash out at the world.
+- 7:34 Our students are under eighteen.
+- 7:36 (a) She killed him. (b) If she performed the act that caused his death, then the first condition for murder is satisfied.
+- 7:38 I refuse to publish anything that does not make any sense.
+- 7:40 The Board of Education will not act unconstitutionally.
+- 7:42 If Samantha is not in town, then she is in the country.
+- 7:44 Whoever is in trouble with the director will be kicked out of the band.
+- 7:46 This is up to you.
 
 ### Check-Up 7C
 7:47 F  
@@ -612,9 +641,9 @@ AA, DV
 7:49 T  
 7:50 T
 
-7:47 Change *is* to *might be*.
-7:51 Yes, the assumption attribution seems justified. There seems to be no other more plausible gap filler than that the given definition of *selfish* is being assumed.
-7:52 This assumption attribution goes too far. The objector to punishment might only be assuming that the consent of human beings is ordinarily needed before they are deliberately injured. Whether this position is reasonable or not is another issue, but the assumption attributor assigned to the position a much too ambitious proposition.
+- 7:47 Change *is* to *might be*.
+- 7:51 Yes, the assumption attribution seems justified. There seems to be no other more plausible gap filler than that the given definition of *selfish* is being assumed.
+- 7:52 This assumption attribution goes too far. The objector to punishment might only be assuming that the consent of human beings is ordinarily needed before they are deliberately injured. Whether this position is reasonable or not is another issue, but the assumption attributor assigned to the position a much too ambitious proposition.
 
 *Note: Henceforth in this set, odd-numbered answers are omitted.*
 
@@ -625,8 +654,8 @@ This is a reasonable job of assumption attribution. It fills a gap in the argume
 These are up to you.
 
 #### 7:58
-a. A needed assumption, because the concern is about the truth of the conclusion "She is guilty."
-b. I would attribute these assumptions:
+- a. A needed assumption, because the concern is about the truth of the conclusion "She is guilty."
+- b. I would attribute these assumptions:
   1. If she could have run away to her parents' room, then she had a safe alternative to responding with violence.
   2. If she had a safe alternative to responding with violence, then she was not justified in using the force she used.
 
