@@ -265,13 +265,13 @@ c. Which questions were least useful in the situation? Why?
 
 14:19 Find a partner. Do the same thing as in 14:15–14:18 for an argument that you find in your daily life such as from a newspaper editorial page, a magazine article, a talk show, a debate, a discussion with a friend, or a meeting you attended. The most instructive argument here would be one about an issue on which you and your partner disagree. In your written report, present the total argument and describe the situation in full. Also answer questions *b* and *c* that appeared under 14:15–14:18.
 
-### Challenging a Position
+## Challenging a Position
 
 Challenging a position can result in its rejection, but rarely is a position destroyed simply by a challenge. Challenge often results in a clarification or a modification, especially if the challenge is presented gently, in a nonthreatening way. As you read these forms of challenge, imagine yourself trying to apply each to an extended discussion you have had in the past week that included an argument (not necessarily involving a hostile disagreement). Try to see whether the likely reply might have clarified the position, resulted in its modification, or been grounds for rejection. Again, the important thing is to practice asking these questions to yourself and to think about the import of possible responses. Stop now and think over the discussion and argument you select before you proceed.
 
 Possibly not all of the following suggested challenges are applicable. But at least try to see whether each applies in your discussion.
 
-#### Producing an Apparent Counterexample
+### Producing an Apparent Counterexample
 
 A *counterexample* is a case that seems inconsistent with the generalization offered or assumed. (Examples of counterexamples to definitions appear early in Chapter 12. A counterexample to the spontaneous generation hypothesis appears at the beginning of Chapter 8.) Even though you might think that a counterexample you offer will refute a position, often the result is clarification or modification.
 
@@ -281,7 +281,7 @@ A *counterexample* is a case that seems inconsistent with the generalization off
 4. If what you said is true, then we would expect this also to be true: . . ., but it is not true.
 5. That could not be right because there is this case: . . . [describe it].
 
-#### Suggesting a Possible Inconsistency
+### Suggesting a Possible Inconsistency
 
 The trouble with inconsistency is that no more than one of two inconsistent things can be right. The person who makes two statements that are inconsistent with each other must withdraw at least one, on pain of having said nothing.
 
@@ -292,7 +292,7 @@ Here are some questions that can be used to challenge a possible inconsistency:
 2. These two things you said appear incompatible. Are they?
 3. You have contradicted yourself. You said this, and you said that. They can not both be true.
 
-#### Dubious Reasons or Evidence
+### Dubious Reasons or Evidence
 
 If the explicitly stated reasons or evidence (the *R* in *FRISCO*) are dubious or false and if the argument depends on them, then the argument is suspect. But remember, that does not show the conclusion to be false.
 
@@ -301,17 +301,14 @@ Because you now probably have the idea about the range from less-threatening to 
 
 > Sample Challenge: "You stated that . . . [give the stated reason]. I wonder about that because the college newspaper reported otherwise."
 
-#### Weak Source
+### Weak Source
 
 Often the credibility of a source is suspect. A challenge to the credibility of this source is then appropriate, and should probably refer to one or more of the criteria for credibility listed in Chapter 3.
-
 
 > Sample Challenge: "That source has a conflict of interest, because. . . ."
 > Another: "Why should we take that person's word?"
 
-
-
-#### False or Dubious Assumption
+### False or Dubious Assumption
 
 A position is no stronger than its assumptions. A standard challenge technique is to claim that the position assumes a proposition and that the proposition is false or dubious.
 
@@ -322,35 +319,32 @@ This technique is more speculative than the dubious-explicit-reason technique be
 
 An example of the identification of an unneeded assumption was a juror's claiming that the defense attorney made the following assumption: "A person who kills in defense against a threatened attack should be judged innocent of murder as well as voluntary manslaughter." (The defense had argued, you probably remember, "My client is innocent because she was defending herself against attack.") The juror then proceeded to reveal that he interpreted the word *attack* very broadly (including verbal attacks) and argued that the assumption was false because we did not think that defending yourself against the threat of insults generally justifies killing someone. But this was not relevant because the defense attorney did not need such a broad assumption and is unfairly burdened with such a sweeping assumption. Real physical attack was enough for his assumption to be about. So it is important to make sure that the assumption is needed by the position or argument, if refuting it is to count heavily against the position or argument. But despite the danger of misattribution of assumptions, attempted identification of a false assumption is useful at least in probing a position, and often in challenging it.
 
-#### Circular Argument
+### Circular Argument
 
 Sometimes an argument does not make any progress because it starts by explicitly assuming what it tries ultimately to prove. Usually, because of verbosity, this is less obvious than in the following example: "Our industry remains volatile. Therefore it is subject to change."
 
 > Sample Challenge: "Your argument seems circular."
 > Another: You seem to begin your argument by assuming your conclusion, though in different words.
 
-#### Changing the Subject
+### Changing the Subject
 
 Often, in discussion, one person argues for something that is unrelated to the question at hand. Sometimes the shift is subtle, as occurred in the argument regarding selfishness (Item 14:14). Sometimes the shift is not subtle, as when the other person attacks you personally for your ignorance (or bad memory) about something that is not part of the issue. In the language of logical fallacies, such a personal attack is sometimes called *argumentum ad hominem*. I mention this label because having heard of the label might help you avoid being intimidated by someone's using it. I do not recommend that you use it. I prefer the equivalent label *personal attack argument*. I used that label in Chapter 3, when I noted that some personal attack arguments (*ad hominem* arguments) are relevant. In any case, it is often easy to be distracted by changes in the subject, whether they are subtle or not.
-
 
 > Sample Challenge: "Have you changed the subject? I thought that we were talking about. . . ."
 > Another: "What does that personal attack have to do with the issue we are discussing?"
 
 These challenges are much easier to see when you are not involved in a heated discussion and when you are not the butt of the personal attack, so you need to keep them in the back of your mind at all times.
 
-#### Insufficient Reason or Evidence
+### Insufficient Reason or Evidence
 
 There are a variety of ways that the reasons and evidence offered can be insufficient. I shall mention a few:
 
 *Other plausible explanations*. Sometimes a hypothesis does explain the evidence, but the evidence is not sufficient to rule out alternative hypotheses. See Chapters 8 and 9. To assert the hypothesis that one thing caused another, simply on the ground that the first preceded the second, has a special fallacy label: *post hoc reasoning*. Again I do not recommend that you use this label, but that you be familiar enough with it to avoid being intimidated when someone else uses it.
 
-
 > Sample Challenge: "Here's another plausible explanation of that evidence: . . ."
 > [Challenger offers the other plausible explanation.]
 
 *An undefended positional definition*. Sometimes an undefended proposed definition embodies a position, and has value consequences, if it is accepted. (For example, "I define freedom as the power to do the right thing.") Such a definition needs defense. See Chapter 13.
-
 
 > Sample Challenge: "Why should we accept that definition?"
 
@@ -364,7 +358,7 @@ There are a variety of ways that the reasons and evidence offered can be insuffi
 > Sample Challenge: "But there are exceptions to that rule (or generalization). Here's one: . . ." [Challenger describes an exception.]
 > Another: "There are other alternatives. It's not just either this or that. It might be both, or it might be this other possibility: . . ." [Challenger offers another alternative.]
 
-#### Emotional language without sufficient substance
+### Emotional language without sufficient substance
 
 People often appeal to slogans or use words (including *glittering generalities* and *name-calling*—some popular fallacy labels that are self-explanatory) that set off emotional reactions in many of us but do not offer substantial reasons.
 
@@ -372,23 +366,21 @@ People often appeal to slogans or use words (including *glittering generalities*
 > Sample Challenge: "These are high-sounding phrases (or bad names), but now tell us your reasons."
 > Another: "That's good rhetoric. Now let's get down to substance."
 
-#### Faulty analogy
+### Faulty analogy
 
 An *analogical argument* (discussed in Chapter 11) proceeds by showing that two things are alike in some respects, and concludes that they are therefore alike in some other respect. Some analogical arguments are strong; some are faulty. Their potential weakness lies in the respects in which the two things are different, and there are always differences. For example, one might argue that all the nations of the world could successfully join together because they are like the thirteen states that joined together to form the United States. A challenger could note that the cases are different because the United States had external enemies against which the states needed to protect themselves, whereas the world has no such external enemies. As you can see, the argument could go on and on, possibly acquiring validity as it approximates one of our standard forms: deduction, loose derivation, induction (generalization or best-explanation), or value judging.
 
-
 > Sample Challenge: "There's a significant relevant difference between these two cases: . . ." [Challenger describes the difference.]
 
-#### Neglect of a point of view
+### Neglect of a point of view
 
 Often, a conclusion depends on the point of view of the arguer. It sometimes helps to show that from another point of view, the evidence is insufficient.
 
 Our point of view, as jurors in judging Arlene guilty of voluntary manslaughter, was nonconfrontational. That is, we assumed that if a person is threatened and there is an easy way to escape, that person should take that way of escape. From the point of view that women should fight back and confront threatened violence with violence, our evidence was insufficient to show that she was not justified in using the force she used.
 
-
 > Sample Challenge: "But look at it from this point of view: . . ." [Challenger describes it.]
 
-#### General failure to follow
+### General failure to follow
 
 Sometimes, we feel bewildered by the claim that a conclusion follows from the reason(s) or evidence because we cannot see how anyone could have thought it did, or we just do not understand the alleged connection. In that case, a general challenge is appropriate.
 
@@ -399,7 +391,7 @@ Sometimes, we feel bewildered by the claim that a conclusion follows from the re
 
 That completes this suggested set of ways that the sufficiency of the evidence or reason(s) could be challenged. You might think of others, but these are enough for now. You might even want to put the next item, equivocation, in this group. But elegant categorization of ways of going wrong is not our concern here.
 
-#### Equivocation
+### Equivocation
 
 Sometimes an argument can look good, but not be so because it depends on the shifting of meaning of a key term during the course of the argument (see Chapter 13).
 
@@ -457,7 +449,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 14:24 Anything accurately labeled by one of the fallacy labels is a mistake.
 
-### Application of Challenge Questions
+## Application of Challenge Questions
 
 14:25 Find a partner. Each of you choose and adopt one of the arguments in Items 14:12–14:14 on which you have not yet practiced, or find another argument in this book. Imagine a context for the argument(s) chosen. Then one of you should try to formulate a challenge of each of the types listed above (in the immediately preceding section *Summary and Comment*). The challenge should apply to the argument that your partner has chosen. The partner should try to respond.
 
@@ -473,11 +465,11 @@ Next, reverse roles and select another argument. The previous challenger should 
 - d. State which of the challenges seemed most useful, and why.
 - e. State which of the challenges seemed least useful, and why.
 
-### Responding
+## Responding
 
 By now, you should have a fairly good idea of the straightforward questions of clarification and challenges that I have presented. You have, I hope, practiced asking them and have offered some responses to them. Next I shall present some overall strategies for responding to these straightforward questions and challenges, and then some strategies for responding when things seem to be going wrong.
 
-#### Responding to Straightforward Questions of Clarification and to Challenges
+### Responding to Straightforward Questions of Clarification and to Challenges
 
 Knowing what to expect is half the battle. However, that is not all there is to it. You still need to be alert and well-informed, and of course you should try to give an honest, helpful answer. But beyond this, the following strategies for dealing with straightforward questions of clarification and challenge can be helpful:
 
@@ -513,7 +505,7 @@ If the original arguer then pointed out that reading and critical thinking are d
 
 In sum, defending analogical arguments is sometimes tricky because so much is left unsaid in analogical arguments. But you are likely to be in a stronger position if your analogy is used to counter another argument than if yours is used directly to buttress your own position. Furthermore, your analogies will probably be quite helpful in clarifying your position or point of view.
 
-#### Responding When Things Seem to Be Going Wrong
+### Responding When Things Seem to Be Going Wrong
 Although not totally different from the response strategies just presented, these strategies express more suspicion of the motives or strategy of the challenger. They are appropriate when something seems awry.
 
 *The challenge or question presupposes a proposition that actually is at issue in the situation, or is false.* An example that illustrates the problem is, "Have you stopped beating your child?" This question presupposes that you have been beating your child — and that you have a child. Instead of answering the question "Yes" or "No," you should reject the question (assuming that you have not been beating your child or have no child).
@@ -556,7 +548,7 @@ On the other hand, if someone requests a definition of a term that is crucial to
 
 Strategy: One way to answer the question is to point out that many things could be different, so you cannot be sure, but that you might do such and such. Another way is to clarify the question by asking for more details about the situation. A third way that is sometimes used is flatly to refuse to answer the question, saying "That's a hypothetical question." This last strategy could work well with experienced people well-versed in the political process (such as newspaper reporters and judges), but some people will think that you are hiding something. So you must judge how to respond on the basis of your appraisal of the situation.
 
-### Presenting Your Own Position
+## Presenting Your Own Position
 
 I have postponed the discussion of presenting your own position because a main consideration in presenting your own position is the avoidance of the problems mentioned earlier. Now that you know them, I can give the general advice: Try to present your view in a way that minimizes the likelihood of legitimate challenges and questions. That is, try to be clear in your statement, giving definitions and examples where necessary, usually stating your thesis, your main point, at the beginning and at the end of your presentation. Define your terms, if necessary. Give your reasons, and avoid claiming more strength for your argument than it has. However, not all legitimate challenges and clarification questions can be avoided. Be resigned to that. It is often a good idea to admit difficulties in advance.
 
@@ -564,7 +556,7 @@ Chapters 1, 7–9 and 11–13 contain sections devoted to organizing and writing
 
 Usually an oral presentation must be simpler than a written presentation, and most audiences (and speakers) do not understand, relate, or communicate well when a paper is read. Communication and rapport are usually better when the speaker comments from notes or comments on something everyone can see or hear. On the other hand, reading a paper enables you to say more in a specific period of time and to say exactly what you mean, so reading of papers is common in academic settings.
 
-#### Large-Group Presentations
+### Large-Group Presentations
 
 A major difference among presentation situations is to be found in your role in the situation, which is related to how much time you have and to how many other people are around. If you are the principal presenter for a large audience, then you can make a major point and buttress it with assorted reasons, examples, perhaps graphics, and responses in advance to major challenges to your view. Try to satisfy the position-paper criteria listed in Chapter 1 (except possibly the one about headings).
 
@@ -572,7 +564,7 @@ At the other extreme, if you are one member of a large audience making a point, 
 
 A danger in both situations is to wander around and introduce irrelevant ideas or ideas that are not clearly relevant to the audience. Ask yourself about each thing you say: "Is this relevant to the main point?" and "Am I showing how this is relevant to the main point?" To avoid wandering around, try to make your one point very simple, especially when you are in a large audience. It is amazing how often an audience participant fails to make clear the point he or she is trying to convey. When you are the presenter, start by making an assortment of notes to yourself, but then organize them into a coherent whole so that each part leads to the next. In either case, make sure that you summarize at the end.
 
-#### Small-Group Presentations
+### Small-Group Presentations
 
 On the other hand, in a small group (especially a group of two—you and one other), there is much more back-and-forth discussion, so you often do not need to summarize your point unless it is complicated. You can usually tell right away whether your point has been understood. Try to present things so that challenges and questions are avoided in advance, but again, you cannot avoid them all. There will always be legitimate challenges and questions that can be offered. Respond to them in the ways I have suggested under "Responding."
 
@@ -610,7 +602,7 @@ If false, change it to make it true. Try to do so in a way that shows that you u
 
 14:38 When making a presentation, it is generally a good idea to summarize.
 
-### Discussion Practice
+## Discussion Practice
 
 14:39 Find a partner. Select one of the arguments in Items 14:12-14:14, or somewhere else in this book, that you have not yet used for practice. One of you adopt the argument first. The other should then offer challenges one by one that invite each of the sixteen types of responses discussed in this section. Give the appropriate response. Exchange roles after the first eight. Do them one at a time, and discuss each before going on to the next. Write out answers to the following questions:
 
