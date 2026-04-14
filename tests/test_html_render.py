@@ -20,7 +20,9 @@ def test_chapter_02_html_render():
     assert '</style>' in html
     
     assert "<link rel=" not in html
-    assert "<script" not in html
+    script_count = html.count("<script>")
+    assert script_count == 1
+    assert '<script src=' not in html
     
     assert "@media (max-width: 768px)" in html
     assert "flex-direction: column" in html
@@ -29,9 +31,9 @@ def test_chapter_02_html_render():
     assert '<div class="col col-en">' in html
     assert '<div class="col col-zh">' in html
     
-    assert "<h1>CHAPTER 2 Argument Analysis: Identifying Conclusions and Reasons</h1>" in html
-    assert "<h2>The Murder Trial</h2>" in html
-    assert "<h3>Criteria (or Cues) for Identifying Conclusions</h3>" in html
+    assert "<h1" in html and "CHAPTER 2 Argument Analysis: Identifying Conclusions and Reasons</h1>" in html
+    assert "<h2" in html and "The Murder Trial</h2>" in html
+    assert "<h3" in html and "Criteria (or Cues) for Identifying Conclusions</h3>" in html
     
     assert "<em>F</em>" in html
     assert "<em>FRISCO</em>" in html

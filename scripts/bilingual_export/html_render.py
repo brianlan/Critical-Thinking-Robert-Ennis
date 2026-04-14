@@ -180,7 +180,7 @@ def render_table(content: str) -> str:
     html_lines.append("</table>")
     return "\n".join(html_lines)
 
-def render_block(block: Block | None, repo_root: Path, file_name: str, side: str, row_status: str) -> str:
+def render_block(block: Block | None, repo_root: Path, file_name: str, side: str, row_status: str, heading_id: str | None = None) -> str:
     if block is None:
         is_divergent = row_status in ("unmatched-en", "unmatched-zh")
         if is_divergent:
@@ -208,7 +208,8 @@ def render_block(block: Block | None, repo_root: Path, file_name: str, side: str
         if m:
             level = len(m.group(1))
             text = m.group(2)
-            return f"<h{level}>{render_markdown_inline(text)}</h{level}>"
+            id_attr = f' id="{heading_id}"' if heading_id else ''
+            return f"<h{level}{id_attr}>{render_markdown_inline(text)}</h{level}>"
         return f"<h3>{render_markdown_inline(content)}</h3>"
         
     elif block.block_type == "paragraph" or block.block_type == "image":
@@ -240,10 +241,27 @@ def render_html(document: AlignedDocument, repo_root: Path) -> str:
         "pre { white-space: pre-wrap; word-wrap: break-word; background: #f4f4f4; padding: 1rem; overflow-x: auto; }",
         ".missing-marker { color: #d32f2f; font-weight: bold; border: 1px dashed #d32f2f; padding: 1rem; text-align: center; background: #ffebee; margin-top: 1rem; }",
         ".divergent-tail { border-left: 4px solid orange; padding-left: 1rem; }",
+        "blockquote { margin: 0.8rem 0; padding: 0.6rem 1.2rem; border-left: 4px solid #a0a0a0; background: #f5f5f5; color: #555; }",
+        "blockquote p { margin: 0; }",
+        "/* Sidebar TOC */",
+        "#toc-sidebar { position: fixed; top: 0; left: 0; height: 100vh; z-index: 1000; display: flex; align-items: stretch; transform: translateX(-292px); transition: transform 0.25s ease; }",
+        "#toc-sidebar.open { transform: translateX(0); }",
+        "#toc-content { width: 280px; max-width: 280px; background: #fafafa; border-right: 1px solid #ddd; padding: 1.5rem 1rem; overflow-y: auto; font-size: 0.85rem; box-shadow: 2px 0 8px rgba(0,0,0,0.05); }",
+        "#toc-content h3 { margin: 0 0 0.8rem 0; font-size: 1rem; color: #333; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem; }",
+        "#toc-list { list-style: none; padding: 0; margin: 0; }",
+        "#toc-list li { margin-bottom: 0.3rem; }",
+        "#toc-list a { color: #555; text-decoration: none; display: block; padding: 0.2rem 0.4rem; border-radius: 3px; }",
+        "#toc-list a:hover { background: #e8e8e8; color: #222; }",
+        "#toc-tab { writing-mode: vertical-rl; text-orientation: mixed; background: #555; color: #fff; padding: 1rem 0.13rem; cursor: pointer; font-size: 0.9rem; letter-spacing: 2px; border-radius: 0 4px 4px 0; user-select: none; align-self: flex-end; margin-bottom: 2rem; opacity: 0.2; transition: opacity 0.2s ease; }",
+        "#toc-tab:hover { background: #333; opacity: 0.7; }",
         "</style>",
         "</head>",
         "<body>"
     ]
+    
+    # Initialize heading counter and TOC entries collection
+    heading_counter = 0
+    toc_entries = []  # list of (level, text, id)
     
     for section in document.sections:
         for row in section.rows:
@@ -254,9 +272,25 @@ def render_html(document: AlignedDocument, repo_root: Path) -> str:
                 
             html.append(f'<div class="{" ".join(classes)}" data-status="{row.status}" data-row-index="{row.row_index}">')
             
+            # Detect heading for TOC
+            heading_id = None
+            if row.english_block and row.english_block.block_type == "heading":
+                heading_id = f"heading-{heading_counter}"
+                # Extract heading text for TOC
+                heading_content = row.english_block.content
+                m = re.match(r"^(#{1,6})\s+(.*)$", heading_content)
+                if m:
+                    heading_text = m.group(2)
+                    heading_level = len(m.group(1))
+                else:
+                    heading_text = heading_content
+                    heading_level = 3
+                toc_entries.append((heading_level, heading_text, heading_id))
+                heading_counter += 1
+            
             # Left column (EN)
             html.append('  <div class="col col-en">')
-            en_html = render_block(row.english_block, repo_root, document.english_file, "en", row.status)
+            en_html = render_block(row.english_block, repo_root, document.english_file, "en", row.status, heading_id=heading_id)
             if en_html:
                 html.append("    " + en_html)
             html.append('  </div>')
@@ -269,6 +303,45 @@ def render_html(document: AlignedDocument, repo_root: Path) -> str:
             html.append('  </div>')
             
             html.append("</div>")
+
+    # Build TOC sidebar HTML
+    toc_items = []
+    for level, text, hid in toc_entries:
+        indent = (level - 1) * 1.0  # rem per level
+        clean_text = render_markdown_inline(text)
+        toc_items.append(f'<li style="margin-left:{indent}rem"><a href="#{hid}">{clean_text}</a></li>')
+
+    html.append(f'''<div id="toc-sidebar">
+  <div id="toc-content">
+    <h3>Table of Contents</h3>
+    <ul id="toc-list">
+      {"".join(toc_items)}
+    </ul>
+  </div>
+  <div id="toc-tab" onclick="toggleToc()">≫</div>
+</div>''')
+
+    # Add sidebar JS
+    html.append('''<script>
+function toggleToc() {
+  var sidebar = document.getElementById('toc-sidebar');
+  sidebar.classList.toggle('open');
+  var tab = document.getElementById('toc-tab');
+  tab.textContent = sidebar.classList.contains('open') ? '≪' : '≫';
+}
+document.addEventListener('DOMContentLoaded', function() {
+  var links = document.querySelectorAll('#toc-list a');
+  links.forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      var target = document.getElementById(this.getAttribute('href').substring(1));
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  });
+});
+</script>''')
 
     html.append("</body>")
     html.append("</html>")

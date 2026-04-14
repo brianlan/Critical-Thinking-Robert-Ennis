@@ -246,7 +246,7 @@ def validate_chapter(repo_root: Path, entry: dict[str, Any], source_pair: Chapte
     checks["row_status_counts"] = actual.row_status_counts == expected.row_status_counts
     checks["missing_markers"] = actual.missing_markers == expected.missing_markers
     checks["no_link_tags"] = actual.link_tag_count == 0
-    checks["no_script_tags"] = actual.script_tag_count == 0
+    checks["no_script_tags"] = actual.script_tag_count == 1
     checks["no_external_assets"] = not actual.asset_dependencies and not actual.style_dependencies
 
     if not checks["manifest_report_agree"]:
