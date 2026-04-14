@@ -960,7 +960,7 @@ j. Weaken, because selective oil starvation might explain the worn guides.
 ### Check-Up 9B
 
 | | | | | |
-|:--|:--|:--|:--|:--|
+|---|---|---|---|---|
 | 9:35 T | 9:36 T | 9:37 T | 9:38 F | 9:39 F |
 
 **9:38** Replace *is* with *might be*.
@@ -1002,7 +1002,7 @@ b. No, there are other ways to get the mud, to perspire, to be upset, and get a 
 ### Check-Up 9C
 
 | | | | | | |
-|:--|:--|:--|:--|:--|:--|
+|---|---|---|---|---|---|
 | 9:47 G | 9:48 S | 9:49 S | 9:50 S | 9:51 G | 9:52 G |
 | 9:53 N | 9:54 S | 9:55 T | 9:56 T | 9:57 T | 9:58 F |
 | 9:59 T | 9:60 T | 9:61 T | 9:62 F | 9:63 T | 9:64 F |
