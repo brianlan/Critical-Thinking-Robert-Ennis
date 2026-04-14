@@ -9,5 +9,4 @@ per-page-images/
 .venv/
 __pycache__/
 .playwright-mcp
-FullText-en-zh-sense/manifest.json
-FullText-en-zh-sense/report.md
+FullText-en-zh-sense
