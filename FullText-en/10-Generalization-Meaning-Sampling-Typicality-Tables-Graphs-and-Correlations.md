@@ -37,7 +37,6 @@ For the rest of the chapter, I shall focus on *inferred generalizations*. They g
 
 [^2]: See Robert H. Ennis, "Enumerative Induction and Best Explanation," *The Journal of Philosophy*, 65 (18), 1968, pp. 523-530.
 
-
 Some inferred generalizations are about a population, each member of which could be identified and studied if we had time and resources, such as a generalization about all practicing physicians in Urbana, Illinois, based on a sample of those physicians. Other inferred generalizations are about limitless populations, not all of whose members could be identified and studied, such as all mental patients, some of whom are dead, some of whom are not yet patients of any kind, and some not yet even born. We cannot secure the much-desired random sample of them. (There is more about random samples in the next section.) Generalizations that apply to limitless populations are theoretically the most difficult to evaluate because the nature of the population in the studied cases might be significantly different from the population in the cases we cannot study, rendering the generalization inapplicable. All of Kimble's generalizations apply to limitless populations.
 
 ### Degree of Universality
@@ -99,8 +98,6 @@ This problem of breadth of coverage is a general problem in the meaning of gener
 [^3]: Barbel Inhelder and Jean Piaget, *The Growth of Logical Reasoning from Childhood to Adolescence* (New York: Basic Books, 1958), p. 1.
 [^4]: See my "Children's Ability to Handle Piaget's Propositional Logic: A Conceptual Critique," in Sohan and Celia Modgil (Eds.), *Jean Piaget: Consensus and Controversy* (London: Holt, Rinehart and Winston, 1982), pp 101–130.
 
-
-
 Another question of meaning in this case, postponed earlier, is the meaning of the phrase *recommend Zenith Aspirin*. What sort of evidence does it take to establish that a doctor recommends Zenith? Does it mean that the doctor recommends only Zenith Aspirin, or that the doctor recommends Zenith as well as other kinds of aspirin and some other pain relievers as well? Because it is in the interest of advertisers (and others) to get us to buy the products advertised (and to do other things), we must be due cautious about the meaning of the words used by them.
 
 ### Summary
@@ -116,29 +113,43 @@ Probabilities for honest items (such as dies and cards) do not change with histo
 ## Check-Up 10A
 
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
 10:1 Universal generalizations hold that every member of the class or group being considered has the characteristic in question.
+
 10:2 A characteristic of proportional generalizations is that they go beyond the data on which they are based.
 
 10:3 Although generalizations are usually relatively simple in structure, their meaning must frequently be carefully considered.
+
 10:4 The generalization in 10:3 ("Generalizations are usually relatively simple in structure") is a less-than-universal generalization and is informative as it stands.
+
 10:5 The following is a probability generalization: "The chances of getting heads in the toss of a coin are one half."
+
 10:6 According to the generalization in 10:5, one half of the tosses of the coin, in the long run, will turn out heads.
+
 10:7 If the generalization in 10:5 is true and the last three tosses turned up tails, then the chances are better than even that the next one will turn up heads.
+
 10:8 If the generalization in 10:5 is true and if the last three tosses turned up tails, then the chances are better than even that the next will turn up tails.
+
 10:9 It is legitimate to extend a generalization to a population larger than the population from which a random sample was drawn, as long as we are assured that the sample was indeed random.
 
 ### Longer Answer
 
 10:10 Consider the generalization "Societies always develop class systems, even when organized with the goal of being classless." Assume that a class system is a system within a given society consisting of a prestige and power hierarchy (resulting in some identifiable classes' being of higher status and power) and in which somehow there is considerable passage of the class status of parents to their offspring.
+
 a. Cite examples and, if you can, counterexamples to this generalization.
+
 b. Revise the generalization if you feel that it needs revision in order to be true.
+
 c. Write a short defense of the generalization, as revised (if you revised it). Heed FRISCO.
 
 10:11 Find a generalization in a newspaper, magazine, research report, etc. Copy it and give the source.  
+
 a. Tell what type of generalization it is (limited-to-the-data or inferential, universal or less-than-universal).  
+
 b. Comment on its meaning. Is it misleading? State its meaning in other words than those in which it is written.  
+
 c. Tell whether you think that the evidence supports the generalization. Explain why you think as you do. (Do not expect to do a perfect job here. Just do the best you can. But do not neglect such considerations as credibility of sources, and actual reports of the data on which the generalization is based.)
 
 ## Sampling and Typicality
@@ -155,9 +166,7 @@ Ways that survey makers can reduce the problem include providing a stamped self-
 
 How can a sample be selected that is representative of the population from which it is selected? Securing a random sample of sufficient size is the standard ideal answer. To say that a sample is *random* is to say that each member of the population had an equal chance of being selected. Securing a random sample requires that we have access to the entire population, so that each member has an equal chance of being included.
 
-Suppose that we want to determine whether student opinion supports the thesis of a president of a university stated in a speech published in the student newspaper. The thesis is, "Tuition and fees at this university are reasonable." Assume that there are 10,000 students. Suppose that it is too much trouble or too expensive to
-
-query all 10,000 students in a way that will produce sincere answers, so we decide to select a random sample of about 1,000 students, ordinarily a sufficient number for a random sample. In order to give each an equal chance of being selected, we need to have a list of the entire student body. We could put all the names in a large drum, mix them well, and draw out 1,000 names, making sure that there were no mechanical problems, such as two names sticking together, or a name being caught in a crevice. To avoid such problems, we could write the names on 10,000 ping pong balls and mix them in a large sphere. It is not easy mechanically to give every name an equal chance of being selected, even if we have a complete list, but having the list is a necessary condition.
+Suppose that we want to determine whether student opinion supports the thesis of a president of a university stated in a speech published in the student newspaper. The thesis is, "Tuition and fees at this university are reasonable." Assume that there are 10,000 students. Suppose that it is too much trouble or too expensive to query all 10,000 students in a way that will produce sincere answers, so we decide to select a random sample of about 1,000 students, ordinarily a sufficient number for a random sample. In order to give each an equal chance of being selected, we need to have a list of the entire student body. We could put all the names in a large drum, mix them well, and draw out 1,000 names, making sure that there were no mechanical problems, such as two names sticking together, or a name being caught in a crevice. To avoid such problems, we could write the names on 10,000 ping pong balls and mix them in a large sphere. It is not easy mechanically to give every name an equal chance of being selected, even if we have a complete list, but having the list is a necessary condition.
 
 A simpler way than using names written on ping pong balls or slips of paper would be to use a table of random numbers from a book of statisticians' tables. Such tables consist of long lists of randomly selected digits, from 0 to 9. Here is a part of a table I have on my bookshelf: "23157548590183725993762497088695." It goes on, and on, and on. We could go through the list of students and assign each student in order a digit from the table. For example, starting from the beginning of the series just presented, the first student gets a 2, the second a 3, the third a 1, the fourth a 5, etc. Then we could arbitrarily choose one digit by closing our eyes and touching down in the middle of a table with a pointer. Suppose the pointer points to a 5. Then we could include in our sample every student who had been assigned that particular digit. That is, we pick all students who had been assigned 5. That procedure would give us about 1,000 students selected at random from the 10,000.
 
@@ -247,24 +256,31 @@ In any case, inferences that go beyond a population sampled or studied depend on
 ## Check-Up 10B
 
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
 10:12 A sample in which the person selecting the sample did not deliberately bias the selection is a random sample.
+
 10:13 A pure random sample is necessarily representative.
+
 10:14 A pure random sample with a size of 2,000 drawn from a population of 100 million would for most purposes provide an estimate in which we could have sufficient confidence.
+
 10:15 A sample produced by drawing a random sample of groups and then drawing a random sample of individuals within the selected groups is called a systematic sample.
+
 10:16 A case-study approach is thought by its supporters to be superior to a random-sampling approach in part because it does not force an over-simplification on complex and deep social phenomena.
+
 10:17 One difficulty with a pure random sample of a size greater than 1,000 is that it is likely to be unrepresentative of the population.
+
 10:18 There is no basis for inferring to a larger population than the population from which a random sample has been drawn, even though the larger population includes the population that has been sampled.
+
 10:19 A stratified random sample can justify a smaller sample, if the variables of stratification are related to the variable being studied.
 
 ### Medium Answer
 
-10:20 A tennis ball machine produces 2,000 tennis balls per hour. In order to check on the quality of the production, the inspectors systematically select 500 tennis balls (every fourth one) from the first hour of an eight-hour production run and the same number from the last hour of
-
-the production run, securing 1,000 tennis balls altogether. Each of the 1,000 balls is given the bounce and squeeze tests, and is visually inspected for apparent defects. The thinking is that if the production is all right at the beginning and end of a run, it is no doubt all right in the middle.
+10:20 A tennis ball machine produces 2,000 tennis balls per hour. In order to check on the quality of the production, the inspectors systematically select 500 tennis balls (every fourth one) from the first hour of an eight-hour production run and the same number from the last hour of the production run, securing 1,000 tennis balls altogether. Each of the 1,000 balls is given the bounce and squeeze tests, and is visually inspected for apparent defects. The thinking is that if the production is all right at the beginning and end of a run, it is no doubt all right in the middle.
 
 a. What do you think of these inspection procedures, and why?
+
 b. What would you do, and why?
 
 10:21 The school board of a large city containing 100 elementary schools wants to secure an estimate of the number of third-grade students who understand and are able to use contraposition and avoid conversion in everyday situations. An interview-type test has been devised that takes about thirty minutes of a student's time, but the number of students is too large for the test to be given to every student. Assume that there are four classes of about 25 third-graders in each of the 100 schools, making 10,000 third-graders altogether. Tell how you would draw a sample of about 1,000 third-graders for testing, and explain why you make the choices you do. Because you do not know all the details about this school system, you will need to make some assumptions about the situation.
@@ -350,7 +366,9 @@ To secure the information in Table 10.3, a copilot recorded information from a s
 |5,000|56|115|850|7.5|
 
 [^5]: The top row gives the data just before takeoff. The airport is 756 feet above sea level.
+
 [^6]: The pilot was attempting to maintain a constant indicated airspeed.
+
 [^7]: This information can be directly read from an instrument called a DME (Distance Measuring Equipment).
 
 #### Graph 10:2. Altitude vs. Temperature on a Selected Flight
@@ -400,35 +418,55 @@ Correlation coefficients (which range from +1 to -1) are often used to show the 
 ## Check-Up 10C
 
 **True or False?**
+
 If false, change it to make it true. Try to do so in a way that shows that you understand.
 
 10:24 A negative relationship, using standard ways of labeling axes, slopes up to the left.
+
 10:25 If the points on a scatterplot all appear on the same line and the line slopes one way or the other, there is an apparent relationship between the variables for the data used.
+
 10:26 The entire possible range of a variable should appear on its axis.
+
 10:27 A correlation of +1 indicates a strong negative relationship.
+
 10:28 A correlation of +.8 indicates a stronger relationship than a correlation of +.4.
+
 10:29 A correlation of +.4 indicates a stronger relationship than a correlation of -.8.
 
 ### Medium Answer
 
 10:30 Make a scatterplot for altitude and distance from the airport for the data in Table 10.3. Draw a line of best fit.
+
 10:31 Make a scatterplot and line of best fit for altitude and vertical speed when the airplane is flying.
+
 a. Why did you select the range you did for the variable altitude?
+
 b. Is the indicated relationship positive, negative, or neither?
+
 c. Do you think that the relationship is causal? Explain. If you cannot answer this or explain why (because you are not familiar with the facts), then just read the suggested answer.
+
 10:32 Make a scatterplot and line of best fit for highway fatalities and registered vehicles from the data in Table 10.2.
+
 a. Is there an apparent relationship between these two variables? If so, is it positive or negative?
+
 b. Do you think that there is a real causal relationship between these two variables? Defend your answer.
+
 10:33 Make a scatterplot and line of best fit for temperature and distance from the airport, based on the data in Table 10.3.
+
 a. Is there an apparent relationship between these two variables? If so, is it positive or negative?
+
 b. Do you think that there is a real causal relationship between these two variables? Defend your answer.
+
 c. Can the data be generalized to a general relationship between distance from the airport and temperature (for example, "The farther one gets from this airport, the colder it is")? Why?
 
 ### Longer Answer
 
 10:34 Do a study in which you gather data that can be put in a table and a graph. Make the table and a scatterplot and line-of-best fit graph. Give the titles to the table and graph, and label the rows, columns, and axes.
+
 a. On your scatterplot, did you start both variables at zero? If so, why? If not, why not?
+
 b. Is there a positive or negative relationship, or neither?
+
 c. Is there a causal relationship between the variables? If so, in which way? Explain.
 
 ## Suggested Answers for Chapter 10
@@ -446,8 +484,11 @@ c. Is there a causal relationship between the variables? If so, in which way? Ex
 10:9 F
 
 10:2 Add *sometimes*.
+
 10:7 Change *better than even that the next will turn up heads* to *still one half that the next will turn up heads*.
+
 10:8 Change *better than even that the next will turn up tails* to *still one half that the next will turn up tails*.
+
 10:9 It is legitimate to extend a generalization to a population larger than the population from which a random sample was drawn as long as the population from which the sample was drawn was typical of the larger one.
 
 10:10 and 10:11 These are up to you.
@@ -464,15 +505,22 @@ c. Is there a causal relationship between the variables? If so, in which way? Ex
 10:19 T
 
 10:12 A random sample is one in which every element in the population sampled had an equal chance of being selected.
+
 10:13 A pure random sample of sufficient size is probably representative.
+
 10:15 Change *systematic sample* to *cluster sample*. (Instead of this, you could give a definition of systematic sampling.)
+
 10:17 A pure random sample of a size greater than 1,000 is likely to be representative of the population.
+
 10:18 There is a basis for inferring to a larger population than the population from which the random sample was drawn, when the smaller population is typical of the larger one.
-10:20
+
+10:20 
 a. By neglecting the middle six hours, they risk missing problems that develop in those six hours but that are not causing trouble at the beginning and end.
+
 b. It would probably be better to select every sixteenth ball (a systematic sample for the whole day). But perhaps the machine is systematically making every sixteenth ball badly and everyone is missed. It would probably be better to select at random six five-minute periods in each hour and to select at random one-eighth of the balls produced in each selected five-minute period. Again, 1,000 balls would be selected. I do not know enough about tennis ball production to be more specific.
 
 10:21 Deliberately omitted.
+
 10:22–10:23 These are up to you.
 
 ### Check-Up 10C
@@ -485,6 +533,7 @@ b. It would probably be better to select every sixteenth ball (a systematic samp
 10:29 F
 
 10:26 The entire possible range of variables is often not included on a graph so that a certain range can be examined more thoroughly.
+
 10:27 Change *negative* to *positive*.
 
 10:29 Change *stronger* to *weaker*.
@@ -496,7 +545,9 @@ b. It would probably be better to select every sixteenth ball (a systematic samp
 10:31 Altitude vs Vertical Speed:
 
 ![Graph 10:31](images/chapter-10/page_312/page_312_diagram_2_loc_202_830_1120_1400.png)
-a. This was the range in the table.  
-b. Negative. (We cannot give a value for the altitude of 756 because we do not know what the vertical speed is at takeoff. The 0 vertical speed reading was obtained before the airplane was flying, as can be seen by the concurrent airspeed reading.)  
-c. Yes, because the airplane's power and the density of the air on which the propeller can get a "bite" reduce with the altitude. (Giving a good answer to this question requires knowledge of the field. If you figured it out, good for you!)
 
+a. This was the range in the table.  
+
+b. Negative. (We cannot give a value for the altitude of 756 because we do not know what the vertical speed is at takeoff. The 0 vertical speed reading was obtained before the airplane was flying, as can be seen by the concurrent airspeed reading.)  
+
+c. Yes, because the airplane's power and the density of the air on which the propeller can get a "bite" reduce with the altitude. (Giving a good answer to this question requires knowledge of the field. If you figured it out, good for you!)
