@@ -229,8 +229,8 @@
 ## 摘要（Summary）
 ## 检查练习 9B（Check-Up 9B）
 ## &#43; 因果关系（Causation）
-### 单个因果陈述与因果概括的区别（A Distinction Between Singular Causal Statements and Causal Generalizations）
-### 因果概括（Causal Generalizations）
+### 单个因果陈述与因果一般化的区别（A Distinction Between Singular Causal Statements and Causal Generalizations）
+### 因果一般化（Causal Generalizations）
 ### 单个因果陈述（Singular Causal Statements）
 ### 摘要与评论（Summary and Comment）
 ## 检查练习 9C（Check-Up 9C）
@@ -240,11 +240,11 @@
 ## 检查练习 9D（Check-Up 9D）
 ## 第 9 章参考答案（Suggested Answers for Chapter 9）
 
-# 第 10 章 概括：意义、抽样、典型性、表格、图表及相关性（CHAPTER 10 Generalization: Meaning, Sampling, Typicality, Tables, Graphs, and Correlations）
-## 概括的类型（Types of Generalizations）
-### 限于数据的概括与推断性概括（Limited-to-the-Data and Inferred Generalizations）
+# 第 10 章 一般化：意义、抽样、典型性、表格、图表及相关性（CHAPTER 10 Generalization: Meaning, Sampling, Typicality, Tables, Graphs, and Correlations）
+## 一般化的类型（Types of Generalizations）
+### 限于数据的一般化与推断性一般化（Limited-to-the-Data and Inferred Generalizations）
 ### 普遍性程度（Degree of Universality）
-### 推断出概括（Inference to Generalizations）
+### 推断出一般化（Inference to Generalizations）
 ## 摘要（Summary）
 ## 检查练习 10A（Check-Up 10A）
 ## 抽样与典型性（Sampling and Typicality）

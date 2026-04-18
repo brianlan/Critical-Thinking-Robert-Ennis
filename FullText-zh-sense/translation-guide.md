@@ -98,8 +98,8 @@ When invoking a reviewer, require:
   - *Trans:* “后此谬误”（*post hoc* fallacy）。
 - **Prima facie**: Sense-based handling.
   - *Trans:* 一个表面证据确凿的案例（*prima facie* case）。
-- **Generalization**: Usually `概括`.
-  - *Note:* In Ch 10, be careful with `Glittering generality` (`光辉概括`) and `Overgeneralization` (`过度概括`).
+- **Generalization**: `一般化`.
+  - *Note:* `Glittering generality` (`光辉概括`) is a different word; keep as is. `Overgeneralization` (`过度一般化`).
 
 ### Answer Keys
 **Source:** `1:1 F &nbsp; 1:2 T`

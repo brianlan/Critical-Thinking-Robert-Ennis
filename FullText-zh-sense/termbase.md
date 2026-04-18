@@ -38,7 +38,7 @@
 | Fallacy labels | 谬误标签（Fallacy labels） | |
 | FRISCO | FRISCO | 包含 Focus, Reasons, Inference, Situation, Clarity, Overview. |
 | Gambler's fallacy | 赌徒谬误（Gambler's fallacy） | 谬误标签。 |
-| Generalization | 概括（Generalization） | |
+| Generalization | 一般化（Generalization） | |
 | Glittering generality | 光辉概括（Glittering generality） | 谬误标签；指未经证实的赞美之词。 |
 | Hearsay | 传闻（Hearsay） | |
 | Hypothesis | 假设（Hypothesis） | |
@@ -49,7 +49,7 @@
 | Namecalling | 谩骂（Namecalling） | 谬误标签。 |
 | Non sequitur | 推不出（Non sequitur） | 谬误标签；拉丁语，意为“结论不随理由而来”。 |
 | Observe | 观察（Observe） | 与推理（Infer）相对。 |
-| Overgeneralization | 过度概括（Overgeneralization） | 谬误标签。 |
+| Overgeneralization | 过度一般化（Overgeneralization） | 谬误标签。 |
 | Personal attack argument | 人身攻击论证（Personal attack argument） | 谬误标签；拉丁语称为 argumentum ad hominem。 |
 | Persuasive definition | 劝导性定义（Persuasive definition） | |
 | Positional definition | 立场定义（Positional definition） | 包含对某一问题立场的定义。 |
@@ -85,11 +85,11 @@
 | Pretest | 前测 | |
 | Posttest | 后测 | |
 | Representative sample | 代表性样本 | |
-| Universal generalization | 全称概括 | |
-| Less-than-universal generalization | 特称概括 | 亦可译为“非全称概括”。 |
-| Probability generalization | 概率概括 | |
-| Limited-to-the-data generalization | 限于数据的概括 | |
-| Inferred generalization | 推断性概括 | |
+| Universal generalization | 全称一般化 | |
+| Less-than-universal generalization | 特称一般化 | 亦可译为”非全称一般化”。 |
+| Probability generalization | 概率一般化 | |
+| Limited-to-the-data generalization | 限于数据的一般化 | |
+| Inferred generalization | 推断性一般化 | |
 | Value statement | 价值陈述 | |
 | Factual statement | 事实陈述 | |
 | Loose derivation | 宽泛推导 | |
