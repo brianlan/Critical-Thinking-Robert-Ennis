@@ -10,7 +10,7 @@
 ### 推理（Inference）
 ### 情境（Situation）
 ### 清晰（Clarity）
-### 概览（Overview）
+### 统观（Overview）
 ## 利用批判性思维撰写立场论文（Writing a Position Paper Using Critical Thinking）
 ### 组织（Organization）
 ### 修改（Revision）
@@ -332,11 +332,11 @@
 ## 检查练习 13C（Check-Up 13C）
 ## 第 13 章参考答案（Suggested Answers for Chapter 13）
 
-# 第 14 章 应用批判性思维：FRISCO、概览及对话与陈述中的批判性思维（CHAPTER 14 Applying Critical Thinking: FRISCO, Overview, and Critical Thinking in Conversation and Presentation）
+# 第 14 章 应用批判性思维：FRISCO、统观及对话与陈述中的批判性思维（CHAPTER 14 Applying Critical Thinking: FRISCO, Overview, and Critical Thinking in Conversation and Presentation）
 ## 广泛的批判性思维要素：FRISCO（Broad Critical Thinking Elements: FRISCO）
 ### 在就该相信什么或该做什么做出决定时应用 FRISCO（FRISCO in Making a Decision About What to Believe or Do）
 ### 构思、质量检查、重新表述（Inventing, Checking for Quality, Reformulating）
-### 概览（Overview）
+### 统观（Overview）
 ## 检查练习（Check-Ups）
 ## 检查练习 14A（Check-Up 14A）
 ## 与他人讨论问题时的批判性思考（Thinking Critically When Discussing Things with Others）
