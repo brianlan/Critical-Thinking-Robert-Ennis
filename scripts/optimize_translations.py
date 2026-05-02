@@ -36,7 +36,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def optimize_row(row: AlignedRow) -> AlignedRow:
-    prompt = f"英文原文：{row.english_block} 现有翻译：{row.chinese_block}"
+    prompt = f"英文原文：{row.english_block.source_text} 现有翻译：{row.chinese_block.source_text}"
     result = subprocess.run(
         ["opencode", "run", "--agent", "snippet-translation-coordinator", prompt],
         capture_output=True,
