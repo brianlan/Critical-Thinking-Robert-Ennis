@@ -10,7 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from loguru import logger
 
-from scripts.bilingual_export.align import build_aligned_document, AlignedRow, AlignedDocument, AlignedSection
+from scripts.bilingual_export.align import build_aligned_document, parse_markdown, AlignedRow, AlignedDocument, AlignedSection
 
 
 def parent_ensured_path(path: str | Path):
@@ -58,10 +58,11 @@ def optimize_row(row: AlignedRow) -> AlignedRow:
 
 
 def count_written_sections(output: Path) -> int:
-    """Count how many sections have been written by counting top-level headings."""
+    """Count how many sections have been written by parsing the output file."""
     if not output.exists():
         return 0
-    return sum(1 for line in open(output, encoding="utf-8") if line.startswith("# "))
+    parsed = parse_markdown(output)
+    return len(parsed.sections)
 
 
 def build_section_markdown(section: AlignedSection, lang="chinese") -> str:
