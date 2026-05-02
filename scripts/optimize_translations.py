@@ -1,5 +1,6 @@
 import argparse
 import dataclasses
+import itertools
 import re
 import subprocess
 import sys
@@ -11,6 +12,15 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from loguru import logger
 
 from scripts.bilingual_export.align import build_aligned_document, parse_markdown, AlignedRow, AlignedDocument, AlignedSection
+
+
+TRANSLATOR_MODEL_POOL = itertools.cycle([
+    "zhipuai-coding-plan/glm-5-turbo",
+    "minimax-cn-coding-plan/MiniMax-M2.7",
+    "tencent-coding-plan/kimi-k2.5",
+    "ark-coding-plan/doubao-seed-2.0-lite",
+    "deepseek/deepseek-v4-flash",
+])
 
 
 def parent_ensured_path(path: str | Path):
@@ -36,9 +46,10 @@ def parse_args() -> argparse.Namespace:
 
 
 def optimize_row(row: AlignedRow) -> AlignedRow:
+    model = next(TRANSLATOR_MODEL_POOL)
     prompt = f"英文原文：{row.english_block.source_text} 现有翻译：{row.chinese_block.source_text}"
     result = subprocess.run(
-        ["opencode", "run", "--agent", "snippet-translation-coordinator", prompt],
+        ["opencode", "run", "-m", model, "--agent", "snippet-translation-coordinator", prompt],
         capture_output=True,
         text=True,
     )

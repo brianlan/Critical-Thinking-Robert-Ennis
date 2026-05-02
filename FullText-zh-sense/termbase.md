@@ -36,7 +36,7 @@
 | Fact-opinion distinction | 事实与观点的区别（Fact-opinion distinction） | |
 | Fallacious thinking | 谬误思维（Fallacious thinking） | |
 | Fallacy labels | 谬误标签（Fallacy labels） | |
-| FRISCO | FRISCO | 包含 Focus, Reasons, Inference, Situation, Clarity, Overview. |
+| FRISCO | FRISCO | 包含 Focus, Reasons, Inference, Situation, Clarity, Overview（译为:统观）. |
 | Gambler's fallacy | 赌徒谬误（Gambler's fallacy） | 谬误标签。 |
 | Generalization | 一般化（Generalization） | |
 | Glittering generality | 光辉概括（Glittering generality） | 谬误标签；指未经证实的赞美之词。 |
