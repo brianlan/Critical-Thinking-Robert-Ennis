@@ -10,7 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from loguru import logger
 
-from scripts.bilingual_export.align import build_aligned_document, AlignedRow, AlignedDocument
+from scripts.bilingual_export.align import build_aligned_document, AlignedRow, AlignedDocument, AlignedSection
 
 
 def parent_ensured_path(path: str | Path):
@@ -30,6 +30,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("-o", "--output", type=parent_ensured_path, help="Optimized Chinese translation output path.")
     parser.add_argument("--num-workers", type=int, default=0)
     parser.add_argument("-v", "--verbose", action="store_true", help="Show detailed progress")
+    parser.add_argument("--startover", action="store_true", default=False)
 
     return parser.parse_args()
 
@@ -56,40 +57,44 @@ def optimize_row(row: AlignedRow) -> AlignedRow:
     return dataclasses.replace(row, chinese_block=optimized_block)
 
 
-def optimize_doc(doc: AlignedDocument, num_workers: int = 0) -> AlignedDocument:
-    rows = [row for section in doc.sections for row in section.rows]
-
-    if num_workers > 0:
-        optimized = dict(zip(rows, ThreadPoolExecutor(max_workers=num_workers).map(optimize_row, rows)))
-    else:
-        optimized = {row: optimize_row(row) for row in rows}
-
-    sections = tuple(
-        dataclasses.replace(section, rows=tuple(optimized[row] for row in section.rows)) for section in doc.sections
-    )
-    return dataclasses.replace(doc, sections=sections)
+def count_written_sections(output: Path) -> int:
+    """Count how many sections have been written by counting top-level headings."""
+    if not output.exists():
+        return 0
+    return sum(1 for line in open(output, encoding="utf-8") if line.startswith("# "))
 
 
-def build_markdown_content(doc: AlignedDocument, lang="chinese") -> str:
-    parts: list[str] = []
-    for section in doc.sections:
-        for row in section.rows:
-            block = row.chinese_block if lang == "chinese" else row.english_block
-            if block:
-                parts.append(block.content)
-    return "\n\n".join(parts) + "\n"
+def build_section_markdown(section: AlignedSection, lang="chinese") -> str:
+    parts = [row.chinese_block.content for row in section.rows if row.chinese_block] if lang == "chinese" \
+        else [row.english_block.content for row in section.rows if row.english_block]
+    return "\n\n".join(parts) + "\n\n" if parts else ""
 
 
-def write_file(content: str, save_path: Path) -> None:
-    save_path.parent.mkdir(parents=True, exist_ok=True)
-    save_path.write_text(content, encoding="utf-8")
+def optimize_doc(doc: AlignedDocument, output: Path, num_workers: int = 0, lang="chinese") -> None:
+    n_done = count_written_sections(output)
+    with open(output, "a", encoding="utf-8") as f:
+        for section in doc.sections:
+            if section.index < n_done:
+                continue
+            logger.info("Section {}/{}: {}", section.index + 1, len(doc.sections), section.anchor)
+
+            rows = list(section.rows)
+            if num_workers > 0:
+                optimized = dict(zip(rows, ThreadPoolExecutor(max_workers=num_workers).map(optimize_row, rows)))
+            else:
+                optimized = {row: optimize_row(row) for row in rows}
+
+            optimized_section = dataclasses.replace(section, rows=tuple(optimized[row] for row in section.rows))
+            f.write(build_section_markdown(optimized_section, lang))
+            f.flush()
 
 
 def main(args) -> None:
+    if args.startover and args.output.exists():
+        args.output.unlink()
+
     doc = build_aligned_document(args.repo_root, args.chapter_filename)
-    optimized_doc = optimize_doc(doc, num_workers=args.num_workers)
-    chinese_text = build_markdown_content(optimized_doc, lang="chinese")
-    write_file(chinese_text, args.output)
+    optimize_doc(doc, output=args.output, num_workers=args.num_workers)
 
 
 if __name__ == "__main__":
