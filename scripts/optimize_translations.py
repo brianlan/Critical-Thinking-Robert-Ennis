@@ -3,6 +3,7 @@ import dataclasses
 import re
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
@@ -27,6 +28,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("--chapter-filename", type=str, help="file name of the chapter to be optimized.")
     parser.add_argument("-o", "--output", type=parent_ensured_path, help="Optimized Chinese translation output path.")
+    parser.add_argument("--num-workers", type=int, default=0)
     parser.add_argument("-v", "--verbose", action="store_true", help="Show detailed progress")
 
     return parser.parse_args()
@@ -54,12 +56,18 @@ def optimize_row(row: AlignedRow) -> AlignedRow:
     return dataclasses.replace(row, chinese_block=optimized_block)
 
 
-def optimize_doc(doc: AlignedDocument) -> AlignedDocument:
-    optimized_sections = tuple(
-        dataclasses.replace(section, rows=tuple(optimize_row(row) for row in section.rows))
-        for section in doc.sections
+def optimize_doc(doc: AlignedDocument, num_workers: int = 0) -> AlignedDocument:
+    rows = [row for section in doc.sections for row in section.rows]
+
+    if num_workers > 0:
+        optimized = dict(zip(rows, ThreadPoolExecutor(max_workers=num_workers).map(optimize_row, rows)))
+    else:
+        optimized = {row: optimize_row(row) for row in rows}
+
+    sections = tuple(
+        dataclasses.replace(section, rows=tuple(optimized[row] for row in section.rows)) for section in doc.sections
     )
-    return dataclasses.replace(doc, sections=optimized_sections)
+    return dataclasses.replace(doc, sections=sections)
 
 
 def build_markdown_content(doc: AlignedDocument, lang="chinese") -> str:
@@ -79,7 +87,7 @@ def write_file(content: str, save_path: Path) -> None:
 
 def main(args) -> None:
     doc = build_aligned_document(args.repo_root, args.chapter_filename)
-    optimized_doc = optimize_doc(doc)
+    optimized_doc = optimize_doc(doc, num_workers=args.num_workers)
     chinese_text = build_markdown_content(optimized_doc, lang="chinese")
     write_file(chinese_text, args.output)
 
