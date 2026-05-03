@@ -232,31 +232,38 @@ def render_html(document: AlignedDocument, repo_root: Path) -> str:
         '<meta name="viewport" content="width=device-width, initial-scale=1.0">',
         f"<title>{safe_escape(document.english_file)}</title>",
         "<style>",
-        "body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.5; margin: 0; padding: 2rem; color: #333; }",
-        ".row { display: flex; gap: 2rem; margin-bottom: 1rem; border-bottom: 1px solid #eee; padding-bottom: 1rem; }",
+        ":root { --bg-primary: #ffffff; --bg-sidebar: #fafafa; --bg-pre: #f4f4f4; --bg-subtle: #f9f9f9; --bg-blockquote: #f5f5f5; --bg-toc-hover: #e8e8e8; --bg-tab: #555; --bg-tab-hover: #333; --text-primary: #333; --text-secondary: #555; --text-blockquote: #555; --text-link: #0066cc; --text-toc-title: #333; --text-toc-link: #555; --text-toc-hover: #222; --text-tab: #fff; --border-light: #eee; --border-medium: #ccc; --border-sidebar: #ddd; --border-blockquote: #a0a0a0; }",
+        '[data-theme="dark"] { --bg-primary: #1e1e1e; --bg-sidebar: #252526; --bg-pre: #2d2d2d; --bg-subtle: #2d2d2d; --bg-blockquote: #2a2a2a; --bg-toc-hover: #3a3a3a; --bg-tab: #444; --bg-tab-hover: #555; --text-primary: #d4d4d4; --text-secondary: #999; --text-blockquote: #999; --text-link: #6cb6ff; --text-toc-title: #e0e0e0; --text-toc-link: #aaa; --text-toc-hover: #e0e0e0; --text-tab: #fff; --border-light: #333; --border-medium: #444; --border-sidebar: #3a3a3a; --border-blockquote: #555; }',
+        "body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.5; margin: 0; padding: 2rem; background: var(--bg-primary); color: var(--text-primary); transition: background-color 0.3s ease, color 0.3s ease; }",
+        ".row { display: flex; gap: 2rem; margin-bottom: 1rem; border-bottom: 1px solid var(--border-light); padding-bottom: 1rem; }",
         ".col { flex: 1; min-width: 0; }",
         "@media (max-width: 768px) { .row { flex-direction: column; gap: 1rem; } }",
         "img { max-width: 100%; height: auto; display: block; margin: 1rem 0; }",
         "table { border-collapse: collapse; width: 100%; margin-bottom: 1rem; }",
-        "th, td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }",
-        "th { background: #f9f9f9; }",
-        "pre { white-space: pre-wrap; word-wrap: break-word; background: #f4f4f4; padding: 1rem; overflow-x: auto; }",
+        "th, td { border: 1px solid var(--border-medium); padding: 0.5rem; text-align: left; }",
+        "th { background: var(--bg-subtle); }",
+        "a { color: var(--text-link); }",
+        "pre { white-space: pre-wrap; word-wrap: break-word; background: var(--bg-pre); padding: 1rem; overflow-x: auto; }",
         ".missing-marker { color: #d32f2f; font-weight: bold; border: 1px dashed #d32f2f; padding: 1rem; text-align: center; background: #ffebee; margin-top: 1rem; }",
+        '[data-theme="dark"] .missing-marker { background: #3a1f1f; }',
         ".divergent-tail { border-left: 4px solid orange; padding-left: 1rem; }",
-        "blockquote { margin: 0.8rem 0; padding: 0.6rem 1.2rem; border-left: 4px solid #a0a0a0; background: #f5f5f5; color: #555; }",
+        "blockquote { margin: 0.8rem 0; padding: 0.6rem 1.2rem; border-left: 4px solid var(--border-blockquote); background: var(--bg-blockquote); color: var(--text-blockquote); }",
         "blockquote p { margin: 0; }",
         "/* Sidebar TOC */",
         "#toc-sidebar { position: fixed; top: 0; left: 0; height: 100vh; z-index: 1000; display: flex; align-items: stretch; transform: translateX(-292px); transition: transform 0.25s ease; }",
         "#toc-sidebar.open { transform: translateX(0); }",
-        "#toc-content { width: 280px; max-width: 280px; background: #fafafa; border-right: 1px solid #ddd; padding: 1.5rem 1rem; overflow-y: auto; font-size: 0.85rem; box-shadow: 2px 0 8px rgba(0,0,0,0.05); }",
-        "#toc-content .toc-title { margin: 0 0 0.8rem 0; font-size: 1rem; color: #333; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem; font-weight: bold; }",
+        "#toc-content { width: 280px; max-width: 280px; background: var(--bg-sidebar); border-right: 1px solid var(--border-sidebar); padding: 1.5rem 1rem; overflow-y: auto; font-size: 0.85rem; box-shadow: 2px 0 8px rgba(0,0,0,0.05); transition: background-color 0.3s ease, border-color 0.3s ease; }",
+        "#theme-toggle { display: inline-flex; align-items: center; justify-content: center; width: 2rem; height: 2rem; border-radius: 50%; border: 1px solid var(--border-medium); background: var(--bg-subtle); cursor: pointer; font-size: 1.1rem; line-height: 1; margin-bottom: 0.8rem; transition: background-color 0.2s ease; user-select: none; }",
+        "#theme-toggle:hover { background: var(--bg-toc-hover); }",
+        "#toc-content .toc-title { margin: 0 0 0.8rem 0; font-size: 1rem; color: var(--text-toc-title); border-bottom: 1px solid var(--border-sidebar); padding-bottom: 0.5rem; font-weight: bold; }",
         "#toc-list { list-style: none; padding: 0; margin: 0; }",
         "#toc-list li { margin-bottom: 0.3rem; }",
-        "#toc-list a { color: #555; text-decoration: none; display: block; padding: 0.2rem 0.4rem; border-radius: 3px; }",
-        "#toc-list a:hover { background: #e8e8e8; color: #222; }",
-        "#toc-tab { writing-mode: vertical-rl; text-orientation: mixed; background: #555; color: #fff; padding: 1rem 0.13rem; cursor: pointer; font-size: 0.9rem; letter-spacing: 2px; border-radius: 0 4px 4px 0; user-select: none; align-self: flex-end; margin-bottom: 2rem; opacity: 0.2; transition: opacity 0.2s ease; }",
-        "#toc-tab:hover { background: #333; opacity: 0.7; }",
+        "#toc-list a { color: var(--text-toc-link); text-decoration: none; display: block; padding: 0.2rem 0.4rem; border-radius: 3px; }",
+        "#toc-list a:hover { background: var(--bg-toc-hover); color: var(--text-toc-hover); }",
+        "#toc-tab { writing-mode: vertical-rl; text-orientation: mixed; background: var(--bg-tab); color: var(--text-tab); padding: 1rem 0.13rem; cursor: pointer; font-size: 0.9rem; letter-spacing: 2px; border-radius: 0 4px 4px 0; user-select: none; align-self: flex-end; margin-bottom: 2rem; opacity: 0.2; transition: opacity 0.2s ease, background-color 0.3s ease; }",
+        "#toc-tab:hover { background: var(--bg-tab-hover); opacity: 0.7; }",
         "</style>",
+        "<script>(function(){var s=localStorage.getItem('theme');if(s)document.documentElement.setAttribute('data-theme',s);else if(window.matchMedia('(prefers-color-scheme:dark)').matches)document.documentElement.setAttribute('data-theme','dark')})()</script>",
         "</head>",
         "<body>"
     ]
@@ -315,6 +322,7 @@ def render_html(document: AlignedDocument, repo_root: Path) -> str:
 
     html.append(f'''<div id="toc-sidebar">
   <div id="toc-content">
+    <div id="theme-toggle" onclick="toggleTheme()" title="Switch to dark mode">☾</div>
     <div class="toc-title">Table of Contents</div>
     <ul id="toc-list">
       {"".join(toc_items)}
@@ -331,7 +339,23 @@ function toggleToc() {
   var tab = document.getElementById('toc-tab');
   tab.textContent = sidebar.classList.contains('open') ? '≪' : '≫';
 }
+function toggleTheme() {
+  var html = document.documentElement;
+  var isDark = html.getAttribute('data-theme') === 'dark';
+  var newTheme = isDark ? 'light' : 'dark';
+  html.setAttribute('data-theme', newTheme);
+  localStorage.setItem('theme', newTheme);
+  updateToggleIcon();
+}
+function updateToggleIcon() {
+  var toggle = document.getElementById('theme-toggle');
+  if (!toggle) return;
+  var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  toggle.textContent = isDark ? '☀' : '☾';
+  toggle.title = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+}
 document.addEventListener('DOMContentLoaded', function() {
+  updateToggleIcon();
   var links = document.querySelectorAll('#toc-list a');
   links.forEach(function(link) {
     link.addEventListener('click', function(e) {
