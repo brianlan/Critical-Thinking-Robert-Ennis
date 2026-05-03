@@ -10,3 +10,4 @@ per-page-images/
 __pycache__/
 .playwright-mcp
 FullText-en-zh-sense
+FullText-en-zh-optimized
