@@ -235,7 +235,7 @@ All of these questions can be asked more informally. I leave it to you to add th
 7. By . . ., do you mean. . .?
 8. Do you know what . . . means?
 
-**Questions Seeking the Import or Significance of the Conclusion**
+#### Questions Seeking the Import or Significance of the Conclusion
 1. Could you tell me roughly how your conclusion (or thesis, or view) might apply in this situation: [describe a situation of interest to which there is possible application]?
 2. Could you comment on the significance of your view for this situation?
 3. Suppose you are right in what you say; what should I [or someone else] do differently?
