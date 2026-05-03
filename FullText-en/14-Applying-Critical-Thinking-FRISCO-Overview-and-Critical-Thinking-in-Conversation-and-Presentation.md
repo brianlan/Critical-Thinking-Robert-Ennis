@@ -306,6 +306,7 @@ Because you now probably have the idea about the range from less-threatening to 
 Often the credibility of a source is suspect. A challenge to the credibility of this source is then appropriate, and should probably refer to one or more of the criteria for credibility listed in Chapter 3.
 
 > Sample Challenge: "That source has a conflict of interest, because. . . ."
+
 > Another: "Why should we take that person's word?"
 
 ### False or Dubious Assumption
@@ -324,6 +325,7 @@ An example of the identification of an unneeded assumption was a juror's claimin
 Sometimes an argument does not make any progress because it starts by explicitly assuming what it tries ultimately to prove. Usually, because of verbosity, this is less obvious than in the following example: "Our industry remains volatile. Therefore it is subject to change."
 
 > Sample Challenge: "Your argument seems circular."
+
 > Another: You seem to begin your argument by assuming your conclusion, though in different words.
 
 ### Changing the Subject
@@ -331,6 +333,7 @@ Sometimes an argument does not make any progress because it starts by explicitly
 Often, in discussion, one person argues for something that is unrelated to the question at hand. Sometimes the shift is subtle, as occurred in the argument regarding selfishness (Item 14:14). Sometimes the shift is not subtle, as when the other person attacks you personally for your ignorance (or bad memory) about something that is not part of the issue. In the language of logical fallacies, such a personal attack is sometimes called *argumentum ad hominem*. I mention this label because having heard of the label might help you avoid being intimidated by someone's using it. I do not recommend that you use it. I prefer the equivalent label *personal attack argument*. I used that label in Chapter 3, when I noted that some personal attack arguments (*ad hominem* arguments) are relevant. In any case, it is often easy to be distracted by changes in the subject, whether they are subtle or not.
 
 > Sample Challenge: "Have you changed the subject? I thought that we were talking about. . . ."
+
 > Another: "What does that personal attack have to do with the issue we are discussing?"
 
 These challenges are much easier to see when you are not involved in a heated discussion and when you are not the butt of the personal attack, so you need to keep them in the back of your mind at all times.
@@ -341,8 +344,7 @@ There are a variety of ways that the reasons and evidence offered can be insuffi
 
 *Other plausible explanations*. Sometimes a hypothesis does explain the evidence, but the evidence is not sufficient to rule out alternative hypotheses. See Chapters 8 and 9. To assert the hypothesis that one thing caused another, simply on the ground that the first preceded the second, has a special fallacy label: *post hoc reasoning*. Again I do not recommend that you use this label, but that you be familiar enough with it to avoid being intimidated when someone else uses it.
 
-> Sample Challenge: "Here's another plausible explanation of that evidence: . . ."
-> [Challenger offers the other plausible explanation.]
+> Sample Challenge: "Here's another plausible explanation of that evidence: . . ." [Challenger offers the other plausible explanation.]
 
 *An undefended positional definition*. Sometimes an undefended proposed definition embodies a position, and has value consequences, if it is accepted. (For example, "I define freedom as the power to do the right thing.") Such a definition needs defense. See Chapter 13.
 
@@ -356,6 +358,7 @@ There are a variety of ways that the reasons and evidence offered can be insuffi
 
 
 > Sample Challenge: "But there are exceptions to that rule (or generalization). Here's one: . . ." [Challenger describes an exception.]
+
 > Another: "There are other alternatives. It's not just either this or that. It might be both, or it might be this other possibility: . . ." [Challenger offers another alternative.]
 
 ### Emotional language without sufficient substance
@@ -364,6 +367,7 @@ People often appeal to slogans or use words (including *glittering generalities*
 
 
 > Sample Challenge: "These are high-sounding phrases (or bad names), but now tell us your reasons."
+
 > Another: "That's good rhetoric. Now let's get down to substance."
 
 ### Faulty analogy
@@ -385,6 +389,7 @@ Our point of view, as jurors in judging Arlene guilty of voluntary manslaughter,
 Sometimes, we feel bewildered by the claim that a conclusion follows from the reason(s) or evidence because we cannot see how anyone could have thought it did, or we just do not understand the alleged connection. In that case, a general challenge is appropriate.
 
 > Sample Challenge: "I do not see the connection between the reason(s) and your conclusion."
+
 > Another: "Could you explain how this is relevant to your conclusion?"
 
 (There is a special term used for a general-type failure of a conclusion to follow from its support: *non sequitur*. I mention this term so that you will not be intimidated by its use, though again I do not recommend that you use it. To say that something is a *non sequitur* is to say only that the conclusion does not follow. I was disappointed when I learned that this impressive phrase meant only that. I had expected the term to have a more specific meaning. How about you? Anyway, now you know.)
@@ -396,6 +401,7 @@ That completes this suggested set of ways that the sufficiency of the evidence o
 Sometimes an argument can look good, but not be so because it depends on the shifting of meaning of a key term during the course of the argument (see Chapter 13).
 
 > Sample Challenge: "Have you changed the meaning of [state term] in drawing your conclusion?"
+
 > Another: "No matter which interpretation of [state term] we use, your argument is defective. Look. On this meaning, there is a problem here. On that meaning, there is a problem there. There do not seem to be any other plausible interpretations."
 
 ### Fallacy Labels
