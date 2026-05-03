@@ -9,15 +9,21 @@ Critical thinking is also important to the survival of a democratic way of life.
 ## Critical Thinking Dispositions and Abilities
 
 Most of the discussion in this book is about how to think critically. This includes observing, making judgments, planning experiments, and developing ideas and alternatives. But underlying the development of the abilities to do these things are certain important critical thinking dispositions, which are combinations of attitudes and inclinations. You might also call them *virtues*. One is the disposition to care about "getting it right" or, more broadly, to care about coming up with the best, most unbiased answer that you feasibly can in the circumstances. Even if you develop all sorts of high-powered skills and abilities, if you do not care about this, then your prowess will probably be wasted.
+
 Another is the disposition to care to be honest and clear about what is written, thought, and said. If you do not care about getting things clear, then your thinking might well be unfocused and confused, leading nowhere.
+
 A third is the disposition to care about the worth and dignity of every person. If you do not have this care, then you might well be a dangerous person, even if you might otherwise be a good critical thinker.
+
 I mention these three basic dispositions because it is so easy to neglect them. They are elaborated in Chapters 1 and 14. I hope that you agree on their importance.
+
 Although everybody is already at least somewhat proficient at critical thinking, the material here should help you to improve your abilities, to be reflective about them, and to develop your critical thinking dispositions. When facing a real situation, you must combine these abilities and dispositions, although they are often discussed separately in this book. There will be a number of opportunities to practice. But you must bear a major responsibility for the actual combining of these interdependent aspects of critical thinking in real situations, taking everything into account—no easy task. Nobody can do it for you, although your instructor and I can help.
 
 ## A Brief Summary
 
 After an introductory chapter, which sets the scene, this book deals with argument analysis, credibility of sources, observation, deduction, assumption identification, induction, value judging, definition, verbal clarity and consistency, fallacies, discussion, and presentation of your views orally and in writing. There is much emphasis on writing, as well as deciding what to believe or do.
+
 The sections dealing with *either-or* reasoning, types of assumptions, causation, relativism, and equivocation (the latter parts of Chapters 6, 7, 9, 11, and 13) are somewhat more difficult than the other materials. They are marked with a plus sign (+). If time is short, these parts might be omitted, although depth of treatment of critical thinking abilities and principles will consequently be reduced.
+
 At the end of the book, there is a glossary of key terms in critical thinking. Many of these terms are used in different and often technical senses in other fields, and some terms, such as *argument* are used in a limited sense in the field of critical thinking. If in doubt, check the glossary and the part of the text in which the term is discussed. The extensive index provides leads for investigating a concept.
 
 ## Using This Book
@@ -25,11 +31,13 @@ At the end of the book, there is a glossary of key terms in critical thinking. M
 ### Practice
 
 It is important to apply what you learn in a variety of situations, and to do it often. Real situations are often preferable to hypothetical ones because real situations seem more important to people and because they introduce the complexities that hypothetical situations tend to hide. However, practice in hypothetical situations is also helpful because it can give insight into particular aspects of critical thinking and allow you to focus on one thing to facilitate understanding and competence. In any case, much practice is required.
+
 Both kinds of practice (with real and hypothetical examples) can be found in doing the Check-Up items throughout the book. Do a large number of these items, the more the better, because the application to particular cases does not, for most people, flow automatically from the reading. You improve with practice.
 
 ### Another Project, Writing a Position Paper
 
 I strongly recommend that you also try to apply the principles and insights in this book to another project, as you are reading and coming to understand this book. This other project could be any significant activity in your daily life in which you have to decide what to do or believe, and need to set forth reasons for your decision. One good activity when this book is used as a text for a course in critical thinking is to write a position paper on an issue of interest to you. (A *position paper* is one in which you take a position and defend it.) After writing a draft, you should revise it, revise it again, and revise it some more—in the light of comments from a friend or associate, and from your instructor.
+
 This paper should include a statement of your thesis, reasons in support of your thesis, the definitions of key terms where needed, subheadings, and a summary. It should pay due attention to the credibility of sources, reliability of observations, the strength of your inferences, counterarguments to your thesis, and word meanings. It should be documented where appropriate, and should be based on as good a grasp of the relevant facts, principles, and insights as you can muster. More details follow in Chapter 1 and periodically throughout the book.
 
 ### Order of Study
