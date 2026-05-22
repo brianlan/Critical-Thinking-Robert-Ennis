@@ -49,7 +49,7 @@ def optimize_row(row: AlignedRow) -> AlignedRow:
     model = next(TRANSLATOR_MODEL_POOL)
     prompt = f"英文原文：{row.english_block.source_text} 现有翻译：{row.chinese_block.source_text}"
     result = subprocess.run(
-        ["opencode", "run", "-m", model, "--agent", "snippet-translation-coordinator", prompt],
+        ["opencode", "run", "--pure", "-m", model, "--agent", "snippet-translation-coordinator", prompt],
         capture_output=True,
         text=True,
     )
