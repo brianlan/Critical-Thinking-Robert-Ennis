@@ -16,10 +16,10 @@ from scripts.bilingual_export.align import build_aligned_document, parse_markdow
 
 TRANSLATOR_MODEL_POOL = itertools.cycle([
     "zhipuai-coding-plan/glm-5-turbo",
-    "minimax-cn-coding-plan/MiniMax-M2.7",
-    "tencent-coding-plan/kimi-k2.5",
-    "ark-coding-plan/doubao-seed-2.0-lite",
+    # "ark-coding-plan/doubao-seed-2.0-lite",
+    "xiaomi-token-plan-cn/mimo-v2.5",
     "deepseek/deepseek-v4-flash",
+    "opencode/deepseek-v4-flash-free"
 ])
 
 
