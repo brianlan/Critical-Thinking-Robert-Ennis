@@ -114,10 +114,15 @@ Because I have so often seen such terms used to introduce statements that are no
 The word *although* is an important word in arguments. Note that the prosecutor used it in the last paragraph when he said, "although she loved him." Usually, the word *although* indicates something that is neither a reason nor a conclusion. It usually introduces something that contrasts with what the person is trying to show. Other language that does the same thing is the phrase *despite the fact that*.
 
 It is often good persuasive strategy to admit something that you realize is clearly true and that might be used in an argument against you. When you admit such a thing, you reduce the dramatic element that someone arguing in the other direction might try to use against you. You also make clear that you have considered the bearing of this fact on your case and have decided that it is not enough to make you change your mind. If you had not considered it, you might be faulted for having overlooked something important. Contrast words provide a good way to introduce such an admission.
+
 For example, when the prosecutor conceded, “although she loved him,” he showed that he was aware that Arlene’s loving Al could be used to argue that she would not kill him. He showed that he had considered this argument and decided that it was not strong enough to counteract the powerful argument he offered for his case. He conceded what he had to concede, and showed the jury that someone offering the argument (the prosecutor himself) had given consideration to this possibly damaging fact.
+
 Starting a paragraph or a presentation with *although* also has the value of helping to make your presentation more interesting. It sets up a paradox, or a conflict that the listener will often want resolved. Consider this strong beginning of another speech given by the prosecutor (made at the beginning of the trial, not the end):
+
 Members of the jury, although Arlene loved Al Hamilton, she murdered him. In fact, she murdered him because she loved him.
+
 Note the contrast and concession at the beginning of Paragraph 4: “You might think that Arlene is not strong enough to stab someone that seriously, but remember that the knife stroke was not a powerful one.” The phrasing “You might think that . . . , but . . . ” often suggests that the opposite (or the denial) of what you might think is really the conclusion. In Paragraph 4, this is so. That is, “Arlene is strong enough to stab someone that seriously” is the conclusion of Paragraph 4. (I will consider this example in greater detail later on.)
+
 There are a variety of other devices that indicate something important that a speaker wants to get across without necessarily indicating a conclusion. Trying to list them all is unnecessary because you probably have the idea by now. To check this, I ask you to think about whether the words *but* and *however* are conclusion indicators. Always? Sometimes? Never? Can you give some examples to support your answer?
 
 ### The "Therefore" Test
@@ -141,6 +146,7 @@ Now do it the other way:
 The streets are slippery. Therefore, Lynn should not ride her bike.
 
 Example 2:3 makes the most sense to me in the situation as I imagine it, so I pick as the conclusion, “Lynn should not ride her bike.”
+
 However, the “therefore” test does not always give the answer. Consider this example, offered by the defense attorney:
 
 **Example 2:4**
@@ -158,6 +164,7 @@ The knife stroke was delivered with only moderate force. Therefore, she did not 
 She did not intend to kill him. Therefore, the knife stroke was delivered with only moderate force.
 
 Both results make sense to me before we take the *Situation* (the *S* in *FRISCO*) into account. Consider the situation: Who said the sentences in Example 2:4 and what was his role in the trial? Assuming that the selection is intended to be an argument, it makes more sense for the defense attorney to have 2:5 in mind because it argues for a conclusion that he wanted us to accept. Considering the situation in which the argument arises helps us then to decide which is the conclusion.
+
 Even though the “therefore” test does not always give the answer by itself, it is a useful device. It often clearly reveals the conclusion, and usually is at least of some help. Because it is the writer’s intended conclusion that we are trying to determine in this chapter, we often cannot be sure that we have determined it. Sometimes writers themselves are not sure what they are trying to prove, and often what they say can legitimately be interpreted in different ways. For some examples, look at the letters to the editor in your local newspaper. However, despite this difficulty, the “therefore” test is often very helpful.
 
 ## Check-Up 2B
@@ -193,6 +200,7 @@ For each of the following arguments, (a) underline the conclusion twice and (b) 
 ## Propositions with Two or More Parts
 
 A proposition is a complete thought that can be asserted separately and meaningfully by itself. *Jane’s baseball glove is missing* is a proposition in this sense. So is *She went to the park today*.
+
 Although reasons and conclusions are not always simple separate propositions, they are simple and separate in the following argument:
 
 **Example 2:7**
@@ -246,8 +254,11 @@ Here is the reason for this second criterion. People offering arguments try to m
 Consider again the proposition “Arlene is strong enough to stab someone that seriously.” Although it does not necessarily follow from the rest, it follows in the sense that the rest of the paragraph is enough to establish the conclusion.
 
 Suppose that we are considering the proposition “The pathologist testified to this” as a possible alternative conclusion. This proposition does not seem to follow from or be supported by the rest of the paragraph. So we do not pick “The pathologist testified to this” as the conclusion, even though it comes at the end of the paragraph. Note that the “therefore” test gives the same result.
+
 Remember that this criterion does not say that the conclusion must actually receive support from the rest of the passage. It says only that if a proposition is not supported by other things in the passage, then it might well not be the conclusion. Here is a case in which a proposition is a conclusion, although it receives little or no legitimate support from the reason that is offered:
+
 “Because the Prime Minister uses Shino Toothpaste, you should use it.”
+
 The conclusion, “You should use it,” is not well-supported, but that does not show that it is not the conclusion. The author of the statement *intended* it to be the conclusion.
 
 Here is the third criterion:
@@ -255,21 +266,31 @@ Here is the third criterion:
 3. Generally a conclusion of a passage should use most or all of the passage for its support. If two propositions are supported in a passage, then the one using the greater amount of the passage is probably the conclusion.
 
 Can you see the basis for this criterion? I assume that arguers generally have a reason for what they do. If there is a sentence in an argument that does not contribute to the conclusion, then we wonder why that sentence is there. If we pick as the conclusion something that makes that sentence part of the argument, then we no longer have to explain away the presence of that sentence.
+
 Note that this criterion assumes that people do not include irrelevant material in their arguments. This assumption is sometimes wrong, so this criterion is also a rough one, requiring you to use your judgment.
+
 Suppose that the two candidates for the conclusion of Paragraph 4 are:
 **A. Arlene is strong enough to stab someone that seriously.**
 **B. The knife stroke was not a powerful one.**
+
 Each of these follows from other things said in the paragraph. However, we choose A as the conclusion of the paragraph because it uses for its support all of the support that B uses (the last two sentences) and B itself. A uses more of the paragraph for its support than B, so A is the conclusion.
+
 Let us apply these three criteria to another example. Assuming that the following is an argument, what is its conclusion? Why?
+
 Defense Attorney: “She did not mean to kill him. She loved him.”
+
 Let us call the first sentence C and the second sentence D:
 **C. She did not mean to kill him.**
 **D. She loved him.**
+
 Which is the conclusion? C satisfies the first criterion better than D. It would contribute to the defense attorney’s goals more directly than D. If C is accepted by the jury, that helps to get Arlene acquitted. If D is accepted by the jury, that only helps to get C accepted.
 
 Applying the second criterion, each could be used to support the other, but D supports C better than C supports D in this situation. So, by the second criterion, C comes out ahead, though not overwhelmingly. C is better supported in the passage. (Can you think of a situation in which Criterion 2 would support the choice of D?)
+
 On the third criterion, they come out equal. Each could use the other for its support, so each has one other idea in the passage to support it. Each could use all of the rest (in this case “the rest” is only one sentence) for its support.
+
 Putting the results together, we should choose C as the conclusion, given the trial situation. Note the important role played by the situation (the *S* in *FRISCO*) in deciding what the conclusion is.
+
 Apply these criteria to another example, which is part of Item 2:37 in Check-Up 2B:
 
 Jones can never be elected to the presidency. She has a questionable background and has a habit of irritating people with her penetrating questions. This is obvious to me, although I realize that she would make an excellent president.
@@ -280,8 +301,11 @@ What is the conclusion? Even if you know already, please work through it with me
 **F. She has a questionable background and has a habit of irritating people with her penetrating questions.**
 
 Which one is the conclusion, if either? The fact that E comes at the beginning counts in favor of its being the conclusion, but that does not settle the matter. Let us apply the three criteria. Because we do not know the situation or the author, we cannot be sure what would contribute to the goals of the author, but E is more likely to contribute directly to someone’s goals than F, so E is slightly favored.
+
 The most important consideration here is the second criterion. It calls for us to decide which supports which. Could E plausibly be used to support F? Could F plausibly be used to support E? The answers are probably “No” and “Yes,” respectively. E more plausibly follows from the other part than does F. Hence, the selection of E is strongly supported.
+
 Next, let us attempt to apply the third criterion. Because only one part of the argument (E) is supported by the rest, it uses more of the rest for its support than any other part, so E is again preferred.
+
 All the signs point to E’s being the conclusion, and the second criterion points to it very strongly. There is no reason to think that the conclusion has been left unstated. So we should choose E.
 
 ### Unstated Conclusions
@@ -309,6 +333,7 @@ A practical test to distinguish arguments from causal explanations goes as follo
 In a way, of course, the whole explanation was part of an argument offered in support of the conclusion that she is guilty. If the prosecutor could not have produced an explanatory motive (a cause or partial cause), then it would have been harder for the jury to believe that she did the deed. In Chapters 8 and 9, we shall look more deeply at the role of explanation in arguments.
 
 The main point for now is that sometimes passages that look like arguments for a particular conclusion are not that at all. Rather, they are attempts to account for a consequence. In such a situation, the goal is not to prove a proposition that might look like a conclusion. Rather, the truth of that proposition (for example, “She killed him”) is taken for granted and the passage tries to account for it (that is, to explain why the event happened).
+
 If you try to apply FRISCO to an explanation and treat the consequence as the conclusion, you will run into trouble. This is because FRISCO is aimed at deciding whether to accept the conclusion. Generally, in the account-for type of explanation, the proposition that looks like a conclusion is already assumed to be true, so the decision about that proposition is already made.
 
 ## Summary So Far
@@ -399,6 +424,7 @@ For each of the following arguments (included with permission of the *New York T
 But most public perception about those things, including education, tends to lag behind reality. It ignores the indicators that for more than a year have been showing an encouraging upward trend in school performance. Reading scores in New York and a number of other cities have taken a decided turn for the better. New Jersey recently reported improvements throughout its entire system.
 Nationally, last year's SAT scores have held steady for the first time after almost two decades of decline. But it is fair to suggest that a new emphasis on good teaching and diligent study has had some effect. So, perhaps, has the shelving of pedagogical theory that accorded value to anything students found relevant, or fun.
 The nation's schools still have a long way to go to deserve unqualified cheers. But they are starting to succeed again. What a terrible time for people to perceive public education as a lost cause and withdraw adequate support.
+
 **2:68 DISQUALIFIED:** Donald Lan is the Secretary of State of New Jersey, which means that he must review the returns of Tuesday's still-undecided election for governor. Mr. Lan was in a curious position, since he was not only an early contender in the Democratic gubernatorial primary, but later became deputy campaign manager for the Democratic candidate, James Florio.
 Mr. Florio and the Republican contender, Tom Kean, agree that every effort should be taken to ensure the legitimacy of the ultimate result. That means Mr. Lan ought to step aside. We do not question his honesty, only the appearances. With a near-dead heat for the top office of the state, the appearances of having a partisan certify the results are dead wrong.
 
@@ -422,7 +448,6 @@ If two or more reasons are offered in support of a conclusion, they all appear b
 
 Paragraph 3: (A) `<The pathologist who examined the body said that there was only one knife wound>` and (B) `<that was in Al’s chest>`. (C) `<The pathologist also said that this one knife wound was the cause of death>`. (D) `<Arlene’s knife stroke must have caused his death>`.
 
-
 ![Diagram of Paragraph 3](images/chapter-02/page_059/page_059_diagram_2_loc_628_950_892_1163.png)
 In drawing this diagram, I omitted a refinement that I shall soon discuss. If one thing supports another, which in turn supports a third, then they make a chain, as in the following argument:
 
@@ -433,7 +458,6 @@ In drawing this diagram, I omitted a refinement that I shall soon discuss. If on
 Here is a more complicated one. Check to make sure that you see why each part of the diagram is the way it is.
 
 Paragraph 2: (A) `<The most important fact is that on the witness stand she admitted stabbing him>`. (B) `<She said that she picked up the knife and stabbed him in the chest with it>`. Obviously (C) `<she would not have admitted it if she had not done it>`. Hence, (D) `<she did stab him>`.
-
 
 ![Diagram of Paragraph 2](images/chapter-02/page_060/page_060_diagram_1_loc_632_270_804_569.png)
 Note that in judging that B was offered in support of A, I neglected the first six words in A. Do you think I was justified in doing so? I again omitted the refinement that I shall soon discuss.
