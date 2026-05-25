@@ -1,15 +1,19 @@
 # CHAPTER 2 Argument Analysis: Identifying Conclusions and Reasons
 
 Before you can be confident in your judgment about an argument, you must know what the argument is. The first thing to do is to determine the focus (the *F* in *FRISCO*). In an argument, the focus is the conclusion—the thing that the arguer is trying to get us to accept. So the first thing to do is to identify the conclusion.
+
 Generally, the second thing to do is to identify the reasons (the “R”) offered in support of the conclusion. In preparation for judging the inference (the “*I*”), it is also usually helpful to make a deliberate effort to see how the conclusion and the reasons fit together. These activities of argument analysis are not always as easy as they seem, and they are the concerns of this chapter. In later chapters, we will look at deciding whether to accept reasons and inferences. Here our concern is just to figure out what are the reasons and conclusions and to figure out their relationships to each other.
 
 ## The Murder Trial
 
 The murder trial I mentioned earlier will be the source of a number of my examples, so I shall give some more background about it. I have changed some features in order to protect privacy and have unavoidably omitted a number of details of the situation.
+
 Arlene Burr was on trial for the murder of her boyfriend, Al Hamilton. Arlene, 22, was living with her parents that cold night in January when it happened. Arlene and Al had been out in his car, and returned at about 11 P.M. According to the prosecutor, Arlene was jealous because Al was going with another woman, and she lured him into the dining room and stabbed him in the heart. He died within five minutes of the stabbing. There were no witnesses to the stabbing, although there were people in nearby rooms.
+
 Although he agreed that there were no witnesses, the defense attorney had a different account. He claimed that Al Hamilton chased Arlene into the dining room after threatening to kill her, and she simply tried to defend herself with a carving knife that happened to be lying on the table.
 
 Arlene was charged not only with murder, but also with the lesser charge of voluntary manslaughter. The prosecutor thought that if he could not get a murder conviction, he could at least get a conviction for voluntary manslaughter. The jury had to decide about each charge. We were told that if she was guilty of murder, then she was also guilty of voluntary manslaughter. We were also told that it was possible for her to be guilty of voluntary manslaughter without being guilty of murder. Later I will state what was involved in each charge. For now, I will only note that for each it was required that the State prove beyond a reasonable doubt that Arlene performed the act that caused the death of Al Hamilton. This was the first of several things to be proven to establish that it was murder. It was also the first of several things to be proven to establish voluntary manslaughter. A complete specification of the conditions for each charge appears in Chapter 6.
+
 At the end of the trial, the prosecuting and defense attorneys each had a chance to summarize their cases for the jury. As one might expect, one of the prosecutor’s conclusions in his summary argument was that Arlene performed the act that caused Al’s death. Here is a portion of his summary argument for this conclusion (with the paragraphs numbered for reference):
 
 1. Members of the jury, it is clear that Arlene performed the act that caused Al’s death. Let me remind you of some of the important facts that establish this conclusion.
@@ -27,7 +31,9 @@ The final conclusion in this part of the prosecutor’s summary speech is this p
 ### Criteria (or Cues) for Identifying Conclusions
 
 One excellent criterion for something’s being a conclusion is the author’s (or speaker’s) calling it a conclusion. In the prosecutor’s Paragraph 1, he did just this.
+
 In the first sentence of Paragraph 7, the prosecutor used two other clear conclusion indicators: “therefore” and “conclude.” The use of either of these indicator words is a very reliable criterion for identifying a conclusion. (He did not need two indicators here. Sometimes people use more than one for emphasis.)
+
 Here is a list of some words that we often use to indicate that a conclusion is coming next:
 
 | therefore | it follows that |
@@ -37,9 +43,13 @@ Here is a list of some words that we often use to indicate that a conclusion is 
 | so | we must conclude that |
 
 These indicators are not always present, but when they are present you should take advantage of them. They introduce something that the speaker or writer wants to conclude. Furthermore, you should use one of these or some other clear indicator when you want to be absolutely sure that your audience knows what your conclusion is.
+
 The word *because* (and sometimes the word *since*) is also a valuable indicator. It tells us that a reason comes next. This often means that the *other* part of the sentence is a conclusion. The last sentence of Paragraph 5 starts with the word *because*. This word introduces a reason: “they did not mention anyone else.” The other part of the sentence, “there obviously was no one else,” is a conclusion. Note, however, that it is not the main conclusion of the whole passage. It is only the conclusion of the fifth paragraph. The prosecutor’s argument then consists of one main conclusion, supported by a number of subconclusions, or intermediate conclusions.
+
 Often, the conclusion appears at either the beginning or the end of a paragraph or passage, and sometimes at both the beginning and the end. The prosecutor’s main conclusion appears at the beginning of the passage and at the end of the passage.
+
 Writers and speakers often put the conclusion at the beginning in order to get your attention and to enable you to see why they are saying the things they do. This is a good practice, especially when the topic and the reasoning are complex. On the other hand, sometimes people put the conclusion at the end to make it clear what they hope to have accomplished. It is often a good idea to do both—to put the conclusion at both the beginning and the end.
+
 However, placement is not a thoroughly reliable criterion. People sometimes put their conclusions in the middle, and sometimes they do not even state them explicitly at all, leaving it up to you to figure it out. But searching around at the beginning and at the end of a passage is helpful. The conclusion is often in one place or the other (or both).
 
 ### Conclusion-Suggesting Emphasis Terms: Must, Should, Etc.
