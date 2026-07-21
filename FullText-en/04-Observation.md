@@ -1,4 +1,3 @@
-
 # CHAPTER 4 Observation
 
 Have you ever been sure that you saw or heard something, and then learned that someone else saw or heard something different? This happens to me. For example, when I am playing tennis with one particular person, I sometimes see the ball land on the line and he says it landed outside of the line.
@@ -344,6 +343,7 @@ Reminder: In some cases different answers are as good as the ones given. If one 
 4:24 This is up to you. I will be asking you about this one again.
 
 ### Check-Up 4C
+
 4:25 F. Skill in observing is often required even when technology is not involved.
 4:26 F. Many reliable observations do not require special technology.
 4:27 F. There are no precise score cutoff points for reliability of observation statements.

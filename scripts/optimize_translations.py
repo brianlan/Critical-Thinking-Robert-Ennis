@@ -26,8 +26,9 @@ TRANSLATOR_MODEL_POOL = itertools.cycle(
     [
         "zhipuai-coding-plan/glm-5-turbo",
         "ark-coding-plan/doubao-seed-2.0-lite",
-        "xiaomi/mimo-v2-flash",
-        "deepseek/deepseek-v4-flash",
+        "ollama-cloud/deepseek-v4-flash",
+        "tencent-coding-plan/kimi-k2.5",
+        "opencode-go/deepseek-v4-flash",
         "opencode/deepseek-v4-flash-free",
     ]
 )
