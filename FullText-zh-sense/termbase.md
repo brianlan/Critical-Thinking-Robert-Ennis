@@ -108,3 +108,6 @@
 | Medium Answer | 中等篇幅作答 | |
 | Long Answer | 长篇作答 | |
 | Identification | 辨析题 | |
+| **Misc.** | | |
+| Arlene | 阿琳 | |
+| cross-examination | 交叉询问 | |
