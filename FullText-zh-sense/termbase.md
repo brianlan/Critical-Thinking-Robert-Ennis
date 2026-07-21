@@ -110,4 +110,5 @@
 | Identification | 辨析题 | |
 | **Misc.** | | |
 | Arlene | 阿琳 | |
+| Al | 艾尔 | |
 | cross-examination | 交叉询问 | |
